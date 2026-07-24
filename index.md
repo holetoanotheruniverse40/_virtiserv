@@ -15,14 +15,18 @@ layout: default
 
 [<video autoplay loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
 
-```html
+
 [<video autoplay loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
-```
+
 
 <img  alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04963_opgs_edr_ncam_NLB_838089894EDR_F1232544NCAM00354M_ @NASA-PDS @NASA-GISS @LA-COUNTY-ISD " src="https://github.com/user-attachments/assets/febe7f15-6aca-4823-a3e2-3f38b3f8ffcf" />
 
-<img  alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04963_opgs_edr_ncam_NLB_838089926EDR_F1232544NCAM00354M_" src="https://github.com/user-attachments/assets/735e9368-d380-406e-9955-ea4479376dd5" />
 
+[<video autoplay loading="eager" controls src="https://ia600506.us.archive.org/11/items/lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963a.mp4" />](https://ia600506.us.archive.org/11/items/lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963a.mp4)
+
+<img  alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04963_opgs_edr_ncam_NLB_838089926EDR_F1232544NCAM00354M_ @TESLA " src="https://github.com/user-attachments/assets/735e9368-d380-406e-9955-ea4479376dd5" />
+
+[<video autoplay loading="eager" controls src="https://ia600506.us.archive.org/11/items/lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963b.mp4" />](https://ia600506.us.archive.org/11/items/lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963b.mp4)
 
 @tesla _BLOCKQUOTES_
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">back to black 🖤 <a href="https://t.co/jlq7nD1tHT">pic.twitter.com/jlq7nD1tHT</a></p>&mdash; Normani (@Normani) <a href="https://x.com/Normani/status/1718351383571939787?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
