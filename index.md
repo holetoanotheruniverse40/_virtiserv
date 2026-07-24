@@ -46,7 +46,7 @@ layout: default
 
 
 
-@nasa-jpl did we make someone look bad, i knew latrice was performing or something @blackgirlscode i was just showing you how you can use pages as a incar media player @tesla the youtube wont display in longbeach, lets paste it back in and leave the source comment up @nasa-pds @howard--university-web-services it was the video for the new @SpaceExplorationTechnologies trip to the iss @TheSpaceDevs 
+@nasa-jpl did we didnt! make someone look bad, i knew latrice was performing or something @blackgirlscode i was just showing you how you can use pages as a incar media player @tesla the youtube wont display in longbeach, lets paste it back in and leave the source comment up @nasa-pds @howard--university-web-services it was the video for the new @SpaceExplorationTechnologies trip to the iss @TheSpaceDevs 
 
 ```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
