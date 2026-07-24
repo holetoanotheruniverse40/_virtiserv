@@ -10,10 +10,16 @@ layout: default
 {% endhighlight %}
 
 
+@tesla _BLOCKQUOTES_
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">back to black 🖤 <a href="https://t.co/jlq7nD1tHT">pic.twitter.com/jlq7nD1tHT</a></p>&mdash; Normani (@Normani) <a href="https://x.com/Normani/status/1718351383571939787?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+```html
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">back to black 🖤 <a href="https://t.co/jlq7nD1tHT">pic.twitter.com/jlq7nD1tHT</a></p>&mdash; Normani (@Normani) <a href="https://x.com/Normani/status/1718351383571939787?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+```
 
 @CityOfLosAngeles @NAsa-JPL @NASA-PDS @Whitehouse @Blackgirlscode 
 
-[<video autoplay loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" >](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
+[<video autoplay loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A771495709&color=%23078fff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/aint-equal" title="Ain&#x27;t Equal" target="_blank" style="color: #cccccc; text-decoration: none;">Ain&#x27;t Equal</a></div>
