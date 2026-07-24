@@ -11,9 +11,6 @@ layout: default
 
 
 
-@CityOfLosAngeles @NAsa-JPL @NASA-PDS @Whitehouse @Blackgirlscode 
-
-[<video autoplay loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
 
 
 [<video autoplay loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
@@ -36,6 +33,11 @@ layout: default
 ```
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/hashtag/relationshiptips?src=hash&amp;ref_src=twsrc%5Etfw">#relationshiptips</a> <a href="https://x.com/CareshaPlease?ref_src=twsrc%5Etfw">@CareshaPlease</a> i want all of you, thats natural, but Vanessa Walker is intimate and im ready to touch if she is interested <a href="https://x.com/hashtag/blacktwitter?src=hash&amp;ref_src=twsrc%5Etfw">#blacktwitter</a> <a href="https://x.com/hashtag/777radio?src=hash&amp;ref_src=twsrc%5Etfw">#777radio</a> <a href="https://t.co/8qa26994gi">pic.twitter.com/8qa26994gi</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://x.com/BubbleGumPop510/status/1723491903117922417?ref_src=twsrc%5Etfw">November 12, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+@CityOfLosAngeles @NAsa-JPL @NASA-PDS @Whitehouse @Blackgirlscode 
+
+[<video autoplay loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> watch and define <a href="https://x.com/hashtag/Eugenics?src=hash&amp;ref_src=twsrc%5Etfw">#Eugenics</a><a href="https://x.com/hashtag/Akire?src=hash&amp;ref_src=twsrc%5Etfw">#Akire</a> how r u its <a href="https://x.com/hashtag/Rashard?src=hash&amp;ref_src=twsrc%5Etfw">#Rashard</a>, she is <a href="https://x.com/hashtag/NAtiveIslamic?src=hash&amp;ref_src=twsrc%5Etfw">#NAtiveIslamic</a> <a href="https://x.com/hashtag/ThisVideo?src=hash&amp;ref_src=twsrc%5Etfw">#ThisVideo</a> <a href="https://x.com/hashtag/PleaseAcceptHer?src=hash&amp;ref_src=twsrc%5Etfw">#PleaseAcceptHer</a> / <a href="https://x.com/hashtag/mambeeto?src=hash&amp;ref_src=twsrc%5Etfw">#mambeeto</a><a href="https://x.com/UN?ref_src=twsrc%5Etfw">@un</a><br> <a href="https://t.co/SSpQSNCSZS">https://t.co/SSpQSNCSZS</a>… its still<a href="https://x.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a>/<a href="https://x.com/MagicCity?ref_src=twsrc%5Etfw">@magiccity</a><a href="https://x.com/hashtag/littleEthiopia?src=hash&amp;ref_src=twsrc%5Etfw">#littleEthiopia</a><a href="https://x.com/SartuAdem?ref_src=twsrc%5Etfw">@sartuadem</a> <a href="https://x.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://x.com/Ethiomari?ref_src=twsrc%5Etfw">@Ethiomari</a> <a href="https://x.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> c also <a href="https://t.co/c5oQlnAyZP">https://t.co/c5oQlnAyZP</a> <a href="https://t.co/qvNuprEscR">pic.twitter.com/qvNuprEscR</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://x.com/BubbleGumPop510/status/1780388871572009322?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
