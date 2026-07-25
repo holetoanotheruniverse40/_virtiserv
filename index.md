@@ -24,6 +24,13 @@ layout: default
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mXnJqYwebF8?si=4Y46KGA2cgPgceNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dI3xkL7qUAc?si=_1WDzvNhYAFbBSB9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6uRkMzqGkq0?si=gKghs80hpiqPVSvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 [<video autoplay loading="eager" controls src="https://dn711101.ca.archive.org/0/items/longbeach_202605/LATRiCEFiTZPATRiCKorLANAHARRiS_thiswassenttomeKARENBASS_GAViNNEWSOM_ViA_FEED_injection_NASAJPL_DIOUGNEWMAN.mp4" />](https://dn711101.ca.archive.org/0/items/longbeach_202605/LATRiCEFiTZPATRiCKorLANAHARRiS_thiswassenttomeKARENBASS_GAViNNEWSOM_ViA_FEED_injection_NASAJPL_DIOUGNEWMAN.mp4.mp4)
