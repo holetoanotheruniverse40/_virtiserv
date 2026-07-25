@@ -24,6 +24,8 @@ layout: default
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
+
+
 [<video autoplay loading="eager" controls src="https://dn711101.ca.archive.org/0/items/longbeach_202605/LATRiCEFiTZPATRiCKorLANAHARRiS_thiswassenttomeKARENBASS_GAViNNEWSOM_ViA_FEED_injection_NASAJPL_DIOUGNEWMAN.mp4" />](https://dn711101.ca.archive.org/0/items/longbeach_202605/LATRiCEFiTZPATRiCKorLANAHARRiS_thiswassenttomeKARENBASS_GAViNNEWSOM_ViA_FEED_injection_NASAJPL_DIOUGNEWMAN.mp4.mp4)
 
 <img alt="IMG_20250714_084757_1" src="https://github.com/user-attachments/assets/026f8e8c-3e1c-48a1-a034-62b2aba771bb" />
@@ -34,7 +36,7 @@ layout: default
 <img  alt="image @nasa-pds @newshour @foxnews " src="https://github.com/user-attachments/assets/5c5fe82d-4be4-4910-a323-0fddcf31a1e5" />
 
 
-
+![firms.modaps.eosdis.nasa.gov/data/alert/Dfires_20260725061326_56988_jpss2-viirs-c2.png](https://firms.modaps.eosdis.nasa.gov/data/alert/Dfires_20260725061326_56988_jpss2-viirs-c2.png)
 
 <img  alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04963_opgs_edr_ncam_NLB_838089894EDR_F1232544NCAM00354M_ @NASA-PDS @NASA-GISS @LA-COUNTY-ISD " src="https://github.com/user-attachments/assets/febe7f15-6aca-4823-a3e2-3f38b3f8ffcf" />
 
