@@ -24,6 +24,9 @@ layout: default
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
+<img alt="IMG_20250714_084757_1" src="https://github.com/user-attachments/assets/026f8e8c-3e1c-48a1-a034-62b2aba771bb" />
+
+
 [www-robotics.jpl.nasa.gov/](https://www-robotics.jpl.nasa.gov/)
 [https://www.jpl.nasa.gov/virtual-tour/ @nasa-pds @newshour @foxnews](https://www.jpl.nasa.gov/virtual-tour/)
 <img  alt="image @nasa-pds @newshour @foxnews " src="https://github.com/user-attachments/assets/5c5fe82d-4be4-4910-a323-0fddcf31a1e5" />
