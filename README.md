@@ -1,4 +1,4 @@
-<img src="https://photos.fife.usercontent.google.com/pw/AP1GczM2m1LwqhaeYDHZDQIQ8Ala72A8xbH5EWAoM7zmPcQd7aT1nVBGvthT=w709-h945-s-no-gm?authuser=0"/>
+<img width="709" height="945" alt="IMG_20250714_084757_1" src="https://github.com/user-attachments/assets/c3550e48-6f1f-4936-ad8a-5e5eb94ea5d4" />
 
 # The Architect theme
 
