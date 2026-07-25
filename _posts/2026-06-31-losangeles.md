@@ -23,6 +23,15 @@ permalink: losangeles
 
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+ -   [https://www-robotics.jpl.nasa.gov/](https://www-robotics.jpl.nasa.gov/)
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/3df28158-295c-4bb6-b5bf-95009d4f7b5b" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f27a31b5-b6f8-4842-853d-13f9dca1483b" />
+
+<img  alt="Screenshot 2026-07-25 3 04 59 PM" src="https://github.com/user-attachments/assets/88ad9dad-7cce-48e9-9627-8bb578a95cb7" />
 
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822714213983305728" data-did="d6d04f23d44b51cc20f5ae70e8539d53d59f61f7"><a href="https://rashardmro.tumblr.com/post/822714213983305728/my-altadena-macbook-pro-jose-what-happened">https://rashardmro.tumblr.com/post/822714213983305728/my-altadena-macbook-pro-jose-what-happened</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
  
