@@ -1,3 +1,5 @@
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczM2m1LwqhaeYDHZDQIQ8Ala72A8xbH5EWAoM7zmPcQd7aT1nVBGvthT=w709-h945-s-no-gm?authuser=0"/>
+
 # The Architect theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/architect/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/architect/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)
