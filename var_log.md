@@ -2847,12 +2847,6 @@ Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxi
 
 ![PapiHas](https://ia600706.us.archive.org/18/items/canscann-29/canscann-03.png)
 
-
-
-{% include other.md %}
-
-
-
  
 
 [Slick Partna · Virgo](https://youtu.be/Jd_pmCI74NY)
@@ -2911,7 +2905,7 @@ The `<object>` HTML element represents an external resource, which can be treate
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vk-nE48ZyQM?si=RNDn8DhxVMKMAjfn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% include graffshit.md %}
+
 
 
 # The.Wizard.1989
@@ -3266,7 +3260,6 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 # EduCation
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02mLhZHJc98o6zKHGTSjMu2QTvqeyiq3uNr2DrjZWFVeCe57SnC4fvBfjWPBvfT2Hwl%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-{% include current.md %}# Post:Björk 
 
 # Post:Björk 
 
@@ -3280,7 +3273,7 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 # EduCation
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02mLhZHJc98o6zKHGTSjMu2QTvqeyiq3uNr2DrjZWFVeCe57SnC4fvBfjWPBvfT2Hwl%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-{% include current.md %}
+
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
