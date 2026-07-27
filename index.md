@@ -37,9 +37,12 @@ layout: default
 -   [![Twitter Follow](https://img.shields.io/badge/Social-@Drake__-blue?style=social&logo=X)](https://twitter.com/@Drake)
 -   [![Twitter Follow](https://img.shields.io/badge/Social-@PeteHegseth__-blue?style=social&logo=X)](https://twitter.com/@PeteHegseth)
 -   [![Twitter Follow](https://img.shields.io/badge/Social-@DeKalbSchools__-blue?style=social&logo=X)](https://twitter.com/@DeKalbSchools)
+-   [![Twitter Follow](https://img.shields.io/badge/Social-@ChloeBailey__-blue?style=social&logo=X)](https://twitter.com/@ChloeBailey)
 
 
    </div>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">’RESURRECTION’ the mixtape with <a href="https://x.com/Timbaland?ref_src=twsrc%5Etfw">@timbaland</a> out June 19th ⚡️ <br><br>Pre-Save now:<a href="https://t.co/b30pnw8lKJ">https://t.co/b30pnw8lKJ</a> <a href="https://t.co/snLrrXOQ2z">pic.twitter.com/snLrrXOQ2z</a></p>&mdash; Chlöe (@ChloeBailey) <a href="https://x.com/ChloeBailey/status/2064060980342976826?ref_src=twsrc%5Etfw">June 8, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yeeeeeea. Not a good day to be a <a href="https://x.com/hashtag/cavs?src=hash&amp;ref_src=twsrc%5Etfw">#cavs</a> fan. <a href="https://x.com/hashtag/CavsVsWarriors?src=hash&amp;ref_src=twsrc%5Etfw">#CavsVsWarriors</a></p>&mdash; Lana Harris (@_LanaHarris) <a href="https://x.com/_LanaHarris/status/739645817175351301?ref_src=twsrc%5Etfw">June 6, 2016</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
