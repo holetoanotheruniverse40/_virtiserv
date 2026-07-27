@@ -35,7 +35,7 @@ layout: default
 -   [![Twitter Follow](https://img.shields.io/badge/Social-@Tip__-blue?style=social&logo=X)](https://twitter.com/@Tip)
 -   [![Twitter Follow](https://img.shields.io/badge/Social-@Domani__-blue?style=social&logo=X)](https://twitter.com/@Domani)
 -   [![Twitter Follow](https://img.shields.io/badge/Social-@Drake__-blue?style=social&logo=X)](https://twitter.com/@Drake)
-
+-   [![Twitter Follow](https://img.shields.io/badge/Social-@PeteHegseth__-blue?style=social&logo=X)](https://twitter.com/@PeteHegseth)
    </div>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yeeeeeea. Not a good day to be a <a href="https://x.com/hashtag/cavs?src=hash&amp;ref_src=twsrc%5Etfw">#cavs</a> fan. <a href="https://x.com/hashtag/CavsVsWarriors?src=hash&amp;ref_src=twsrc%5Etfw">#CavsVsWarriors</a></p>&mdash; Lana Harris (@_LanaHarris) <a href="https://x.com/_LanaHarris/status/739645817175351301?ref_src=twsrc%5Etfw">June 6, 2016</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
