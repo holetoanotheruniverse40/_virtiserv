@@ -10,7 +10,68 @@ layout: default
 4 # UNiVERSE############### @ForAtlanta Tashi B ? ? ? ? ?#
 {% endhighlight %}
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://x.com/hashtag/holyblindfold?src=hash&amp;ref_src=twsrc%5Etfw">#holyblindfold</a> June 13th 💫 <a href="https://t.co/IIXBQ7ejsY">pic.twitter.com/IIXBQ7ejsY</a></p>&mdash; Chris Brown (@chrisbrown) <a href="https://x.com/chrisbrown/status/1930655432063770985?ref_src=twsrc%5Etfw">June 5, 2025</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haayyy, ♥️💛👑<br><br>Red has always felt like resurrection to me.<br>When I wear it, I don’t simply get dress up..<br><br>I remember.<br><br>I remember every version of myself that refused to stay buried.<br>Every season that asked me to surrender.<br>Every fire that tried to consume me but instead taught… <a href="https://t.co/C5fotFUXBa">pic.twitter.com/C5fotFUXBa</a></p>&mdash; b r a n d y (@4everBrandy) <a href="https://x.com/4everBrandy/status/2078187443497415145?ref_src=twsrc%5Etfw">July 17, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+[![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) 
+[![Twitter Follow](https://img.shields.io/badge/Social-@DojaCat__-blue?style=social&logo=X)](https://twitter.com/@DojaCat)
+[![Twitter Follow](https://img.shields.io/badge/Social-@RealRemyMa__-blue?style=social&logo=X)](https://twitter.com/@RealRemyMa)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Power106LA__-blue?style=social&logo=X)](https://twitter.com/@Power106LA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@BrownBagAM__-blue?style=social&logo=X)](https://twitter.com/@BrownBagAM)
+[![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto)
+[![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Tip__-blue?style=social&logo=X)](https://twitter.com/@Tip)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Domani__-blue?style=social&logo=X)](https://twitter.com/@Domani)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Drake__-blue?style=social&logo=X)](https://twitter.com/@Drake)
+[![Twitter Follow](https://img.shields.io/badge/Social-@PeteHegseth__-blue?style=social&logo=X)](https://twitter.com/@PeteHegseth)
+[![Twitter Follow](https://img.shields.io/badge/Social-@DeKalbSchools__-blue?style=social&logo=X)](https://twitter.com/@DeKalbSchools)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ChloeBailey__-blue?style=social&logo=X)](https://twitter.com/@ChloeBailey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/@GavinNewsom)
+[![Twitter Follow](https://img.shields.io/badge/Social-@JenSiebelNewsom__-blue?style=social&logo=X)](https://twitter.com/@JenSiebelNewsom)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@Dance411)
+[![Twitter Follow](https://img.shields.io/badge/Social-@MagicCity__-blue?style=social&logo=X)](https://twitter.com/@MagicCity)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ComplexMusic__-blue?style=social&logo=X)](https://twitter.com/@ComplexMusic)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Tinashe__-blue?style=social&logo=X)](https://twitter.com/@Tinashe)
+[![Twitter Follow](https://img.shields.io/badge/Social-@atlcouncil__-blue?style=social&logo=X)](https://twitter.com/@atlcouncil)
+[![Twitter Follow](https://img.shields.io/badge/Social-@KeishaBottoms__-blue?style=social&logo=X)](https://twitter.com/@KeishaBottoms)
+[![Twitter Follow](https://img.shields.io/badge/Social-@lakeyah__-blue?style=social&logo=X)](https://twitter.com/@lakeyah)
+[![Twitter Follow](https://img.shields.io/badge/Social-@coi_leray__-blue?style=social&logo=X)](https://twitter.com/@coi_leray)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LindseyPHorvath__-blue?style=social&logo=X)](https://twitter.com/@LindseyPHorvath)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@HollyJMitchell)
+[![Twitter Follow](https://img.shields.io/badge/Social-@_HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@_HollyJMitchell)
+[![Twitter Follow](https://img.shields.io/badge/Social-@KTLA__-blue?style=social&logo=X)](https://twitter.com/@KTLA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@SFCLA__-blue?style=social&logo=X)](https://twitter.com/@SFCLA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@THEREALSWIZZZ__-blue?style=social&logo=X)](https://twitter.com/@THEREALSWIZZZ)
+[![Twitter Follow](https://img.shields.io/badge/Social-@aliciakeys__-blue?style=social&logo=X)](https://twitter.com/@aliciakeys)
+[![Twitter Follow](https://img.shields.io/badge/Social-@nbcsnl__-blue?style=social&logo=X)](https://twitter.com/@nbcsnl)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LightSkinKeisha__-blue?style=social&logo=X)](https://twitter.com/@LightSkinKeisha)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ellamai__-blue?style=social&logo=X)](https://twitter.com/@ellamai)
+[![Twitter Follow](https://img.shields.io/badge/Social-@drinkchamps__-blue?style=social&logo=X)](https://twitter.com/@drinkchamps)
+[![Twitter Follow](https://img.shields.io/badge/Social-@keishakashdoll__-blue?style=social&logo=X)](https://twitter.com/@keishakashdoll)
+[![Twitter Follow](https://img.shields.io/badge/Social-@chloexhalle__-blue?style=social&logo=X)](https://twitter.com/@chloexhalle)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HalleBailey__-blue?style=social&logo=X)](https://twitter.com/@HalleBailey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@SaucySantana__-blue?style=social&logo=X)](https://twitter.com/@SaucySantana)
+[![Twitter Follow](https://img.shields.io/badge/Social-@chloeandhalle__-blue?style=social&logo=X)](https://twitter.com/@chloeandhalle)
+[![Twitter Follow](https://img.shields.io/badge/Social-@cxhnews__-blue?style=social&logo=X)](https://twitter.com/@cxhnews)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LaurenLondon__-blue?style=social&logo=X)](https://twitter.com/@LaurenLondon)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HOT97__-blue?style=social&logo=X)](https://twitter.com/@HOT97)
+[![Twitter Follow](https://img.shields.io/badge/Social-@hot1079atl__-blue?style=social&logo=X)](https://twitter.com/@hot1079atl)
+[![Twitter Follow](https://img.shields.io/badge/Social-@parksideaps__-blue?style=social&logo=X)](https://twitter.com/@parksideaps)
+[![Twitter Follow](https://img.shields.io/badge/Social-@CBSNewsATL__-blue?style=social&logo=X)](https://twitter.com/@CBSNewsATL)
+[![Twitter Follow](https://img.shields.io/badge/Social-@sartu365__-blue?style=social&logo=X)](https://twitter.com/@sartu365)
+[![Twitter Follow](https://img.shields.io/badge/Social-@chrisbrown__-blue?style=social&logo=X)](https://twitter.com/@chrisbrown)
+[![Twitter Follow](https://img.shields.io/badge/Social-@FrankOccean__-blue?style=social&logo=X)](https://twitter.com/@FrankOccean)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Grimezsz__-blue?style=social&logo=X)](https://twitter.com/@Grimezsz)
+[![Twitter Follow](https://img.shields.io/badge/Social-@4everBrandy__-blue?style=social&logo=X)](https://twitter.com/@4everBrandy)
+[![Twitter Follow](https://img.shields.io/badge/Social-@GloTheofficial__-blue?style=social&logo=X)](https://twitter.com/@GloTheofficial)
+
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822562379031265280" data-did="b343ac8d8c11ca5aed13179a1f4c0461a44ec052"><a href="https://rashardmro.tumblr.com/post/822562379031265280">https://rashardmro.tumblr.com/post/822562379031265280</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+ <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Your girlfriend should be your best friend. So stop treating her like just anybody. �</p>&mdash; Frank Ocean (@FrankOccean) <a href="https://x.com/FrankOccean/status/373460363498369025?ref_src=twsrc%5Etfw">August 30, 2013</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822712616214544384" data-did="d4d6a8534a6e00c5514880d62df17f884e4d9a18"><a href="https://rashardmro.tumblr.com/post/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last">https://rashardmro.tumblr.com/post/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
