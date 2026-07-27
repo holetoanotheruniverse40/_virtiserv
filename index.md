@@ -24,39 +24,75 @@ layout: default
 <div class="tupperware" markdown="1" >
 	
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) 
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@DojaCat__-blue?style=social&logo=X)](https://twitter.com/@DojaCat)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@RealRemyMa__-blue?style=social&logo=X)](https://twitter.com/@RealRemyMa)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@Power106LA__-blue?style=social&logo=X)](https://twitter.com/@Power106LA)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@BrownBagAM__-blue?style=social&logo=X)](https://twitter.com/@BrownBagAM)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@Tip__-blue?style=social&logo=X)](https://twitter.com/@Tip)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@Domani__-blue?style=social&logo=X)](https://twitter.com/@Domani)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@Drake__-blue?style=social&logo=X)](https://twitter.com/@Drake)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@PeteHegseth__-blue?style=social&logo=X)](https://twitter.com/@PeteHegseth)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@DeKalbSchools__-blue?style=social&logo=X)](https://twitter.com/@DeKalbSchools)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@ChloeBailey__-blue?style=social&logo=X)](https://twitter.com/@ChloeBailey)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/@GavinNewsom)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@JenSiebelNewsom__-blue?style=social&logo=X)](https://twitter.com/@JenSiebelNewsom)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@Dance411)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@MagicCity)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@ComplexMusic__-blue?style=social&logo=X)](https://twitter.com/@ComplexMusic)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@Tinashe__-blue?style=social&logo=X)](https://twitter.com/@Tinashe)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@atlcouncil__-blue?style=social&logo=X)](https://twitter.com/@atlcouncil)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@KeishaBottoms__-blue?style=social&logo=X)](https://twitter.com/@KeishaBottoms)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@lakeyah__-blue?style=social&logo=X)](https://twitter.com/@lakeyah)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@coi_leray__-blue?style=social&logo=X)](https://twitter.com/@coi_leray)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@LindseyPHorvath__-blue?style=social&logo=X)](https://twitter.com/@LindseyPHorvath)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@HollyJMitchell)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@_HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@_HollyJMitchell)
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@KTLA__-blue?style=social&logo=X)](https://twitter.com/@KTLA)
+
 [![Twitter Follow](https://img.shields.io/badge/Social-@SFCLA__-blue?style=social&logo=X)](https://twitter.com/@SFCLA)
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@THEREALSWIZZZ__-blue?style=social&logo=X)](https://twitter.com/@THEREALSWIZZZ)
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@aliciakeys__-blue?style=social&logo=X)](https://twitter.com/@aliciakeys)
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@nbcsnl__-blue?style=social&logo=X)](https://twitter.com/@nbcsnl)
  
 </div>
 
 
-[Effects of Inhaled Tobacco and Cannabis Co-Use on Respiratory Health and Tobacco Cessation: An Official American Thoracic Society Research Statement @NIHGOV @Blackgirlscode](https://pmc.ncbi.nlm.nih.gov/articles/PMC12618986/)
+[Effects of Inhaled Tobacco and Cannabis Co-Use on Respiratory Health and Tobacco Cessation: An Official American Thoracic Society Research Statement @NIHGOV @Blackgirlscode](https://pmc.ncbi.nlm.nih.gov/articles/PMC12618986/) /// [Meet the scientists of the current NASA Sea Level Change Team. @doug-newman-nasa](https://sealevel.nasa.gov/science-team/team-members?page=1&itemsPerPage=50&sort=&search=&table=site_staffs&status=1&categories_id=(4))
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Sippin My Tea with Supervisor Mitchell <a href="https://t.co/xgzhkz8rTU">https://t.co/xgzhkz8rTU</a></p>&mdash; Holly J. Mitchell (@HollyJMitchell) <a href="https://x.com/HollyJMitchell/status/2071398262792421385?ref_src=twsrc%5Etfw">June 29, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
