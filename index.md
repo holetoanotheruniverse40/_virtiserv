@@ -26,9 +26,15 @@ layout: default
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@DojaCat__-blue?style=social&logo=X)](https://twitter.com/@DojaCat)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RealRemyMa__-blue?style=social&logo=X)](https://twitter.com/@RealRemyMa)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@Power106LA__-blue?style=social&logo=X)](https://twitter.com/@Power106LA)
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@BrownBagAM__-blue?style=social&logo=X)](https://twitter.com/@BrownBagAM)
+ -    [![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
 
+
+
+ <blockquote class="twitter-tweet"><p lang="en" dir="ltr">God woke you up today. What are you grateful for?</p>&mdash; Steve Harvey (@IAmSteveHarvey) <a href="https://x.com/IAmSteveHarvey/status/2081790720336105676?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hz4VHZDAAiI?si=SAtLOR1hAI5EIa8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # The.Wizard.1989
 
 <iframe src="https://archive.org/embed/thewizard_202001" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
