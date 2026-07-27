@@ -48,12 +48,17 @@ layout: default
 [![Twitter Follow](https://img.shields.io/badge/Social-@KeishaBottoms__-blue?style=social&logo=X)](https://twitter.com/@KeishaBottoms)
 [![Twitter Follow](https://img.shields.io/badge/Social-@lakeyah__-blue?style=social&logo=X)](https://twitter.com/@lakeyah)
 [![Twitter Follow](https://img.shields.io/badge/Social-@coi_leray__-blue?style=social&logo=X)](https://twitter.com/@coi_leray)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LindseyPHorvath__-blue?style=social&logo=X)](https://twitter.com/@LindseyPHorvath)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@HollyJMitchell)
+[![Twitter Follow](https://img.shields.io/badge/Social-@_HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@_HollyJMitchell)
 [![Twitter Follow](https://img.shields.io/badge/Social-@SFCLA__-blue?style=social&logo=X)](https://twitter.com/@SFCLA)
  
 </div>
 
 
 [Effects of Inhaled Tobacco and Cannabis Co-Use on Respiratory Health and Tobacco Cessation: An Official American Thoracic Society Research Statement @NIHGOV @Blackgirlscode](https://pmc.ncbi.nlm.nih.gov/articles/PMC12618986/)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Sippin My Tea with Supervisor Mitchell <a href="https://t.co/xgzhkz8rTU">https://t.co/xgzhkz8rTU</a></p>&mdash; Holly J. Mitchell (@HollyJMitchell) <a href="https://x.com/HollyJMitchell/status/2071398262792421385?ref_src=twsrc%5Etfw">June 29, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Grateful for my friend and my Senator, <a href="https://x.com/ReverendWarnock?ref_src=twsrc%5Etfw">@ReverendWarnock</a>, and honored to sign a copy of The Rough Side of the Mountain for him. <br><br>Tomorrow, I share it with all of you. 💛<a href="https://x.com/MarinerBooks?ref_src=twsrc%5Etfw">@MarinerBooks</a> <a href="https://t.co/bPL0PoENOm">pic.twitter.com/bPL0PoENOm</a></p>&mdash; Keisha Lance Bottoms (@KeishaBottoms) <a href="https://x.com/KeishaBottoms/status/2046246933895745815?ref_src=twsrc%5Etfw">April 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
