@@ -28,7 +28,12 @@ layout: default
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@Power106LA__-blue?style=social&logo=X)](https://twitter.com/@Power106LA)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@BrownBagAM__-blue?style=social&logo=X)](https://twitter.com/@BrownBagAM)
  -    [![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
+ -    [![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto)
 
+
+@nasa-pds how can I be normal with this in my background, I don't want to hurt anyone @blackgirlscode @la-county-isd @whitehouse [@newshour its rashard from gtri](https://ra5hard.github.io/)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Okayyy video out now 👯‍♀️ <a href="https://t.co/CgBLdgE11e">pic.twitter.com/CgBLdgE11e</a></p>&mdash; BIG MAMA (@Latto) <a href="https://x.com/Latto/status/2079598961992630723?ref_src=twsrc%5Etfw">July 21, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">God woke you up today. What are you grateful for?</p>&mdash; Steve Harvey (@IAmSteveHarvey) <a href="https://x.com/IAmSteveHarvey/status/2081790720336105676?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
