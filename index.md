@@ -41,8 +41,21 @@ layout: default
 [![Twitter Follow](https://img.shields.io/badge/Social-@GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/@GavinNewsom)
 [![Twitter Follow](https://img.shields.io/badge/Social-@JenSiebelNewsom__-blue?style=social&logo=X)](https://twitter.com/@JenSiebelNewsom)
 [![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@Dance411)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@MagicCity)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ComplexMusic__-blue?style=social&logo=X)](https://twitter.com/@ComplexMusic)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Tinashe__-blue?style=social&logo=X)](https://twitter.com/@Tinashe)
+[![Twitter Follow](https://img.shields.io/badge/Social-@atlcouncil__-blue?style=social&logo=X)](https://twitter.com/@atlcouncil)
+[![Twitter Follow](https://img.shields.io/badge/Social-@KeishaBottoms__-blue?style=social&logo=X)](https://twitter.com/@KeishaBottoms)
+[![Twitter Follow](https://img.shields.io/badge/Social-@lakeyah__-blue?style=social&logo=X)](https://twitter.com/@lakeyah)
+[![Twitter Follow](https://img.shields.io/badge/Social-@coi_leray__-blue?style=social&logo=X)](https://twitter.com/@coi_leray)
+[![Twitter Follow](https://img.shields.io/badge/Social-@SFCLA__-blue?style=social&logo=X)](https://twitter.com/@SFCLA)
  
 </div>
+
+
+[Effects of Inhaled Tobacco and Cannabis Co-Use on Respiratory Health and Tobacco Cessation: An Official American Thoracic Society Research Statement @NIHGOV @Blackgirlscode](https://pmc.ncbi.nlm.nih.gov/articles/PMC12618986/)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Grateful for my friend and my Senator, <a href="https://x.com/ReverendWarnock?ref_src=twsrc%5Etfw">@ReverendWarnock</a>, and honored to sign a copy of The Rough Side of the Mountain for him. <br><br>Tomorrow, I share it with all of you. 💛<a href="https://x.com/MarinerBooks?ref_src=twsrc%5Etfw">@MarinerBooks</a> <a href="https://t.co/bPL0PoENOm">pic.twitter.com/bPL0PoENOm</a></p>&mdash; Keisha Lance Bottoms (@KeishaBottoms) <a href="https://x.com/KeishaBottoms/status/2046246933895745815?ref_src=twsrc%5Etfw">April 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 @stateofcalifornia @whitehouse @nasa-jpl @nbcnews @blackgirlscode
 
