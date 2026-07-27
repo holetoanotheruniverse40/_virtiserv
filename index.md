@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Today on TMZ Live we spoke with <a href="https://x.com/AttorneyCrump?ref_src=twsrc%5Etfw">@AttorneyCrump</a><br> about the independent autopsy of Nolan Wells. <a href="https://t.co/CavAT8ZURn">pic.twitter.com/CavAT8ZURn</a></p>&mdash; TMZ Live (@TMZLive) <a href="https://x.com/TMZLive/status/2080025868836204864?ref_src=twsrc%5Etfw">July 22, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 @blackgirlscode help me be human @nasa-pds I hate this embarrassment of sexual rejection,,, I'm going to get my head together @doug-newman-nasa
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Today on TMZ Live we spoke with <a href="https://x.com/AttorneyCrump?ref_src=twsrc%5Etfw">@AttorneyCrump</a><br> about the independent autopsy of Nolan Wells. <a href="https://t.co/CavAT8ZURn">pic.twitter.com/CavAT8ZURn</a></p>&mdash; TMZ Live (@TMZLive) <a href="https://x.com/TMZLive/status/2080025868836204864?ref_src=twsrc%5Etfw">July 22, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
