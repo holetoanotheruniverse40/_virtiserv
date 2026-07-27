@@ -2,6 +2,18 @@
 layout: default
 ---
 
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE############### @ForAtlanta Tashi B ? ? ? ? ?#
+{% endhighlight %}
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Scene Stealers: Deborah Ayorinde Finds A New Challenge In STARZ’s ‘Fightland’ <a href="https://t.co/EeBzKB7O2D">https://t.co/EeBzKB7O2D</a></p>&mdash; ESSENCE (@Essence) <a href="https://x.com/Essence/status/2081857954215559539?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sigma Gamma Rho Welcomes Tami Roman, Lynette Woodard, MC Sha-Rock And More As Honorary Members <a href="https://t.co/2gwy6eHIRd">https://t.co/2gwy6eHIRd</a></p>&mdash; ESSENCE (@Essence) <a href="https://x.com/Essence/status/2081858598385152162?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
