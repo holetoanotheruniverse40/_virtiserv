@@ -2,6 +2,10 @@
 layout: default
 ---
 
+@howard-university-web-services @blackgirlscode @whitehouse @nasa-giss 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For enrollment inquiries contact: enrollmentmanagement@howard.edu.<br><br>For assistance with your student account and external scholarships, contact the Office of the Bursar at: Bursarhelp@howard.edu. <a href="https://t.co/DlWbcDPA9N">pic.twitter.com/DlWbcDPA9N</a></p>&mdash; Howard University (@HowardU) <a href="https://x.com/HowardU/status/2080118874855374946?ref_src=twsrc%5Etfw">July 23, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">ATL tune in 5pm Graig Street V-103... WE BREAK YA&quot;LL WITH THE NEW SINGLE FIRST ATL!!!!</p>&mdash; Mario (@OHYESMARIO) <a href="https://x.com/OHYESMARIO/status/1419794503?ref_src=twsrc%5Etfw">March 30, 2009</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 {% highlight ruby %}
