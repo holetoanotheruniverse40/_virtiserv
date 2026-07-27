@@ -21,6 +21,8 @@ layout: default
   
 </picture>
 
+<div class="Tupperware" markdown="1" >
+	
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) 
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@DojaCat__-blue?style=social&logo=X)](https://twitter.com/@DojaCat)
@@ -30,6 +32,10 @@ layout: default
  -    [![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
  -    [![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris)
+-   [![Twitter Follow](https://img.shields.io/badge/Social-@Tip__-blue?style=social&logo=X)](https://twitter.com/@Tip)
+-   [![Twitter Follow](https://img.shields.io/badge/Social-@Domani__-blue?style=social&logo=X)](https://twitter.com/@Domani)
+
+   </div>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yeeeeeea. Not a good day to be a <a href="https://x.com/hashtag/cavs?src=hash&amp;ref_src=twsrc%5Etfw">#cavs</a> fan. <a href="https://x.com/hashtag/CavsVsWarriors?src=hash&amp;ref_src=twsrc%5Etfw">#CavsVsWarriors</a></p>&mdash; Lana Harris (@_LanaHarris) <a href="https://x.com/_LanaHarris/status/739645817175351301?ref_src=twsrc%5Etfw">June 6, 2016</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
