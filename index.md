@@ -9,6 +9,8 @@ layout: default
 4 # UNiVERSE#########################Someone?#####
 {% endhighlight %}
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Say what you want, the stage presence is undeniable 🎤! Stop playing with <a href="https://x.com/RealRemyMa?ref_src=twsrc%5Etfw">@RealRemyMa</a> <a href="https://t.co/B3AZcVxbYr">pic.twitter.com/B3AZcVxbYr</a></p>&mdash; HOT 97 (@HOT97) <a href="https://x.com/HOT97/status/2080971537927086315?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwBFOuCrdr4?si=y945qLtxli8bSxZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -21,9 +23,9 @@ layout: default
   
 </picture>
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">From the unforgettable performances, iconic moments, and the unmatched energy from the fans . Watch the official recap. Summer Jam 2026 🔥🎥 <a href="https://t.co/zxN1jMQR0V">pic.twitter.com/zxN1jMQR0V</a></p>&mdash; HOT 97 (@HOT97) <a href="https://x.com/HOT97/status/2081047995584315714?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Sybil Wilkes Covers Today&#39;s What We Need to Know: FBI Investigates Nolan Wells Case, New Tariffs, and More <a href="https://t.co/Xx2L60BSuf">https://t.co/Xx2L60BSuf</a></p>&mdash; Hot 107.9 Atlanta (@hot1079atl) <a href="https://x.com/hot1079atl/status/2081752600496492996?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">For some parents, finding the right place for their young children to learn can feel like a challenge. One McDonough mom decided that if she couldn&#39;t find the village her family needed, she would build it herself. <a href="https://t.co/Fs7N1yI4uY">https://t.co/Fs7N1yI4uY</a></p>&mdash; CBS Atlanta (@CBSNewsATL) <a href="https://x.com/CBSNewsATL/status/2081801800038965657?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
@@ -69,7 +71,16 @@ layout: default
 [![Twitter Follow](https://img.shields.io/badge/Social-@chloeandhalle__-blue?style=social&logo=X)](https://twitter.com/@chloeandhalle)
 [![Twitter Follow](https://img.shields.io/badge/Social-@cxhnews__-blue?style=social&logo=X)](https://twitter.com/@cxhnews)
 [![Twitter Follow](https://img.shields.io/badge/Social-@LaurenLondon__-blue?style=social&logo=X)](https://twitter.com/@LaurenLondon)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HOT97__-blue?style=social&logo=X)](https://twitter.com/@HOT97)
+[![Twitter Follow](https://img.shields.io/badge/Social-@hot1079atl__-blue?style=social&logo=X)](https://twitter.com/@hot1079atl)
+[![Twitter Follow](https://img.shields.io/badge/Social-@parksideaps__-blue?style=social&logo=X)](https://twitter.com/@parksideaps)
 [![Twitter Follow](https://img.shields.io/badge/Social-@CBSNewsATL__-blue?style=social&logo=X)](https://twitter.com/@CBSNewsATL)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">From the unforgettable performances, iconic moments, and the unmatched energy from the fans . Watch the official recap. Summer Jam 2026 🔥🎥 <a href="https://t.co/zxN1jMQR0V">pic.twitter.com/zxN1jMQR0V</a></p>&mdash; HOT 97 (@HOT97) <a href="https://x.com/HOT97/status/2081047995584315714?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">For some parents, finding the right place for their young children to learn can feel like a challenge. One McDonough mom decided that if she couldn&#39;t find the village her family needed, she would build it herself. <a href="https://t.co/Fs7N1yI4uY">https://t.co/Fs7N1yI4uY</a></p>&mdash; CBS Atlanta (@CBSNewsATL) <a href="https://x.com/CBSNewsATL/status/2081801800038965657?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Bam Adebayo Recounts How &quot;Terrifying&quot; It Was To Ask A&#39;Ja Wilson&#39;s Dad Permission To Marry Her <a href="https://t.co/SLgHNsGk4i">https://t.co/SLgHNsGk4i</a></p>&mdash; Hot 107.9 Atlanta (@hot1079atl) <a href="https://x.com/hot1079atl/status/2081807912704315729?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Y’all, I’m so fullllll. WE RICHHHHH 💛🥹</p>&mdash; My name is MUNI (@munilong) <a href="https://x.com/munilong/status/2069503919030468971?ref_src=twsrc%5Etfw">June 23, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
