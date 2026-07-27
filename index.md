@@ -3,6 +3,21 @@ layout: default
 ---
 
 
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE############### @ForAtlanta Tashi B ? ? ? ? ?#
+{% endhighlight %}
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822562379031265280" data-did="b343ac8d8c11ca5aed13179a1f4c0461a44ec052"><a href="https://rashardmro.tumblr.com/post/822562379031265280">https://rashardmro.tumblr.com/post/822562379031265280</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822712616214544384" data-did="d4d6a8534a6e00c5514880d62df17f884e4d9a18"><a href="https://rashardmro.tumblr.com/post/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last">https://rashardmro.tumblr.com/post/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822800539902525440" data-did="e0450698d20da2f70c465110b79f5d5ef79a1d35"><a href="https://rashardmro.tumblr.com/post/822800539902525440/tinymajormama-blog-i-looked-up-some-geneology">https://rashardmro.tumblr.com/post/822800539902525440/tinymajormama-blog-i-looked-up-some-geneology</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822800523064426496" data-did="50b420992489724e0f5aa0e9e1dd5b27e0408178"><a href="https://rashardmro.tumblr.com/post/822800523064426496/my-altadena-macbook-pro-jose-what-happened">https://rashardmro.tumblr.com/post/822800523064426496/my-altadena-macbook-pro-jose-what-happened</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/823064554661658624" data-did="bd43e4608e68711cf254db489911835be30a8ca9"><a href="https://rashardmro.tumblr.com/post/823064554661658624">https://rashardmro.tumblr.com/post/823064554661658624</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 @nasa-openscapes @podaac 
