@@ -2,6 +2,16 @@
 layout: default
 ---
 
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE############### @disney @cbs-news-data Harvey?
+{% endhighlight %}
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">🚨🎥 Were Nolan Wells&#39; friends talking about him possibly being dead as they raced back to the mainland?<br><br>Chilling background audio from their emergency call has some people convinced they were. <a href="https://t.co/4fXUVA6p4K">pic.twitter.com/4fXUVA6p4K</a></p>&mdash; TMZ (@TMZ) <a href="https://x.com/TMZ/status/2081801849154461748?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Usher&#39;s viral concert fan says she wanted to go on stage with Chris Brown 🤔 <a href="https://t.co/9wLktvKl64">https://t.co/9wLktvKl64</a></p>&mdash; TMZ (@TMZ) <a href="https://x.com/TMZ/status/2081860054890979356?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 {% highlight ruby %}
