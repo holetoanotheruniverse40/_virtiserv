@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Usher&#39;s viral concert fan says she wanted to go on stage with Chris Brown 🤔 <a href="https://t.co/9wLktvKl64">https://t.co/9wLktvKl64</a></p>&mdash; TMZ (@TMZ) <a href="https://x.com/TMZ/status/2081860054890979356?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
