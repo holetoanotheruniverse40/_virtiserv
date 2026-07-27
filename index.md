@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/823064554661658624" data-did="bd43e4608e68711cf254db489911835be30a8ca9"><a href="https://rashardmro.tumblr.com/post/823064554661658624">https://rashardmro.tumblr.com/post/823064554661658624</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
 @nasa-openscapes @podaac 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As many companies continue pushing employees back into the office, a new study suggests Gen Z workers may have been right all along: home is where they do their best... <a href="https://t.co/s6DWcHMlnP">https://t.co/s6DWcHMlnP</a></p>&mdash; Black Enterprise (@blackenterprise) <a href="https://x.com/blackenterprise/status/2081862738863874143?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
