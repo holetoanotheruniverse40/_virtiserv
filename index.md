@@ -3,6 +3,11 @@ layout: default
 ---
 
 
+@nasa-openscapes @podaac 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As many companies continue pushing employees back into the office, a new study suggests Gen Z workers may have been right all along: home is where they do their best... <a href="https://t.co/s6DWcHMlnP">https://t.co/s6DWcHMlnP</a></p>&mdash; Black Enterprise (@blackenterprise) <a href="https://x.com/blackenterprise/status/2081862738863874143?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WNBA Rookie Kiki Rice Is Back on the Court With a Family Legacy That Runs Deep <a href="https://t.co/ZebNwrq1ao">https://t.co/ZebNwrq1ao</a></p>&mdash; EBONY (@EBONY) <a href="https://x.com/EBONY/status/2081761293174780175?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
