@@ -2,6 +2,15 @@
 layout: default
 ---
 
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE############### @disney @nbcnews Harvey?
+{% endhighlight %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/MissyElliott?ref_src=twsrc%5Etfw">@MissyElliott</a> is embarking on her first headline tour, OUT OF THIS WORLD - The Missy Elliott Experience, with special guests <a href="https://x.com/ciara?ref_src=twsrc%5Etfw">@Ciara</a>, <a href="https://x.com/BustaRhymes?ref_src=twsrc%5Etfw">@BustaRhymes</a>, &amp; Timbaland, and you could be there! Listen weekdays for the national text keywords for your chance to win! <a href="https://t.co/MQWaQP7es6">pic.twitter.com/MQWaQP7es6</a></p>&mdash; E93 93.1 (@E93Radio) <a href="https://x.com/E93Radio/status/1807761162517549240?ref_src=twsrc%5Etfw">July 1, 2024</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Today on TMZ Live we spoke with <a href="https://x.com/AttorneyCrump?ref_src=twsrc%5Etfw">@AttorneyCrump</a><br> about the independent autopsy of Nolan Wells. <a href="https://t.co/CavAT8ZURn">pic.twitter.com/CavAT8ZURn</a></p>&mdash; TMZ Live (@TMZLive) <a href="https://x.com/TMZLive/status/2080025868836204864?ref_src=twsrc%5Etfw">July 22, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
