@@ -2,6 +2,16 @@
 layout: default
 ---
 
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE################# @disney @cbs-news-data chloe
+{% endhighlight %}
+
+@nasa-jpl she would know who I'm hurt from losing . . . @lacountyDPH please help me know a path for broken hearts and departnering., Im healthy outside of the poisons I get from city hall takeovers @la-county-isd @Cityoflosangeles @stateofcalifornia - [Rashard](https://ra5hard.github.io/)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ht" dir="ltr">AYE MANE SAY MANE 😤🔥🔥🔥”MANE” OUT NOW!! <a href="https://t.co/osnfuLrMuF">https://t.co/osnfuLrMuF</a> <a href="https://t.co/xl9iv7CiUx">pic.twitter.com/xl9iv7CiUx</a></p>&mdash; GloRilla 🦍 (@GloTheofficial) <a href="https://x.com/GloTheofficial/status/2070230432340389960?ref_src=twsrc%5Etfw">June 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
