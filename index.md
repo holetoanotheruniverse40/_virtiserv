@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ATL tune in 5pm Graig Street V-103... WE BREAK YA&quot;LL WITH THE NEW SINGLE FIRST ATL!!!!</p>&mdash; Mario (@OHYESMARIO) <a href="https://x.com/OHYESMARIO/status/1419794503?ref_src=twsrc%5Etfw">March 30, 2009</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
