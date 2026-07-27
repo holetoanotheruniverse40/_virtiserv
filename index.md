@@ -2,6 +2,18 @@
 layout: default
 ---
 
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE################# @blackgirlscode# NORMANi####
+{% endhighlight %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WORLD CUPPP ‘26 🩵⚽️<br>this was one for the ages (: <a href="https://t.co/OTabuRgiRD">pic.twitter.com/OTabuRgiRD</a></p>&mdash; Normani (@Normani) <a href="https://x.com/Normani/status/2067315821756706969?ref_src=twsrc%5Etfw">June 17, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">everyonneee follow @TheOnlyLA16 !!&lt;3</p>&mdash; sartu osman (@sartu365) <a href="https://x.com/sartu365/status/220310326577598464?ref_src=twsrc%5Etfw">July 4, 2012</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
@@ -75,6 +87,11 @@ layout: default
 [![Twitter Follow](https://img.shields.io/badge/Social-@hot1079atl__-blue?style=social&logo=X)](https://twitter.com/@hot1079atl)
 [![Twitter Follow](https://img.shields.io/badge/Social-@parksideaps__-blue?style=social&logo=X)](https://twitter.com/@parksideaps)
 [![Twitter Follow](https://img.shields.io/badge/Social-@CBSNewsATL__-blue?style=social&logo=X)](https://twitter.com/@CBSNewsATL)
+[![Twitter Follow](https://img.shields.io/badge/Social-@sartu365__-blue?style=social&logo=X)](https://twitter.com/@sartu365)
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">a new bombshell has entered the villaaa 🌺🥥🥭 <a href="https://t.co/7FftRDUgFF">pic.twitter.com/7FftRDUgFF</a></p>&mdash; Normani (@Normani) <a href="https://x.com/Normani/status/2072757543198478706?ref_src=twsrc%5Etfw">July 2, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you for this beautiful honor and for trusting me with this tribute to celebrate our angel. This sacred moment will forever be etched in my heart 🕊️🤍 appreciate youuuu <a href="https://x.com/MissyElliott?ref_src=twsrc%5Etfw">@MissyElliott</a> <a href="https://t.co/3Pa01wEKdX">https://t.co/3Pa01wEKdX</a></p>&mdash; Normani (@Normani) <a href="https://x.com/Normani/status/2075041854794732007?ref_src=twsrc%5Etfw">July 9, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">From the unforgettable performances, iconic moments, and the unmatched energy from the fans . Watch the official recap. Summer Jam 2026 🔥🎥 <a href="https://t.co/zxN1jMQR0V">pic.twitter.com/zxN1jMQR0V</a></p>&mdash; HOT 97 (@HOT97) <a href="https://x.com/HOT97/status/2081047995584315714?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
