@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Ariana Grande appeared to give a subtle look at her rekindled romance with ex Ricky Álvarez in her July 27 Instagram post, showing the two sharing olives. <a href="https://t.co/6YVUWKyiVy">https://t.co/6YVUWKyiVy</a> <a href="https://t.co/lB3HXKOJBX">pic.twitter.com/lB3HXKOJBX</a></p>&mdash; E! News (@enews) <a href="https://x.com/enews/status/2081860944653693399?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Savannah Guthrie is once again reaching out to her mother Nancy Guthrie’s kidnappers. <a href="https://t.co/DHUNuqNnqe">https://t.co/DHUNuqNnqe</a> <a href="https://t.co/R0MKm3FxlA">pic.twitter.com/R0MKm3FxlA</a></p>&mdash; E! News (@enews) <a href="https://x.com/enews/status/2081862252018172090?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In Episode 05 of <a href="https://x.com/blackenterprise?ref_src=twsrc%5Etfw">@blackenterprise</a> <a href="https://x.com/hashtag/BETHEGAME?src=hash&amp;ref_src=twsrc%5Etfw">#BETHEGAME</a>: The Business of Sports, I’ll be joined by <a href="https://x.com/NFL?ref_src=twsrc%5Etfw">@NFL</a> EVP of Football Operations <a href="https://x.com/TroyVincentSr?ref_src=twsrc%5Etfw">@TroyVincentSr</a>. <br><br>Streaming starting 12 PM EST⁠ Weds 7/1<br>⁠<br>Watch exclusively: <a href="https://t.co/IzS9LgMbv1">https://t.co/IzS9LgMbv1</a><a href="https://x.com/hashtag/besportsbiz?src=hash&amp;ref_src=twsrc%5Etfw">#besportsbiz</a> <a href="https://t.co/4mLD8hZq7m">pic.twitter.com/4mLD8hZq7m</a></p>&mdash; Alfred Edmond Jr (@AlfredEdmondJr) <a href="https://x.com/AlfredEdmondJr/status/2072347735563407645?ref_src=twsrc%5Etfw">July 1, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
