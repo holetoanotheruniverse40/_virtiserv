@@ -21,29 +21,28 @@ layout: default
   
 </picture>
 
-<div class="Tupperware" markdown="1" >
+<div class="tupperware" markdown="1" >
 	
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) 
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@DojaCat__-blue?style=social&logo=X)](https://twitter.com/@DojaCat)
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@RealRemyMa__-blue?style=social&logo=X)](https://twitter.com/@RealRemyMa)
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@Power106LA__-blue?style=social&logo=X)](https://twitter.com/@Power106LA)
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@BrownBagAM__-blue?style=social&logo=X)](https://twitter.com/@BrownBagAM)
- -    [![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
- -    [![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto)
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris)
--   [![Twitter Follow](https://img.shields.io/badge/Social-@Tip__-blue?style=social&logo=X)](https://twitter.com/@Tip)
--   [![Twitter Follow](https://img.shields.io/badge/Social-@Domani__-blue?style=social&logo=X)](https://twitter.com/@Domani)
--   [![Twitter Follow](https://img.shields.io/badge/Social-@Drake__-blue?style=social&logo=X)](https://twitter.com/@Drake)
--   [![Twitter Follow](https://img.shields.io/badge/Social-@PeteHegseth__-blue?style=social&logo=X)](https://twitter.com/@PeteHegseth)
--   [![Twitter Follow](https://img.shields.io/badge/Social-@DeKalbSchools__-blue?style=social&logo=X)](https://twitter.com/@DeKalbSchools)
--   [![Twitter Follow](https://img.shields.io/badge/Social-@ChloeBailey__-blue?style=social&logo=X)](https://twitter.com/@ChloeBailey)
--   [![Twitter Follow](https://img.shields.io/badge/Social-@GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/@GavinNewsom)
--   [![Twitter Follow](https://img.shields.io/badge/Social-@JenSiebelNewsom__-blue?style=social&logo=X)](https://twitter.com/@JenSiebelNewsom)
--  [![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@Dance411)
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+[![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) 
+[![Twitter Follow](https://img.shields.io/badge/Social-@DojaCat__-blue?style=social&logo=X)](https://twitter.com/@DojaCat)
+[![Twitter Follow](https://img.shields.io/badge/Social-@RealRemyMa__-blue?style=social&logo=X)](https://twitter.com/@RealRemyMa)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Power106LA__-blue?style=social&logo=X)](https://twitter.com/@Power106LA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@BrownBagAM__-blue?style=social&logo=X)](https://twitter.com/@BrownBagAM)
+[![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto)
+[![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Tip__-blue?style=social&logo=X)](https://twitter.com/@Tip)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Domani__-blue?style=social&logo=X)](https://twitter.com/@Domani)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Drake__-blue?style=social&logo=X)](https://twitter.com/@Drake)
+[![Twitter Follow](https://img.shields.io/badge/Social-@PeteHegseth__-blue?style=social&logo=X)](https://twitter.com/@PeteHegseth)
+[![Twitter Follow](https://img.shields.io/badge/Social-@DeKalbSchools__-blue?style=social&logo=X)](https://twitter.com/@DeKalbSchools)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ChloeBailey__-blue?style=social&logo=X)](https://twitter.com/@ChloeBailey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/@GavinNewsom)
+[![Twitter Follow](https://img.shields.io/badge/Social-@JenSiebelNewsom__-blue?style=social&logo=X)](https://twitter.com/@JenSiebelNewsom)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@Dance411)
  
-
-   </div>
+</div>
 
 @stateofcalifornia @whitehouse @nasa-jpl @nbcnews @blackgirlscode
 
