@@ -29,7 +29,9 @@ layout: default
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@BrownBagAM__-blue?style=social&logo=X)](https://twitter.com/@BrownBagAM)
  -    [![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
  -    [![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto)
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yeeeeeea. Not a good day to be a <a href="https://x.com/hashtag/cavs?src=hash&amp;ref_src=twsrc%5Etfw">#cavs</a> fan. <a href="https://x.com/hashtag/CavsVsWarriors?src=hash&amp;ref_src=twsrc%5Etfw">#CavsVsWarriors</a></p>&mdash; Lana Harris (@_LanaHarris) <a href="https://x.com/_LanaHarris/status/739645817175351301?ref_src=twsrc%5Etfw">June 6, 2016</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 @nasa-pds how can I be normal with this in my background, I don't want to hurt anyone @blackgirlscode @la-county-isd @whitehouse [@newshour its rashard from gtri](https://ra5hard.github.io/)
 
