@@ -2,6 +2,13 @@
 layout: default
 ---
 
+
+@nasa-jpl she hurt me one time I know because coral started looking like her and I made 5th grade esq jokes on @instagram that we should listen to  [Kool g rap](https://www.youtube.com/watch?v=EQl7ENwIwXc), so when whatever she chose next came her way I cried @CityOflosAngeles can I at least have pardon to cry the failed relationships out, I wont hurt anyone and just want clean internet access protocol and clean food and I'm sure I will earn a perfect committed lover to heal my body and possibly make a friend like coral but without Chicago medicine!!! @datadesk @nasa I don't know who was in the movie but I was notified on the train that I really had a girl in Hollywood .. . _past tens2 holly Mitchell @la-county-isd
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">MIGHT JUST VIDEO OUT NOW! one of my favorites 💛 and thank you to my girlies <a href="https://x.com/TheRealCocoJ?ref_src=twsrc%5Etfw">@TheRealCocoJ</a> , <a href="https://x.com/TaylorRooks?ref_src=twsrc%5Etfw">@TaylorRooks</a> , &amp; <a href="https://x.com/RyanDestiny?ref_src=twsrc%5Etfw">@RyanDestiny</a> for holding it down! 😘 <a href="https://t.co/gRyFGz9DxK">pic.twitter.com/gRyFGz9DxK</a></p>&mdash; Ella Mai (@ellamai) <a href="https://x.com/ellamai/status/2071989076509573169?ref_src=twsrc%5Etfw">June 30, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+https://www.youtube.com/watch?v=EQl7ENwIwXc
+
 @howard-university-web-services @blackgirlscode @whitehouse @nasa-giss 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For enrollment inquiries contact: enrollmentmanagement@howard.edu.<br><br>For assistance with your student account and external scholarships, contact the Office of the Bursar at: Bursarhelp@howard.edu. <a href="https://t.co/DlWbcDPA9N">pic.twitter.com/DlWbcDPA9N</a></p>&mdash; Howard University (@HowardU) <a href="https://x.com/HowardU/status/2080118874855374946?ref_src=twsrc%5Etfw">July 23, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
