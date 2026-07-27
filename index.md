@@ -38,10 +38,18 @@ layout: default
 -   [![Twitter Follow](https://img.shields.io/badge/Social-@PeteHegseth__-blue?style=social&logo=X)](https://twitter.com/@PeteHegseth)
 -   [![Twitter Follow](https://img.shields.io/badge/Social-@DeKalbSchools__-blue?style=social&logo=X)](https://twitter.com/@DeKalbSchools)
 -   [![Twitter Follow](https://img.shields.io/badge/Social-@ChloeBailey__-blue?style=social&logo=X)](https://twitter.com/@ChloeBailey)
-
+-   [![Twitter Follow](https://img.shields.io/badge/Social-@GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/@GavinNewsom)
+-   [![Twitter Follow](https://img.shields.io/badge/Social-@JenSiebelNewsom__-blue?style=social&logo=X)](https://twitter.com/@JenSiebelNewsom)
+-  [![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@Dance411)
+ 
 
    </div>
 
+@stateofcalifornia @whitehouse @nasa-jpl @nbcnews @blackgirlscode
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F6b0DvtWu0E?si=Y469sQgdtVo7D6OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi Parents, there is still time to register for the 2020 Spring Progressive Program!<br><br>Kids Dance 411 Progressive Program gets bigger and better with each and every season! Choose from a variety of dance styles from… <a href="https://t.co/xV5R6q5VtM">https://t.co/xV5R6q5VtM</a></p>&mdash; Dance 411 (@Dance411) <a href="https://x.com/Dance411/status/1233161454972370945?ref_src=twsrc%5Etfw">February 27, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kpW9zZH6XT4?si=8jlgl5fFvEQNPyZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
