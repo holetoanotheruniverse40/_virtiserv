@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+@blackgirlscode 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ok I’m not posting any more until it’s about a music announcement 💁🏽‍♀️</p>&mdash; TINA SNOW (@theestallion) <a href="https://x.com/theestallion/status/2076337592329495027?ref_src=twsrc%5Etfw">July 12, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ok I’m not posting any more until it’s about a music announcement 💁🏽‍♀️</p>&mdash; TINA SNOW (@theestallion) <a href="https://x.com/theestallion/status/2076337592329495027?ref_src=twsrc%5Etfw">July 12, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Ariana Grande appeared to give a subtle look at her rekindled romance with ex Ricky Álvarez in her July 27 Instagram post, showing the two sharing olives. <a href="https://t.co/6YVUWKyiVy">https://t.co/6YVUWKyiVy</a> <a href="https://t.co/lB3HXKOJBX">pic.twitter.com/lB3HXKOJBX</a></p>&mdash; E! News (@enews) <a href="https://x.com/enews/status/2081860944653693399?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
