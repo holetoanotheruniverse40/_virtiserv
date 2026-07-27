@@ -6,10 +6,10 @@ layout: default
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
-4 # UNiVERSE#########################VirtiservLatrice#####
+4 # UNiVERSE#########################Someone?#####
 {% endhighlight %}
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwBFOuCrdr4?si=y945qLtxli8bSxZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
@@ -20,6 +20,8 @@ layout: default
   <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">From the unforgettable performances, iconic moments, and the unmatched energy from the fans . Watch the official recap. Summer Jam 2026 🔥🎥 <a href="https://t.co/zxN1jMQR0V">pic.twitter.com/zxN1jMQR0V</a></p>&mdash; HOT 97 (@HOT97) <a href="https://x.com/HOT97/status/2081047995584315714?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">For some parents, finding the right place for their young children to learn can feel like a challenge. One McDonough mom decided that if she couldn&#39;t find the village her family needed, she would build it herself. <a href="https://t.co/Fs7N1yI4uY">https://t.co/Fs7N1yI4uY</a></p>&mdash; CBS Atlanta (@CBSNewsATL) <a href="https://x.com/CBSNewsATL/status/2081801800038965657?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
@@ -69,7 +71,7 @@ layout: default
 [![Twitter Follow](https://img.shields.io/badge/Social-@LaurenLondon__-blue?style=social&logo=X)](https://twitter.com/@LaurenLondon)
 [![Twitter Follow](https://img.shields.io/badge/Social-@CBSNewsATL__-blue?style=social&logo=X)](https://twitter.com/@CBSNewsATL)
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Y’all, I’m so fullllll. WE RICHHHHH 💛🥹</p>&mdash; My name is MUNI (@munilong) <a href="https://x.com/munilong/status/2069503919030468971?ref_src=twsrc%5Etfw">June 23, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E5RY0GUFNrs?si=07NAAd7Rh9LtWVcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
