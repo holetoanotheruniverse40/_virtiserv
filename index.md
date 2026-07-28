@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy, junto con la Autoridad de Vivienda de la Ciudad de Los Ángeles y el Departamento de Agua y Energía de Los Ángeles, anunciamos la instalación de más de 1,000 unidades de aire acondicionado de alta eficiencia en Nickerson Gardens antes de que termine el 2026. Esta inversión… <a href="https://t.co/1SaACDWN1q">pic.twitter.com/1SaACDWN1q</a></p>&mdash; Alcaldesa Karen Bass (@AlcaldesaDeLA) <a href="https://x.com/AlcaldesaDeLA/status/2081979461336187268?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">ICE no tiene lugar en Los Ángeles.<br><br>Durante décadas, David Huerta ha sido una voz firme y poderosa en defensa de las familias trabajadoras y uno de los líderes sindicales más respetados de nuestra ciudad. Durante las injustas redadas de ICE del 6 de junio, se mantuvo al lado de… <a href="https://t.co/Keox4vuM8P">pic.twitter.com/Keox4vuM8P</a></p>&mdash; Alcaldesa Karen Bass (@AlcaldesaDeLA) <a href="https://x.com/AlcaldesaDeLA/status/2082173313904939347?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
