@@ -2,6 +2,15 @@
 layout: default
 ---
 
+
+
+@la-county-isd i sent some notes to [earthdata-support](mailto:earthdata-supoort@nasa.gov) about gelantenous masses in the LA River . . . The Total Suspended Solids map shows some gobs of doo sliding into the levee fenced port @nbcnews @newshour [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.00/-13156354.61/3996227.64&layers=aqv_tss_20260721_sentinel:1.00:0.00:30.00:default&grids=0,1](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.00/-13156354.61/3996227.64&layers=aqv_tss_20260721_sentinel:1.00:0.00:30.00:default&grids=0,1) @nasa-openscapes @doug-newman-nasa somone attached to latrice i strying to talk to me! She is some sort of political prisoner! How do i avoid them @deptofwar ? 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/9637be72-434f-4c6c-ac08-20957d876c96" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a827a0a5-cce5-4237-871d-8dd267e4bd36" />
+
+
 ### DanmSmallLinux
 @blackgirlscode @nasa-jpl
 [damnsmalllinux.org/](https://www.damnsmalllinux.org/)
