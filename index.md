@@ -5,7 +5,7 @@ layout: default
 
 @CityofSantaMonica you think we got an oil spill ?
 @doug-newman-nasa you a skary ass white man! plz be gentle holly mitchell @cityoflosangeles 
-
+WaterTransPArency aka Secci [ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.48/-13138356.05/3947367.85&layers=aqv_secchi_20260721_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.48/-13138356.05/3947367.85&layers=aqv_secchi_20260721_sentinel:1.00:0.00:30.00:default)
 <img alt="image" src="https://github.com/user-attachments/assets/95f61ea3-fb9f-49cd-ad89-31efeb48ae87" />
 
 ```
