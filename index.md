@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<object class="scroller" data="https://bubblegumpop01.tumblr.com/" type="text/html" /></object>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2612057709210408%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 <object class="scroller" data="https://eyes.nasa.gov/apps/juno-embed/" type="text/html" /></object>
 
 [ @dhs-gov @commercegov @nasa-jpl @nasa-pds](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) // [ra5hard.github.io/](https://ra5hard.github.io/)
