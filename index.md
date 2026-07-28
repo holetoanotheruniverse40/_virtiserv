@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QbgeonJ_h2M?si=SqZdKM6Pfl_hpV90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Tash’s ‘Attention Is a Drug’ EP &amp; official remix video are OUT NOW. 🔥 Check out the video on YouTube, stream the record wherever you get your music &amp; pre-order the Clear Glass Vinyl at <a href="https://t.co/GfkpDogkCU">https://t.co/GfkpDogkCU</a>. <a href="https://t.co/AuHAxGXC1t">pic.twitter.com/AuHAxGXC1t</a></p>&mdash; Fat Beats (@fatbeats) <a href="https://x.com/fatbeats/status/2082172766426435782?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
