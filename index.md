@@ -2,9 +2,11 @@
 layout: default
 ---
 
+<iframe src="https://archive.org/embed/arcade_spf2t" class="scroller" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <object class="scroller" data="https://bubblegumpop01.tumblr.com/" type="text/html" ></object>
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2612057709210408%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2612057709210408%2F&show_text=false&width=267&t=0" class="scroller" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 <object class="scroller" data="https://eyes.nasa.gov/apps/juno-embed/" type="text/html" ></object>
 
