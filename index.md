@@ -3,6 +3,41 @@ layout: default
 ---
 
 
+@CityofSantaMonica you think we got an oil spill ?
+@doug-newman-nasa you a skary ass white man! plz be gentle holly mitchell @cityoflosangeles 
+
+<img alt="image" src="https://github.com/user-attachments/assets/95f61ea3-fb9f-49cd-ad89-31efeb48ae87" />
+
+```
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 07-28-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.21 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+
+[@eu-cdse @esa @blackgirlscode browser.dataspace.copernicus.eu/?zoom=11&lat=33.54025&lng=-118.00072&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FOqGYZlCQNRkrMdrA43Ke4nRP67DQDqxDLyFlMMS1mAAHYD86sf3HCNsjU9keucrUc6r0mNQKZpHRGyTFPT3vNSTpeazeiSBiz1RX4B7pgjAw0o2DxCFHt&datasetId=S2_L2A_CDAS&fromTime=2026-07-21T00%3A00%3A00.000Z&toTime=2026-07-21T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=11&lat=33.54025&lng=-118.00072&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FOqGYZlCQNRkrMdrA43Ke4nRP67DQDqxDLyFlMMS1mAAHYD86sf3HCNsjU9keucrUc6r0mNQKZpHRGyTFPT3vNSTpeazeiSBiz1RX4B7pgjAw0o2DxCFHt&datasetId=S2_L2A_CDAS&fromTime=2026-07-21T00%3A00%3A00.000Z&toTime=2026-07-21T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+<img   alt="image" src="https://github.com/user-attachments/assets/4a5550fe-80c7-4c7e-b74c-93269a8f0234" />
+
+<img alt="2026-07-21-00_00_2026-07-21-23_59_Sentinel-2_L2A_Highlight_Optimized_Natural_Color_" src="https://github.com/user-attachments/assets/dd0cb3f2-522c-4c8a-a8e6-136459724693" />
+
 
 @la-county-isd i sent some notes to [earthdata-support](mailto:earthdata-supoort@nasa.gov) about gelantenous masses in the LA River . . . The Total Suspended Solids map shows some gobs of doo sliding into the levee fenced port @nbcnews @newshour [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.00/-13156354.61/3996227.64&layers=aqv_tss_20260721_sentinel:1.00:0.00:30.00:default&grids=0,1](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.00/-13156354.61/3996227.64&layers=aqv_tss_20260721_sentinel:1.00:0.00:30.00:default&grids=0,1) @nasa-openscapes @doug-newman-nasa somone attached to latrice i strying to talk to me! She is some sort of political prisoner! How do i avoid them @deptofwar ? 
 
