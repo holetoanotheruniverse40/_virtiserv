@@ -2,11 +2,19 @@
 layout: default
 ---
 
+
+hi @blackgirlscode im just growing up lately... normani had fun during world cup ...
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">She concentrated. She coded. She laughed with her people. This is what belonging looks like. <a href="https://x.com/hashtag/BlackGirlsCode?src=hash&amp;ref_src=twsrc%5Etfw">#BlackGirlsCode</a> <a href="https://t.co/CM5uXniAdK">pic.twitter.com/CM5uXniAdK</a></p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2081180013102047499?ref_src=twsrc%5Etfw">July 26, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <iframe src="https://archive.org/embed/arcade_spf2t" class="scroller" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 
 [@usnavy @nasa-pds @nasa @nbcnews](https://www.youtube.com/watch?v=izGMrgUxKtQ&themeRefresh=1) snl know pp[l f](https://www.nbc.com/nbc-insider/snl-october-15-2022-watch-megan-thee-stallions-hot-girl-hospital)rom [bossip](https://bossip.com/) , look into this quick its so [ambiguous](https://dictionary.cambridge.org/us/dictionary/english/ambiguous) ! @blackgirlscode @whitehouse @cityoflosangeles
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Federal authorities are charged with protecting the public, but a Secret Service agent recently abandoned that duty to take part in a fraternity hazing ritual so brutal that prosecutors say it nearly turned deadly.<a href="https://t.co/dN8amfWXFG">https://t.co/dN8amfWXFG</a> <a href="https://t.co/SC4x9EqtE5">pic.twitter.com/SC4x9EqtE5</a></p>&mdash; Bossip (@Bossip) <a href="https://x.com/Bossip/status/2082153469385851252?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sooo...when I go on my little soapbox about this thing called a &quot;tech pipeline&quot;? This pic is what I mean. Almost 100 little Black/brown girls (in Oakland) doing robotics the Sat before Christmas. <a href="https://t.co/408m1BqHmM">pic.twitter.com/408m1BqHmM</a></p>&mdash; Kimberly Bryant (@6Gems) <a href="https://x.com/6Gems/status/942153375969198080?ref_src=twsrc%5Etfw">December 16, 2017</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <object class="scroller" data="https://prd.hot97.com/summer-jam" type="text/html" ></object>
 
