@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## HOT 97 News Live! 7/28/26
+Today, HOT 97 cuts through the noise on the biggest national headlines, giving you the unfiltered context and street-smart takes on the stories impacting our world and the hip-hop community. We're diving deep into the culture, from global conflicts to tech's impact, live from the HOT 97 studio. Stay locked in daily for the raw truth and authentic conversation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sJ6XgzN92lo?si=Vdtb-ftCuDFcYcxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Reefer Madness
 [imdb](https://www.imdb.com/title/tt0028346/) @howard-university-web-services 
