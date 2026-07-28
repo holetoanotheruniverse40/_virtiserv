@@ -2,6 +2,159 @@
 layout: default
 ---
 
+
+
+@CityOfLosAngeles Karen Bass @noaagov @nasa-jpl @nasa-pds @dhs-gov @whitehouse @howard-university-web-services
+
+# NS Records @deptofwar @StateOfCalifornia
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| ice.gov | max.ns.cloudflare.com. | 21600 | 
+| ice.gov | raina.ns.cloudflare.com. | 21600 | 
+
+[FY12-24YTD ICE detention analysis @UWCHR](https://uwchr.github.io/ice-detain/) /// [`Employees ask @GitHub` to cancel ICE contract](https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/)
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">I clashed with Trump&#39;s ICE agents and Angeleno&#39;s locked arms to protect our neighbors.<br><br>I achieved the first two-year drop in homelessness ever. <br><br>I battled red tape and insurers to help families rebuild from fires. <br><br>Now, I haven&#39;t always got it right. There&#39;s more work to do.… <a href="https://t.co/NUArlCsFF9">pic.twitter.com/NUArlCsFF9</a></p>&mdash; Karen Bass (@KarenBassLA) <a href="https://x.com/KarenBassLA/status/2047707712029675791?ref_src=twsrc%5Etfw">April 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+@USnavy , @icegov got comprimised, idk where the team is coding now . . . @Whitehouse [github.com/icegov](https://github.com/icegov) - [ @GitHub is trying to quell employee anger over its ICE contract. It’s not going well @datadesk](https://www.latimes.com/business/technology/story/2019-10-31/github-ice-contract-defense)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fdb51c22-ce10-4184-bbd1-06f71f217693" />
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">ICE no tiene lugar en Los Ángeles.<br><br>Durante décadas, David Huerta ha sido una voz firme y poderosa en defensa de las familias trabajadoras y uno de los líderes sindicales más respetados de nuestra ciudad. Durante las injustas redadas de ICE del 6 de junio, se mantuvo al lado de… <a href="https://t.co/Keox4vuM8P">pic.twitter.com/Keox4vuM8P</a></p>&mdash; Alcaldesa Karen Bass (@AlcaldesaDeLA) <a href="https://x.com/AlcaldesaDeLA/status/2082173313904939347?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| ice.gov | max.ns.cloudflare.com. | 21600 | 
+| ice.gov | raina.ns.cloudflare.com. | 21600 | 
+
+# MX Records 
+
+## mxb-0038fd02.gslb.gpphosted.com.
+
+| Mx Record | mxb-0038fd02.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.228.37 | 
+| Status | Success | 
+| Test duration(ms) | 28 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxa-0038fd02.gslb.gpphosted.com.
+
+| Mx Record | mxa-0038fd02.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.37 | 
+| Status | Success | 
+| Test duration(ms) | 66 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+# MX Records 
+
+## mxb-00262c01.gslb.pphosted.com.
+
+| Mx Record | mxb-00262c01.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 148.163.152.163 | 
+| Status | Success | 
+| Test duration(ms) | 22 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxa-00262c01.gslb.pphosted.com.
+
+| Mx Record | mxa-00262c01.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 148.163.148.230 | 
+| Status | Success | 
+| Test duration(ms) | 66 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+# MX Records 
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 20 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+
+# MX Records 
+
+## mxa-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxa-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 68 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxb-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 67 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+
+
+
+
+
+
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QbgeonJ_h2M?si=SqZdKM6Pfl_hpV90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Tash’s ‘Attention Is a Drug’ EP &amp; official remix video are OUT NOW. 🔥 Check out the video on YouTube, stream the record wherever you get your music &amp; pre-order the Clear Glass Vinyl at <a href="https://t.co/GfkpDogkCU">https://t.co/GfkpDogkCU</a>. <a href="https://t.co/AuHAxGXC1t">pic.twitter.com/AuHAxGXC1t</a></p>&mdash; Fat Beats (@fatbeats) <a href="https://x.com/fatbeats/status/2082172766426435782?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
@@ -23,7 +176,16 @@ layout: default
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy, junto con la Autoridad de Vivienda de la Ciudad de Los Ángeles y el Departamento de Agua y Energía de Los Ángeles, anunciamos la instalación de más de 1,000 unidades de aire acondicionado de alta eficiencia en Nickerson Gardens antes de que termine el 2026. Esta inversión… <a href="https://t.co/1SaACDWN1q">pic.twitter.com/1SaACDWN1q</a></p>&mdash; Alcaldesa Karen Bass (@AlcaldesaDeLA) <a href="https://x.com/AlcaldesaDeLA/status/2081979461336187268?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">ICE no tiene lugar en Los Ángeles.<br><br>Durante décadas, David Huerta ha sido una voz firme y poderosa en defensa de las familias trabajadoras y uno de los líderes sindicales más respetados de nuestra ciudad. Durante las injustas redadas de ICE del 6 de junio, se mantuvo al lado de… <a href="https://t.co/Keox4vuM8P">pic.twitter.com/Keox4vuM8P</a></p>&mdash; Alcaldesa Karen Bass (@AlcaldesaDeLA) <a href="https://x.com/AlcaldesaDeLA/status/2082173313904939347?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5da445ba-85fc-43d9-bc23-477727ab97b7" />
+
+
+
+
 
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
      width="425.2px" height="99.21px" viewBox="0 0 425.2 99.21" enable-background="new 0 0 425.2 99.21" xml:space="preserve" stroke="white" stroke-width=".5%">
@@ -151,20 +313,6 @@ layout: default
  
   <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 ```
-
-
-@ice-gov 
-@CityOfLosAngeles Karen Bass @noaagov @nasa-jpl @nasa-pds @dhs-gov
-[FY12-24YTD ICE detention analysis @UWCHR](https://uwchr.github.io/ice-detain/) /// [`Employees ask @GitHub` to cancel ICE contract](https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/)
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">I clashed with Trump&#39;s ICE agents and Angeleno&#39;s locked arms to protect our neighbors.<br><br>I achieved the first two-year drop in homelessness ever. <br><br>I battled red tape and insurers to help families rebuild from fires. <br><br>Now, I haven&#39;t always got it right. There&#39;s more work to do.… <a href="https://t.co/NUArlCsFF9">pic.twitter.com/NUArlCsFF9</a></p>&mdash; Karen Bass (@KarenBassLA) <a href="https://x.com/KarenBassLA/status/2047707712029675791?ref_src=twsrc%5Etfw">April 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-@USnavy , @icegov got comprimised, idk where the team is coding now . . . @Whitehouse [github.com/icegov](https://github.com/icegov)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/5da445ba-85fc-43d9-bc23-477727ab97b7" />
-
-
-[ @GitHub is trying to quell employee anger over its ICE contract. It’s not going well @datadesk](https://www.latimes.com/business/technology/story/2019-10-31/github-ice-contract-defense)
-<img  alt="image" src="https://github.com/user-attachments/assets/fdb51c22-ce10-4184-bbd1-06f71f217693" />
 
 
 [https://www.onlinegdb.com/online_bash_shell](https://www.onlinegdb.com/online_bash_shell)
