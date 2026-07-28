@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+# Reefer Madness
+[imdb](https://www.imdb.com/title/tt0028346/) @howard-university-web-services 
+<iframe src="https://archive.org/embed/reefer_madness1938" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 @CityofSantaMonica you think we got an oil spill ?
 @doug-newman-nasa you a skary ass white man! plz be gentle holly mitchell @cityoflosangeles 
 WaterTransPArency aka Secci [ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.48/-13138356.05/3947367.85&layers=aqv_secchi_20260721_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.48/-13138356.05/3947367.85&layers=aqv_secchi_20260721_sentinel:1.00:0.00:30.00:default)
