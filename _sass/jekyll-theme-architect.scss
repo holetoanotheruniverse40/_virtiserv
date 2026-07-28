@@ -62,6 +62,15 @@ a:visited {
   color: aqua;
 }
 
+.scroller {
+  border: 1px solid dodgerblue;
+  padding: 5px;
+  margin:5px;
+  width: 100%;
+  height: 50vh;
+  container-type: inline-size;
+  }
+
 header {
   padding-top: 40px;
   padding-bottom: 40px;
