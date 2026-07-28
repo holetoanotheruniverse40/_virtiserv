@@ -1,7 +1,28 @@
 ---
 layout: default
 ---
+
+<img  alt="image-images-0" src="https://github.com/user-attachments/assets/d7ea02e3-6c61-48b6-9943-d762e1a8347e" />
+
 @blackgirlscode 
+
+<img  alt="image-images-1 @blackgirlscode forgive me please I see dirt and accomplishment" src="https://github.com/user-attachments/assets/c32750c8-6c32-4b35-9821-a7527ee73785" />
+
+<img  alt="image-images-2" src="https://github.com/user-attachments/assets/7361a33c-5646-40a0-86f4-f08a02ddfffc" />
+
+
+<img   alt="image-images-3 @blackgirlscode forgive me please I had to work  erika" src="https://github.com/user-attachments/assets/47ae5e31-e50a-4a42-a1ab-b58d0a332449" />
+
+<img   alt="image-images-5" src="https://github.com/user-attachments/assets/af04119e-141a-4cd3-8a1d-3ee4c0bb884d" />
+
+<img   alt="image-images-8" src="https://github.com/user-attachments/assets/49a8f4e1-948c-4952-8180-4bea6aab57b7" />
+
+<img   alt="image-images-9" src="https://github.com/user-attachments/assets/5b6daa47-8e11-427f-b06d-2dbb65a4fa3a" />
+
+<img   alt="image-images-10" src="https://github.com/user-attachments/assets/cfc640da-61f7-439b-afb4-b778c6562a14" />
+
+<img  alt="image-images-11" src="https://github.com/user-attachments/assets/060ba295-7fd2-464f-a9c6-093882efa3e8" />
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ok I’m not posting any more until it’s about a music announcement 💁🏽‍♀️</p>&mdash; TINA SNOW (@theestallion) <a href="https://x.com/theestallion/status/2076337592329495027?ref_src=twsrc%5Etfw">July 12, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
