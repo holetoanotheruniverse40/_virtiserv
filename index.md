@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Knowledge is power—and every young person deserves to know their rights.⁰This summer, the <a href="https://x.com/lacountyyouth?ref_src=twsrc%5Etfw">@lacountyyouth</a>, <a href="https://x.com/lapubdef?ref_src=twsrc%5Etfw">@lapubdef</a>, and <a href="https://x.com/APD_LOSANGELES?ref_src=twsrc%5Etfw">@APD_LOSANGELES</a> Office partnered to equip young people with essential information about their constitutional rights and pathways to civic action. (🧵1/2) <a href="https://t.co/ckhaqngyCR">pic.twitter.com/ckhaqngyCR</a></p>&mdash; LA County Public Defender&#39;s Office (@lapubdef) <a href="https://x.com/lapubdef/status/2080700390652432799?ref_src=twsrc%5Etfw">July 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 hi @blackgirlscode im just growing up lately... normani had fun during world cup ...
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">She concentrated. She coded. She laughed with her people. This is what belonging looks like. <a href="https://x.com/hashtag/BlackGirlsCode?src=hash&amp;ref_src=twsrc%5Etfw">#BlackGirlsCode</a> <a href="https://t.co/CM5uXniAdK">pic.twitter.com/CM5uXniAdK</a></p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2081180013102047499?ref_src=twsrc%5Etfw">July 26, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
