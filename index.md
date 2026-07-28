@@ -2,7 +2,10 @@
 layout: default
 ---
 
-
+### DanmSmallLinux
+@blackgirlscode @nasa-jpl
+[damnsmalllinux.org/](https://www.damnsmalllinux.org/)
+[Try - copy.sh/v86/](https://copy.sh/v86/)
 
 @CityOfLosAngeles Karen Bass @noaagov @nasa-jpl @nasa-pds @dhs-gov @whitehouse @howard-university-web-services
 
