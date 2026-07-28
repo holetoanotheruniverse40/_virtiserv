@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Grambling State proudly announces the 2026 class of The Distinguished 10, honoring exceptional alumni who exemplify the impact of a GSU education. The D10 Ceremony takes place on Friday, Oct. 2.<br>Read more: <a href="https://t.co/GhkgHSketV">https://t.co/GhkgHSketV</a><br><br>Tickets: <a href="https://t.co/ZS64djAgWM">https://t.co/ZS64djAgWM</a> <a href="https://t.co/bdtkQzmzvq">pic.twitter.com/bdtkQzmzvq</a></p>&mdash; Grambling State Univ (@Grambling1901) <a href="https://x.com/Grambling1901/status/2077880802809954629?ref_src=twsrc%5Etfw">July 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big conversations. Meaningful impact. President Lemelle will join higher ed. &amp; industry leaders at HBCU Legacy Week on the Vineyard for a panel on innovation &amp; venture capital opportunities that strengthen HBCUs. Join us Tues., July 28 | 4PM Oak Bluffs Library | Oak Bluffs, MA <a href="https://t.co/nxbxEcVyR5">pic.twitter.com/nxbxEcVyR5</a></p>&mdash; Grambling State Univ (@Grambling1901) <a href="https://x.com/Grambling1901/status/2079954893368905814?ref_src=twsrc%5Etfw">July 22, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
