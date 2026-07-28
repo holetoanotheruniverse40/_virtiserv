@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Summer Jam ‘26 📸 <a href="https://x.com/HOT97?ref_src=twsrc%5Etfw">@HOT97</a> <a href="https://t.co/DnZKZokAAe">pic.twitter.com/DnZKZokAAe</a></p>&mdash; ITSBIZKIT (@ITSBIZKIT) <a href="https://x.com/ITSBIZKIT/status/2081790559320981733?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+[ @dhs-gov @commercegov @nasa-jpl @nasa-pds](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) // [ra5hard.github.io/](https://ra5hard.github.io/)
+<img alt="image" src="https://github.com/user-attachments/assets/9bdd5866-5020-402f-a3eb-6d4e0fc17c62" />
+
+
 <iframe src="https://archive.org/embed/arcade_spf2t" class="scroller" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <object class="scroller" data="https://bubblegumpop01.tumblr.com/" type="text/html" ></object>
@@ -12,8 +18,6 @@ layout: default
 
 <object class="scroller" data="https://rashardmro.tumblr.com/" type="text/html" ></object>
 
-[ @dhs-gov @commercegov @nasa-jpl @nasa-pds](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) // [ra5hard.github.io/](https://ra5hard.github.io/)
-<img alt="image" src="https://github.com/user-attachments/assets/9bdd5866-5020-402f-a3eb-6d4e0fc17c62" />
 
 
 <img  alt="image-images-0" src="https://github.com/user-attachments/assets/d7ea02e3-6c61-48b6-9943-d762e1a8347e" />
