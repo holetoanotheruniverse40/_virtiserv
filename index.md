@@ -2,6 +2,15 @@
 layout: default
 ---
 
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Tash’s ‘Attention Is a Drug’ EP &amp; official remix video are OUT NOW. 🔥 Check out the video on YouTube, stream the record wherever you get your music &amp; pre-order the Clear Glass Vinyl at <a href="https://t.co/GfkpDogkCU">https://t.co/GfkpDogkCU</a>. <a href="https://t.co/AuHAxGXC1t">pic.twitter.com/AuHAxGXC1t</a></p>&mdash; Fat Beats (@fatbeats) <a href="https://x.com/fatbeats/status/2082172766426435782?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">.<a href="https://x.com/Nas?ref_src=twsrc%5Etfw">@Nas</a> x <a href="https://x.com/REALDJPREMIER?ref_src=twsrc%5Etfw">@REALDJPREMIER</a> present ‘Light-Years’ - 2xLP Clear w/ Black Swirl Vinyl, Red Sunset Vinyl ft. graffiti inserts, classic black vinyl, CD &amp; cassette available now at FatBeats. <a href="https://t.co/xOPGCqg5Yu">https://t.co/xOPGCqg5Yu</a> <a href="https://t.co/gshvuHKrnI">pic.twitter.com/gshvuHKrnI</a></p>&mdash; Fat Beats (@fatbeats) <a href="https://x.com/fatbeats/status/2081764021829566499?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for a way to stay cool this summer? 🌞🏊‍♂️ check out <a href="https://x.com/LACityParks?ref_src=twsrc%5Etfw">@LACityParks</a> Recreation Centers to find an open city swimming pool near you. Dive in and beat the heat! <br>For more info on specific locations, visit <a href="https://t.co/54ltCU7WJq">https://t.co/54ltCU7WJq</a>. <a href="https://t.co/aAjWFJI9ne">pic.twitter.com/aAjWFJI9ne</a></p>&mdash; City of Los Angeles (@LACity) <a href="https://x.com/LACity/status/2081016692352659858?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Karen Bass is a Marxist who hates America and has destroyed LA. She should be in prison for criminal negligence and nowhere near the Mayor’s office. Without election fraud she has no chance. <a href="https://t.co/DfrM8QWjvO">pic.twitter.com/DfrM8QWjvO</a></p>&mdash; HVYMTL (@thehvymetal) <a href="https://x.com/thehvymetal/status/2062062518009479555?ref_src=twsrc%5Etfw">June 3, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
