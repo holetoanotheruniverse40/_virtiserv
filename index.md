@@ -2,6 +2,13 @@
 layout: default
 ---
 
+
+@ice-gov 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">I clashed with Trump&#39;s ICE agents and Angeleno&#39;s locked arms to protect our neighbors.<br><br>I achieved the first two-year drop in homelessness ever. <br><br>I battled red tape and insurers to help families rebuild from fires. <br><br>Now, I haven&#39;t always got it right. There&#39;s more work to do.… <a href="https://t.co/NUArlCsFF9">pic.twitter.com/NUArlCsFF9</a></p>&mdash; Karen Bass (@KarenBassLA) <a href="https://x.com/KarenBassLA/status/2047707712029675791?ref_src=twsrc%5Etfw">April 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+[https://www.onlinegdb.com/online_bash_shell](https://www.onlinegdb.com/online_bash_shell)
+<img   alt="image" src="https://github.com/user-attachments/assets/34d706d6-1af7-467b-a7c1-d9fbe7306958" />
+
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Golf is a world-class sport and every girl in Los Angeles should have access to the health and social benefits it brings. During the U.S. Women&#39;s Open Golf Championship we held 32 free Golf FORE Her clinics across the city, training up the next generation of golf champions!  ⛳️ <a href="https://t.co/Y99AuhWrf0">pic.twitter.com/Y99AuhWrf0</a></p>&mdash; Mayor Karen Bass (@MayorOfLA) <a href="https://x.com/MayorOfLA/status/2082168138943402184?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Roll Call, Canes Fam! Who’s pulling up to <a href="https://x.com/HardRockStadium?ref_src=twsrc%5Etfw">@hardrockstadium</a> this season? 🙌 <a href="https://t.co/oAwTbkTLFm">pic.twitter.com/oAwTbkTLFm</a></p>&mdash; Miami Hurricanes (@MiamiHurricanes) <a href="https://x.com/MiamiHurricanes/status/2079295347394818194?ref_src=twsrc%5Etfw">July 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
