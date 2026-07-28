@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<iframe src="https://archive.org/embed/arcade_spf2t" class="scroller" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[@usnavy @nasa-pds @nasa @nbcnews](https://www.youtube.com/watch?v=izGMrgUxKtQ&themeRefresh=1) snl know pp[l f](https://www.nbc.com/nbc-insider/snl-october-15-2022-watch-megan-thee-stallions-hot-girl-hospital)rom [bossip](https://bossip.com/) , look into this quick its so [ambiguous](https://dictionary.cambridge.org/us/dictionary/english/ambiguous) ! @blackgirlscode @whitehouse @cityoflosangeles
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Federal authorities are charged with protecting the public, but a Secret Service agent recently abandoned that duty to take part in a fraternity hazing ritual so brutal that prosecutors say it nearly turned deadly.<a href="https://t.co/dN8amfWXFG">https://t.co/dN8amfWXFG</a> <a href="https://t.co/SC4x9EqtE5">pic.twitter.com/SC4x9EqtE5</a></p>&mdash; Bossip (@Bossip) <a href="https://x.com/Bossip/status/2082153469385851252?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 <object class="scroller" data="https://prd.hot97.com/summer-jam" type="text/html" ></object>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Summer Jam ‘26 📸 <a href="https://x.com/HOT97?ref_src=twsrc%5Etfw">@HOT97</a> <a href="https://t.co/DnZKZokAAe">pic.twitter.com/DnZKZokAAe</a></p>&mdash; ITSBIZKIT (@ITSBIZKIT) <a href="https://x.com/ITSBIZKIT/status/2081790559320981733?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
@@ -10,7 +16,7 @@ layout: default
 <img alt="image" src="https://github.com/user-attachments/assets/9bdd5866-5020-402f-a3eb-6d4e0fc17c62" />
 
 
-<iframe src="https://archive.org/embed/arcade_spf2t" class="scroller" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 <object class="scroller" data="https://bubblegumpop01.tumblr.com/" type="text/html" ></object>
 
