@@ -33,6 +33,71 @@ layout: default
 | ice.gov | max.ns.cloudflare.com. | 21600 | 
 | ice.gov | raina.ns.cloudflare.com. | 21600 | 
 
+
+
+# MX Records @nasa-jpl @usnavy
+
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 20 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+
+# MX Records 
+@SpaceExplorationTechnoligies
+spacex.com	mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+## mxa-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxa-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 68 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxb-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 67 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
 # MX Records 
 
 ## mxb-0038fd02.gslb.gpphosted.com.
@@ -90,63 +155,6 @@ layout: default
 | Country | United States | 
 | Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
 
-# MX Records 
-
-## mxa-0020b901.gslb.pphosted.com.
-
-| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
-| -----------|---------------------------------|
-| IP | 67.231.155.103 | 
-| Status | Success | 
-| Test duration(ms) | 25 | 
-| AS Number | AS22843 | 
-| Organization | Proofpoint, Inc. | 
-| Domain | proofpoint.com | 
-| Country | United States | 
-| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
-
-## mxb-0020b901.gslb.pphosted.com.
-
-| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
-| -----------|---------------------------------|
-| IP | 67.231.155.103 | 
-| Status | Success | 
-| Test duration(ms) | 20 | 
-| AS Number | AS22843 | 
-| Organization | Proofpoint, Inc. | 
-| Domain | proofpoint.com | 
-| Country | United States | 
-| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
-
-
-
-# MX Records 
-
-## mxa-003ea501.gslb.gpphosted.com.
-
-| Mx Record | mxa-003ea501.gslb.gpphosted.com. | 
-| -----------|----------------------------------|
-| IP | 66.159.227.33 | 
-| Status | Success | 
-| Test duration(ms) | 68 | 
-| AS Number | AS26211 | 
-| Organization | Proofpoint, Inc. | 
-| Domain | proofpoint.com | 
-| Country | United States | 
-| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
-
-## mxb-003ea501.gslb.gpphosted.com.
-
-| Mx Record | mxb-003ea501.gslb.gpphosted.com. | 
-| -----------|----------------------------------|
-| IP | 66.159.227.33 | 
-| Status | Success | 
-| Test duration(ms) | 67 | 
-| AS Number | AS26211 | 
-| Organization | Proofpoint, Inc. | 
-| Domain | proofpoint.com | 
-| Country | United States | 
-| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
 
 
 
