@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">ICE no tiene lugar en Los Ángeles.<br><br>Durante décadas, David Huerta ha sido una voz firme y poderosa en defensa de las familias trabajadoras y uno de los líderes sindicales más respetados de nuestra ciudad. Durante las injustas redadas de ICE del 6 de junio, se mantuvo al lado de… <a href="https://t.co/Keox4vuM8P">pic.twitter.com/Keox4vuM8P</a></p>&mdash; Alcaldesa Karen Bass (@AlcaldesaDeLA) <a href="https://x.com/AlcaldesaDeLA/status/2082173313904939347?ref_src=twsrc%5Etfw">July 28, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
      width="425.2px" height="99.21px" viewBox="0 0 425.2 99.21" enable-background="new 0 0 425.2 99.21" xml:space="preserve" stroke="white" stroke-width=".5%">
   <g>
