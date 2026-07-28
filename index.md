@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Como presidente, crearé un plan para que Metro pueda ser gratis en el futuro.<br><br>Durante toda mi carrera he trabajado para tener un mejor sistema de transporte, porque todos deben tener la oportunidad de moverse por la ciudad. <a href="https://x.com/hashtag/karenbass?src=hash&amp;ref_src=twsrc%5Etfw">#karenbass</a> <a href="https://x.com/hashtag/alcaldesadeLA?src=hash&amp;ref_src=twsrc%5Etfw">#alcaldesadeLA</a> <a href="https://t.co/qNCH6Ioqg7">pic.twitter.com/qNCH6Ioqg7</a></p>&mdash; Alcaldesa Karen Bass (@AlcaldesaDeLA) <a href="https://x.com/AlcaldesaDeLA/status/2080821166017778068?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">Como alcaldesa de Los Ángeles, mi trabajo es escuchar de primera mano las preocupaciones de las familias que viven cerca del almacén de Lineage. Por eso organizamos esta feria de recursos, a solo unas cuadras del almacén, para llevar la ayuda directamente a la comunidad.… <a href="https://t.co/1qFkrHV6jW">pic.twitter.com/1qFkrHV6jW</a></p>&mdash; Alcaldesa Karen Bass (@AlcaldesaDeLA) <a href="https://x.com/AlcaldesaDeLA/status/2081121612209029157?ref_src=twsrc%5Etfw">July 25, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
