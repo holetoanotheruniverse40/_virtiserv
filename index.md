@@ -5,7 +5,19 @@ layout: default
 
 | Domain Name | NS | TTL | TownShip |
 |-------------|----|-----|----------|
+| jpl.nasa.gov | a2-67.akam.net. | 21600 | @la-county-isd |
+
+| Domain Name | NS | TTL | TownShip |
+|-------------|----|-----|----------|
 | jpl.nasa.gov @nasa-jpl | a14-67.akam.net. | 21600 | @la-county-isd |
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov | a14-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a7-65.akam.net. | 21600 | 
+| jpl.nasa.gov | a11-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a1-91.akam.net. | 21600 | 
+| jpl.nasa.gov | a8-65.akam.net. | 21600 | 
 
 [@nasa-jpl @blackgirlscode whatismyipaddress.com/hostname-ip](https://whatismyipaddress.com/hostname-ip)
 
