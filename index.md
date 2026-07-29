@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+@nasa-jpl kansas got some bad white dudes!! I'm using this girl blog bc that's what she said she can do for me in this era, virtiserv is an LLC so she can get the account unblocked when I work, so @Blackgirlscode @emergingcoders Latrice Fitzpatrick and Lana of hot97 bought me a white Kia with blue seats to host my work, and gave me time and parts to build it @cityoflosangeles Pasadena I'm scared of Koch! THey know where the servers are! @cnn @foratlanta 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/589d9ab5-c26a-4f8d-b793-ef1fde87f544" />
+
+
 | Domain Name | NS | TTL | TownShip |
 |-------------|----|-----|----------|
 | jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | @Chicago |
