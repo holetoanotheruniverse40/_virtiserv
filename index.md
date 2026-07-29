@@ -2,6 +2,17 @@
 layout: default
 ---
 
+[@nasa-jpl @blackgirlscode whatismyipaddress.com/hostname-ip](https://whatismyipaddress.com/hostname-ip)
+
+```shell
+Lookup on Hostname: a14-67.akam.net
+IPv4 Address: 184.26.161.67
+IPv6 Address: 2600:1480:1800::43
+```
+
+[Mars’ missing atmosphere could be hiding in plain sight @mitodl](https://news.mit.edu/2024/mars-missing-atmosphere-could-be-hiding-plain-sight-0925)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5da0630c-d4a0-4dec-a3c7-8f89336813ab" />
 
 [tools.keycdn.com/geo](https://tools.keycdn.com/geo)
 
