@@ -2,6 +2,42 @@
 layout: default
 ---
 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | 
+| war.gov @deptofwar| asia3.akam.net. | 21600 | 
+
+```
+Location
+
+Country United States (US)
+Continent North America (NA)
+Coordinates 37.751 (lat) / -97.822 (long)
+Time 2026-07-29 17:04:01 (America/Chicago)
+Network
+IP address 184.26.161.67
+Hostname a14-67.akam.net
+Provider Akamai International B.V.
+ASN 21342
+```
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov | a14-67.akam.net. | 21600 | 
+| war.gov @deptofwar| asia3.akam.net. | 21600 | 
+
+```shell
+Location
+Country United States (US)
+Continent North America (NA)
+Coordinates 37.751 (lat) / -97.822 (long)
+Time 2026-07-29 17:02:05 (America/Chicago)
+Network
+IP address 23.211.61.64
+Hostname a22-64.akam.net
+Provider Akamai International B.V.
+ASN 21342
+```
+
 # NS Records 
 
 | Domain Name | NS | TTL | 
