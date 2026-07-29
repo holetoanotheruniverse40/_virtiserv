@@ -26,6 +26,14 @@ permalink: losangeles
 
 
 
+# MArina Del Ray
+
+
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=14.81/-13184464.13/4025183.46&layers=aqv_tss_20260721_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=14.81/-13184464.13/4025183.46&layers=aqv_tss_20260721_sentinel:1.00:0.00:30.00:default)
+
+<img alt="image" src="https://github.com/user-attachments/assets/3fe92a7e-3652-4ff7-838d-4e39da95f903" />
+
+
 <div class="tupperware">
     
 {% for image in site.static_files %}
