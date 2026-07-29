@@ -5,6 +5,22 @@ layout: default
 
 <img  alt="tumblr_de9d9805664076eadfc27765172b64e5_219e25ac_1280 @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/098ee1df-fa5b-43e8-b4f9-9a3c87f1687d" />
 
+@deptofwar @teslamotors @nasa-jpl @nasa-openscapes
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov @deptofwar| use9.akam.net. | 21600 | 
+| war.gov @deptofwar| asia3.akam.net. | 21600 | 
+| war.gov @deptofwar| asia2.akam.net. | 21600 | 
+| war.gov @deptofwar| usc5.akam.net. | 21600 | 
+| war.gov @deptofwar| eur6.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-116.akam.net. | 21600 | 
+| war.gov @deptofwar| use2.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-95.akam.net. | 21600 | 
+
+
 
 @whitehouse @nasa-jpl
 <img src="https://64.media.tumblr.com/f19d40c5a0fdf7076ac9d7f076df1b65/8de9265f993c8ac9-b2/s1280x1920/c4f86e5ea6a5a5af50c7a8ad1db4287321f5dff2.png"/>
