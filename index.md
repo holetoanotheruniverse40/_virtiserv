@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+@whitehouse @nasa-jpl
+<img src="https://64.media.tumblr.com/f19d40c5a0fdf7076ac9d7f076df1b65/8de9265f993c8ac9-b2/s1280x1920/c4f86e5ea6a5a5af50c7a8ad1db4287321f5dff2.png"/>
+
 [https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/0000_firedata_virtiserv_SimpleScanStation20260105145139/](https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/0000_firedata_virtiserv_SimpleScanStation20260105145139/) 
 
 @nasa [Detecting Oil Thickness to Aid Oil Spill Response](https://appliedsciences.nasa.gov/our-impact/news/detecting-oil-thickness-aid-oil-spill-response)
