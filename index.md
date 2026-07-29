@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+[WesternUS @usatoday @noaagov](https://worldview.earthdata.nasa.gov/?v=-133.7035031989147,30.224460512941004,-106.39920146502648,43.663296522589114&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,VIIRS_NOAA20_DayNightBand,BlueMarble_ShadedRelief&lg=true&t=2026-07-27-T00%3A00%3A00Z)
+<img alt="image" src="https://github.com/user-attachments/assets/2cce795f-257b-4436-a837-71aac7ab2d33" />
+
+
 [hot97.com/tv/](https://www.hot97.com/tv/)
 @nasa-jpl there is an oil spill in the Pacific west of Los Angeles, its in some notes I sent earthdata support @doug-newman-nasa
 [Atlanta At Night + ElNino clues hot97.com/tv/](https://worldview.earthdata.nasa.gov/?v=-92.59702520844654,28.27424260856981,-77.3638075161502,35.771841941496916&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,VIIRS_NOAA21_DayNightBand,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-07-27-T01%3A47%3A44Z)
