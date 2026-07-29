@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-
+@nasa [Detecting Oil Thickness to Aid Oil Spill Response](https://appliedsciences.nasa.gov/our-impact/news/detecting-oil-thickness-aid-oil-spill-response)
 
 @newshour @nbcnews oregon
 [https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-114.0,45.0,6.7z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-114.0,45.0,6.7z) 
