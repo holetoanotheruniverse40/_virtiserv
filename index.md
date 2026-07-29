@@ -7,6 +7,19 @@ layout: default
 |-------------|----|-----|----------|
 | jpl.nasa.gov | a2-67.akam.net. | 21600 | @la-county-isd |
 
+```shell
+Location
+Country The Netherlands (NL)
+Continent Europe (EU)
+Coordinates 52.3824 (lat) / 4.8995 (long)
+Time 2026-07-30 00:34:11 (Europe/Amsterdam)
+Network
+IP address 95.100.174.67
+Hostname a2-67.akam.net
+ProviderAkamai International B.V.
+ASN21342
+```
+
 | Domain Name | NS | TTL | TownShip |
 |-------------|----|-----|----------|
 | jpl.nasa.gov @nasa-jpl | a14-67.akam.net. | 21600 | @la-county-isd |
