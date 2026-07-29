@@ -2,10 +2,10 @@
 layout: default
 ---
 
-| Domain Name | NS | TTL | 
-|-------------|----|-----|
-| jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | 
-| war.gov @deptofwar| asia3.akam.net. | 21600 | 
+| Domain Name | NS | TTL | TownShip |
+|-------------|----|-----|----------|
+| jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | @Chicago |
+| war.gov @deptofwar| asia3.akam.net. | 21600 | @Chicago |
 
 ```
 Location
