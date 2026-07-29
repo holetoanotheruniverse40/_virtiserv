@@ -2,6 +2,11 @@
 layout: default
 ---
 
+[hot97.com/tv/](https://www.hot97.com/tv/)
+@nasa-jpl there is an oil spill in the Pacific west of Los Angeles, its in some notes I sent earthdata support @doug-newman-nasa
+[Atlanta At Night + ElNino clues hot97.com/tv/](https://worldview.earthdata.nasa.gov/?v=-92.59702520844654,28.27424260856981,-77.3638075161502,35.771841941496916&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,VIIRS_NOAA21_DayNightBand,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-07-27-T01%3A47%3A44Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/2620b1b2-3cb4-4459-9e47-0022cc512a70" />
+
 ## HOT 97 News Live! 7/28/26
 Today, HOT 97 cuts through the noise on the biggest national headlines, giving you the unfiltered context and street-smart takes on the stories impacting our world and the hip-hop community. We're diving deep into the culture, from global conflicts to tech's impact, live from the HOT 97 studio. Stay locked in daily for the raw truth and authentic conversation.
 
