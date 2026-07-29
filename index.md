@@ -3,6 +3,13 @@ layout: default
 ---
 
 
+
+
+@newshour @nbcnews oregon
+[https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-114.0,45.0,6.7z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-114.0,45.0,6.7z) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/d2f23485-f84d-44da-aa43-b337c53706c0" />
+
 [WesternUS @usatoday @noaagov](https://worldview.earthdata.nasa.gov/?v=-133.7035031989147,30.224460512941004,-106.39920146502648,43.663296522589114&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,VIIRS_NOAA20_DayNightBand,BlueMarble_ShadedRelief&lg=true&t=2026-07-27-T00%3A00%3A00Z)
 <img alt="image" src="https://github.com/user-attachments/assets/2cce795f-257b-4436-a837-71aac7ab2d33" />
 
