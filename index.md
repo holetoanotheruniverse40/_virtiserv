@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+| Domain Name | NS | TTL | TownShip |
+|-------------|----|-----|----------|
+| jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | @la-county-isd |
+
 [@nasa-jpl @blackgirlscode whatismyipaddress.com/hostname-ip](https://whatismyipaddress.com/hostname-ip)
 
 ```shell
