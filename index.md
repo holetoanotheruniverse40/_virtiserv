@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| lacourt.ca.gov | keaton.ns.cloudflare.com. | 21600 | 
+| lacourt.ca.gov | kelly.ns.cloudflare.com. | 21600 | 
+
+@la-county-isd @disney @blackgirlscode plz look at these nameservers they are corrupt @stateofcalifornia
+
 @nasa
 
 # NS Records 
