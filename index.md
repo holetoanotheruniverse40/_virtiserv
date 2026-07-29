@@ -2,6 +2,20 @@
 layout: default
 ---
 
+@nasa
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov | a14-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a7-65.akam.net. | 21600 | 
+| jpl.nasa.gov | a11-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a2-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a1-91.akam.net. | 21600 | 
+| jpl.nasa.gov | a8-65.akam.net. | 21600 | 
+
+@emergingcoders @noaagov @nbcnews @newshour
 
 <img  alt="tumblr_de9d9805664076eadfc27765172b64e5_219e25ac_1280 @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/098ee1df-fa5b-43e8-b4f9-9a3c87f1687d" />
 
