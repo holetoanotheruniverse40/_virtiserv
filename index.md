@@ -5,7 +5,12 @@ layout: default
 | Domain Name | NS | TTL | TownShip |
 |-------------|----|-----|----------|
 | jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | @Chicago |
-| war.gov @deptofwar| asia3.akam.net. | 21600 | @Chicago |
+| war.gov @deptofwar| asia3.akam.net. | 21600 | @kstateome |
+
+[findlatitudeandlongitude.com/l/37.751/5231361/](https://www.findlatitudeandlongitude.com/l/37.751/5231361/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/940b899e-1a7a-4973-a68f-d8d52eb5a49a" />
+
 
 ```
 Location
