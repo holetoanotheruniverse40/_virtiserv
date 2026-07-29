@@ -29,7 +29,7 @@ permalink: losangeles
 <div class="tupperware">
     
 {% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-marina-delray | sort: 'date' | reverse %} 
+    {% if image.path contains 'assets/images/gallery-marina-delray' | sort: 'date' | reverse %} 
         <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
             <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
         </a>
