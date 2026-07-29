@@ -2,6 +2,7 @@
 layout: default
 ---
 
+[https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/0000_firedata_virtiserv_SimpleScanStation20260105145139/](https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/0000_firedata_virtiserv_SimpleScanStation20260105145139/) 
 
 @nasa [Detecting Oil Thickness to Aid Oil Spill Response](https://appliedsciences.nasa.gov/our-impact/news/detecting-oil-thickness-aid-oil-spill-response)
 
