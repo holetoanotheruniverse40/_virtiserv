@@ -7,6 +7,19 @@ layout: default
 |-------------|----|-----|----------|
 | jpl.nasa.gov | a2-67.akam.net. | 21600 | @la-county-isd |
 
+[2016 netherlands @doug-newman-nasa](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2016/257/LC08_L1TP_199023_20160913_20200906_02_T1)
+
+`Coordinates 52.3824 (lat) / 4.8995 (long)`
+Found: The Döner Company, 36A, De Ruijterkade, 
+Centrum, Amsterdam, North Holland, 
+Netherlands, 1012 AA, Netherlands
+
+
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.00/545409.44/6869196.13&layers=aqv_chla_20260727_sentinel:1.00:0.00:30.00:default&grids=1,0](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.00/545409.44/6869196.13&layers=aqv_chla_20260727_sentinel:1.00:0.00:30.00:default&grids=1,0)
+
+<img alt="image" src="https://github.com/user-attachments/assets/042eb97b-49b3-4f5c-9c3f-0bf083cb269f" />
+
+
 ```shell
 Location
 Country The Netherlands (NL)
