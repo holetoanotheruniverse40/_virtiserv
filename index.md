@@ -6,6 +6,136 @@ layout: default
 # NS Records 
 [https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google](https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google)
 
+
+@nasa-jpl 
+
+```json
+{
+    "ip": "193.108.91.32",
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "region_name": "Antwerpen",
+    "district": "Arrondissement Antwerpen",
+    "city_name": "Antwerpen",
+    "latitude": 51.21989,
+    "longitude": 4.40346,
+    "zip_code": "2660",
+    "time_zone": "+02:00",
+    "asn": "21342",
+    "as": "Akamai International B.V.",
+    "as_info": {
+        "as_number": "21342",
+        "as_name": "Akamai International B.V.",
+        "as_domain": "akamai.com",
+        "as_usage_type": "CDN",
+        "as_cidr": "193.108.91.0/24"
+    },
+    "isp": "Akamai International BV",
+    "domain": "akamai.com",
+    "net_speed": "T1",
+    "idd_code": "32",
+    "area_code": "03",
+    "weather_station_code": "BEXX0003",
+    "weather_station_name": "Antwerp",
+    "mcc": "-",
+    "mnc": "-",
+    "mobile_brand": "-",
+    "elevation": 7,
+    "usage_type": "CDN",
+    "address_type": "Anycast",
+    "ads_category": "IAB19-11",
+    "ads_category_name": "Data Centers",
+    "continent": {
+        "name": "Europe",
+        "code": "EU",
+        "hemisphere": [
+            "north",
+            "east"
+        ],
+        "translation": {
+            "lang": "en",
+            "value": "Europe"
+        }
+    },
+    "country": {
+        "name": "Belgium",
+        "alpha3_code": "BEL",
+        "numeric_code": 56,
+        "demonym": "Belgians",
+        "flag": "https://cdn.ip2location.io/assets/img/flags/be.png",
+        "capital": "Brussels",
+        "total_area": 30528,
+        "population": 11913633,
+        "currency": {
+            "code": "EUR",
+            "name": "Euro",
+            "symbol": "\u20ac"
+        },
+        "language": {
+            "code": "NL",
+            "name": "Dutch"
+        },
+        "tld": "be",
+        "translation": {
+            "lang": "en",
+            "value": "Belgium"
+        }
+    },
+    "region": {
+        "name": "Antwerpen",
+        "code": "BE-VAN",
+        "translation": {
+            "lang": "en",
+            "value": "Antwerpen"
+        }
+    },
+    "city": {
+        "name": "Antwerpen",
+        "translation": {
+            "lang": "en",
+            "value": null
+        }
+    },
+    "time_zone_info": {
+        "olson": "Europe/Brussels",
+        "current_time": "2026-07-30T03:28:20+02:00",
+        "gmt_offset": 7200,
+        "is_dst": true,
+        "abbreviation": "CET",
+        "dst_start_date": "2026-03-29",
+        "dst_end_date": "2026-10-25",
+        "sunrise": "06:05",
+        "sunset": "21:34"
+    },
+    "geotargeting": {
+        "metro": null
+    },
+    "is_proxy": false,
+    "fraud_score": 3,
+    "proxy": {
+        "last_seen": 1,
+        "proxy_type": "DCH",
+        "threat": "-",
+        "provider": "-",
+        "is_vpn": false,
+        "is_tor": false,
+        "is_data_center": true,
+        "is_public_proxy": false,
+        "is_web_proxy": false,
+        "is_web_crawler": false,
+        "is_ai_crawler": false,
+        "is_residential_proxy": false,
+        "is_consumer_privacy_network": false,
+        "is_enterprise_private_network": false,
+        "is_spammer": false,
+        "is_scanner": false,
+        "is_botnet": false,
+        "is_bogon": false
+    }
+}
+```
+
+
 | Domain Name | NS | TTL | 
 |-------------|----|-----|
 | NASA.gov | a8-66.akam.net. | 43 | 
