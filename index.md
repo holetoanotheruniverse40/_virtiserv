@@ -3,6 +3,12 @@ layout: default
 ---
 
 
+@howard-university-web-services @emergingcoders @nasa-giss
+`9/12/2024 93673 LATRICE FITZPATRICK Refund from 38157 - check run 9-12-24 (100.00)`
+[millcreekmetroparks.org/wp-content/uploads/2024/10/Sep-2024-Check-Register.pdf](https://www.millcreekmetroparks.org/wp-content/uploads/2024/10/Sep-2024-Check-Register.pdf)
+@howard-university-web-services @nasa-jpl @StateOfCalifornia [HollyJMitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) // 
+<img  alt="image" src="https://github.com/user-attachments/assets/fae3a147-fe27-40d7-9098-da56066d658b" />
+
 # Governor Newsom visits Space Beach and highlights California’s aerospace dominance
 SPaceBeach [gov.ca.gov-READ](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
 @StateOfCalifornia Governor i Missed your visit, i could have quelled some of my head anger about [Covid ipv](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) and been a merry worker
