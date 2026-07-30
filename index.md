@@ -2,11 +2,11 @@
 layout: default
 ---
 
-\
-Forsaken (USA)
-by Acclaim Entertainment
+## I.Q - Intelligent Qube (USA)
+by Sony Computer Entertainment America
+@blackgirlscode @commercegov @fbicyber
 
-<iframe src="https://archive.org/embed/psx_forsaken" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/psx_iqube" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # NS Records 
 
