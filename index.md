@@ -21,6 +21,9 @@ IP address 216.59.57.8
 Hostname b8.uberns.net
 Provider Total Uptime Technologies, LLC
 ```
+
+`uberns.com.		300	IN	SOA	a1.uberns.com. itmanager.uberns.com. 2021082001 14400 7200 1209600 300`
+
 @nasa-jpl [https://totaluptime.com/](https://totaluptime.com/)
 @doug-newman-nasa just working some details out for long beach @Blackgirlscode
 
