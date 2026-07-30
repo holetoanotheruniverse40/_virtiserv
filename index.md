@@ -21,6 +21,10 @@ layout: default
 | atlantaga.gov | mxa-003fa601.gslb.pphosted.com. | 15745 |
 | fultoncountyga.gov | mxa-0032a901.gslb.pphosted.com. | 15745 |
 | fultoncountyga.gov | mxb-0032a901.gslb.pphosted.com. | 15745 |
+| bet.com | mxa-00262c01.gslb.pphosted.com. | 15745 |
+| bet.com | mxb-00262c01.gslb.pphosted.com. | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
 
 
 
