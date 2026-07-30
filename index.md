@@ -14,10 +14,13 @@ im working the [colocation issues](https://www.hpe.com/us/en/what-is/data-center
 | jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | @Chicago |
 | war.gov @deptofwar| asia3.akam.net. | 21600 | @kstateome |
 
+![https://www.gov.ca.gov/wp-content/uploads/2026/06/Vast-Gavin-Newsom-010.jpg](https://www.gov.ca.gov/wp-content/uploads/2026/06/Vast-Gavin-Newsom-010.jpg)
+
 ### The Impact of COVID-19 Pandemic on Intimate Partner Violence (IPV) Against Women
 [Link - pmc.ncbi.nlm.nih.gov/articles/PMC10631266/ @nihgov @nbcnews](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/)
 [PDF - @blackgirlscode @lacountyDPH](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) 
 [findlatitudeandlongitude.com/l/37.751/5231361/](https://www.findlatitudeandlongitude.com/l/37.751/5231361/)
+
 
 
 
