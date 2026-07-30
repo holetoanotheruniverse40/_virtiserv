@@ -13,6 +13,16 @@ layout: default
 | longbeach.gov | mxb-00539a01.gslb.pphosted.com. | 15745 | 
 | longbeach.gov | mxa-00539a01.gslb.pphosted.com. | 15745 |
 
+```
+IP address 216.59.57.8
+Hostname b8.uberns.net
+Provider Total Uptime Technologies, LLC
+```
+@nasa-jpl [https://totaluptime.com/](https://totaluptime.com/)
+@doug-newman-nasa just working some details out for long beach @Blackgirlscode
+
+![https://totaluptime.com/wp-content/uploads/2026/06/TU_horizontal_Web-350-x-100-px-1.svg](https://totaluptime.com/wp-content/uploads/2026/06/TU_horizontal_Web-350-x-100-px-1.svg)
+
 # MX Records  @nasa-jpl @la-county-isd
 
 
