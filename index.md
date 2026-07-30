@@ -2,6 +2,18 @@
 layout: default
 ---
 
+
+#  Trump vs Netanyahu, Fauci Due In Court,
+@whitehouse @dhs-gov @nasa @usnavy @newshour @deptofwar
+The Odyssey Movie Leaked 
+HOT 97 News 7/28/26
+<img  alt="image" src="https://github.com/user-attachments/assets/3a5f948b-0f1d-47d2-956a-7d70c029b5c3" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FM2IWC3PjWA?si=Z3BI22Am8JfqfBtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## She Posted a Viral @TikTok —Then the Unthinkable Happened [watch](https://www.youtube.com/watch?v=gmm59Sce6Ew)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmm59Sce6Ew?si=GSnfT3ZET2xU0_kV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 @stateofcalifornia is Gavin newsom cowboy newsom or disco newsom in Frisco ? @usatoday @nasa-pds
 this is the library webpage maybe its archive.org @cityoflosangeles [https://www.geolocation.com/?ip=23.185.0.3#ipresult](https://www.geolocation.com/?ip=23.185.0.3#ipresult)
 <img alt="image" src="https://github.com/user-attachments/assets/049f9a7b-5604-4d3a-8357-62232f235baf" />
