@@ -49,6 +49,12 @@ Financial Planning Consultants
 Suite 137
 Youngstown, OH 44503
 
+
+[tiktok.com/@mjbusinessacademy/video/7567530603516661005](https://www.tiktok.com/@mjbusinessacademy/video/7567530603516661005) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/86b8dd9b-6e89-415c-84b0-ae207a620c37" />
+
+
 [countprofits.com/workandlearn](https://www.countprofits.com/workandlearn)
 @howard-university-web-services im begging for a clean dismissal and help getting my access @nasa-jpl back because im out doors and they warned me that if i go outdoors there is a process to coming back in comfortably so i have holes in my teeth and i can ask someone at the lab how to fix it so easy @StateOfCalifornia [HollyJMitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) // [https://www.instagram.com/p/DKhbgTLvovy/](https://www.instagram.com/p/DKhbgTLvovy/)
 
