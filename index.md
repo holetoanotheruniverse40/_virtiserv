@@ -2,6 +2,9 @@
 layout: default
 ---
 
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
+<img alt="image" src="https://github.com/user-attachments/assets/063f49d1-4d98-4015-8037-00b909405580" />
 
 
 @nasa-pds im scared of how humiliating my try at dating was so if Total Uptime black please support me with rejection [linkedin.com/company/totaluptime](https://www.linkedin.com/company/totaluptime) @blackgirlscode
@@ -85,7 +88,6 @@ Provider Total Uptime Technologies, LLC
 | Domain | proofpoint.com | 
 | Country | United States | 
 | Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
-
 
 
 
