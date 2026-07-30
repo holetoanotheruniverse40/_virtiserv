@@ -62,6 +62,53 @@ Provider Total Uptime Technologies, LLC
 
 
 
+```json
+ip:"204.108.16.117"
+success:true
+type:"IPv4"
+continent:"North America"
+continent_code:"NA"
+country:"United States"
+country_code:"US"
+region:"California"
+region_code:"CA"
+city:"Los Angeles"
+latitude:34.0536909
+longitude:-118.2427663
+is_eu:false
+postal:"90012"
+calling_code:"1"
+capital:"Washington D.C."
+borders:"CA,MX"
+flag:Object,
+img:"https://cdn.ipwhois.io/flags/us.svg"
+emoji:"🇺🇸"
+emoji_unicode:"U+1F1FA U+1F1F8"
+connection:Object,
+asn:401504
+org:"City of Long Beach"
+isp:"City of Long Beach"
+domain:"longbeach.gov"
+timezone:Object,
+id:"America/Los_Angeles"
+abbr:"PDT"
+is_dst:true
+offset:-25200
+utc:"-07:00"
+current_time:"2026-07-30T11:04:38-07:00"
+currency:Object,
+name:"US dollar"
+code:"USD"
+symbol:"$"
+plural:"US dollars"
+exchange_rate:1
+security:Object,
+anonymous:false
+proxy:false
+vpn:false
+tor:false
+hosting:false
+```
 
 
 
