@@ -2,11 +2,37 @@
 layout: default
 ---
 
+
+
+# Governor Newsom visits Space Beach and highlights California’s aerospace dominance
+SPaceBeach [gov.ca.gov-READ](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
+@StateOfCalifornia Governor i Missed your visit, i could have quelled some of my head anger about [Covid ipv](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) and been a merry worker
+im working the [colocation issues](https://www.hpe.com/us/en/what-is/data-center-colocation.html) and continuing my audit @nasa-pds @deptofwar @usnavy @FBiCYBER @HPInc
+[gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
+
+| Domain Name | NS | TTL | TownShip |
+|-------------|----|-----|----------|
+| jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | @Chicago |
+| war.gov @deptofwar| asia3.akam.net. | 21600 | @kstateome |
+
+![https://www.gov.ca.gov/wp-content/uploads/2026/06/Vast-Gavin-Newsom-010.jpg](https://www.gov.ca.gov/wp-content/uploads/2026/06/Vast-Gavin-Newsom-010.jpg)
+
+### The Impact of COVID-19 Pandemic on Intimate Partner Violence (IPV) Against Women
+[Link - pmc.ncbi.nlm.nih.gov/articles/PMC10631266/ @nihgov @nbcnews](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/)
+[PDF - @blackgirlscode @lacountyDPH](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) 
+[findlatitudeandlongitude.com/l/37.751/5231361/](https://www.findlatitudeandlongitude.com/l/37.751/5231361/) // [@emergingcoders socialcatfish.com/search/latrice-fitzpatrick-d374858102/](https://socialcatfish.com/search/latrice-fitzpatrick-d374858102/)
+
 ![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
 
 [draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
 
-@asfadmin our email in public dns is listed as coing from here 
+[Draper To Salt LAke City Commute](https://www.google.com/maps/dir/Salt+Lake+City,+Utah/13997+Minuteman+Dr,+Draper,+UT+84020/@40.4729298,-112.1375395,10z/data=!4m14!4m13!1m5!1m1!1s0x87523d9488d131ed:0x5b53b7a0484d31ca!2m2!1d-111.8881397!2d40.7605601!1m5!1m1!1s0x875280cc33063771:0xe20ca31a02951b78!2m2!1d-111.889471!2d40.4975455!3e0!5m2!1e4!1e1?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D)
+<img  alt="image" src="https://github.com/user-attachments/assets/2de5f11b-0b33-4e9e-b687-a5673e1d39d5" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/2ae9b77a-5cbb-41db-aac3-f608177c5266" />
+
+
+@asfadmin our email in public dns is listed as coing from here  @nasa-jpl @nasa-pds
 
 # MX Records @nasa-jpl @usnavy
 | Domain Name | MX | TTL | 
@@ -36,10 +62,11 @@ spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
 
 [search.asf.alaska.edu/#/?zoom=16.047&center=-111.890,40.495&polygon=POINT(-111.8642%2040.5251)](https://search.asf.alaska.edu/#/?zoom=16.047&center=-111.890,40.495&polygon=POINT(-111.8642%2040.5251))
 
-S1C_IW_GRDH_1SDV_20260725T012627_20260725T012652_008693_01139E_E8C2
-<img alt="image" src="https://github.com/user-attachments/assets/ed106508-5013-4243-926f-399e528adefa" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/ed106508-5013-4243-926f-399e528adefa" />
+S1C_IW_GRDH_1SDV_20260725T012627_20260725T012652_008693_01139E_E8C2 @asfadmin
 <img   alt="image" src="https://github.com/user-attachments/assets/52f3bc88-6e4d-48e0-ae52-def131241504" />
+<img width="1024" height="756" alt="image" src="https://github.com/user-attachments/assets/266db502-9e28-4780-9c6a-908f458f236f" />
 
 
 [browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
@@ -138,26 +165,40 @@ Provider Total Uptime Technologies, LLC
 
 
 
+@nasa-pds 
+Result for: horizons.jpl.nasa.gov
+# MX Records 
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.147.103 | 
+| Status | Success | 
+| Test duration(ms) | 66 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
 
 
 
-# Governor Newsom visits Space Beach and highlights California’s aerospace dominance
-SPaceBeach [gov.ca.gov-READ](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
-@StateOfCalifornia Governor i Missed your visit, i could have quelled some of my head anger about [Covid ipv](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) and been a merry worker
-im working the [colocation issues](https://www.hpe.com/us/en/what-is/data-center-colocation.html) and continuing my audit @nasa-pds @deptofwar @usnavy @FBiCYBER @HPInc
-[gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
 
-| Domain Name | NS | TTL | TownShip |
-|-------------|----|-----|----------|
-| jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | @Chicago |
-| war.gov @deptofwar| asia3.akam.net. | 21600 | @kstateome |
 
-![https://www.gov.ca.gov/wp-content/uploads/2026/06/Vast-Gavin-Newsom-010.jpg](https://www.gov.ca.gov/wp-content/uploads/2026/06/Vast-Gavin-Newsom-010.jpg)
-
-### The Impact of COVID-19 Pandemic on Intimate Partner Violence (IPV) Against Women
-[Link - pmc.ncbi.nlm.nih.gov/articles/PMC10631266/ @nihgov @nbcnews](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/)
-[PDF - @blackgirlscode @lacountyDPH](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) 
-[findlatitudeandlongitude.com/l/37.751/5231361/](https://www.findlatitudeandlongitude.com/l/37.751/5231361/) // [@emergingcoders socialcatfish.com/search/latrice-fitzpatrick-d374858102/](https://socialcatfish.com/search/latrice-fitzpatrick-d374858102/)
 
 
 
