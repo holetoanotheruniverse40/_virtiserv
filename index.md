@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| longbeach.gov | b8.uberns.org. | 15745 | 
+| longbeach.gov | a8.uberns.org. | 15745 | 
+| longbeach.gov | b8.uberns.com. | 15745 | 
+| longbeach.gov | a8.uberns.com. | 15745 | 
+
 
 
 # Governor Newsom visits Space Beach and highlights California’s aerospace dominance
