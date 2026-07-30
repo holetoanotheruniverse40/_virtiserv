@@ -4,6 +4,15 @@ layout: default
 
 
 
+
+[countprofits.com/workandlearn](https://www.countprofits.com/workandlearn)
+@howard-university-web-services im begging for a clean dismissal and help getting my access @nasa-jpl back because im out doors and they warned me that if i go outdoors there is a process to coming back in comfortably so i have holes in my teeth and i can ask someone at the lab how to fix it so easy @StateOfCalifornia [HollyJMitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) // [https://www.instagram.com/p/DKhbgTLvovy/](https://www.instagram.com/p/DKhbgTLvovy/)
+
+`valleypartners 60w heck out this upcoming Work & Learn Session in Warren, OH!
+Led by accountant, LaTrice Fitzpatrick, she is offering two sessions to assist business owners with their fundamental accounting needs. There are only 15 spaces left, so be sure to register today!
+`
+<img  alt="image" src="https://github.com/user-attachments/assets/939bf93a-d9b5-4b0c-b09d-cfd460d9ae5b" />
+
 [ _Latrice Fitzpatrick - bniamerica.com_](https://bniamerica.com/en-US/memberdetails?encryptedMemberId=cAnVY1kMmNXzBZUYVJ2Q3g%3D%3D&cmsv3=true&name=LaTrice+Fitzpatrick)
 @blackgirlscode is lana latrice [_Latrice Fitzpatrick Mcgee_ facebook.com/latrice.f.mcgee/](https://www.facebook.com/latrice.f.mcgee/) // @foratlanta There is a girl in T.I. family that is actively courting me i dont know who it is they all look alike! @Disney pass to chloe @CityOflosangeles [KArenBass](https://www.congress.gov/member/karen-bass/B001270) [hookedontheharrises@gmail.com](mailto:hookedontheharrises@gmail.com) ........ @whitehouse i am being juggled and i dont want to get hurt by any guys... @Howard-university-web-services [WhosWho - I knew she was from my moms Sorority or something](https://ysu.edu/sites/default/files/ASA_Background_Materials_6-7-17_FINAL.pdf) bc i got dumped!
 
