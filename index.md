@@ -10,11 +10,12 @@ layout: default
 | longbeach.gov | a8.uberns.org. | 15745 | 
 | longbeach.gov | b8.uberns.com. | 15745 | 
 | longbeach.gov | a8.uberns.com. | 15745 | 
+| longbeach.gov | mxb-00539a01.gslb.pphosted.com. | 15745 | 
+| longbeach.gov | mxa-00539a01.gslb.pphosted.com. | 15745 |
 
 # MX Records  @nasa-jpl @la-county-isd
 
-| longbeach.gov | mxb-00539a01.gslb.pphosted.com. | 15745 | 
-| longbeach.gov | mxa-00539a01.gslb.pphosted.com. | 15745 |
+
 
 ## mxb-00539a01.gslb.pphosted.com.
 
