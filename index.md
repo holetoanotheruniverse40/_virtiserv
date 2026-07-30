@@ -2,7 +2,8 @@
 layout: default
 ---
 
-@blackgirlscode is lana latrice [_Latrice Fitzpatrick Mcgee_ facebook.com/latrice.f.mcgee/](https://www.facebook.com/latrice.f.mcgee/) // @foratlanta There is a girl in T.I. family that is actively courting me i dont know who it is they all look alike! @Disney pass to chloe @CityOflosangeles [KArenBass](https://www.congress.gov/member/karen-bass/B001270) [hookedontheharrises@gmail.com](mailto:hookedontheharrises@gmail.com) ........ @whitehouse i am being juggled and i dont want to get hurt by any guys... @Howard-university-web-services 
+@blackgirlscode is lana latrice [_Latrice Fitzpatrick Mcgee_ facebook.com/latrice.f.mcgee/](https://www.facebook.com/latrice.f.mcgee/) // @foratlanta There is a girl in T.I. family that is actively courting me i dont know who it is they all look alike! @Disney pass to chloe @CityOflosangeles [KArenBass](https://www.congress.gov/member/karen-bass/B001270) [hookedontheharrises@gmail.com](mailto:hookedontheharrises@gmail.com) ........ @whitehouse i am being juggled and i dont want to get hurt by any guys... @Howard-university-web-services [WhosWho - I knew she was from my moms Sorority or something](https://ysu.edu/sites/default/files/ASA_Background_Materials_6-7-17_FINAL.pdf) bc i got dumped!
+
 <img alt="image" src="https://github.com/user-attachments/assets/7dbad22a-f393-4d38-8ed1-624b8941dac8" />
 
 
