@@ -4,6 +4,7 @@ layout: default
 
 
 # NS Records 
+[https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google](https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google)
 
 | Domain Name | NS | TTL | 
 |-------------|----|-----|
