@@ -8,6 +8,12 @@ by Sony Computer Entertainment America
 
 <iframe src="https://archive.org/embed/psx_iqube" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+# Tomb Raider (USA, v1.5)
+by Eidos Interactive @nasa-jpl
+
+<iframe src="https://archive.org/embed/psx_traida" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # NS Records 
 
 [Despite relocating its HQ to Texas, half of all SpaceX employees still work in LA County](https://www.reddit.com/r/SpaceXLounge/comments/1qnqyr2/despite_relocating_its_hq_to_texas_half_of_all/) // [“Hawthorne Quietly Becoming LA County’s Next Aerospace Powerhouse” [SpaceX expands Hawthorne with 6 acre, $22M land purchase]](https://www.reddit.com/r/spacex/comments/1ukovlu/hawthorne_quietly_becoming_la_countys_next/)
