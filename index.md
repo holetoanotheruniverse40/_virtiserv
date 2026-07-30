@@ -3,13 +3,6 @@ layout: default
 ---
 
 
-@howard-university-web-services @emergingcoders @nasa-giss
-`9/12/2024 93673 LATRICE FITZPATRICK Refund from 38157 - check run 9-12-24 (100.00)`
-[millcreekmetroparks.org/wp-content/uploads/2024/10/Sep-2024-Check-Register.pdf](https://www.millcreekmetroparks.org/wp-content/uploads/2024/10/Sep-2024-Check-Register.pdf)
-@howard-university-web-services @nasa-jpl @StateOfCalifornia [HollyJMitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) // 
-<img  alt="image" src="https://github.com/user-attachments/assets/fae3a147-fe27-40d7-9098-da56066d658b" />
-
-<img alt="image" src="https://github.com/user-attachments/assets/a2d38707-3970-4e4c-8cc8-fc9b5bab1836" />
 
 # Governor Newsom visits Space Beach and highlights California’s aerospace dominance
 SPaceBeach [gov.ca.gov-READ](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
@@ -31,6 +24,17 @@ im working the [colocation issues](https://www.hpe.com/us/en/what-is/data-center
 
 
 
+@howard-university-web-services @emergingcoders @nasa-giss
+`9/12/2024 93673 LATRICE FITZPATRICK Refund from 38157 - check run 9-12-24 (100.00)`
+[millcreekmetroparks.org/wp-content/uploads/2024/10/Sep-2024-Check-Register.pdf](https://www.millcreekmetroparks.org/wp-content/uploads/2024/10/Sep-2024-Check-Register.pdf)
+@howard-university-web-services @nasa-jpl @StateOfCalifornia [HollyJMitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) // 
+<img  alt="image" src="https://github.com/user-attachments/assets/fae3a147-fe27-40d7-9098-da56066d658b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a2d38707-3970-4e4c-8cc8-fc9b5bab1836" />
+
+```html
+<object class="scroller" data="https://prd.hot97.com/summer-jam" type="text/html" ></object>
+```
 
 # Count Profits
 Count Profits
@@ -990,7 +994,9 @@ hi @blackgirlscode im just growing up lately... normani had fun during world cup
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sooo...when I go on my little soapbox about this thing called a &quot;tech pipeline&quot;? This pic is what I mean. Almost 100 little Black/brown girls (in Oakland) doing robotics the Sat before Christmas. <a href="https://t.co/408m1BqHmM">pic.twitter.com/408m1BqHmM</a></p>&mdash; Kimberly Bryant (@6Gems) <a href="https://x.com/6Gems/status/942153375969198080?ref_src=twsrc%5Etfw">December 16, 2017</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
+```html
 <object class="scroller" data="https://prd.hot97.com/summer-jam" type="text/html" ></object>
+```
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Summer Jam ‘26 📸 <a href="https://x.com/HOT97?ref_src=twsrc%5Etfw">@HOT97</a> <a href="https://t.co/DnZKZokAAe">pic.twitter.com/DnZKZokAAe</a></p>&mdash; ITSBIZKIT (@ITSBIZKIT) <a href="https://x.com/ITSBIZKIT/status/2081790559320981733?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
