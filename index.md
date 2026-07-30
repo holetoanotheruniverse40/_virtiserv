@@ -10,6 +10,39 @@ layout: default
 | longbeach.gov | a8.uberns.org. | 15745 | 
 | longbeach.gov | b8.uberns.com. | 15745 | 
 | longbeach.gov | a8.uberns.com. | 15745 | 
+# MX Records  @nasa-jpl @la-county-isd
+| longbeach.gov | mxb-00539a01.gslb.pphosted.com. | 15745 | 
+| longbeach.gov | mxa-00539a01.gslb.pphosted.com. | 15745 |
+
+## mxb-00539a01.gslb.pphosted.com.
+
+| Mx Record | mxb-00539a01.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 148.163.134.252 | 
+| Status | Success | 
+| Test duration(ms) | 68 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxa-00539a01.gslb.pphosted.com.
+
+| Mx Record | mxa-00539a01.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 148.163.134.252 | 
+| Status | Success | 
+| Test duration(ms) | 66 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+
+
 
 
 
