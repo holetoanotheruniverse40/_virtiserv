@@ -6,6 +6,22 @@ layout: default
 
 [draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
 
+@asfadmin our email in public dns is listed as coing from here 
+
+# MX Records @nasa-jpl @usnavy
+
+|jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.|
+|jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.|
+
+# MX Records 
+@SpaceExplorationTechnoligies
+spacex.com	mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/ed106508-5013-4243-926f-399e528adefa" />
+
+
 
 [browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 
