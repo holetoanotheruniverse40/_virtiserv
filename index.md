@@ -3,7 +3,31 @@ layout: default
 ---
 
 
+
+# Count Profits
+Count Profits
+143 Boardman Canfield Rd
+Youngstown, OH 44512
+_(330) 599-9816_
+_This business is NOT BBB Accredited._
+
+```
+BBB File Opened:5/28/2025
+Business Started:9/22/2020
+Business Incorporated:9/22/2020
+Type of Entity:Limited Liability Company (LLC)
+Business Management:LaTrice Fitzpatrick, Owner
+Additional Contact Information
+Principal Contacts LaTrice Fitzpatrick, Owner
+Additional Information Business Categories
+Financial Planning Consultants
+```
+
+[bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936) - [BBB of Mahoning Valley](https://www.bbb.org/local-bbb/bbb-of-mahoning-valley)
 ![https://www.bbb.org/](https://m.bbb.org/brand/logos/BBB_PrimaryLogo_Blue_RGB.svg)
+201 East Commerce Street
+Suite 137
+Youngstown, OH 44503
 
 [countprofits.com/workandlearn](https://www.countprofits.com/workandlearn)
 @howard-university-web-services im begging for a clean dismissal and help getting my access @nasa-jpl back because im out doors and they warned me that if i go outdoors there is a process to coming back in comfortably so i have holes in my teeth and i can ask someone at the lab how to fix it so easy @StateOfCalifornia [HollyJMitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) // [https://www.instagram.com/p/DKhbgTLvovy/](https://www.instagram.com/p/DKhbgTLvovy/)
