@@ -2,6 +2,9 @@
 layout: default
 ---
 
+@stateofcalifornia is Gavin newsom cowboy newsom or disco newsom in Frisco ? @usatoday @nasa-pds
+this is the library webpage maybe its archive.org @cityoflosangeles [https://www.geolocation.com/?ip=23.185.0.3#ipresult](https://www.geolocation.com/?ip=23.185.0.3#ipresult)
+<img alt="image" src="https://github.com/user-attachments/assets/049f9a7b-5604-4d3a-8357-62232f235baf" />
 
 # NS Records 
 @nasa-openscapes @doug-newman-nasa so SpaceX is in Hawthorne but the website is hosted from santaclara? 
