@@ -15,6 +15,134 @@ layout: default
 | SpaceX.com | ns-cloud-b3.googledomains.com. | 21600 | 
 | SpaceX.com | ns-cloud-b1.googledomains.com. | 21600 | 
 
+@nasa-openscapes @doug-newman-nasa so SpaceX is in Hawthorne but the website is hosted from santaclara? 
+
+```json
+
+{
+    "ip": "216.239.34.107",
+    "country_code": "US",
+    "country_name": "United States of America",
+    "region_name": "California",
+    "district": "Santa Clara County",
+    "city_name": "Mountain View",
+    "latitude": 37.38605,
+    "longitude": -122.08385,
+    "zip_code": "94043",
+    "time_zone": "-07:00",
+    "asn": "15169",
+    "as": "Google LLC",
+    "as_info": {
+        "as_number": "15169",
+        "as_name": "Google LLC",
+        "as_domain": "google.com",
+        "as_usage_type": "DCH",
+        "as_cidr": "216.239.34.0/24"
+    },
+    "isp": "Google LLC",
+    "domain": "google.com",
+    "net_speed": "T1",
+    "idd_code": "1",
+    "area_code": "650",
+    "weather_station_code": "USCA0746",
+    "weather_station_name": "Mountain View",
+    "mcc": "-",
+    "mnc": "-",
+    "mobile_brand": "-",
+    "elevation": 32,
+    "usage_type": "DCH",
+    "address_type": "Anycast",
+    "ads_category": "IAB19-11",
+    "ads_category_name": "Data Centers",
+    "continent": {
+        "name": "North America",
+        "code": "NA",
+        "hemisphere": [
+            "north",
+            "west"
+        ],
+        "translation": {
+            "lang": "en",
+            "value": "North America"
+        }
+    },
+    "country": {
+        "name": "United States of America",
+        "alpha3_code": "USA",
+        "numeric_code": 840,
+        "demonym": "Americans",
+        "flag": "https://cdn.ip2location.io/assets/img/flags/us.png",
+        "capital": "Washington, D.C.",
+        "total_area": 9826675,
+        "population": 339665118,
+        "currency": {
+            "code": "USD",
+            "name": "United States Dollar",
+            "symbol": "$"
+        },
+        "language": {
+            "code": "EN",
+            "name": "English"
+        },
+        "tld": "us",
+        "translation": {
+            "lang": "en",
+            "value": "United States of America"
+        }
+    },
+    "region": {
+        "name": "California",
+        "code": "US-CA",
+        "translation": {
+            "lang": "en",
+            "value": "California"
+        }
+    },
+    "city": {
+        "name": "Mountain View",
+        "translation": {
+            "lang": "en",
+            "value": "Mountain View"
+        }
+    },
+    "time_zone_info": {
+        "olson": "America/Los_Angeles",
+        "current_time": "2026-07-29T18:30:34-07:00",
+        "gmt_offset": -25200,
+        "is_dst": true,
+        "abbreviation": "PST",
+        "dst_start_date": "2026-03-08",
+        "dst_end_date": "2026-11-01",
+        "sunrise": "06:11",
+        "sunset": "20:20"
+    },
+    "geotargeting": {
+        "metro": "807"
+    },
+    "is_proxy": false,
+    "fraud_score": 3,
+    "proxy": {
+        "last_seen": 1,
+        "proxy_type": "DCH",
+        "threat": "-",
+        "provider": "-",
+        "is_vpn": false,
+        "is_tor": false,
+        "is_data_center": true,
+        "is_public_proxy": false,
+        "is_web_proxy": false,
+        "is_web_crawler": false,
+        "is_ai_crawler": false,
+        "is_residential_proxy": false,
+        "is_consumer_privacy_network": false,
+        "is_enterprise_private_network": false,
+        "is_spammer": false,
+        "is_scanner": false,
+        "is_botnet": false,
+        "is_bogon": false
+    }
+}
+```
 
 [https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google](https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google)
 
