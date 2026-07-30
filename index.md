@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+
+@nasa-pds im scared of how humiliating my try at dating was so if Total Uptime black please support me with rejection [linkedin.com/company/totaluptime](https://www.linkedin.com/company/totaluptime) @blackgirlscode
 # NS Records 
 
 | Domain Name | NS | TTL | 
