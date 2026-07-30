@@ -6,7 +6,7 @@ layout: default
 #  Trump vs Netanyahu, Fauci Due In Court,
 @whitehouse @dhs-gov @nasa @usnavy @newshour @deptofwar
 The Odyssey Movie Leaked 
-HOT 97 News 7/28/26
+HOT 97 News 7/28/26 [watch](https://youtu.be/FM2IWC3PjWA?si=qGGSdjrvflKO5JlG)
 <img  alt="image" src="https://github.com/user-attachments/assets/3a5f948b-0f1d-47d2-956a-7d70c029b5c3" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FM2IWC3PjWA?si=Z3BI22Am8JfqfBtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
