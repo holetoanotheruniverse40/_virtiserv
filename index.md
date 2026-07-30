@@ -7,6 +7,12 @@ layout: default
 [draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/)
 [browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 
+<img   alt="image" src="https://github.com/user-attachments/assets/37319bae-e736-44ac-a26b-b57e996d0285" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/f289e426-816e-4825-9ea4-98b37dca6e7c" />
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/063f49d1-4d98-4015-8037-00b909405580" />
 
 
