@@ -3,6 +3,22 @@ layout: default
 ---
 
 
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| NASA.gov | a8-66.akam.net. | 43 | 
+| NASA.gov | a12-64.akam.net. | 43 | 
+| NASA.gov | a1-32.akam.net. | 43 | 
+| NASA.gov | a14-67.akam.net. | 43 | 
+| NASA.gov | a5-66.akam.net. | 43 | 
+| NASA.gov | a9-64.akam.net. | 43 | @nasa
+
+
+
+<img alt="image @nasa @emergincoders @nasa-giss @nasa-jpl @la-county-isd @cityoflosangeles" src="https://github.com/user-attachments/assets/a0c76e38-ba1c-4017-be31-4d093e252942" />
+
+
 | Domain Name | NS | TTL | TownShip |
 |-------------|----|-----|----------|
 | jpl.nasa.gov | a2-67.akam.net. | 21600 | @la-county-isd |
