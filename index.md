@@ -2,6 +2,15 @@
 layout: default
 ---
 
+
+# Road Rash (USA)
+by [Electronic Arts](https://web.archive.org/web/19970221233250/http://www.ea.com/) / [link](https://archive.org/details/psx_roadrash)
+<iframe src="https://archive.org/embed/psx_roadrash" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[may 11 2000 ea.com](https://web.archive.org/web/20000511090656/http://www.ea.com/)
+<img alt="image" src="https://github.com/user-attachments/assets/4a3d99e5-2402-455b-87cc-d383fd56f330" />
+
+
 ## I.Q - Intelligent Qube (USA)
 by Sony Computer Entertainment America
 @blackgirlscode @commercegov @fbicyber
@@ -11,7 +20,7 @@ by Sony Computer Entertainment America
 
 # Tomb Raider (USA, v1.5)
 by Eidos Interactive @nasa-jpl
-
+[link](https://archive.org/details/psx_traida)
 <iframe src="https://archive.org/embed/psx_traida" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # NS Records 
