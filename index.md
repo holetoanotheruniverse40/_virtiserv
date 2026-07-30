@@ -9,6 +9,8 @@ layout: default
 @howard-university-web-services @nasa-jpl @StateOfCalifornia [HollyJMitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) // 
 <img  alt="image" src="https://github.com/user-attachments/assets/fae3a147-fe27-40d7-9098-da56066d658b" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/a2d38707-3970-4e4c-8cc8-fc9b5bab1836" />
+
 # Governor Newsom visits Space Beach and highlights California’s aerospace dominance
 SPaceBeach [gov.ca.gov-READ](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
 @StateOfCalifornia Governor i Missed your visit, i could have quelled some of my head anger about [Covid ipv](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) and been a merry worker
