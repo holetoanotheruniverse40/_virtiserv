@@ -3,28 +3,8 @@ layout: default
 ---
 
 
-# Road Rash (USA)
-by [Electronic Arts](https://web.archive.org/web/19970221233250/http://www.ea.com/) / [link](https://archive.org/details/psx_roadrash)
-<iframe src="https://archive.org/embed/psx_roadrash" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[may 11 2000 ea.com](https://web.archive.org/web/20000511090656/http://www.ea.com/)
-<img alt="image" src="https://github.com/user-attachments/assets/4a3d99e5-2402-455b-87cc-d383fd56f330" />
-
-
-## I.Q - Intelligent Qube (USA)
-by Sony Computer Entertainment America
-@blackgirlscode @commercegov @fbicyber
-
-<iframe src="https://archive.org/embed/psx_iqube" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-# Tomb Raider (USA, v1.5)
-by Eidos Interactive @nasa-jpl
-[link](https://archive.org/details/psx_traida)
-<iframe src="https://archive.org/embed/psx_traida" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
 # NS Records 
-
+@nasa-openscapes @doug-newman-nasa so SpaceX is in Hawthorne but the website is hosted from santaclara? 
 [Despite relocating its HQ to Texas, half of all SpaceX employees still work in LA County](https://www.reddit.com/r/SpaceXLounge/comments/1qnqyr2/despite_relocating_its_hq_to_texas_half_of_all/) // [“Hawthorne Quietly Becoming LA County’s Next Aerospace Powerhouse” [SpaceX expands Hawthorne with 6 acre, $22M land purchase]](https://www.reddit.com/r/spacex/comments/1ukovlu/hawthorne_quietly_becoming_la_countys_next/)
 
 | Domain Name | NS | TTL | 
@@ -43,7 +23,6 @@ by Eidos Interactive @nasa-jpl
 
 
 
-@nasa-openscapes @doug-newman-nasa so SpaceX is in Hawthorne but the website is hosted from santaclara? 
 
 ```json
 
@@ -173,6 +152,28 @@ by Eidos Interactive @nasa-jpl
 ```
 
 [https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google](https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google)
+
+
+# Road Rash (USA)
+by [Electronic Arts](https://web.archive.org/web/19970221233250/http://www.ea.com/) / [link](https://archive.org/details/psx_roadrash)
+<iframe src="https://archive.org/embed/psx_roadrash" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[may 11 2000 ea.com](https://web.archive.org/web/20000511090656/http://www.ea.com/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/4a3d99e5-2402-455b-87cc-d383fd56f330" />
+
+
+## I.Q - Intelligent Qube (USA)
+by Sony Computer Entertainment America
+@blackgirlscode @commercegov @fbicyber
+
+<iframe src="https://archive.org/embed/psx_iqube" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# Tomb Raider (USA, v1.5)
+by Eidos Interactive @nasa-jpl
+[link](https://archive.org/details/psx_traida)
+<iframe src="https://archive.org/embed/psx_traida" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 @nasa-jpl 
