@@ -5,8 +5,7 @@ layout: default
 
 # NS Records 
 
-
-# NS Records 
+[Despite relocating its HQ to Texas, half of all SpaceX employees still work in LA County](https://www.reddit.com/r/SpaceXLounge/comments/1qnqyr2/despite_relocating_its_hq_to_texas_half_of_all/) // [“Hawthorne Quietly Becoming LA County’s Next Aerospace Powerhouse” [SpaceX expands Hawthorne with 6 acre, $22M land purchase]](https://www.reddit.com/r/spacex/comments/1ukovlu/hawthorne_quietly_becoming_la_countys_next/)
 
 | Domain Name | NS | TTL | 
 |-------------|----|-----|
