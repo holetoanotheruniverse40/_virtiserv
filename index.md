@@ -14,6 +14,15 @@ layout: default
 | SpaceX.com | ns-cloud-b3.googledomains.com. | 21600 | 
 | SpaceX.com | ns-cloud-b1.googledomains.com. | 21600 | 
 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| googledomains.com | ns8.googledomains.com. | 21600 | 
+| googledomains.com | ns5.googledomains.com. | 21600 | 
+| googledomains.com | ns6.googledomains.com. | 21600 | 
+| googledomains.com | ns7.googledomains.com. | 21600 | 
+
+
+
 @nasa-openscapes @doug-newman-nasa so SpaceX is in Hawthorne but the website is hosted from santaclara? 
 
 ```json
