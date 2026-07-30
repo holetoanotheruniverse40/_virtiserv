@@ -4,9 +4,10 @@ layout: default
 
 
 # Governor Newsom visits Space Beach and highlights California’s aerospace dominance
-## SPaceBeach
+SPaceBeach [gov.ca.gov-READ](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
 @StateOfCalifornia Governor i Missed your visit, i could have quelled some of my head anger about [Covid ipv](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) and been a merry worker
 im working the [colocation issues](https://www.hpe.com/us/en/what-is/data-center-colocation.html) and continuing my audit @nasa-pds @deptofwar @usnavy @FBiCYBER @HPInc
+[gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
 
 | Domain Name | NS | TTL | TownShip |
 |-------------|----|-----|----------|
@@ -17,8 +18,8 @@ im working the [colocation issues](https://www.hpe.com/us/en/what-is/data-center
 [Link - pmc.ncbi.nlm.nih.gov/articles/PMC10631266/ @nihgov @nbcnews](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/)
 [PDF - @blackgirlscode @lacountyDPH](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) 
 [findlatitudeandlongitude.com/l/37.751/5231361/](https://www.findlatitudeandlongitude.com/l/37.751/5231361/)
-[gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
-Governor Newsom visits Space Beach and highlights California’s aerospace dominance
+
+
 
 # Count Profits
 Count Profits
