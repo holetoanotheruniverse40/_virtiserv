@@ -4,6 +4,18 @@ layout: default
 
 
 # NS Records 
+
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| SpaceX.com | ns-cloud-b2.googledomains.com. | 21600 | 
+| SpaceX.com | ns-cloud-b4.googledomains.com. | 21600 | 
+| SpaceX.com | ns-cloud-b3.googledomains.com. | 21600 | 
+| SpaceX.com | ns-cloud-b1.googledomains.com. | 21600 | 
+
+
 [https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google](https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google)
 
 
