@@ -18,9 +18,16 @@ layout: default
 
 --- 
 
+## Ticket to the Twenties Themes: Los Angeles City Hall Planning, 1923
+[`READ` - homesteadmuseum.blog/2016/09/22/ticket-to-the-twenties-themes-los-angeles-city-hall-planning-1923/](https://homesteadmuseum.blog/2016/09/22/ticket-to-the-twenties-themes-los-angeles-city-hall-planning-1923/)
+
+![@cityoflosangeles https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-idea-1923.jpg?resize=730%2C472&ssl=1 @nasa-pds](https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-idea-1923.jpg?resize=730%2C472&ssl=1) 
+
 <img   alt="650790757-23ab9649-ccf3-4567-b763-f84b64072c4a" src="https://github.com/user-attachments/assets/baa2e03d-3a45-4502-83f1-acbd2518f8cb" />
 
+![https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-pamphlet-3.jpg?resize=730%2C548&ssl=1](https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-pamphlet-3.jpg?resize=730%2C548&ssl=1)
 
+![https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-pamphlet-4.jpg?resize=730%2C548&ssl=1](https://i0.wp.com/homesteadmuseum.blog/wp-content/uploads/2016/09/civic-center-pamphlet-4.jpg?resize=730%2C548&ssl=1)
 ![@cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL myportfolio.com/74019380-c552-4286-b37a-46ad0ebad3c5/8d51b99c-fd0e-45fe-8638-229e987718d6_rw_1200.jpg?h=f5595e1a8e5785b67903ef3f76009531](https://cdn.myportfolio.com/74019380-c552-4286-b37a-46ad0ebad3c5/8d51b99c-fd0e-45fe-8638-229e987718d6_rw_1200.jpg?h=f5595e1a8e5785b67903ef3f76009531)
 ![upload.wikimedia.org/wikipedia/commons/1/1c/Map_of_LA_City_Council_Districts.png @cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL ](https://upload.wikimedia.org/wikipedia/commons/1/1c/Map_of_LA_City_Council_Districts.png)
 ![@cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL ](https://maps-los-angeles.com/img/1200/los-angeles-city-council-district-map.jpg)
