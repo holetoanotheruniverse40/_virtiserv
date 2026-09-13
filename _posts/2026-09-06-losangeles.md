@@ -24,7 +24,8 @@ permalink: losangeles
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
 
-<img alt="image" src="https://github.com/user-attachments/assets/de4d9b16-1a4e-4ae1-abb7-e3615df75250" />
+<img   alt="650790757-23ab9649-ccf3-4567-b763-f84b64072c4a" src="https://github.com/user-attachments/assets/baa2e03d-3a45-4502-83f1-acbd2518f8cb" />
+
 
 ![@cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL myportfolio.com/74019380-c552-4286-b37a-46ad0ebad3c5/8d51b99c-fd0e-45fe-8638-229e987718d6_rw_1200.jpg?h=f5595e1a8e5785b67903ef3f76009531](https://cdn.myportfolio.com/74019380-c552-4286-b37a-46ad0ebad3c5/8d51b99c-fd0e-45fe-8638-229e987718d6_rw_1200.jpg?h=f5595e1a8e5785b67903ef3f76009531)
 ![upload.wikimedia.org/wikipedia/commons/1/1c/Map_of_LA_City_Council_Districts.png @cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL ](https://upload.wikimedia.org/wikipedia/commons/1/1c/Map_of_LA_City_Council_Districts.png)
