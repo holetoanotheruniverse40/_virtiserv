@@ -18,6 +18,16 @@ layout: default
 
 --- 
 
+@howard-university-web-services @blackgirlscode hi Lana I was strapped for time today  . . . I will catch up on your show @deptofwar she might be visiting @CityOfLosAngeles idk how immigration works but HBCU don't handle business like wee do @nasa-jpl @nasa-pds tell Lana what's up, cameras are easy to point [youtube.com/results?search_query=hot97+tv](https://www.youtube.com/results?search_query=hot97+tv)
+<img   alt="image" src="https://github.com/user-attachments/assets/86c483f4-4010-4170-a6e0-ff68182f3a74" />
+
+Grandmaster Flash and Kurtis Blow - Live in Queens, NY 1981
+[Listen - https://youtu.be/gvLoUwC4rz0?list=PLoHkKVpb5UXFLS6nWMXFYDdjFjEseayjf](https://youtu.be/gvLoUwC4rz0?list=PLoHkKVpb5UXFLS6nWMXFYDdjFjEseayjf)
+<img  alt="image" src="https://github.com/user-attachments/assets/de42fec9-c231-47f8-b5d9-80cd87d1b249" />
+
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_090800_090899/ESP_090820_2085_ESP_090754_2085/ESP_090820_2085_ESP_090754_2085_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_090800_090899/ESP_090820_2085_ESP_090754_2085/ESP_090820_2085_ESP_090754_2085_RED.browse.png) 
+
 ![@blackgirlscode https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093100_093199/ESP_093129_1660_ESP_093063_1660/ESP_093129_1660_ESP_093063_1660_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093100_093199/ESP_093129_1660_ESP_093063_1660/ESP_093129_1660_ESP_093063_1660_RED.browse.png) 
 
 @asu @asulibraries
