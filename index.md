@@ -18,6 +18,12 @@ layout: default
 
 --- 
 
+
+## Los Angeles City Hall
+[@la-county-isd @StateOfCalifornia @nasa Laconservancy.org/learn/historic-places/los-angeles-city-hall/](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/)
+![https://www.laconservancy.org/wp-content/uploads/2022/10/CityHall20-Scottow.jpg](https://www.laconservancy.org/wp-content/uploads/2022/10/CityHall20-Scottow.jpg) 
+
+[@nasa-jpl](https://www.pinterest.com/pin/pasadena-city-hall--235664992991871129/)
 [@CityOfLosAngeles Stevenfaderarchitects.com/los-angeles-city-hall/single-gallery/17018031](https://www.stevenfaderarchitects.com/los-angeles-city-hall/single-gallery/17018031)
 ![https://static1.1.sqspcdn.com/static/p/1524004/17018031/1354601085777/city+hall+axon.jpg?asGalleryImage=true&token=bb6Z4SIqJ2U1ZeOXVzsLqfbdAiI%3D](https://static1.1.sqspcdn.com/static/p/1524004/17018031/1354601085777/city+hall+axon.jpg?asGalleryImage=true&token=bb6Z4SIqJ2U1ZeOXVzsLqfbdAiI%3D) 
 
