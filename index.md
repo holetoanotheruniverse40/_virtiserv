@@ -18,6 +18,15 @@ layout: default
 
 --- 
 
+
+## 9/11 Widow Goes Rogue In Front Of World Leaders
+[`WATCH` - https://youtu.be/6d0L5VlS68g](https://youtu.be/6d0L5VlS68g) @ForAtlanta check on Lana make sure she did not get kidnapped agian  @deptofwar @fbicyber 
+<img alt="image" src="https://github.com/user-attachments/assets/459e32d1-a13a-4264-a4df-4ef8a90f7ed7" />
+
+
+@nasa-pds @asulibraries there's a black streak in this image @nasa-jpl `https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093000_093099/ESP_093047_1555_ESP_093693_1555/ESP_093047_1555_ESP_093693_1555_RED.browse.png` @nasa I was told to make comments I'm just overwhelmed I'm sorry landing team, ppl competitive for time and squeeze me out of a lot of places @ForaTlanta hi 
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093000_093099/ESP_093047_1555_ESP_093693_1555/ESP_093047_1555_ESP_093693_1555_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093000_093099/ESP_093047_1555_ESP_093693_1555/ESP_093047_1555_ESP_093693_1555_RED.browse.png) 
+
 @howard-university-web-services @blackgirlscode hi Lana I was strapped for time today  . . . I will catch up on your show @deptofwar she might be visiting @CityOfLosAngeles idk how immigration works but HBCU don't handle business like wee do @nasa-jpl @nasa-pds tell Lana what's up, cameras are easy to point [youtube.com/results?search_query=hot97+tv](https://www.youtube.com/results?search_query=hot97+tv)
 <img   alt="image" src="https://github.com/user-attachments/assets/86c483f4-4010-4170-a6e0-ff68182f3a74" />
 
