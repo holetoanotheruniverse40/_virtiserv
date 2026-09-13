@@ -17,6 +17,9 @@ layout: default
 [Mr. Lif - Enters The Colossus](https://youtu.be/_t52handuvU) you snuck in again, idk y i have been running from this album for years! 
 
 --- 
+@nasa-jpl 
+
+![@nasa-pds @CityOfLosAngeles how would you like to keep up with mars updates pics etc @STATEOFCALiFORNiA @WHiTEHOUSE @dhs-gov](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_002100_002199/PSP_002176_2025_PSP_002888_2025/PSP_002176_2025_PSP_002888_2025_RED.browse.png) 
 
 [https://www.huntington.org/join/donors/blueprint-los-angeles](https://www.huntington.org/join/donors/blueprint-los-angeles)
 Civic Center plan adopted by the City and County of Los Angeles. [@CiTYOFLOSANGELES @NASA-GiSS https://www.researchgate.net/figure/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by_fig1_275452958](https://www.researchgate.net/figure/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by_fig1_275452958) @nasa-jpl @eodis-nasa @blackgirlscode 
