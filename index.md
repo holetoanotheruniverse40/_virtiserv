@@ -18,6 +18,16 @@ layout: default
 
 --- 
 
+<img   alt="650790757-23ab9649-ccf3-4567-b763-f84b64072c4a" src="https://github.com/user-attachments/assets/baa2e03d-3a45-4502-83f1-acbd2518f8cb" />
+
+
+![@cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL myportfolio.com/74019380-c552-4286-b37a-46ad0ebad3c5/8d51b99c-fd0e-45fe-8638-229e987718d6_rw_1200.jpg?h=f5595e1a8e5785b67903ef3f76009531](https://cdn.myportfolio.com/74019380-c552-4286-b37a-46ad0ebad3c5/8d51b99c-fd0e-45fe-8638-229e987718d6_rw_1200.jpg?h=f5595e1a8e5785b67903ef3f76009531)
+![upload.wikimedia.org/wikipedia/commons/1/1c/Map_of_LA_City_Council_Districts.png @cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL ](https://upload.wikimedia.org/wikipedia/commons/1/1c/Map_of_LA_City_Council_Districts.png)
+![@cityoflosangeles council districts @FORATLANTA @LONGBEACHiNNOVATiONTEAM @NASA-JPL ](https://maps-los-angeles.com/img/1200/los-angeles-city-council-district-map.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea32c625-1714-472d-8d3f-14518614480f" />
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/657ce544-15f0-471d-ac57-04e9b23337b1" />
 
 @nasa-jpl @foratlanta @deptofwar @whitehouse @blackgirlscode
