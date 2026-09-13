@@ -19,6 +19,10 @@ layout: default
 --- 
 
 
+Civic Center plan adopted by the City and County of Los Angeles. [@CiTYOFLOSANGELES @NASA-GiSS https://www.researchgate.net/figure/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by_fig1_275452958](https://www.researchgate.net/figure/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by_fig1_275452958) @nasa-jpl @eodis-nasa @blackgirlscode 
+![https://www.researchgate.net/profile/Meredith-Drake-Reitan/publication/275452958/figure/fig1/AS:384196934684675@1468611095888/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by.png](https://www.researchgate.net/profile/Meredith-Drake-Reitan/publication/275452958/figure/fig1/AS:384196934684675@1468611095888/Civic-Center-plan-adopted-by-the-City-and-County-of-Los-Angeles-The-plan-prepared-by.png)
+
+
 ## Los Angeles City Hall
 [@la-county-isd @StateOfCalifornia @nasa Laconservancy.org/learn/historic-places/los-angeles-city-hall/](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/)
 ![https://www.laconservancy.org/wp-content/uploads/2022/10/CityHall20-Scottow.jpg](https://www.laconservancy.org/wp-content/uploads/2022/10/CityHall20-Scottow.jpg) 
