@@ -18,6 +18,9 @@ layout: default
 
 --- 
 
+[@CityOfLosAngeles Stevenfaderarchitects.com/los-angeles-city-hall/single-gallery/17018031](https://www.stevenfaderarchitects.com/los-angeles-city-hall/single-gallery/17018031)
+![https://static1.1.sqspcdn.com/static/p/1524004/17018031/1354601085777/city+hall+axon.jpg?asGalleryImage=true&token=bb6Z4SIqJ2U1ZeOXVzsLqfbdAiI%3D](https://static1.1.sqspcdn.com/static/p/1524004/17018031/1354601085777/city+hall+axon.jpg?asGalleryImage=true&token=bb6Z4SIqJ2U1ZeOXVzsLqfbdAiI%3D) 
+
 ## Ticket to the Twenties Themes: Los Angeles City Hall Planning, 1923
 [`READ` - homesteadmuseum.blog/2016/09/22/ticket-to-the-twenties-themes-los-angeles-city-hall-planning-1923/](https://homesteadmuseum.blog/2016/09/22/ticket-to-the-twenties-themes-los-angeles-city-hall-planning-1923/)
 
