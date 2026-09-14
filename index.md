@@ -25,6 +25,8 @@ layout: default
 [`WATCH` - https://youtu.be/IENnS80M4dQ](https://youtu.be/IENnS80M4dQ)
 <img  alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA" src="https://github.com/user-attachments/assets/c2cdca0b-1fc0-415d-9ef4-de91eaf533e8" />
 
+>@OfficialCutChemist that girl i felt up on @hot97 she was in blackface @repkarenbass @NASAJPL @HOWARDUNiVERSiTY @chloebaileywashere talk to cut chemist about your mixtape @AlQuran4KOfficial @NASAJPLPODAAC ppl need to slow down on the datacenters, like i gotta get some down time because i know they are making mistakes!!!!!!!!!!!!!!1 @NASAJPLPODAAC
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/96Hbs2B5Vo8?si=xL5VsRdKaOLYTRjf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img  alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA" src="https://github.com/user-attachments/assets/a4d3c949-15ed-4e36-9e2e-1aa3447237ba" />
