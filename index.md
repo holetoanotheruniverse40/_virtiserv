@@ -18,7 +18,16 @@ layout: default
 
 --- 
 
+@ForAtlanta @BlackGirLsCode 
+[`WATCH` - Public Safety/Legal Administration Committee Meeting youtu.be/3c_316K9N20](https://youtu.be/3c_316K9N20)
+[ATLChannel26 @NAsa-pds @nasa-jpl @ASU youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
+<img alt="image" src="https://github.com/user-attachments/assets/05391d36-27ed-4336-9302-5ed1489718c1" />
 
+# 🕋 Makkah Live
+@nasas-jpl @cityoflosangeles hi [`Watch` - youtu.be/YSBijY6W4yY](https://youtu.be/YSBijY6W4yY)
+[https://youtu.be/BNFfCFIzftU](https://youtu.be/BNFfCFIzftU) its a newer link than the one above @CityOFLoSangeles @DEPTOFWAR @CiA
+kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope thats enough @howard-university-web-services 
+<img alt="image" src="https://github.com/user-attachments/assets/3da42543-9cb8-460b-b4eb-3d7b5de7d5f3" />
 
 # 4 LAna J Harris
 
