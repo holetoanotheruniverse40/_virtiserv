@@ -21,7 +21,15 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBvFwqZSUck?si=-UldHWqz9xz3Q0R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2274478748&color=%230066ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boosie-badazz-16" title="Boosie Badazz" target="_blank" style="color: #cccccc; text-decoration: none;">Boosie Badazz</a> · <a href="https://soundcloud.com/boosie-badazz-16/sets/hood-stories-8" title="Hood Stories" target="_blank" style="color: #cccccc; text-decoration: none;">Hood Stories</a></div>
+
 <img   alt="image" src="https://github.com/user-attachments/assets/c216a5a9-b033-4f60-aa72-06b037789577" />
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1742331777&color=%230066ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boosie-badazz-16" title="Boosie Badazz" target="_blank" style="color: #cccccc; text-decoration: none;">Boosie Badazz</a> · <a href="https://soundcloud.com/boosie-badazz-16/sets/thug-talk-2" title="Thug Talk" target="_blank" style="color: #cccccc; text-decoration: none;">Thug Talk</a></div>
+
 
 ![https://www.hot97.com/wp-content/uploads/sites/2/2024/03/hot97-logo.png](https://www.hot97.com/wp-content/uploads/sites/2/2024/03/hot97-logo.png) 
 
