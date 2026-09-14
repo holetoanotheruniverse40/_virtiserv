@@ -20,7 +20,17 @@ layout: default
 
 
 
-# LAna J Harris
+# 4 LAna J Harris
+
+@ForAtlanta @BlackGirLsCode 
+Public Safety/Legal Administration Committee Meeting
+[ATLChannel26 @NAsa-pds @nasa-jpl @ASU youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
+
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8e15edc1-2a6d-4d22-8c3e-2d1b88740254" />
+
 [A Tech Startup Secretly Tested Weather Modification Over Alaska - `WATCH` <~ @nasa-jpl @asfadmin _`ThanksLana!!!`_@BLACKGiRLSCODE](https://youtu.be/MNvaW8Boj0I?t=8)
 <img alt="image" src="https://github.com/user-attachments/assets/a044f3f0-2bff-4b72-a91f-26a89c768bb6" />
 
