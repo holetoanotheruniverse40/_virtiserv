@@ -18,6 +18,8 @@ layout: default
 
 --- 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/3af0c9ee-accd-48e9-be50-1eaf4e5d8aaa" />
+
 @ForAtlanta @BlackGirLsCode 
 [`WATCH` - Public Safety/Legal Administration Committee Meeting youtu.be/3c_316K9N20](https://youtu.be/3c_316K9N20)
 [ATLChannel26 @NAsa-pds @nasa-jpl @ASU youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
@@ -26,7 +28,7 @@ layout: default
 # 🕋 Makkah Live
 @nasas-jpl @cityoflosangeles hi [`Watch` - youtu.be/YSBijY6W4yY](https://youtu.be/YSBijY6W4yY)
 [https://youtu.be/BNFfCFIzftU](https://youtu.be/BNFfCFIzftU) its a newer link than the one above @CityOFLoSangeles @DEPTOFWAR @CiA
-kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope thats enough @howard-university-web-services 
+kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope thats enough @howard-university-web-services [@NASAJPL  @Doug-Newmna-nasa thakarashard.github.io/RESUME/](https://thakarashard.github.io/RESUME/)
 <img alt="image" src="https://github.com/user-attachments/assets/3da42543-9cb8-460b-b4eb-3d7b5de7d5f3" />
 
 # 4 LAna J Harris
