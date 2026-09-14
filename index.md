@@ -20,11 +20,23 @@ layout: default
 
 
 
-# LAna J Harris @NewsHour @NBCNEWS @Cbs-news-data
+# LAna J Harris
+[A Tech Startup Secretly Tested Weather Modification Over Alaska - `WATCH` <~ @nasa-jpl ](https://youtu.be/MNvaW8Boj0I?t=8)
+<img alt="image" src="https://github.com/user-attachments/assets/a044f3f0-2bff-4b72-a91f-26a89c768bb6" />
+
+[youtube.com/results?search_query=hot97+tv](https://www.youtube.com/results?search_query=hot97+tv)
+[@nasa-pds github.com/iptv-org/iptv](https://github.com/iptv-org/iptv)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3383a669-1083-4deb-b230-c38254c1f1eb" />
+
+
+@NewsHour @NBCNEWS @Cbs-news-data
 @howard-university-web-services @disney @nasa-jpl @eodis-nasa @doug-newmna-nasa I was reading [@latimes job section](https://jobs.latimes.com/?_gl=1*13iv9mt*_gcl_au*NzU4NTQ2MjgwLjE3ODk0MTA1NDAuLS4tLjE3ODk0MTA1MzkuODQyOTE3NDgyLjE3ODk0MTA1NDAuMTc4OTQxMDY0NQ..) on @LACMTA and I wanted everyone to know  I'm not abandoning anything I was just exploring options locally that don't conflict with my preexisting commitments @SonyResearch @Sony has a Linux admin position and the job description talked about making widgets, my email did not get to me @virtiserv @outlook @Blackgirlscode but I sent it to the long beach mayor and the [@CityOfLosAngeles mayor helpdesk](https://mayor.lacity.gov/contact) if any of you guys need access . . . @Newshour please handle any communication with @Netflix they are such a turn off to me that's all @USGS @NASA @WHitEHOUSE @DEPToFWAR [@STATEOFCALiFORNiA @CiA @USC jobs.latimes.com/?_gl=1*13iv9mt*_gcl_au*NzU4NTQ2MjgwLjE3ODk0MTA1NDAuLS4tLjE3ODk0MTA1MzkuODQyOTE3NDgyLjE3ODk0MTA1NDAuMTc4OTQxMDY0NQ..](https://jobs.latimes.com/?_gl=1*13iv9mt*_gcl_au*NzU4NTQ2MjgwLjE3ODk0MTA1NDAuLS4tLjE3ODk0MTA1MzkuODQyOTE3NDgyLjE3ODk0MTA1NDAuMTc4OTQxMDY0NQ..) 
 
 <img alt="image" src="https://github.com/user-attachments/assets/986c170b-0376-49bb-bd87-405b8018c867" />
 
+[`WATCH` - Legionnaires' Outbreak, Charlie Kirk Statue Drama & H-1B Visa Crackdown](https://youtu.be/5Bkbfq9FlMI)
+<img  alt="image" src="https://github.com/user-attachments/assets/a7643d73-87fa-4808-aa47-d48dca8403dd" />
 
 ## 9/11 Widow Goes Rogue In Front Of World Leaders
 [`WATCH` - https://youtu.be/6d0L5VlS68g](https://youtu.be/6d0L5VlS68g) @ForAtlanta check on Lana make sure she did not get kidnapped agian  @deptofwar @fbicyber 
