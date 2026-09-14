@@ -22,7 +22,9 @@ layout: default
 
 @ForAtlanta @BlackGirLsCode 
 [`WATCH` - Public Safety/Legal Administration Committee Meeting youtu.be/3c_316K9N20](https://youtu.be/3c_316K9N20)
-[ATLChannel26 @NAsa-pds @nasa-jpl @ASU youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
+[ATLChannel26 @NAsa-pds @nasa-jpl @ASU youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26) @DEPTOFWAR @CiA
+kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope thats enough @howard-university-web-services [@NASAJPL  @Doug-Newmna-nasa thakarashard.github.io/RESUME/](https://thakarashard.github.io/RESUME/) ://thakarashard.github.io/RESUME/ @ATLChannel26  ... @NASaJPL ill put youguys on top and put to present @LAnaJHARRiS @HOWARDUNiVERSiTY idk wht to say for #Virtiserv @BLACKGiRLSCODE
+
 <img alt="image" src="https://github.com/user-attachments/assets/05391d36-27ed-4336-9302-5ed1489718c1" />
 
 # 🕋 Makkah Live
