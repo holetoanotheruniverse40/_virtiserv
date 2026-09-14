@@ -23,7 +23,7 @@ layout: default
 # 4 LAna J Harris
 
 @ForAtlanta @BlackGirLsCode 
-Public Safety/Legal Administration Committee Meeting
+[`WATCH` - Public Safety/Legal Administration Committee Meeting youtu.be/3c_316K9N20](https://youtu.be/3c_316K9N20)
 [ATLChannel26 @NAsa-pds @nasa-jpl @ASU youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
 
 
