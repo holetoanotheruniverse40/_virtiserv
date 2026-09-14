@@ -18,6 +18,10 @@ layout: default
 
 --- 
 
+@howard-university-web-services @disney @nasa-jpl @eodis-nasa @doug-newmna-nasa I was reading [@latimes job section](https://jobs.latimes.com/?_gl=1*13iv9mt*_gcl_au*NzU4NTQ2MjgwLjE3ODk0MTA1NDAuLS4tLjE3ODk0MTA1MzkuODQyOTE3NDgyLjE3ODk0MTA1NDAuMTc4OTQxMDY0NQ..) on @LACMTA and I wanted everyone to know  I'm not abandoning anything I was just exploring options locally that don't conflict with my preexisting commitments @SonyResearch @Sony has a Linux admin position and the job description talked about making widgets, my email did not get to me @virtiserv @outlook @Blackgirlscode but I sent it to the long beach mayor and the [@CityOfLosAngeles mayor helpdesk](https://mayor.lacity.gov/contact) if any of you guys need access . . . @Newshour please handle any communication with @Netflix they are such a turn off to me that's all @USGS @NASA @WHitEHOUSE @DEPToFWAR [@STATEOFCALiFORNiA @CiA @USC jobs.latimes.com/?_gl=1*13iv9mt*_gcl_au*NzU4NTQ2MjgwLjE3ODk0MTA1NDAuLS4tLjE3ODk0MTA1MzkuODQyOTE3NDgyLjE3ODk0MTA1NDAuMTc4OTQxMDY0NQ..](https://jobs.latimes.com/?_gl=1*13iv9mt*_gcl_au*NzU4NTQ2MjgwLjE3ODk0MTA1NDAuLS4tLjE3ODk0MTA1MzkuODQyOTE3NDgyLjE3ODk0MTA1NDAuMTc4OTQxMDY0NQ..) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/986c170b-0376-49bb-bd87-405b8018c867" />
+
 
 ## 9/11 Widow Goes Rogue In Front Of World Leaders
 [`WATCH` - https://youtu.be/6d0L5VlS68g](https://youtu.be/6d0L5VlS68g) @ForAtlanta check on Lana make sure she did not get kidnapped agian  @deptofwar @fbicyber 
