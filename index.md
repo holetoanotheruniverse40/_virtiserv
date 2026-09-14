@@ -14,11 +14,11 @@ layout: default
   
 </picture>
 
-[Mr. Lif - Enters The Colossus](https://youtu.be/_t52handuvU) you snuck in again, idk y i have been running from this album for years! // [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4)
+ [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4)
 
 --- 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nBvFwqZSUck?si=-UldHWqz9xz3Q0R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [@ForAtlanta digitalcommons.georgiasouthern.edu/savannah-signs/411/](https://digitalcommons.georgiasouthern.edu/savannah-signs/411/)
 
@@ -76,6 +76,7 @@ kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope that
 [`WATCH` - https://youtu.be/6d0L5VlS68g](https://youtu.be/6d0L5VlS68g) @ForAtlanta check on Lana make sure she did not get kidnapped agian  @deptofwar @fbicyber 
 <img alt="image" src="https://github.com/user-attachments/assets/459e32d1-a13a-4264-a4df-4ef8a90f7ed7" />
 
+[Mr. Lif - Enters The Colossus](https://youtu.be/_t52handuvU) you snuck in again, idk y i have been running from this album for years! //
 
 @nasa-pds @asulibraries there's a black streak in this image @nasa-jpl `https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093000_093099/ESP_093047_1555_ESP_093693_1555/ESP_093047_1555_ESP_093693_1555_RED.browse.png` @nasa I was told to make comments I'm just overwhelmed I'm sorry landing team, ppl competitive for time and squeeze me out of a lot of places @ForaTlanta hi 
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093000_093099/ESP_093047_1555_ESP_093693_1555/ESP_093047_1555_ESP_093693_1555_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093000_093099/ESP_093047_1555_ESP_093693_1555/ESP_093047_1555_ESP_093693_1555_RED.browse.png) 
