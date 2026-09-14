@@ -18,12 +18,22 @@ layout: default
 
 --- 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/96Hbs2B5Vo8?si=xL5VsRdKaOLYTRjf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBvFwqZSUck?si=-UldHWqz9xz3Q0R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Keisha SLAMS Rick Jackson On His Data Center Investment Despite Local Opposition 
+[`WATCH` - https://youtu.be/IENnS80M4dQ](https://youtu.be/IENnS80M4dQ)
+<img  alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA" src="https://github.com/user-attachments/assets/c2cdca0b-1fc0-415d-9ef4-de91eaf533e8" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/96Hbs2B5Vo8?si=xL5VsRdKaOLYTRjf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA" src="https://github.com/user-attachments/assets/a4d3c949-15ed-4e36-9e2e-1aa3447237ba" />
+
+
+
 [@ForAtlanta digitalcommons.georgiasouthern.edu/savannah-signs/411/](https://digitalcommons.georgiasouthern.edu/savannah-signs/411/)
 
+<img  alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA " src="https://github.com/user-attachments/assets/4097bfe5-f7ec-49de-bfc8-29a9226a99b4" />
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1421705710&color=%230075ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/wearedelasoul" title="De La Soul" target="_blank" style="color: #cccccc; text-decoration: none;">De La Soul</a> · <a href="https://soundcloud.com/wearedelasoul/bitties-in-the-bk-lounge-1" title="Bitties in the BK Lounge" target="_blank" style="color: #cccccc; text-decoration: none;">Bitties in the BK Lounge</a></div>
@@ -36,7 +46,7 @@ layout: default
 @ForAtlanta @BlackGirLsCode 
 [`WATCH` - Public Safety/Legal Administration Committee Meeting youtu.be/3c_316K9N20](https://youtu.be/3c_316K9N20)
 [ATLChannel26 @NAsa-pds @nasa-jpl @ASU youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26) @DEPTOFWAR @CiA
-kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope thats enough @howard-university-web-services [@NASAJPL  @Doug-Newmna-nasa thakarashard.github.io/RESUME/](https://thakarashard.github.io/RESUME/) ://thakarashard.github.io/RESUME/ @ATLChannel26  ... @NASaJPL ill put youguys on top and put to present @LAnaJHARRiS @HOWARDUNiVERSiTY idk wht to say for #Virtiserv @BLACKGiRLSCODE
+kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope thats enough @howard-university-web-services [@NASAJPL  @Doug-Newmna-nasa thakarashard.github.io/RESUME/](https://thakarashard.github.io/RESUME/) ://thakarashard.github.io/RESUME/ @ATLChannel26  ... @NASaJPL ill put youguys on top and put to present @LAnaJHARRiS @HOWARDUNiVERSiTY idk wht to say for #Virtiserv @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA
 
 <img alt="image" src="https://github.com/user-attachments/assets/05391d36-27ed-4336-9302-5ed1489718c1" />
 
@@ -55,10 +65,10 @@ kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope that
 
 
 
-<img   alt="image" src="https://github.com/user-attachments/assets/8e15edc1-2a6d-4d22-8c3e-2d1b88740254" />
+<img   alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA " src="https://github.com/user-attachments/assets/8e15edc1-2a6d-4d22-8c3e-2d1b88740254" />
 
 [A Tech Startup Secretly Tested Weather Modification Over Alaska - `WATCH` <~ @nasa-jpl @asfadmin _`ThanksLana!!!`_@BLACKGiRLSCODE](https://youtu.be/MNvaW8Boj0I?t=8)
-<img alt="image" src="https://github.com/user-attachments/assets/a044f3f0-2bff-4b72-a91f-26a89c768bb6" />
+<img alt="image @BLACKGiRLSCODE @CityOFLoSangeles @DEPTOFWAR @CiA " src="https://github.com/user-attachments/assets/a044f3f0-2bff-4b72-a91f-26a89c768bb6" />
 
 [youtube.com/results?search_query=hot97+tv](https://www.youtube.com/results?search_query=hot97+tv)
 [@nasa-pds github.com/iptv-org/iptv](https://github.com/iptv-org/iptv)
