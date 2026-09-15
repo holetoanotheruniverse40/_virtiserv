@@ -13,7 +13,10 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/c7f0ba90-cd58-4fef-8258-eef8f6202827" />
 
 
-@nasa-pds send this to the [@nasa-jpl Rover Operations center](https://www.jpl.nasa.gov/roc/) ////  [retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html](https://www.retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html)
+@nasa-pds send this to the [@nasa-jpl Rover Operations center](https://www.jpl.nasa.gov/roc/) //// [https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html](https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html)
+<img   alt="image @nasa-pds send this to the [@nasa-jpl Rover Operations center](https://www.jpl.nasa.gov/roc/) // [retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html](https://www.retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html) // [https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html](https://www.retrogames.cc/arcade-games/daytona-usa-revision-a.html) " src="https://github.com/user-attachments/assets/b2867885-5282-4313-a4d7-13619b80063b" />
+
+[retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html](https://www.retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html)
 <img alt="image" src="https://github.com/user-attachments/assets/c6b1c149-4c41-4528-b2e0-99bff789d4d8" />
 <img  alt="GIOVANNI-outputKnUKhaE2" src="https://github.com/user-attachments/assets/51f406e6-f1de-4281-b414-5325c6b0679f" />
 
