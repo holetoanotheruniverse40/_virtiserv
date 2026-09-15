@@ -4,6 +4,78 @@ layout: default
 
 [<video poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG" preload="auto" width="auto" height="400px" controls src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
 
+[@sonyResearch i played some games i did not buy  virtiserv.github.io/android](https://virtiserv.github.io/android)
+@ministryofjustice @nasa-pds @nasa-jpl and i got some music off the pirate bay , here are some videos of me playing arcade games @libretro 
+<div class="tupperware">
+
+  <video controls> 
+	  
+	<source src="https://ia801804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-060247.mp4" type="video/mp4">	 
+
+</video> 
+
+  <video controls> 
+	  
+	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-084039.mp4" type="video/mp4">	 
+
+</video> 
+
+  <video controls> 
+	<source src="https://ia601804.us.archive.org/33/items/vid-20250221-224142_202502/screen-20250223-062038.mp4" type="video/mp4">	 
+
+</video>
+ </div>
+ 
+# Emulation on Android using [RetroArch](https://web.libretro.com/)
+
+<div class="tupperware">
+
+<video  controls> 
+	  
+<source src="https://archive.org/download/screen-20250308-102510/screen-20250308-102815.mp4" type="video/mp4">	 
+
+</video> 
+
+<video controls> 
+	
+<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
+
+</video> 
+
+<video controls> 
+	
+<source src="https://archive.org/download/vid-20250304-092210_202503/screen-20250304-135442.mp4" type="video/mp4">	 
+
+</video> 
+
+<video  controls> 
+	
+<source src="https://ia803207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-135907.mp4" type="video/mp4">	 
+
+</video> 
+
+
+<video controls>
+	
+<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
+	
+</video> 
+
+</div>
+
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+<img  alt="image   @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @DEPToFWAR @CiTYOFSANTAMONiCA @CiTYOFLOSANGELES @WHiTEHOUSE @BLACKGiRLSCODE @DiSNEY @HULU " src="https://github.com/user-attachments/assets/ad1f5ffa-3674-45bb-bc54-e9c56a0c9776" />
+
 <img alt="image   @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @DEPToFWAR @CiTYOFSANTAMONiCA @CiTYOFLOSANGELES @WHiTEHOUSE @BLACKGiRLSCODE @DiSNEY @HULU " src="https://github.com/user-attachments/assets/9f9e5f36-70fb-4050-877b-f4f42ce827ab" />
 
 <img  alt=" @disney @blackgirlscode   @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @DEPToFWAR @CiTYOFSANTAMONiCA @CiTYOFLOSANGELES @WHiTEHOUSE @BLACKGiRLSCODE @DiSNEY @HULU  478727857-94f6f612-ab4c-44ef-8d05-8338e15370b8" src="https://github.com/user-attachments/assets/c204505e-e639-4c4e-a9e9-afb131ef69da" />
