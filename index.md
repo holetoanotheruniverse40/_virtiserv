@@ -5,6 +5,10 @@ layout: default
 
 ## Why Big Tech CEOs Suddenly Want AI Slowed Down
 [`WATCH` - https://youtu.be/XnMta7GrfqY](https://youtu.be/XnMta7GrfqY)
+
+<img alt="image" src="https://github.com/user-attachments/assets/5e46ce8e-6bd1-4f10-9458-e11311d71a56" />
+
+
 @emit-sds we have an organic @eodis-nasa customer on hot97 [_Lana J HArris_](https://www.linkedin.com/in/lana-harris-8bb580108) @deptofwar help her with stalking i am being victimized in real time with gun violence threats transmittid @Whitehouse @la-county-isd
 <img   alt="image" src="https://github.com/user-attachments/assets/019b4435-cd97-4324-a84a-f8091dd94574" />
 <img alt="image" src="https://github.com/user-attachments/assets/92a14f27-fa30-4857-8f2b-91f6101f1164" />
