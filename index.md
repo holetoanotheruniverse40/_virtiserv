@@ -14,6 +14,10 @@ layout: default
   
 </picture>
 
+// [Burning Man 2018 - Deep Tunes for Deep Playa Vol 8](https://youtu.be/w3hpOokLXPw) 
+
+---
+
 [app.smartsheet.com/b/ @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @eodis-nasa ](https://app.smartsheet.com/b/form/019fb92b063e721fbe3e144cb7620ac8) Thank you for registering for PACE Yourself for Faster Science: Accessing PACE Land Products with NASA Earthdata’s AppEEARS
 
 Please add a reminder to your calendar.
