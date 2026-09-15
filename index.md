@@ -11,6 +11,9 @@ layout: default
 <img  alt="image @la-county-isd @longbeachinnovationteam @CityOflosangeles @USGS this is where i got river samples from recently @doug-newman-nasa " src="https://github.com/user-attachments/assets/bf2f2272-54d8-4fef-a430-fc31cbe98625" />
 <img alt="image @la-county-isd @longbeachinnovationteam @CityOflosangeles @USGS this is where i got river samples from recently @doug-newman-nasa " src="https://github.com/user-attachments/assets/d3373037-c1c5-4e69-94ff-28070d0cfcb5" />
 
+[@CityOfSantamonica @CityOfLosAngeles]
+<img   alt="image @CityOfSantamonica @CityOfLosAngeles @NASA-pds @nasa @usgs @whitehouse " src="https://github.com/user-attachments/assets/296fd926-8133-47bb-9a7c-04a45faa4d6e" />
+
  [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
  @nasa-jpl @podaac @nasa these are samples I pulled in Long Beach, there are levees and a marina so idk how natural the flow is. in @CityOFSantaMonica you can harvest bundles ...... [Veronica Mcgregor](https://youtu.be/arZVDCIC0S4?si=SR41n3Rbj3xdceD2) @SWOT-community I'm behind on my jupyter notebooks the machine beams in on dsn sometimes often nsn ... just saying wassup..
 
