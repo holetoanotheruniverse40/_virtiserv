@@ -20,6 +20,8 @@ layout: default
 
 [Burning Man 2018 - Deep Tunes for Deep Playa Vol 8](https://youtu.be/w3hpOokLXPw)
 
+@ESA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fmrgyh5s-is?si=9wHTMIDpbyfZNY3i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @La-County-isd
 [_SuperVisor Holly J MiTCHell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) I'm just toying with some jobs and really don't know what I need to get identified and keep account of coral that's where we have issue @ForATlanta [@CityOfLosAngeles _Senior IT Systems Engineer-Studio IT__ careers.playstation.com/senior-it-systems-engineer-studio-it/job/5983598004](https://careers.playstation.com/senior-it-systems-engineer-studio-it/job/5983598004) <~ @nasa-jpl I just want to play with some hardware tbh, I'm really bored and lonely working remote... [Robin](https://ntrs.nasa.gov/citations/19890043692) warned me // @SonyResearch let Asia know I can do this job [Hardware Fleet Operations Specialist](https://careers.playstation.com/hardware-fleet-operations-specialist/job/6185971004) 
