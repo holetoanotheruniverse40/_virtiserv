@@ -3,6 +3,48 @@ layout: default
 ---
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/6e61597d-add5-470e-ba24-8a6bb8635a0f" />
+
+
+# DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
+COMBATING TRAFFICKING IN PERSONS (CTIP)
+#### [@nasa-jpl this is the @DeptOfWar](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf?ver=2019-06-21-102951-257) stance on sex trafficking, 
+[ @cityoflosangeles @stateofcalifornia @blackgirlscode esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
+1.2. POLICY. It is DoD policy to:
+a. Oppose prostitution, forced labor, and any related activities contributing to the
+phenomenon of trafficking in persons (TIP). CTIP will be applied across the entire spectrum of
+DoD missions, functions, programs, and activities.
+b. Deter activities of Service members, civilian employees, indirect hires, DoD contractors,
+foreign national employees of DoD, grant and cooperative agreement recipients, and all
+dependents that could facilitate or support TIP, domestically and overseas. These activities, to
+which DoD Components will uniformly refer using these terms when issuing internal
+implementing instructions and regulations, are:
+(1) Prostitution, pimping, pandering, and patronizing a prostitute. Even though such
+activities may be legal in a host country, they are in violation of:
+(a) Chapter 47 of Title 10, United States Code (U.S.C.), also known and referred to
+in this issuance as the “Uniform Code of Military Justice.”
+(b) Paragraph 106 of Part IV of the Manual for Courts-Martial.
+(2) Activities in violation of Chapter 77 of Title 18, U.S.C. including:
+(a) Forced labor and involuntary servitude.
+(b) Document tampering (e.g., withholding passports, fraudulent visas).
+(c) Sex trafficking of children.
+(3) Sex trafficking by force, fraud, or coercion in violation of Chapter 117 of Title 18,
+U.S.C.
+(4) Additional TIP-related offenses in Sections 1581, 1584, 1590-1597, 2421, 2421A,
+and 2422 of Title 18, U.S.C. 
+[esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/a889a2eb-f963-4ffa-a8c8-57e06953a4c7" />
+
+
+## Why Big Tech CEOs Suddenly Want AI Slowed Down
+[`WATCH` - https://youtu.be/XnMta7GrfqY](https://youtu.be/XnMta7GrfqY)
+@emit-sds we have an organic @eodis-nasa customer on hot97 [_Lana J HArris_](https://www.linkedin.com/in/lana-harris-8bb580108) @deptofwar help her with stalking i am being victimized in real time with gun violence threats transmittid @Whitehouse @la-county-isd
+<img   alt="image  @eodis-nasa @nasa-jpl lana j harris is using emit imagery in her reports now!!! @cityoflosangeles @nasa-giss @DEPTofWAR" src="https://github.com/user-attachments/assets/c81abc82-ce43-48c9-a230-c0753270cbda" />
+
+<img  alt="image @eodis-nasa @nasa-jpl lana j harris is using emit imagery in her reports now!!! @cityoflosangeles @nasa-giss @DEPTofWAR " src="https://github.com/user-attachments/assets/b22c1c1b-2fb8-4398-b552-21e67cf0e8ae" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c7f0ba90-cd58-4fef-8258-eef8f6202827" />
+
 ### Massive Flash Floods Submerge Roads Across NY, NJ & CT
 
 [`WATCH` - youtu.be/fDhr1gSA_Mg?si=kZAQ1uzU_S7iyLS3](https://youtu.be/fDhr1gSA_Mg?si=kZAQ1uzU_S7iyLS3)
