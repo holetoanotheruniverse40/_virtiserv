@@ -10,33 +10,16 @@ layout: default
 
 <img  alt="image @la-county-isd @longbeachinnovationteam @CityOflosangeles @USGS this is where i got river samples from recently @doug-newman-nasa " src="https://github.com/user-attachments/assets/bf2f2272-54d8-4fef-a430-fc31cbe98625" />
 <img alt="image @la-county-isd @longbeachinnovationteam @CityOflosangeles @USGS this is where i got river samples from recently @doug-newman-nasa " src="https://github.com/user-attachments/assets/d3373037-c1c5-4e69-94ff-28070d0cfcb5" />
+
+
+
 <img alt="AV520250627t194118_004_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/83e1e0c2-4145-4846-b671-b27761d4f027" />
 
 <img  alt="AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles " src="https://github.com/user-attachments/assets/039937ad-b81c-4152-8899-4b4de085918e" />
 
 ![ @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles](<img src="https://d3o6w55j8uz1ro.cloudfront.net/s3-d0f68fa49c8cba12794bb586349f2341/ornl-cumulus-prod-public.s3.us-west-2.amazonaws.com/aviris/AV5_L1B_RDN/data/AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE.jpg?A-userid=None&amp;Expires=1788133036&amp;Signature=UlngqU0ntvc1Nbo9D8pTNCwpGqJbePcQmPR2nR~95PrfPjtglAlPhvhb2QPB9AKk1FhzKdWJXWcIMsVCQsNXGWnNMi3oJFJp6FZc~ZSdmxdI69Si8egKikcjYJAiKXUjUy1J3U3zMuuprmPlMjZFzAEpArQRnXeZuRu1GTqD-zlY8KMJqq-HdGO4aOa1~XNZg7Rj38OgenHK2h3JCGCJfWOwIiQcREsNaGwb7VZEfYAwqmHMjiSd-CIhBmhCnlcqtA35rn9-jMivw5n8m2ywIqthyeMWVe-RUpGCEzIFx5Mc0eBEvbo3jx9ClwvGEIgcNWcJmC~7GnZmqMvQlJ-kww__&amp;Key-Pair-Id=K30BK6GBUP3FO5"/>) 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/a1c527be-8441-452a-a389-0c6b7732a6f7" />
-
-<img alt="image (2)-11" src="https://github.com/user-attachments/assets/ac23503c-5118-4906-bdea-0fb33ff8c6c5" />
-<img alt="image (2)-17" src="https://github.com/user-attachments/assets/f2014a8e-2307-4f52-a931-e9647b04af0f" />
-
-<img  alt="image-3 @nasa-jpl .. @nasa-pds yo sistuh after @github @blaCKGIRLSCODE @HOWARD-UNIVERSITY-WEB-SERVICES" src="https://github.com/user-attachments/assets/48877e3f-2eb4-4378-af1e-43388e49db38" />
-
-<img  alt="image-4" src="https://github.com/user-attachments/assets/b5133e18-595f-4c60-bcae-d17de48f3897" />
-
-<img   alt="image-2" src="https://github.com/user-attachments/assets/cc99e1ff-dd9e-4086-8fed-f0f535de5f7d" />
-
-
 <img   alt=" @emit-sds 4mapping @nasa-pds @usgs image (1)-03" src="https://github.com/user-attachments/assets/60926a93-530f-412b-a6ee-d36b734ebdaa" />
-
-<img alt="image (1)-15" src="https://github.com/user-attachments/assets/f2e03b0c-2b6a-48fd-994b-c19f2dddf477" />
-<img alt="image (1)-16 " src="https://github.com/user-attachments/assets/beecc79f-5cb8-412c-b673-5c1e9e6c8176" />
-<img alt="image (1)-13" src="https://github.com/user-attachments/assets/7968ab2c-75cc-4afd-ad5f-a71385a4f3ee" />
-
-<img   alt="image (1)-11" src="https://github.com/user-attachments/assets/327dc4d8-2c92-4d06-9202-ebc0da827ee3" />
-<img   alt="image (1)-12" src="https://github.com/user-attachments/assets/48c62202-74a4-4e28-93a4-af15fe23aef5" />
-
 
 
 <img   alt=" @nasa @cityofsantamonica ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_ET" src="https://github.com/user-attachments/assets/c3345983-7d7d-47a1-8f98-aa0a299eb3fe" />
