@@ -6,8 +6,8 @@ layout: default
 
 <img alt="image" src="https://github.com/user-attachments/assets/9f9e5f36-70fb-4050-877b-f4f42ce827ab" />
 
+<img  alt=" @disney @blackgirlscode 478727857-94f6f612-ab4c-44ef-8d05-8338e15370b8" src="https://github.com/user-attachments/assets/c204505e-e639-4c4e-a9e9-afb131ef69da" />
 
-<img  alt="image @disney @blackgirlscode " src="https://github.com/user-attachments/assets/254574a1-641d-46ce-a046-1600003cbe0e" />
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0bf1IKVWM1yv1rduV6gx0B?utm_source=generator&si=b7ff00be13944bca" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
