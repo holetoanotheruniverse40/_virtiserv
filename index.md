@@ -18,6 +18,11 @@ layout: default
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png" alt="GO"/>
 
+[worldview.earthdata.nasa.gov/?v=-197.6083103470101,-14.575406482287864,-66.30206515964146,50.051886070870154&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_NOAA20_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-09-14-T01%3A55%3A08Z](https://worldview.earthdata.nasa.gov/?v=-197.6083103470101,-14.575406482287864,-66.30206515964146,50.051886070870154&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_NOAA20_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-09-14-T01%3A55%3A08Z)
+<img   alt="image" src="https://github.com/user-attachments/assets/988f2f6d-4616-446e-90ac-3a0601fba451" />
+
+<img  alt="snapshot-2026-09-14" src="https://github.com/user-attachments/assets/bc1cfaeb-3a82-4148-8284-c4ad68c86a22" />
+
 [Burning Man 2018 - Deep Tunes for Deep Playa Vol 8](https://youtu.be/w3hpOokLXPw)
 
 @ESA
