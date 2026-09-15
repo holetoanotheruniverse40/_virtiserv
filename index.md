@@ -6,7 +6,8 @@ layout: default
 ### Massive Flash Floods Submerge Roads Across NY, NJ & CT
 
 [`WATCH` - youtu.be/fDhr1gSA_Mg?si=kZAQ1uzU_S7iyLS3](https://youtu.be/fDhr1gSA_Mg?si=kZAQ1uzU_S7iyLS3)
-<img  alt="image" src="https://github.com/user-attachments/assets/c1744f14-4159-4e6f-b0d6-b7cfa260c6b6" />
+<img  alt="image @nasa-jpl im on @usgs imagery tool doing @eodis-nasa duties for [@LongBeachInnovationTeam https://apps.nationalmap.gov/downloader/#/imagery]" src="https://github.com/user-attachments/assets/c1744f14-4159-4e6f-b0d6-b7cfa260c6b6" />
+<img  alt="image @nasa-jpl im on @usgs imagery tool doing @eodis-nasa duties for [@LongBeachInnovationTeam https://apps.nationalmap.gov/downloader/#/imagery]" src="https://github.com/user-attachments/assets/e40013f7-c2c1-4ff2-90af-4f523a63e814" />
 
 @nasa-jpl im on @usgs imagery tool doing @eodis-nasa duties for [@LongBeachInnovationTeam https://apps.nationalmap.gov/downloader/#/imagery](https://apps.nationalmap.gov/downloader/#/imagery) @cityoflosangeles
 
