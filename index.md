@@ -21,7 +21,7 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBvFwqZSUck?si=-UldHWqz9xz3Q0R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+[@nasa-jpl @cityoflosangeles  @sony @sonyResearch https://ra5hard.github.io/holetoanotheruniverse/](https://ra5hard.github.io/holetoanotheruniverse/) 
 
 [GloRilla’s BET Gospel Win Sparks Praise, Debate, and Reflection on Faith in Music](https://www.eewmagazineonline.com/the-gospel-beat/2025/6/11/glorilla-bet-gospel-win-2025) [@Nasa-JPL @isro timesofindia.indiatimes.com/sports/nba/top-stories/who-is-brandon-ingrams-girlfriend-gloria-woods-glorilla-exploring-personal-life-of-toronto-raptors-forward/articleshow/126176007.cms](https://timesofindia.indiatimes.com/sports/nba/top-stories/who-is-brandon-ingrams-girlfriend-gloria-woods-glorilla-exploring-personal-life-of-toronto-raptors-forward/articleshow/126176007.cms) @Nasa-JPL @isro  I was in some sort of physical relationship with her, I don't know what could have been said about me, but the guards at the gate insisted that I keep cleaning up my relationships to figure my back in because there's a lot of women at the lab now and they will feel much safer . . . collected perceived insulting tones @nasa-pds @cityoflosangeles @la-county-isd  that's when I said I lost my sexual partner @Blackgirlscode or it was [Chloe Bailey](https://www.instagram.com/chloebailey/?hl=en) @Sony @SonyResearch I can explain it all with Lana j Harris present with @fbicyber @DEPTofWAR
 
