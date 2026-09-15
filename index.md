@@ -8,6 +8,8 @@ layout: default
 
 <img alt="image" src="https://github.com/user-attachments/assets/5e46ce8e-6bd1-4f10-9458-e11311d71a56" />
 
+<img  alt="image @la-county-isd @longbeachinnovationteam @CityOflosangeles @USGS this is where i got river samples from recently @doug-newman-nasa " src="https://github.com/user-attachments/assets/bf2f2272-54d8-4fef-a430-fc31cbe98625" />
+
 
 @emit-sds we have an organic @eodis-nasa customer on hot97 [_Lana J HArris_](https://www.linkedin.com/in/lana-harris-8bb580108) @deptofwar help her with stalking i am being victimized in real time with gun violence threats transmittid @Whitehouse @la-county-isd
 <img   alt="image" src="https://github.com/user-attachments/assets/019b4435-cd97-4324-a84a-f8091dd94574" />
