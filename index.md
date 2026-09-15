@@ -4,8 +4,16 @@ layout: default
 
 [<video poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG" preload="auto" width="auto" height="400px" controls src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
 
+@DeptOfWar [Space Academy Commission Holds First Meeting](https://www.war.gov/News/News-Stories/Article/Article/4594195/space-academy-commission-holds-first-meeting/)
+/// [Dec. 25, 2019 - With the stroke of a pen, U.S. Space Force becomes a reality](https://www.jbsa.mil/News/News/Article/2047127/with-the-stroke-of-a-pen-us-space-force-becomes-a-reality/)
+
+<img  alt="image @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny" src="https://github.com/user-attachments/assets/c73690c1-8aeb-4351-b683-67c40f726516" />
+
+![@nasa-pds @nasa-jpl @eodis-nasa](https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG)
+
 [@sonyResearch i played some games i did not buy  virtiserv.github.io/android](https://virtiserv.github.io/android)
-@ministryofjustice @nasa-pds @nasa-jpl and i got some music off the pirate bay , here are some videos of me playing arcade games @libretro 
+@ministryofjustice @nasa-pds @nasa-jpl and i got some music off the pirate bay , here are some videos of me playing arcade games @libretro @DEPTofWAR @stateofcalifornia most of them i paid for but we can discuss specifics @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny an i can make adjustments to be more honest @blackgirlscode 
+
 <div class="tupperware">
 
   <video controls> 
@@ -74,6 +82,7 @@ layout: default
   <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
+
 <img  alt="image   @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @DEPToFWAR @CiTYOFSANTAMONiCA @CiTYOFLOSANGELES @WHiTEHOUSE @BLACKGiRLSCODE @DiSNEY @HULU " src="https://github.com/user-attachments/assets/ad1f5ffa-3674-45bb-bc54-e9c56a0c9776" />
 
 <img alt="image   @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @DEPToFWAR @CiTYOFSANTAMONiCA @CiTYOFLOSANGELES @WHiTEHOUSE @BLACKGiRLSCODE @DiSNEY @HULU " src="https://github.com/user-attachments/assets/9f9e5f36-70fb-4050-877b-f4f42ce827ab" />
@@ -100,12 +109,13 @@ layout: default
 
  // [Burning Man 2018 - Deep Tunes for Deep Playa Vol 8](https://youtu.be/w3hpOokLXPw)  // [Burning Man 2019 - Deep Tunes for Deep Playa (Vol 9)](https://youtu.be/b7KGsI9Xgsw?list=RDb7KGsI9Xgsw)
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2131614840&color=6c2c14"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ericabanks" title="Erica Banks" target="_blank" style="color: #cccccc; text-decoration: none;">Erica Banks</a> · <a href="https://soundcloud.com/ericabanks/church" title="Church" target="_blank" style="color: #cccccc; text-decoration: none;">Church</a></div>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
 
 
 ---
 
-<img  " alt="image" src="https://github.com/user-attachments/assets/1880929d-f8ad-4df5-9efc-045c9d83606d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/1880929d-f8ad-4df5-9efc-045c9d83606d" />
 
 [<video poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG" preload="auto" width="auto" height="400px" controls src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
 
