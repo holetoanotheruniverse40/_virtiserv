@@ -24,6 +24,15 @@ permalink: losangeles
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
 
+
+## Why Big Tech CEOs Suddenly Want AI Slowed Down
+[`WATCH` - https://youtu.be/XnMta7GrfqY @ESA](https://youtu.be/XnMta7GrfqY)
+
+<img alt="image" src="https://github.com/user-attachments/assets/5e46ce8e-6bd1-4f10-9458-e11311d71a56" />
+
+<img  alt="image @la-county-isd @longbeachinnovationteam @CityOflosangeles @USGS this is where i got river samples from recently @doug-newman-nasa " src="https://github.com/user-attachments/assets/bf2f2272-54d8-4fef-a430-fc31cbe98625" />
+<img alt="image @la-county-isd @longbeachinnovationteam @CityOflosangeles @USGS this is where i got river samples from recently @doug-newman-nasa " src="https://github.com/user-attachments/assets/d3373037-c1c5-4e69-94ff-28070d0cfcb5" />
+
 <img   alt="650790757-23ab9649-ccf3-4567-b763-f84b64072c4a" src="https://github.com/user-attachments/assets/baa2e03d-3a45-4502-83f1-acbd2518f8cb" />
 
 
