@@ -2,6 +2,11 @@
 layout: default
 ---
 
+@nasa-jpl im on @usgs imagery tool doing @eodis-nasa duties for [@LongBeachInnovationTeam https://apps.nationalmap.gov/downloader/#/imagery](https://apps.nationalmap.gov/downloader/#/imagery) @cityoflosangeles
+
+<img  alt="image @nasa-jpl im on @usgs imagery tool doing @eodis-nasa duties for [@LongBeachInnovationTeam https://apps.nationalmap.gov/downloader/#/imagery](https://apps.nationalmap.gov/downloader/#/imagery) @cityoflosangeles " src="https://github.com/user-attachments/assets/ec7b2e0c-53d4-44e2-87ec-f9c438bdefd4" />
+
+
 [<video poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG" preload="auto" width="auto" height="400px" controls src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
 
 @DeptOfWar [Space Academy Commission Holds First Meeting](https://www.war.gov/News/News-Stories/Article/Article/4594195/space-academy-commission-holds-first-meeting/)
