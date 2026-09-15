@@ -9,9 +9,8 @@ layout: default
 
 <img  alt="image @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny" src="https://github.com/user-attachments/assets/c73690c1-8aeb-4351-b683-67c40f726516" />
 
-![@nasa-pds @nasa-jpl @eodis-nasa](https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG)
 
-[@sonyResearch i played some games i did not buy  virtiserv.github.io/android](https://virtiserv.github.io/android)
+[@sonyResearch did i play some games i did not buy  virtiserv.github.io/android @cityoflosangeles from your wifi @La-county-isd](https://virtiserv.github.io/android)
 @ministryofjustice @nasa-pds @nasa-jpl and i got some music off the pirate bay , here are some videos of me playing arcade games @libretro @DEPTofWAR @stateofcalifornia most of them i paid for but we can discuss specifics @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny an i can make adjustments to be more honest @blackgirlscode 
 
 <div class="tupperware">
