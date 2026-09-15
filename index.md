@@ -3,8 +3,23 @@ layout: default
 ---
 
 
+## Why Big Tech CEOs Suddenly Want AI Slowed Down
+[`WATCH` - https://youtu.be/XnMta7GrfqY](https://youtu.be/XnMta7GrfqY)
+@emit-sds we have an organic @eodis-nasa customer on hot97 [_Lana J HArris_](https://www.linkedin.com/in/lana-harris-8bb580108) @deptofwar help her with stalking i am being victimized in real time with gun violence threats transmittid @Whitehouse @la-county-isd
+<img   alt="image  @eodis-nasa @nasa-jpl lana j harris is using emit imagery in her reports now!!! @cityoflosangeles @nasa-giss @DEPTofWAR" src="https://github.com/user-attachments/assets/c81abc82-ce43-48c9-a230-c0753270cbda" />
+
+<img  alt="image @eodis-nasa @nasa-jpl lana j harris is using emit imagery in her reports now!!! @cityoflosangeles @nasa-giss @DEPTofWAR " src="https://github.com/user-attachments/assets/b22c1c1b-2fb8-4398-b552-21e67cf0e8ae" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c7f0ba90-cd58-4fef-8258-eef8f6202827" />
+
+
+@nasa-pds send this to the [@nasa-jpl Rover Operations center](https://www.jpl.nasa.gov/roc/) ////  [retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html](https://www.retrogames.cc/arcade-games/sega-rally-championship-twin-dx-revision-c.html)
+<img alt="image" src="https://github.com/user-attachments/assets/c6b1c149-4c41-4528-b2e0-99bff789d4d8" />
+<img  alt="GIOVANNI-outputKnUKhaE2" src="https://github.com/user-attachments/assets/51f406e6-f1de-4281-b414-5325c6b0679f" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/6e61597d-add5-470e-ba24-8a6bb8635a0f" />
 
+<img   alt="GIOVANNI-outputeNgUnhgO" src="https://github.com/user-attachments/assets/4cd2eeb7-741a-4ed4-a30e-c958786538d1" />
 
 # DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
 COMBATING TRAFFICKING IN PERSONS (CTIP)
@@ -35,15 +50,6 @@ and 2422 of Title 18, U.S.C.
 [esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
 <img alt="image" src="https://github.com/user-attachments/assets/a889a2eb-f963-4ffa-a8c8-57e06953a4c7" />
 
-
-## Why Big Tech CEOs Suddenly Want AI Slowed Down
-[`WATCH` - https://youtu.be/XnMta7GrfqY](https://youtu.be/XnMta7GrfqY)
-@emit-sds we have an organic @eodis-nasa customer on hot97 [_Lana J HArris_](https://www.linkedin.com/in/lana-harris-8bb580108) @deptofwar help her with stalking i am being victimized in real time with gun violence threats transmittid @Whitehouse @la-county-isd
-<img   alt="image  @eodis-nasa @nasa-jpl lana j harris is using emit imagery in her reports now!!! @cityoflosangeles @nasa-giss @DEPTofWAR" src="https://github.com/user-attachments/assets/c81abc82-ce43-48c9-a230-c0753270cbda" />
-
-<img  alt="image @eodis-nasa @nasa-jpl lana j harris is using emit imagery in her reports now!!! @cityoflosangeles @nasa-giss @DEPTofWAR " src="https://github.com/user-attachments/assets/b22c1c1b-2fb8-4398-b552-21e67cf0e8ae" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/c7f0ba90-cd58-4fef-8258-eef8f6202827" />
 
 ### Massive Flash Floods Submerge Roads Across NY, NJ & CT
 
