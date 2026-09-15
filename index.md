@@ -14,6 +14,9 @@ layout: default
   
 </picture>
 
+ [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4) // [Thug Talk · Boosie Badazz](https://youtu.be/2OU6qBujjgc) // [Latto - Okayyy (Official Video) ft. Doja Cat](https://youtu.be/TTRCk8UROwU) // [Latto, GloRilla - GOMF](https://youtu.be/kF4MVeWFiDs) // [GloRilla - RAIN DOWN ON ME (feat. Kirk Franklin & Maverick City Music)](https://youtu.be/FBtYIaIgu6U) // [Mary Mary - God in Me ](https://youtu.be/agxi8cei9h8)
+ 
+
 [Burning Man 2018 - Deep Tunes for Deep Playa Vol 8](https://youtu.be/w3hpOokLXPw)
 
 
@@ -28,7 +31,7 @@ layout: default
 [@blackgirlscode @disney @caltech @nasa-pds @nasa-jpl @cityoflosangeles @stateofcalifornia @foratlanta careers.playstation.com/?location_name=California%2C%20USA&location_type=3](https://careers.playstation.com/?location_name=California%2C%20USA&location_type=3)
 <img  alt="image" src="https://github.com/user-attachments/assets/f03538ce-1a93-41df-8c37-e5a7f883b0c7" />
 
- [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4) // [Thug Talk · Boosie Badazz](https://youtu.be/2OU6qBujjgc) // [Latto - Okayyy (Official Video) ft. Doja Cat](https://youtu.be/TTRCk8UROwU) // [Latto, GloRilla - GOMF](https://youtu.be/kF4MVeWFiDs) // [GloRilla - RAIN DOWN ON ME (feat. Kirk Franklin & Maverick City Music)](https://youtu.be/FBtYIaIgu6U) // [Mary Mary - God in Me ](https://youtu.be/agxi8cei9h8)
+ <img src="https://github.com/user-attachments/assets/2ebcdde8-990d-4206-9be8-5ebbba400d23" alt="image"/>
  
 --- 
 
