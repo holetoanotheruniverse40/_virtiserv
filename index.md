@@ -14,6 +14,45 @@ layout: default
   
 </picture>
 
+[app.smartsheet.com/b/ @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @eodis-nasa ](https://app.smartsheet.com/b/form/019fb92b063e721fbe3e144cb7620ac8) Thank you for registering for PACE Yourself for Faster Science: Accessing PACE Land Products with NASA Earthdata’s AppEEARS
+
+Please add a reminder to your calendar.
+
+September 23, 2026
+1:00 pm ET
+
+The Application for Extracting and Exploring Analysis Ready Samples (AppEEARS) is a NASA Earthdata web application and API that offers a simple and efficient way to access and transform satellite data from a variety of federal data archives. With Version 3.122, terrestrial remote sensing data products from NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission have been incorporated into AppEEARS. This has expanded PACE data access to the broader terrestrial remote sensing community and provided a range of easy-to-use subsetting and visualization options for users to extract data and plot spectra according to their needs, while reducing output file sizes.
+
+Launched in February 2024, the PACE observatory uniquely provides near-daily, hyperspectral coverage of Earth’s surface. Its instruments generate novel observations of terrestrial ecosystems in high spectral and temporal detail. Additionally, PACE extends important heritage multispectral data records, such as the Normalized Difference Vegetation Index (NDVI) and several others.
+
+Join this webinar to learn more about the PACE mission, its data products available and capabilities for terrestrial remote sensing, and how to start exploring the data yourself through AppEEARS. A tutorial demonstration will introduce the application and walk attendees through accessing and working with PACE land products in AppEEARS.
+
+Microsoft Teams meeting
+
+Join:
+https://teams.microsoft.com/meet/224806458097838?p=o9lt7Hw83LmSzadwjp
+
+Meeting ID:
+224 806 458 097 838
+
+Passcode:
+LB9oT27T
+
++1
+ 256-715-9946,,131878324# 
+Phone conference ID:
+131 878 324#
+<img alt="image" src="https://github.com/user-attachments/assets/f0ade281-b21a-46cc-8166-3d058bfaa8b6" />
+
+// [Burning Man 2018 - Deep Tunes for Deep Playa Vol 8](https://youtu.be/w3hpOokLXPw) 
+[ @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @jaxa @ESA earthdata.nasa.gov/data/alerts-outages](https://www.earthdata.nasa.gov/data/alerts-outages)
+<img  alt="image eyes.nasa.gov/apps/dsn-now/dsn.html @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny" src="https://github.com/user-attachments/assets/44650fd5-21b2-4c67-9b65-258d8b237d85" />
+
+<img  alt=" @jaxa @ESA  image @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny" src="https://github.com/user-attachments/assets/ff34907f-e7da-44ac-ac88-255dc583ea0e" />
+<img  alt=" @jaxa @ESA image @SonyResearch @SOny @USGS @nasa-pds @NASA-JPL" src="https://github.com/user-attachments/assets/7684913d-0e9d-4adb-b6e9-9db1701f7f75" />
+
+<img   alt="image @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny " src="https://github.com/user-attachments/assets/d074675a-21a7-41d5-ae20-cf94809cf918" />
+
 [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4) // [Thug Talk · Boosie Badazz](https://youtu.be/2OU6qBujjgc) // [Latto - Okayyy (Official Video) ft. Doja Cat](https://youtu.be/TTRCk8UROwU) // [Latto, GloRilla - GOMF](https://youtu.be/kF4MVeWFiDs) // [GloRilla - RAIN DOWN ON ME (feat. Kirk Franklin & Maverick City Music)](https://youtu.be/FBtYIaIgu6U) // [Mary Mary - God in Me ](https://youtu.be/agxi8cei9h8)
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png" alt="GO"/>
