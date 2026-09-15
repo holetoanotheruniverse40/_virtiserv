@@ -7,6 +7,7 @@ layout: default
 [`WATCH` - https://youtu.be/XnMta7GrfqY](https://youtu.be/XnMta7GrfqY)
 @emit-sds we have an organic @eodis-nasa customer on hot97 [_Lana J HArris_](https://www.linkedin.com/in/lana-harris-8bb580108) @deptofwar help her with stalking i am being victimized in real time with gun violence threats transmittid @Whitehouse @la-county-isd
 <img   alt="image  @eodis-nasa @nasa-jpl lana j harris is using emit imagery in her reports now!!! @cityoflosangeles @nasa-giss @DEPTofWAR" src="https://github.com/user-attachments/assets/c81abc82-ce43-48c9-a230-c0753270cbda" />
+<img  alt="image" src="https://github.com/user-attachments/assets/13911fcb-653e-4b52-931e-f61fdde27073" />
 
 <img  alt="image @eodis-nasa @nasa-jpl lana j harris is using emit imagery in her reports now!!! @cityoflosangeles @nasa-giss @DEPTofWAR " src="https://github.com/user-attachments/assets/b22c1c1b-2fb8-4398-b552-21e67cf0e8ae" />
 
