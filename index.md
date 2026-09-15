@@ -6,6 +6,9 @@ layout: default
 ## Why Big Tech CEOs Suddenly Want AI Slowed Down
 [`WATCH` - https://youtu.be/XnMta7GrfqY](https://youtu.be/XnMta7GrfqY)
 @emit-sds we have an organic @eodis-nasa customer on hot97 [_Lana J HArris_](https://www.linkedin.com/in/lana-harris-8bb580108) @deptofwar help her with stalking i am being victimized in real time with gun violence threats transmittid @Whitehouse @la-county-isd
+<img   alt="image" src="https://github.com/user-attachments/assets/019b4435-cd97-4324-a84a-f8091dd94574" />
+
+[@disney peace to chloe https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-usa.html](https://www.retrogames.cc/arcade-games/marvel-super-heroes-951024-usa.html) 
 <img   alt="image  @eodis-nasa @nasa-jpl lana j harris is using emit imagery in her reports now!!! @cityoflosangeles @nasa-giss @DEPTofWAR" src="https://github.com/user-attachments/assets/c81abc82-ce43-48c9-a230-c0753270cbda" />
 <img  alt="image" src="https://github.com/user-attachments/assets/13911fcb-653e-4b52-931e-f61fdde27073" />
 
