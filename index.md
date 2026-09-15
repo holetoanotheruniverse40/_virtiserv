@@ -2,6 +2,17 @@
 layout: default
 ---
 
+[<video poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG" preload="auto" width="auto" height="400px" controls src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
+
+<img alt="image" src="https://github.com/user-attachments/assets/9f9e5f36-70fb-4050-877b-f4f42ce827ab" />
+
+
+<img  alt="image @disney @blackgirlscode " src="https://github.com/user-attachments/assets/254574a1-641d-46ce-a046-1600003cbe0e" />
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0bf1IKVWM1yv1rduV6gx0B?utm_source=generator&si=b7ff00be13944bca" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/1e3854a1-eff2-44da-8ac8-7535db8767e2" />
+<img   alt="image" src="https://github.com/user-attachments/assets/5e31176e-6d65-4c23-9ab2-651363aec901" />
 
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -15,10 +26,45 @@ layout: default
 </picture>
 
  // [Burning Man 2018 - Deep Tunes for Deep Playa Vol 8](https://youtu.be/w3hpOokLXPw)  // [Burning Man 2019 - Deep Tunes for Deep Playa (Vol 9)](https://youtu.be/b7KGsI9Xgsw?list=RDb7KGsI9Xgsw)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2131614840&color=6c2c14"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ericabanks" title="Erica Banks" target="_blank" style="color: #cccccc; text-decoration: none;">Erica Banks</a> · <a href="https://soundcloud.com/ericabanks/church" title="Church" target="_blank" style="color: #cccccc; text-decoration: none;">Church</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
+
 
 ---
 
-[app.smartsheet.com/b/ @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @eodis-nasa ](https://app.smartsheet.com/b/form/019fb92b063e721fbe3e144cb7620ac8) Thank you for registering for PACE Yourself for Faster Science: Accessing PACE Land Products with NASA Earthdata’s AppEEARS
+<img  " alt="image" src="https://github.com/user-attachments/assets/1880929d-f8ad-4df5-9efc-045c9d83606d" />
+
+[<video poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG" preload="auto" width="auto" height="400px" controls src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
+
+@Sony @SonyResearch , here is a blurb about my department @eodis-nasa [earthdata.nasa.gov/about/esdis](https://www.earthdata.nasa.gov/about/esdis)
+ESDIS manages the science systems of NASA's Earth Observing System Data and Information System (EOSDIS). EOSDIS provides free and open access to its science data to a wide community of users for NASA's Science Mission Directorate (SMD). ESDIS' archives hold more than 100PB of data, with 300TB of data distributed every day, reaching more than 5 million users annually. [earthdata.nasa.gov/about/esdis](https://www.earthdata.nasa.gov/about/esdis)
+
+@Sony @SonyResearch, how does that apply to what [RashardIman Kelly](https://rashardiman.github.io/linux/) actually does @Nasa-JPL? The Position is in [@CityOfSantaMonica](https://careers.playstation.com/it-hardware-generalist/job/6006293004) so the potential for scheduling conflict exists, I dont plan on quitting! @la-county-isd and other parts of the city use our cartography services - [virtiserv.github.io/wildfire](https://virtiserv.github.io/wildfire) and i have rolling cases that council members rely on for decision making in daily hearings to heal [los angeles](https://ra5hard.github.io/losangeles) /// [earthdata.nasa.gov/learn/data-in-action](https://www.earthdata.nasa.gov/learn/data-in-action) Job ID: [R-124252 IT Hardware Generalist @CityOfSantaMonica](https://careers.playstation.com/it-hardware-generalist/job/6006293004) - @DeptOfWar [Space Academy Commission Holds First Meeting](https://www.war.gov/News/News-Stories/Article/Article/4594195/space-academy-commission-holds-first-meeting/)
+/// [Dec. 25, 2019 - With the stroke of a pen, U.S. Space Force becomes a reality](https://www.jbsa.mil/News/News/Article/2047127/with-the-stroke-of-a-pen-us-space-force-becomes-a-reality/)
+<img  alt="image @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny" src="https://github.com/user-attachments/assets/c73690c1-8aeb-4351-b683-67c40f726516" />
+![@nasa-pds @nasa-jpl @eodis-nasa](https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG)
+
+
+
+
+<img  alt="image  @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @DEPToFWAR @CiTYOFSANTAMONiCA @CiTYOFLOSANGELES @WHiTEHOUSE @BLACKGiRLSCODE @DiSNEY @HULU https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4 " src="https://github.com/user-attachments/assets/16df5df9-fda2-40a8-b0a6-f9f061d03cb9" />
+<img alt="image" src="https://github.com/user-attachments/assets/6b4f03f8-1fe3-4cca-a1d2-50b30054bdc6" />
+
+[ @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
+
+<img  alt="image @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny" src="https://github.com/user-attachments/assets/5b25e3bd-dfd6-4e9c-960d-2cdaa1986fd8" />
+
+@La-County-isd
+[_SuperVisor Holly J MiTCHell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) I'm just toying with some jobs and really don't know what I need to get identified and keep account of coral that's where we have issue @ForATlanta [@CityOfLosAngeles _Senior IT Systems Engineer-Studio IT__ careers.playstation.com/senior-it-systems-engineer-studio-it/job/5983598004](https://careers.playstation.com/senior-it-systems-engineer-studio-it/job/5983598004) <~ @nasa-jpl I just want to play with some hardware tbh, I'm really bored and lonely working remote... [Robin](https://ntrs.nasa.gov/citations/19890043692) warned me // @SonyResearch let Asia know I can do this job [Hardware Fleet Operations Specialist](https://careers.playstation.com/hardware-fleet-operations-specialist/job/6185971004) // Job ID: [R-124252 IT Hardware Generalist @CityOfSantaMonica](https://careers.playstation.com/it-hardware-generalist/job/6006293004)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/009699cd-b17e-46be-aa45-95189e84e13c" />
+<img  alt="image" src="https://github.com/user-attachments/assets/c6ad9148-73b5-478a-97b7-775463e6576b" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b617a36d-e7e1-420b-b359-97dcc0647833" />
+<img  alt="image @sony long story but maxine waters said thats my wife and i think she is lana j ahrris in blackface!!!! wagesfuneralhome.com/obituaries/Muna-Ahmed?obId=38042500 " src="https://github.com/user-attachments/assets/616068ec-4613-451e-bb92-5b4076397b48" />
+
+
+[app.smartsheet.com/b/ @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @eodis-nasa ](https://app.smartsheet.com/b/form/019fb92b063e721fbe3e144cb7620ac8) Thank you for registering for PACE Yourself for Faster Science: Accessing PACE Land Products with NASA Earthdata’s AppEEARS [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 Please add a reminder to your calendar.
 
@@ -46,20 +92,30 @@ LB9oT27T
  256-715-9946,,131878324# 
 Phone conference ID:
 131 878 324#
-<img alt="image" src="https://github.com/user-attachments/assets/f0ade281-b21a-46cc-8166-3d058bfaa8b6" />
+
+<img alt="image  @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny" src="https://github.com/user-attachments/assets/f0ade281-b21a-46cc-8166-3d058bfaa8b6" />
 
 // [Burning Man 2018 - Deep Tunes for Deep Playa Vol 8](https://youtu.be/w3hpOokLXPw) 
+<img  alt="image" src="https://github.com/user-attachments/assets/951c00e4-2296-4bc9-8660-c5cb5e167911" />
+
 [ @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny @jaxa @ESA earthdata.nasa.gov/data/alerts-outages](https://www.earthdata.nasa.gov/data/alerts-outages)
 <img  alt="image eyes.nasa.gov/apps/dsn-now/dsn.html @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny" src="https://github.com/user-attachments/assets/44650fd5-21b2-4c67-9b65-258d8b237d85" />
 
 <img  alt=" @jaxa @ESA  image @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny" src="https://github.com/user-attachments/assets/ff34907f-e7da-44ac-ac88-255dc583ea0e" />
 <img  alt=" @jaxa @ESA image @SonyResearch @SOny @USGS @nasa-pds @NASA-JPL" src="https://github.com/user-attachments/assets/7684913d-0e9d-4adb-b6e9-9db1701f7f75" />
+<img   alt="image @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny " src="https://github.com/user-attachments/assets/be545847-1b48-49b6-a47b-a5e040752df8" />
 
 <img   alt="image @jaxa @ESA @JAXA-SNU @USGS @nasa-pds @NASA-JPL @SonyResearch @SOny " src="https://github.com/user-attachments/assets/d074675a-21a7-41d5-ae20-cf94809cf918" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/37b6a4df-69d7-43c7-96fe-27bc07ebbc06" />
 
 [Q-Tip & MC Lyte - The Return ft. Mos Def](https://youtu.be/2qC2YoTt1Xg?si=A04z24qTRbKIMqJo) // [LL Cool J & Rakim - Dolla Bills ft. Method Man, Big Daddy Kane ](https://youtu.be/frkiPZxmLH4) // [Thug Talk · Boosie Badazz](https://youtu.be/2OU6qBujjgc) // [Latto - Okayyy (Official Video) ft. Doja Cat](https://youtu.be/TTRCk8UROwU) // [Latto, GloRilla - GOMF](https://youtu.be/kF4MVeWFiDs) // [GloRilla - RAIN DOWN ON ME (feat. Kirk Franklin & Maverick City Music)](https://youtu.be/FBtYIaIgu6U) // [Mary Mary - God in Me ](https://youtu.be/agxi8cei9h8)
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png" alt="GO"/>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">your grandma could nevaaa ♥️🥺 these handmade items are made with so much love and mean the world to me. 
+catch my full collection on #ThesePieces, presented by @GEICO, on SpringHill's YouTube channel for the full episode. #CraftYours @makespringhill https://t.co/U6Y7cVCEJC</p>&mdash; Normani (@Normani) <a href="https://x.com/Normani/status/1841968784107831362?ref_src=twsrc%5Etfw">October 3, 2024</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 [firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.3,46.4,4.7z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.3,46.4,4.7z)
@@ -75,11 +131,11 @@ Phone conference ID:
 @ESA
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fmrgyh5s-is?si=9wHTMIDpbyfZNY3i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-@La-County-isd
-[_SuperVisor Holly J MiTCHell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) I'm just toying with some jobs and really don't know what I need to get identified and keep account of coral that's where we have issue @ForATlanta [@CityOfLosAngeles _Senior IT Systems Engineer-Studio IT__ careers.playstation.com/senior-it-systems-engineer-studio-it/job/5983598004](https://careers.playstation.com/senior-it-systems-engineer-studio-it/job/5983598004) <~ @nasa-jpl I just want to play with some hardware tbh, I'm really bored and lonely working remote... [Robin](https://ntrs.nasa.gov/citations/19890043692) warned me // @SonyResearch let Asia know I can do this job [Hardware Fleet Operations Specialist](https://careers.playstation.com/hardware-fleet-operations-specialist/job/6185971004) 
 
 
 <img src="https://ra5hard.github.io/assets/img/luckyGirl.png"/>
+<img alt="image" src="https://github.com/user-attachments/assets/e6b9ae81-4f2f-4b89-9216-10d305c1d639" />
+<img alt="image" src="https://github.com/user-attachments/assets/d6216de7-94ed-4918-9e3d-7b76fe34c50a" />
 
 ### Jobs @Sony
 @SONY @SonyResearch I was going to dig but I will leave you guys with a couple pages for when I have a longer session, I have to check the weather for @nasa-jpl  ////// [ra5hard.github.io/smartphone1](https://ra5hard.github.io/smartphone1) /// [ra5hard.github.io/smartphonelab](https://ra5hard.github.io/smartphonelab) @NASA-GiSS @BLACKGiRLSCODE @WHiTEHOUSE @DEPToFWAR @CiTYOFLOSANGELES @LA-COUNTY-isd 
