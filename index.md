@@ -3,11 +3,19 @@ layout: default
 ---
 
 # HOT 97 News Live! 9/16/26
-[https://youtu.be/jvVP1DzP8DM](https://youtu.be/jvVP1DzP8DM)
+[@ForATlanta youtu.be/jvVP1DzP8DM](https://youtu.be/jvVP1DzP8DM)
+[tiktok.com/@lanajharris/video/7494267265282624814](https://www.tiktok.com/@lanajharris/video/7494267265282624814) [Lana](http://threads.com/@lanajharris) @ForAtlanta a lot of useful mentions on @Youtube @Newshour plz fwd to [LAnaJHArriS](https://www.hot97.com/news/hot97tv-atlanta-news/)
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)  /// [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) /// [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) /// [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+<iframe src="https://archive.org/embed/image-3_202504" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# UNIX Programming Enviornment
+by Brian W. Kernigan, Rob Pike [pdf](https://github.com/tcd/tupe/blob/master/the-unix-programming-environment-kernighan-pike.pdf) / [alt - pdf orig scan @nasa-pds @blackgirlscode @att](https://www.tuhs.org/Archive/Documentation/TechReports/USG_Library/1447_The_UNIX_Programming_Environment.pdf) 
 <img  alt="image" src="https://github.com/user-attachments/assets/f3521287-69a4-4f6a-b10d-7502b719d53d" />
 
 
 ![https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png](https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png)
+
 
 <iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -2301,11 +2309,10 @@ NASA Official: Doug Newman @doug-newman-nasa
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ba01d8a0-c487-4bad-be59-e574c4f833d1" />
 
-[tiktok.com/@lanajharris/video/7494267265282624814](https://www.tiktok.com/@lanajharris/video/7494267265282624814)
-
+[tiktok.com/@lanajharris/video/7494267265282624814](https://www.tiktok.com/@lanajharris/video/7494267265282624814) [Lana](http://threads.com/@lanajharris) @ForAtlanta a lot of useful mentions on @Youtube @Newshour plz fwd to [LAnaJHArriS](https://www.hot97.com/news/hot97tv-atlanta-news/)
 <img alt="image" src="https://github.com/user-attachments/assets/9193f9ea-1eb0-4e3b-9ce7-832aafed4bbc" />
 
-@ForAtlanta a lot ogfuseful mentions on @Youtube @Newshour plz fwd to [LAnaJHArriS](https://www.hot97.com/news/hot97tv-atlanta-news/)
+
 ​​ATL26 is experiencing technical issues with its live stream platforms. We are currently working to resolve. We apologize for the inconvenience.
 
 
