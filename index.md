@@ -2,6 +2,194 @@
 layout: default
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/f3b94c7d-8ed8-43c9-abb7-82b3fc8a9c18" />
+
+
+
+@R0NB8kerMedia
+​​Everyone should Google the city Clerk’s name, I’m curious why her Info shows up for Lynwood
+
+
+@R0NB8kerMedia
+​​Does she live in Compton?
+
+
+@90candelarioL
+​
+
+#1
+​I couldn't find anything on that
+
+
+@90candelarioL
+​
+
+#1
+​I am still attempting to reach out to residents who are interested in Compton having anthro, geo, economic and health research done.
+
+
+@90candelarioL
+​
+
+#1
+​I'm attempting to start a nonprofit for ethical research in the City. But this needs the interaction of residents and support. Because everyone's voice matters in this project
+
+
+@Vonnieonie5
+​
+
+#3
+​Was late last week but on time now… the closed sessions are lasting longer and longer
+
+
+@90candelarioL
+​
+
+#1
+​yes it does feel like that. maybe I'll show the times of the closer meetings for Compton in a spreadsheet or video later
+
+
+@Vonnieonie5
+​
+
+#3
+​Oooh I like data!!
+
+
+@90candelarioL
+​
+
+#1
+​I want to bring up unethical research and surveillance with the residents here. This Sunday Flock cameras in Wilson Park were monitoring families parking and walking to church
+
+
+@Vonnieonie5
+​
+
+#3
+​Oh wow!!
+
+
+@90candelarioL
+​
+
+#1
+​This is the type of unethical and CREEPY research and surveillance we need an independent non profit to expose.
+
+
+@90candelarioL
+​
+
+#1
+​I've been monitoring and documenting those cameras since they went up. while construction crews resurfaced the road the cameras were pointing towards the sky
+
+
+@90candelarioL
+​
+
+#1
+​As soon as they cleared their construction cones they were pointing back down. Watching families in the park
+
+
+@bishoptwoneflowers
+​​Greetings my Compton Family💙💛
+
+
+@audreywhitfield2714
+​​Compton’s systems are already complicated enough
+
+
+@audreywhitfield2714
+​​Why can’t the interpreter just stay there?what is she doing?
+
+
+@DOWNTOWN.LA.37
+​
+
+#2
+​remember the government works for we the people
+
+
+@DOWNTOWN.LA.37
+​
+
+#2
+​do public records
+
+
+@DOWNTOWN.LA.37
+​
+
+#2
+​they get pay to be there señora
+
+
+@DOWNTOWN.LA.37
+​
+
+#2
+​those parking enforcement should be ticketing those semi trucks blocking avalon n san pedro
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+
+@thakasErikaselassie_kelly
+​​@lanajharris do we need to talk ? I saw you using @NASAJPL data on @HOT97
+
+
+@thakasErikaselassie_kelly
+​​@latto @essencemag
+
+
+@thakasErikaselassie_kelly
+​​[https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/ @repkarenbass #DenimDay](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia)
+
+
+@thakasErikaselassie_kelly
+​​essence.com/news/erika-kelly-missing-atlanta-georgia/ @repkarenbass #DenimDay @lanajharris do we need to talk ? I saw you using @NASAJPL data on @HOT97 @AtlantaNewsFirst @ATLChannel26 @fox5atlanta
+
+## National Voters Registration Day 2026
+[doodles.google/doodle/national-voter-registration-day-2026/](https://doodles.google/doodle/national-voter-registration-day-2026/) /// [github.com/ @google](https://github.com/google) `jekyll.version`  {{ jekyll.version }}
+![https://www.google.com/logos/doodles/2026/national-voter-registration-day-2026-6753651837111215-2x.png @Cityoflosangeles @nasa-jpl @cityoflosangeles @whitehouse @USGS @FECGOV @USC @howard-university-web-services @blackgirlscode](https://www.google.com/logos/doodles/2026/national-voter-registration-day-2026-6753651837111215-2x.png)
+
+@thakasErikaselassie_kelly
+​​@lanajharris do we need to talk ? I saw you using @NASAJPL data on @HOT97 are you a new hire or a customer? u still a customer @HOWARDUNiVERSiTY @WHiTEHOUSE @NASAEARTHDATA @repkarenbass @keishaforga
+
+
+@thakasErikaselassie_kelly
+​​virtiserv.github.io/ @SupervisorLindseyP.Horvath @HildaSolisforCongress hi i found a new tool that makes satelitte imagery easier to obtain i put it there with pics of @SantaMonicaCloseup @KTLA
+
+
+@thakasErikaselassie_kelly
+​​@cityofhb @NASAJPL ra5hard.github.io/longbeach @NASAJPLPODAAC coast.noaa.gov/estuaries/science-data/ @lanajharris do we need to talk ? I saw you using @NASAJPL data on @HOT97 @AtlantaNewsFirst
+
+
+@thakasErikaselassie_kelly
+​​@ComptonChamber @cityofhb @NASAJPL ra5hard.github.io/longbeach @NASAJPLPODAAC coast.noaa.gov/estuaries/science-data/ @lanajharris do we need to talk ? I saw you using @NASAJPL @AtlantaNewsFirst
+
+
+@thakasErikaselassie_kelly
+​​https://www.fisheries.noaa.gov/inport/item/76024 @repkarenbass @LACiTYCLERK @LACityview35 @Glorilla @EricaBanks
+
+
+@thakasErikaselassie_kelly
+​​2026 NOAA NGS Ortho-rectified 4 band MHW Mosaic: Channel Islands, CA @TVSantaBarbara fisheries.noaa.gov/inport/item/79785 @officialSBIFF @CALTECH
+
+
+@thakasErikaselassie_kelly
+​​@LANAJHARRiS if you on can you forward this to @hollywoodfoodcoalition https://www.fisheries.noaa.gov/inport/hierarchy?select=76024 @brandy @normani @CocoaButter
+
+
+@thakasErikaselassie_kelly
+​​Coi Leray Is Ready to Tell Her Story: The Jason Lee Show Premieres September 16 youtube.com/watch?v=ETz90EclbCc @HOWARDUNiVERSiTY @LANAJHARRiS am i free to mingle ? @Deptofwar @chloebaileywashere
+
+
+@thakasErikaselassie_kelly
+​​youtu.be/ahobeirZzp4?si=0agirW6Fht6_er5s @georgiadivisionoffamilychi9316 that shit dont werk who u sold my daugher to?? ? @ArcadiaCAgov https://ra5hard.github.io/2024/07/06/Update-Arcadia-Police.html
+
+
+@thakasErikaselassie_kelly
+​​@georgiadivisionoffamilychi9316 that shit dont werk who u sold my daugher to?? ? @ArcadiaCAgov ra5hard.github.io/2024/07/06/Update-Arcadia-Police.html @SupervisorHollyJMitchell @nasajpl @Nasa-pds hi
+<img  alt="image" src="https://github.com/user-attachments/assets/07f48a98-4215-4d48-a503-b59b2b270c5f" />
 
 ## National Voters Registration Day 2026
 [doodles.google/doodle/national-voter-registration-day-2026/](https://doodles.google/doodle/national-voter-registration-day-2026/) /// [github.com/ @google](https://github.com/google) `jekyll.version`  {{ jekyll.version }}
