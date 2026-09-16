@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/13540ef1-af6f-4770-ac7c-07d36c02aa20" />
+
 [@howard-university-web-services retrogames.cc/segacd-games/sonic-cd.html](https://www.retrogames.cc/segacd-games/sonic-cd.html)
 <img   alt="image" src="https://github.com/user-attachments/assets/f1174b10-b795-48dd-a8a2-bf22ac7aa393" />
 
