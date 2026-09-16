@@ -3,6 +3,41 @@ layout: default
 ---
 
 
+##  Watch Live 🔴SpaceX USSF-259 Launch Live Stream: Falcon 9 Liftoff from Vandenberg 
+[@nasa-jpl @nasa-giss youtu.be/4vYPnPnVwZ4](https://youtu.be/4vYPnPnVwZ4) /// [spacex.com/launches/ussf259](https://www.spacex.com/launches/ussf259) ?@blackgirlscode hi there's a launch if any of u still picking up extra creds for that stuff @usc ... @la-county-isd @CityOFLosAngeles @CityOfSantaMonica depending on the weather we may a jelly fish tonight [`Launch Plume: SpaceX Jellyfish` apod.nasa.gov/apod/ap260319.html](https://apod.nasa.gov/apod/ap260319.html)
+<img alt="image" src="https://github.com/user-attachments/assets/38dbabd2-599b-4fdd-a221-2d51161cc216" />
+
+```
+
+
+@SpaceXtudio​​Welcome to the USSF-259 live stream! 🚀SpaceX Falcon 9 launching a classified U.S. Space Force mission from Vandenberg tonight.Webcast starts ~10 min before liftoff. Enjoy the show!
+@mobetternow​​wasted 20 minutes of my data
+@Misfit-from-Zanti#3​body-blue-raised-arms
+@dochia8585​​🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉 GOOD LUCK AND ALL THE BEST TO SPACE X, FALCON 9!!! 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+@brokenwrench404​​Dumb kid getting banned 🤦🏻‍♂
+@MonicaMarques-w1s7m​​Good afternoon
+@thakasErikaselassie_kelly​​@NASA-pds @LANAjHARRis welcome to @NASAEARRTHDATA at least as our client gm @repkarenbass we have a launch scheduled for this evening @AllyEdwardsRealtor plz fwd to MAyowr Rwose @NewsChannel312 @HOT97
+@thakasErikaselassie_kelly​​@NASA-pds @LANAjHARRis welcome to @NASAEARTHDATA at least as our client gm @repkarenbass we have a launch scheduled for this evening @AllyEdwardsRealtor plz fwd to MAyowr Rwose @NewsChannel312 @HOT97
+@IvaneteMacaneiro​​💥👏👏💯💯💯❤❤❤
+@thakasErikaselassie_kelly​​@hollywoodfoodcoalition can you get us some more of that snatabarbara ice cream ? @AllyEdwardsRealtor plz fwd to MAyowr Rwose @NewsChannel312 @HOT97 @HildaSolisforCongress @TheMidnightMission601
+@thakasErikaselassie_kelly​​@SpaceSystemsCommand hi im going to do an overview of the weather after i writedown what i observed crossing the river @losangelesmetro @CountyofLosAngelesNewsroom gm @DeptOFWAR
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+@khananees957​​InssshaAllah
+@khananees957​​helo
+@thakasErikaselassie_kelly​​I started talking on @github about a job @PlayStation @SonyCorporation-Official , @deptofwar check is Sony INteractive LLC a legit business in @SantaMonicaCloseup @ImagingbySony @chloebaileywashere
+@thakasErikaselassie_kelly​​@HOWARDUNiVERSiTY LATRiCE @LanaJHARRiS @GLORiLLA I started talking on @github about a job @PlayStation @SonyCorporation-Official , @deptofwar check is Sony INteractive LLC a legit business? @normani
+@thakasErikaselassie_kelly#2​hi @BLACKGiRLSCODE
+@UsmanButt-b1l​​Ye kab
+```
+# Chlöe 
+[wiki:talk](https://en.wikipedia.org/wiki/Talk:Chloe_Bailey) @howard-university-web-services
+[https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ](https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ)
+![https://yt3.googleusercontent.com/K89LBU1ekwcQpSKalGtejwEPnSawmCPHOtM5XN5_JauTM2BRPILGStdeY2XzixWHzV4jl9vHkqM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/K89LBU1ekwcQpSKalGtejwEPnSawmCPHOtM5XN5_JauTM2BRPILGStdeY2XzixWHzV4jl9vHkqM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+![https://sxcontent9668.azureedge.us/cms-assets/assets/USSF_259_Vertical_7449_Desktop_a7d8103cfa.jpg](https://sxcontent9668.azureedge.us/cms-assets/assets/USSF_259_Vertical_7449_Desktop_a7d8103cfa.jpg)
+<img  alt="image" src="https://github.com/user-attachments/assets/adc1f0cf-fd82-44d9-a817-e6da5dcd44c0" />
+
+![https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp](https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp) 
+
 
 @nasa-jpl hi @usgs ... @CityOfLosAngeles I am using [The Chinatown Branch](https://www.lapl.org/branches/chinatown) // [ @yelp .com/biz/chinatown-branch-library-los-angeles](https://www.yelp.com/biz/chinatown-branch-library-los-angeles)/ [loc.gov/exhibits/lamapped/](https://www.loc.gov/exhibits/lamapped/) // [ @instagram .com/chinatownlapl/?hl=en](https://www.instagram.com/chinatownlapl/?hl=en) // github.com/virtiserv/`detect-secrets` An enterprise friendly way of detecting and preventing secrets in code. @nasa-jpl it might help us stop photojournal.jpl.nasa.gov from vanishing again! [@NASA-PDS @usgs @CityOfLosAngeles](https://github.com/virtiserv/detect-secrets)
 ![https://www.lapl.org/sites/default/files/styles/embedded_480w/public/blogs/2022-11/chinatown-branch.jpg.webp?itok=4Jrup64T](https://www.lapl.org/sites/default/files/styles/embedded_480w/public/blogs/2022-11/chinatown-branch.jpg.webp?itok=4Jrup64T)
