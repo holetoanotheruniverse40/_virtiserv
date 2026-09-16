@@ -2,27 +2,13 @@
 layout: default
 ---
 
-
-<img alt="image" src="https://github.com/user-attachments/assets/13540ef1-af6f-4770-ac7c-07d36c02aa20" />
-
-[@howard-university-web-services retrogames.cc/segacd-games/sonic-cd.html](https://www.retrogames.cc/segacd-games/sonic-cd.html)
-<img   alt="image" src="https://github.com/user-attachments/assets/f1174b10-b795-48dd-a8a2-bf22ac7aa393" />
-
-![https://gamesdb-images.launchbox.gg/r2_bb645497-756f-4e3d-a321-806e5be30ba8.png](https://gamesdb-images.launchbox.gg/r2_bb645497-756f-4e3d-a321-806e5be30ba8.png)
-<iframe src="https://archive.org/embed/super-mario-world-2-yoshis-island-usa-rev-a" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-![https://images.launchbox-app.com/r2_0efbf9e8-d096-4b21-bce5-2f2752a383e6.jpg](https://images.launchbox-app.com/r2_0efbf9e8-d096-4b21-bce5-2f2752a383e6.jpg)
+[Anita Baker Greatest Hits Mix (https://youtu.be/PBWi3ilx-7k) /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM)
 
 ![https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png](https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png)
 
 <iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<img  alt="image" src="https://github.com/user-attachments/assets/42bbff69-4a69-455a-9b1a-2d7b7bddb1f4" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/885a3933-9c32-456d-ba81-3dfc7fbbce73" />
-
-[@nasa-jpl . . . @blackgirlscode would like this gamefaqs.gamespot.com/arcade/563194-wwf-wrestlemania/faqs/42348](https://gamefaqs.gamespot.com/arcade/563194-wwf-wrestlemania/faqs/42348), however @nbcnews ppl keep telling them they grew too much @disney and ppl steal access and code from them a lot . . . @deptofwar I get it, I befriended girls and my life fell apart with boys who don't support heterosexuality @CityOfLosAngeles 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A333367152&color=%230500ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/menino-garoto" title="Menino Garoto" target="_blank" style="color: #cccccc; text-decoration: none;">Menino Garoto</a> · <a href="https://soundcloud.com/menino-garoto/ibukis-stage-twilight-arranged-from-youtube" title="Street Fighter III 3rd Strike - Ibuki&#x27;s Stage - Twilight" target="_blank" style="color: #cccccc; text-decoration: none;">Street Fighter III 3rd Strike - Ibuki&#x27;s Stage - Twilight</a></div>
 
 # Mars Reconnaissance Orbiter
 [https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/](jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/)
@@ -363,7 +349,7 @@ OBJECT                 = MISSION
       Mission Phase Stop Time  : 2010-12-31
   "
 ```
-<iframe src="https://archive.org/embed/arcade_wwfmania" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 ```Fortran
     MISSION_OBJECTIVES_SUMMARY  = "
@@ -395,7 +381,9 @@ OBJECT                 = MISSION
   spacecraft launched to Mars in the 2007 and 2009 opportunities.  The
   primary mission will end on December 31, 2010, approximately 5.5 years
   after launch.
+```
 
+```
 
   Science Questions Addressed
   ---------------------------
