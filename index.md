@@ -7,10 +7,17 @@ layout: default
 
 <iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+[leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&tocTitle=+California+Constitution+-+CONS](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&tocTitle=+California+Constitution+-+CONS)
 [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
-[senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) // [codepen.io/thakarashard/pen/YzMEOGN](https://codepen.io/thakarashard/pen/YzMEOGN) 
+[senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) // [codepen.io/thakarashard/pen/YzMEOGN](https://codepen.io/thakarashard/pen/YzMEOGN) // [@CiTYOFLOSANGELES Adopted in Senate August 31, 2024](https://elections.cdn.sos.ca.gov/ballot-measures/pdf/sca-1-24.pdf)
+
+[@blackgirlscode senate.ca.gov/system/files/2024-12/2466_joint-handbook_2023-24_complete_0.pdf](https://www.senate.ca.gov/system/files/2024-12/2466_joint-handbook_2023-24_complete_0.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/5ebe391a-cd8a-4c58-b077-a9483b78017e" />
+
+![https://leginfo.legislature.ca.gov/resources/images/header_img.png](https://leginfo.legislature.ca.gov/resources/images/header_img.png) 
+
 # DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
 COMBATING TRAFFICKING IN PERSONS (CTIP)
 #### [@nasa-jpl this is the @DeptOfWar](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf?ver=2019-06-21-102951-257) stance on sex trafficking, 
