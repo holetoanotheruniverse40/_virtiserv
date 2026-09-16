@@ -4,6 +4,7 @@ layout: default
 
 <iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/42bbff69-4a69-455a-9b1a-2d7b7bddb1f4" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/885a3933-9c32-456d-ba81-3dfc7fbbce73" />
 
