@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[@howard-university-web-services retrogames.cc/segacd-games/sonic-cd.html](https://www.retrogames.cc/segacd-games/sonic-cd.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/f1174b10-b795-48dd-a8a2-bf22ac7aa393" />
+
 ![https://gamesdb-images.launchbox.gg/r2_bb645497-756f-4e3d-a321-806e5be30ba8.png](https://gamesdb-images.launchbox.gg/r2_bb645497-756f-4e3d-a321-806e5be30ba8.png)
 <iframe src="https://archive.org/embed/super-mario-world-2-yoshis-island-usa-rev-a" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
