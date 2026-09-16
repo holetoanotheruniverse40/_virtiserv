@@ -4,7 +4,7 @@ layout: default
 
 
 
-@nasa-jpl hi @usgs ... @CityOfLosAngeles I am using [The Chinatown Branch](https://www.lapl.org/branches/chinatown) // [yelp.com/biz/chinatown-branch-library-los-angeles](https://www.yelp.com/biz/chinatown-branch-library-los-angeles)/ [loc.gov/exhibits/lamapped/](https://www.loc.gov/exhibits/lamapped/) // [ @instagram .com/chinatownlapl/?hl=en](https://www.instagram.com/chinatownlapl/?hl=en) // [github.com/virtiserv/`detect-secrets` An enterprise friendly way of detecting and preventing secrets in code. @nasa-jpl it might help us stop photojournal.jpl.nasa.gov from vanishing again! @NASA-PDS @usgs @CityOfLosAngeles](https://github.com/virtiserv/detect-secrets)
+@nasa-jpl hi @usgs ... @CityOfLosAngeles I am using [The Chinatown Branch](https://www.lapl.org/branches/chinatown) // [ @yelp .com/biz/chinatown-branch-library-los-angeles](https://www.yelp.com/biz/chinatown-branch-library-los-angeles)/ [loc.gov/exhibits/lamapped/](https://www.loc.gov/exhibits/lamapped/) // [ @instagram .com/chinatownlapl/?hl=en](https://www.instagram.com/chinatownlapl/?hl=en) // github.com/virtiserv/`detect-secrets` An enterprise friendly way of detecting and preventing secrets in code. @nasa-jpl it might help us stop photojournal.jpl.nasa.gov from vanishing again! [@NASA-PDS @usgs @CityOfLosAngeles](https://github.com/virtiserv/detect-secrets)
 ![https://www.lapl.org/sites/default/files/styles/embedded_480w/public/blogs/2022-11/chinatown-branch.jpg.webp?itok=4Jrup64T](https://www.lapl.org/sites/default/files/styles/embedded_480w/public/blogs/2022-11/chinatown-branch.jpg.webp?itok=4Jrup64T)
 <img  alt="image" src="https://github.com/user-attachments/assets/10b7ad64-0f73-4be2-a27e-8014086fa08a" />
 
