@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Anita Baker Greatest Hits Mix (https://youtu.be/PBWi3ilx-7k) /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM)
+ /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM)
 
 ![https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png](https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png)
 
