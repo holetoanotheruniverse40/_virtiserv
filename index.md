@@ -344,6 +344,7 @@ OBJECT                 = MISSION
       Mission Phase Stop Time  : 2010-12-31
   "
 ```
+<iframe src="https://archive.org/embed/arcade_wwfmania" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ```Fortran
     MISSION_OBJECTIVES_SUMMARY  = "
