@@ -7,6 +7,9 @@ layout: default
 [@nasa-jpl @nasa-giss youtu.be/4vYPnPnVwZ4](https://youtu.be/4vYPnPnVwZ4) /// [spacex.com/launches/ussf259](https://www.spacex.com/launches/ussf259) ? @blackgirlscode hi there's a launch if any of u still picking up extra creds for that stuff @usc ... @la-county-isd @CityOFLosAngeles @CityOfSantaMonica depending on the weather we may a jelly fish tonight [`Launch Plume: SpaceX Jellyfish` apod.nasa.gov/apod/ap260319.html](https://apod.nasa.gov/apod/ap260319.html)
 <img alt="image" src="https://github.com/user-attachments/assets/38dbabd2-599b-4fdd-a221-2d51161cc216" />
 
+![https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp](https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp) 
+![https://sxcontent9668.azureedge.us/cms-assets/assets/USSF_259_Vertical_7449_Desktop_a7d8103cfa.jpg](https://sxcontent9668.azureedge.us/cms-assets/assets/USSF_259_Vertical_7449_Desktop_a7d8103cfa.jpg)
+
 ```
 
 
@@ -33,11 +36,8 @@ Welcome to live chat! Remember to guard your privacy and abide by our community 
 [wiki:talk](https://en.wikipedia.org/wiki/Talk:Chloe_Bailey) @howard-university-web-services
 [https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ](https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ)
 ![https://yt3.googleusercontent.com/K89LBU1ekwcQpSKalGtejwEPnSawmCPHOtM5XN5_JauTM2BRPILGStdeY2XzixWHzV4jl9vHkqM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/K89LBU1ekwcQpSKalGtejwEPnSawmCPHOtM5XN5_JauTM2BRPILGStdeY2XzixWHzV4jl9vHkqM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
-![https://sxcontent9668.azureedge.us/cms-assets/assets/USSF_259_Vertical_7449_Desktop_a7d8103cfa.jpg](https://sxcontent9668.azureedge.us/cms-assets/assets/USSF_259_Vertical_7449_Desktop_a7d8103cfa.jpg)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/adc1f0cf-fd82-44d9-a817-e6da5dcd44c0" />
-
-![https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp](https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp) 
-
 
 @nasa-jpl hi @usgs ... @CityOfLosAngeles I am using [The Chinatown Branch](https://www.lapl.org/branches/chinatown) // [ @yelp .com/biz/chinatown-branch-library-los-angeles](https://www.yelp.com/biz/chinatown-branch-library-los-angeles)/ [loc.gov/exhibits/lamapped/](https://www.loc.gov/exhibits/lamapped/) // [ @instagram .com/chinatownlapl/?hl=en](https://www.instagram.com/chinatownlapl/?hl=en) // github.com/virtiserv/`detect-secrets` An enterprise friendly way of detecting and preventing secrets in code. @nasa-jpl it might help us stop photojournal.jpl.nasa.gov from vanishing again! [@NASA-PDS @usgs @CityOfLosAngeles](https://github.com/virtiserv/detect-secrets)
 ![https://www.lapl.org/sites/default/files/styles/embedded_480w/public/blogs/2022-11/chinatown-branch.jpg.webp?itok=4Jrup64T](https://www.lapl.org/sites/default/files/styles/embedded_480w/public/blogs/2022-11/chinatown-branch.jpg.webp?itok=4Jrup64T)
