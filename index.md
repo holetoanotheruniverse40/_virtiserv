@@ -3,7 +3,9 @@ layout: default
 ---
 
 
+![https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png](https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png)
 
+<iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
