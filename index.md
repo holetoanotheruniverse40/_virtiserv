@@ -10,7 +10,7 @@ The Lana Rundown [`WATCH` - youtu.be/cl89QKlxWaM](https://youtu.be/cl89QKlxWaM)
 <img   alt="image" src="https://github.com/user-attachments/assets/e97e553e-6d6c-424f-b4fd-4268ec640c1b" />
 
 ## NASA’s SpaceX Crew-12 Pre-Departure News Conference (Sept. 16, 2026)
-[`WATCH` - youtube.com/live/aujP8wuMTMI?si=0e_Y7_Gw4Qw6wtyp](https://www.youtube.com/live/aujP8wuMTMI?si=0e_Y7_Gw4Qw6wtyp)
+[`WATCH` - youtube.com/live/aujP8wuMTMI?si=0e_Y7_Gw4Qw6wtyp](https://www.youtube.com/live/aujP8wuMTMI?si=0e_Y7_Gw4Qw6wtyp) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aujP8wuMTMI?si=CpPX4dfKMxYzjRyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,6 +74,35 @@ Welcome to live chat! Remember to guard your privacy and abide by our community 
 ![@CityOfLosAngeles tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/322502pv.jpg](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/322502pv.jpg)
 <img  alt="image" src="https://github.com/user-attachments/assets/f3b94c7d-8ed8-43c9-abb7-82b3fc8a9c18" />
 
+
+# DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
+COMBATING TRAFFICKING IN PERSONS (CTIP)
+#### [@nasa-jpl this is the @DeptOfWar](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf?ver=2019-06-21-102951-257) stance on sex trafficking, 
+[ @cityoflosangeles @stateofcalifornia @blackgirlscode esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
+1.2. POLICY. It is DoD policy to:
+a. Oppose prostitution, forced labor, and any related activities contributing to the
+phenomenon of trafficking in persons (TIP). CTIP will be applied across the entire spectrum of
+DoD missions, functions, programs, and activities.
+b. Deter activities of Service members, civilian employees, indirect hires, DoD contractors,
+foreign national employees of DoD, grant and cooperative agreement recipients, and all
+dependents that could facilitate or support TIP, domestically and overseas. These activities, to
+which DoD Components will uniformly refer using these terms when issuing internal
+implementing instructions and regulations, are:
+(1) Prostitution, pimping, pandering, and patronizing a prostitute. Even though such
+activities may be legal in a host country, they are in violation of:
+(a) Chapter 47 of Title 10, United States Code (U.S.C.), also known and referred to
+in this issuance as the “Uniform Code of Military Justice.”
+(b) Paragraph 106 of Part IV of the Manual for Courts-Martial.
+(2) Activities in violation of Chapter 77 of Title 18, U.S.C. including:
+(a) Forced labor and involuntary servitude.
+(b) Document tampering (e.g., withholding passports, fraudulent visas).
+(c) Sex trafficking of children.
+(3) Sex trafficking by force, fraud, or coercion in violation of Chapter 117 of Title 18,
+U.S.C.
+(4) Additional TIP-related offenses in Sections 1581, 1584, 1590-1597, 2421, 2421A,
+and 2422 of Title 18, U.S.C. 
+[esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/a889a2eb-f963-4ffa-a8c8-57e06953a4c7" />
 
 
 @R0NB8kerMedia
