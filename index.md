@@ -4,7 +4,7 @@ layout: default
 
 
 ##  Watch Live 🔴SpaceX USSF-259 Launch Live Stream: Falcon 9 Liftoff from Vandenberg 
-[@nasa-jpl @nasa-giss youtu.be/4vYPnPnVwZ4](https://youtu.be/4vYPnPnVwZ4) /// [spacex.com/launches/ussf259](https://www.spacex.com/launches/ussf259) ?@blackgirlscode hi there's a launch if any of u still picking up extra creds for that stuff @usc ... @la-county-isd @CityOFLosAngeles @CityOfSantaMonica depending on the weather we may a jelly fish tonight [`Launch Plume: SpaceX Jellyfish` apod.nasa.gov/apod/ap260319.html](https://apod.nasa.gov/apod/ap260319.html)
+[@nasa-jpl @nasa-giss youtu.be/4vYPnPnVwZ4](https://youtu.be/4vYPnPnVwZ4) /// [spacex.com/launches/ussf259](https://www.spacex.com/launches/ussf259) ? @blackgirlscode hi there's a launch if any of u still picking up extra creds for that stuff @usc ... @la-county-isd @CityOFLosAngeles @CityOfSantaMonica depending on the weather we may a jelly fish tonight [`Launch Plume: SpaceX Jellyfish` apod.nasa.gov/apod/ap260319.html](https://apod.nasa.gov/apod/ap260319.html)
 <img alt="image" src="https://github.com/user-attachments/assets/38dbabd2-599b-4fdd-a221-2d51161cc216" />
 
 ```
