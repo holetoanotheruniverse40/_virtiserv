@@ -4,7 +4,7 @@ layout: default
 
 
 ## National Voters Registration Day 2026
-[doodles.google/doodle/national-voter-registration-day-2026/](https://doodles.google/doodle/national-voter-registration-day-2026/) /// [github.com/ @google](https://github.com/google)
+[doodles.google/doodle/national-voter-registration-day-2026/](https://doodles.google/doodle/national-voter-registration-day-2026/) /// [github.com/ @google](https://github.com/google) `jekyll.version`  {{ jekyll.version }}
 ![https://www.google.com/logos/doodles/2026/national-voter-registration-day-2026-6753651837111215-2x.png @Cityoflosangeles @nasa-jpl @cityoflosangeles @whitehouse @USGS @FECGOV @USC @howard-university-web-services @blackgirlscode](https://www.google.com/logos/doodles/2026/national-voter-registration-day-2026-6753651837111215-2x.png)
 
 ## Why Big Tech CEOs Suddenly Want AI Slowed Down
