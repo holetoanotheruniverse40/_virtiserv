@@ -211,7 +211,11 @@ OBJECT                 = MISSION
       
       Solar Conjunction Sub-Phase Start Time: 2006-10-09
       Solar Conjunction Sub-Phase Stop Time: 2006-11-07
-      
+```
+<iframe src="https://archive.org/embed/arcade_redearth" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+```shell  
 
     PRIMARY SCIENCE
     ---------------
@@ -276,7 +280,9 @@ OBJECT                 = MISSION
 
       Mission Phase Start Time : 2006-11-08
       Mission Phase Stop Time  : 2008-11-09
+```
 
+```
 
     RELAY
     -----
@@ -337,7 +343,9 @@ OBJECT                 = MISSION
       Mission Phase Start Time : 2008-11-09
       Mission Phase Stop Time  : 2010-12-31
   "
-  
+```
+
+```Fortran
     MISSION_OBJECTIVES_SUMMARY  = "
 
   The driving theme of the Mars Exploration Program is to understand the
@@ -462,7 +470,8 @@ OBJECT                 = MISSION
     in order to characterize the full seasonal variation of the Martian
     climate and to target hundreds of globally distributed sites with high
     potential for further scientific discovery. 
-
+```
+```
  Mission Success Criteria
  ------------------------
 
