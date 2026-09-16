@@ -2,6 +2,14 @@
 layout: default
 ---
 
+
+
+@nasa-jpl hi @usgs ... @CityOfLosAngeles I am using [The Chinatown Branch](https://www.lapl.org/branches/chinatown) // [yelp.com/biz/chinatown-branch-library-los-angeles](https://www.yelp.com/biz/chinatown-branch-library-los-angeles)/ [loc.gov/exhibits/lamapped/](https://www.loc.gov/exhibits/lamapped/) // [ @instagram .com/chinatownlapl/?hl=en](https://www.instagram.com/chinatownlapl/?hl=en) // [github.com/virtiserv/`detect-secrets` An enterprise friendly way of detecting and preventing secrets in code. @nasa-jpl it might help us stop photojournal.jpl.nasa.gov from vanishing again! @NASA-PDS @usgs @CityOfLosAngeles](https://github.com/virtiserv/detect-secrets)
+![https://www.lapl.org/sites/default/files/styles/embedded_480w/public/blogs/2022-11/chinatown-branch.jpg.webp?itok=4Jrup64T](https://www.lapl.org/sites/default/files/styles/embedded_480w/public/blogs/2022-11/chinatown-branch.jpg.webp?itok=4Jrup64T)
+<img  alt="image" src="https://github.com/user-attachments/assets/10b7ad64-0f73-4be2-a27e-8014086fa08a" />
+
+[@libraryofcongress hi can you fwd to _MayorKarenBass_ @StateOFCAlifornia @ForAtlanta loc.gov/pictures/item/ca1261.photos.322502p/resource/](https://www.loc.gov/pictures/item/ca1261.photos.322502p/resource/)
+![@CityOfLosAngeles tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/322502pv.jpg](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/322502pv.jpg)
 <img  alt="image" src="https://github.com/user-attachments/assets/f3b94c7d-8ed8-43c9-abb7-82b3fc8a9c18" />
 
 
