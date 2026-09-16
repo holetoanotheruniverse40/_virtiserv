@@ -9,10 +9,10 @@ layout: default
 
 <iframe src="https://archive.org/embed/image-3_202504" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-# UNIX Programming Enviornment
-by Brian W. Kernigan, Rob Pike [pdf](https://github.com/tcd/tupe/blob/master/the-unix-programming-environment-kernighan-pike.pdf) / [alt - pdf orig scan @nasa-pds @blackgirlscode @att](https://www.tuhs.org/Archive/Documentation/TechReports/USG_Library/1447_The_UNIX_Programming_Environment.pdf) 
+UNIX Programming Enviornmentby Brian W. Kernigan, Rob Pike [pdf](https://github.com/tcd/tupe/blob/master/the-unix-programming-environment-kernighan-pike.pdf) / [alt - pdf orig scan @nasa-pds @blackgirlscode @att](https://www.tuhs.org/Archive/Documentation/TechReports/USG_Library/1447_The_UNIX_Programming_Environment.pdf) 
 <img  alt="image" src="https://github.com/user-attachments/assets/f3521287-69a4-4f6a-b10d-7502b719d53d" />
 
+---
 
 ![https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png](https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png)
 
