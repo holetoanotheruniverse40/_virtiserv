@@ -4,6 +4,25 @@ layout: default
 
 
 
+### Kash Patel FBI Drama, Hegseth Impeachment & Mitch McConnell Return 
+@deptofwar @dhs-gov @nasa @nasa-jpl @whitehouse hi [@LA-county-isd](https://hr.lacounty.gov/internal-services-department/) [Holly Mitchell](https://www.linkedin.com/in/holly-j-mitchell-5720361b7) we have a launch tonight from Vandenburg [spacex.com/launches/ussf259](https://www.spacex.com/launches/ussf259)
+The Lana Rundown [`WATCH` - youtu.be/cl89QKlxWaM](https://youtu.be/cl89QKlxWaM)
+<img   alt="image" src="https://github.com/user-attachments/assets/e97e553e-6d6c-424f-b4fd-4268ec640c1b" />
+
+## NASA’s SpaceX Crew-12 Pre-Departure News Conference (Sept. 16, 2026)
+[`WATCH` - youtube.com/live/aujP8wuMTMI?si=0e_Y7_Gw4Qw6wtyp](https://www.youtube.com/live/aujP8wuMTMI?si=0e_Y7_Gw4Qw6wtyp)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aujP8wuMTMI?si=CpPX4dfKMxYzjRyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+@USNAVY @NASA-GiSS @NAsa-pds [Victor Glover](https://www.nasa.gov/wp-content/uploads/2026/09/glover-vj.pdf), Try this Mars Simulator [https://www.zombs-lair.com/martian-gothic-unification](https://www.zombs-lair.com/martian-gothic-unification) @SonyResearch he should know how to run @libRetro at his paygrade
+[https://archive.org/details/martian-gothic](https://archive.org/details/martian-gothic) // [@dEPTOFwAR https://archive.org/download/Centuron-PSX/Martian%20Gothic%20-%20Unification.cue @FBICYBER](https://archive.org/download/Centuron-PSX/Martian%20Gothic%20-%20Unification.cue) // [https://archive.org/download/Centuron-PSX/Martian%20Gothic%20-%20Unification.bin](https://archive.org/download/Centuron-PSX/Martian%20Gothic%20-%20Unification.bin) <~ @deptofwar [aanandmadhav.com/work/emirates-mars-mission](https://aanandmadhav.com/work/emirates-mars-mission)
+@nasa-pds [marssim.space/](https://marssim.space/)  ~< [@sONY @sONYrESEARCH](https://www.jpl.nasa.gov/topics/mars/) the Mars team is a big climate organization. Before people go the monitoring should be stable, more on that later but I put orders in to turn on the earthquake monitoring for safety, I have to formalize it at some point @ESA I'm talking about the landers 
+<iframe src="https://archive.org/embed/psx_martgoth" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[`WATCH` -  youtu.be/GFqp_36ajSo?si=KSEM74L7pB9cEO5a](https://youtu.be/GFqp_36ajSo?si=KSEM74L7pB9cEO5a)
+<img  alt="image" src="https://github.com/user-attachments/assets/09215bbb-919f-43c6-8ca2-dc8ab9523505" />
+
 ##  Watch Live 🔴SpaceX USSF-259 Launch Live Stream: Falcon 9 Liftoff from Vandenberg 
 [@nasa-jpl @nasa-giss youtu.be/4vYPnPnVwZ4](https://youtu.be/4vYPnPnVwZ4) /// [spacex.com/launches/ussf259](https://www.spacex.com/launches/ussf259) ? @blackgirlscode hi there's a launch if any of u still picking up extra creds for that stuff @usc ... @la-county-isd @CityOFLosAngeles @CityOfSantaMonica depending on the weather we may a jelly fish tonight [`Launch Plume: SpaceX Jellyfish` apod.nasa.gov/apod/ap260319.html](https://apod.nasa.gov/apod/ap260319.html)
 <img alt="image" src="https://github.com/user-attachments/assets/38dbabd2-599b-4fdd-a221-2d51161cc216" />
