@@ -2,12 +2,19 @@
 layout: default
 ---
 
-
+# HOT 97 News Live! 9/16/26
+[https://youtu.be/jvVP1DzP8DM](https://youtu.be/jvVP1DzP8DM)
+<img  alt="image" src="https://github.com/user-attachments/assets/f3521287-69a4-4f6a-b10d-7502b719d53d" />
 
 
 ![https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png](https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/XCotA_logo.png)
 
 <iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+[`WATCH` - https://www.youtube.com/watch?v=jvVP1DzP8DM](https://www.youtube.com/watch?v=jvVP1DzP8DM)
+<img alt="image" src="https://github.com/user-attachments/assets/95bd3f14-31c0-482b-a43b-55f0aed77797" />
 
 [@nasa-jpl someone is hurting me in little Tokyo brance @CityOFLOSANGELES plz send over to launch complex!!!!! virtiserv.github.io/weather](https://virtiserv.github.io/weather)
 [@deptofwar d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
