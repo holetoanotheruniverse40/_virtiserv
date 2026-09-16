@@ -3,9 +3,17 @@ layout: default
 ---
 
 
+
 ##  Watch Live 🔴SpaceX USSF-259 Launch Live Stream: Falcon 9 Liftoff from Vandenberg 
 [@nasa-jpl @nasa-giss youtu.be/4vYPnPnVwZ4](https://youtu.be/4vYPnPnVwZ4) /// [spacex.com/launches/ussf259](https://www.spacex.com/launches/ussf259) ? @blackgirlscode hi there's a launch if any of u still picking up extra creds for that stuff @usc ... @la-county-isd @CityOFLosAngeles @CityOfSantaMonica depending on the weather we may a jelly fish tonight [`Launch Plume: SpaceX Jellyfish` apod.nasa.gov/apod/ap260319.html](https://apod.nasa.gov/apod/ap260319.html)
 <img alt="image" src="https://github.com/user-attachments/assets/38dbabd2-599b-4fdd-a221-2d51161cc216" />
+
+#### Monster Energy: Ballistic BJ Baldwin Recoil 2 - Unleashed in Ensenada, @Mexico
+[`watch` - youtu.be/JXMyZ929lpY](https://youtu.be/JXMyZ929lpY)
+`@lanajharris . . @deptofwar watch for comments this shit gone be crazy @NASAJPL plz fwd to RoverOperations @NASA-pds @PasadenaGov I have been documents some dunes  @repkarenbass I don't think a @tesla #CYBERTRUCK on Mars is that easy, but I'm worried about tires and leaving shit behind,,,, the rover slow @chloebaileywashere @SupervisorHollyJMitchell @RepJudyChu`
+<img   alt="image" src="https://github.com/user-attachments/assets/f584d6eb-775c-43b3-901e-5fc1a7d43106" />
+
+![https://yt3.googleusercontent.com/TcVQR3wb_bzgLJiFbdyrrxU4zv-MiQmVAfvjt2L3kV9I7uDhRhrhikZnm-9ybX_9h9shWdwQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/TcVQR3wb_bzgLJiFbdyrrxU4zv-MiQmVAfvjt2L3kV9I7uDhRhrhikZnm-9ybX_9h9shWdwQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
 ![https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp](https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp) 
 ![https://sxcontent9668.azureedge.us/cms-assets/assets/USSF_259_Vertical_7449_Desktop_a7d8103cfa.jpg](https://sxcontent9668.azureedge.us/cms-assets/assets/USSF_259_Vertical_7449_Desktop_a7d8103cfa.jpg)
