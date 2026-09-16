@@ -4,6 +4,9 @@ layout: default
 
 <iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/885a3933-9c32-456d-ba81-3dfc7fbbce73" />
+
 [@nasa-jpl . . . @blackgirlscode would like this gamefaqs.gamespot.com/arcade/563194-wwf-wrestlemania/faqs/42348](https://gamefaqs.gamespot.com/arcade/563194-wwf-wrestlemania/faqs/42348), however @nbcnews ppl keep telling them they grew too much @disney and ppl steal access and code from them a lot . . . @deptofwar I get it, I befriended girls and my life fell apart with boys who don't support heterosexuality @CityOfLosAngeles 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A333367152&color=%230500ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/menino-garoto" title="Menino Garoto" target="_blank" style="color: #cccccc; text-decoration: none;">Menino Garoto</a> · <a href="https://soundcloud.com/menino-garoto/ibukis-stage-twilight-arranged-from-youtube" title="Street Fighter III 3rd Strike - Ibuki&#x27;s Stage - Twilight" target="_blank" style="color: #cccccc; text-decoration: none;">Street Fighter III 3rd Strike - Ibuki&#x27;s Stage - Twilight</a></div>
 
