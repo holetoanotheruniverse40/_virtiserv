@@ -9,6 +9,14 @@ layout: default
 
 --- 
 
+
+
+[@LACMTA](https://locator.lacounty.gov/lac/Location/3053102/los-angeles-county-metropolitan-transportation-authority---administration) [@la-county-isd District Attorney Hochman](https://da.lacounty.gov/about/meet-the-da) to provide [`WATCH` - update in deadly Metro bus crash](https://www.youtube.com/live/HWfXeTSt5ms?si=Uwn5KoJod3ELuJWt) afternoon [Supervisor Mitchell ](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) <img  alt="image @LACMTA @nasa-jpl @nasa-pds @blackgirlscode @disney @hulu @Sony @sonyResearch @CityOfSantaMonica @la-county-isd " src="https://github.com/user-attachments/assets/b574dc16-defb-4d84-80a5-4a1ead4c5e63" />
+
+
+
+![https://nathanhochman.com/wp-content/uploads/2023/03/Nathan_Hochman_DA_logo.svg](https://nathanhochman.com/wp-content/uploads/2023/03/Nathan_Hochman_DA_logo.svg) 
+
 early run @nasa-giss @nasa-openscapes
 <img   alt="GIOVANNI-outputupsPthkP" src="https://github.com/user-attachments/assets/07497601-2123-49ac-b9f0-914779dd5048" />
 
