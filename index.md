@@ -14,6 +14,17 @@ layout: default
   
 </picture>
 
+# Atlanta @ForAtlanta
+hi @cnn , its from our ecostress imager on the iss... we installed [Storie @USSF-ORBiT](https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/) recently @bbc @newshour @cityoflosangeles @libraryofcongress 
+<img   alt="ECOv002_L2T_LSTE_46385_004_16SGC_20260910T003231_0713_02" src="https://github.com/user-attachments/assets/0132e298-f6d7-4550-86e3-7e3da9093218" />
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1aALf03O95C49gY3eti3Fd?utm_source=generator&si=5ff1ea2221d8494f" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<img   alt="ECOv002_L2T_LSTE_46385_004_16SGC_20260910T003231_0713_02_height" src="https://github.com/user-attachments/assets/be94a298-14a6-4820-8d12-6f29932d8c84" />
+<img  alt="ECOv002_L2T_LSTE_46385_004_16SGC_20260910T003231_0713_02_LST" src="https://github.com/user-attachments/assets/ae395bdd-216b-4de2-9ed4-8f91e81d68ea" />
+
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/geospace/Inner%20Magnetosphere%20Background%20with%20Expanded%20Ring%20Current.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/geospace/Inner%20Magnetosphere%20Background%20with%20Expanded%20Ring%20Current.jpg)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5TIGd8F70sI5mk6U4bubX8?utm_source=generator&si=a26b08c4ee5a49bb" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### ECOSTRESS Gridded Weight Percent Silica L3 Global 0.01 Degree Map V001
