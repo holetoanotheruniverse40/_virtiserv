@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5fst2COuMGJQ7PzSRYGVj5?utm_source=generator&si=3b3d017956624ed5" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### @Deptofwar, Why Was The Trump Shooter Cremated 10 Days Later?
 [@whitehouse @nasa @cia `WATCH` - youtu.be/jeEKyoxR3xU?si=f1asIJ22UIPt5ct3](https://youtu.be/jeEKyoxR3xU?si=f1asIJ22UIPt5ct3)
