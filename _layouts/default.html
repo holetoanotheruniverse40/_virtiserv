@@ -31,9 +31,9 @@
 
   <body>
     <header>
-      <div class="inner">
+      <div class="inner" itemscope itemtype="https://schema.org/Organization">
         <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 itemprop="name">{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         {% if site.github.is_project_page %}
@@ -45,7 +45,7 @@
       </div>
     </header>
 
-    <div id="content-wrapper">
+    <div itemscope itemtype="https://schema.org/Person" id="content-wrapper">
       <div class="inner clearfix">
         <section class="floatright" id="main-content">
            <div class="box">
@@ -59,7 +59,10 @@
            
  </div> 
           `jekyll.version`  {{ jekyll.version }} 
-          {{ page.date | date: "%m/%d/%Y/%r" }} @howard-university-web-services {{ site.time | date: '%y' }}
+          {{ page.date | date: "%m/%d/%Y/%r" }}
+          `jekyll.version`  {{ jekyll.version }}
+          {{ site.time | date: '%B %d, %Y' }}
+          {{ site.time }}
           {{ site.title | default: site.github.repository_name }}
           {{ content }}
           `jekyll.version`  {{ jekyll.version }} 
