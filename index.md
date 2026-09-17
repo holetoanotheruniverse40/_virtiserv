@@ -4,7 +4,7 @@ layout: default
 
 
 [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too 
-`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1) // [Eightball & MJG - Comin' Out Hard ](https://youtu.be/4szx2f0L2E0)
+`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1) // [Eightball & MJG - Comin' Out Hard ](https://youtu.be/4szx2f0L2E0) // [🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM)
 
 
 --- 
@@ -21,6 +21,13 @@ layout: default
 
 
 ![https://nathanhochman.com/wp-content/uploads/2023/03/Nathan_Hochman_DA_logo.svg](https://nathanhochman.com/wp-content/uploads/2023/03/Nathan_Hochman_DA_logo.svg) 
+
+<img  alt="GIOVANNI-outputfK20n7Jp" src="https://github.com/user-attachments/assets/f913d3a3-aaa4-43b8-ae67-240cf17a0352" />
+
+<img  alt="GIOVANNI-outputCo0Utu9R" src="https://github.com/user-attachments/assets/260c54bb-3291-492a-bfac-6fac93c2df7d" />
+
+
+<img  alt="GIOVANNI-outputZIft06Tv" src="https://github.com/user-attachments/assets/0b1c679c-77ad-4bc2-8b2a-40e3e5b9ded1" />
 
 early run @nasa-giss @nasa-openscapes
 <img   alt="GIOVANNI-outputupsPthkP" src="https://github.com/user-attachments/assets/07497601-2123-49ac-b9f0-914779dd5048" />
