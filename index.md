@@ -2,6 +2,25 @@
 layout: default
 ---
 
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+### ECOSTRESS Gridded Weight Percent Silica L3 Global 0.01 Degree Map V001
+[@NASA-JPL @UCLA](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/ECO_L3G_WPS.001/ECO_L3G_WPS.tif/ECO_L3G_WPS.png?A-userid=None&Expires=1789614131&Signature=VAXr6NIc1xdWrNWkjoCGnTzMUAFdUR3sllYPd~wA9QmPs~UgHB6AeglyGYet7qwQcf16xQxpkCcmHTQ99tCfTXJNqkhLcy~eg8oj4Yxq6jOCOeVFLVgYv1~LNxwCQtcregdFZdmGxy7TcSPPb0FWUA4BQQPPgMm7YbVkN74mMEFyy~eo~Tzjb1Hd-2tFiNBptL01HLnK~JVCSU66SxBR-yupgTrELI3tOH6EP45LFUtUS161V4Q-hJcJaRcS9WSRQ0DAKhN13tNlR2-8aS9i0AUMw9oj2Y8QPmqG9vofRIW7AWYlQLwlkiRY456uqAiIKmA7LDQIsmPgI~6iMzh3FQ__&Key-Pair-Id=K1JHXLBU4LECA2) IDK how long that link will last `https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/ECO_L3G_WPS.001/ECO_L3G_WPS.tif/ECO_L3G_WPS.png?A-userid=None&Expires=1789614131&Signature=VAXr6NIc1xdWrNWkjoCGnTzMUAFdUR3sllYPd~wA9QmPs~UgHB6AeglyGYet7qwQcf16xQxpkCcmHTQ99tCfTXJNqkhLcy~eg8oj4Yxq6jOCOeVFLVgYv1~LNxwCQtcregdFZdmGxy7TcSPPb0FWUA4BQQPPgMm7YbVkN74mMEFyy~eo~Tzjb1Hd-2tFiNBptL01HLnK~JVCSU66SxBR-yupgTrELI3tOH6EP45LFUtUS161V4Q-hJcJaRcS9WSRQ0DAKhN13tNlR2-8aS9i0AUMw9oj2Y8QPmqG9vofRIW7AWYlQLwlkiRY456uqAiIKmA7LDQIsmPgI~6iMzh3FQ__&Key-Pair-Id=K1JHXLBU4LECA2` @howard-university-web-services 
+<img   alt="image" src="https://github.com/user-attachments/assets/c0cda025-a72b-4f84-bafc-37f45266ec37" />
+
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2gSh6B45bWv4gDOhawR8C2?utm_source=generator&theme=0&si=d47b236d9b614d2b" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/07UGwx7G2ImEk21CUeMXwY?utm_source=generator&si=dd0d43f71851413d" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <img   alt="image" src="https://github.com/user-attachments/assets/0a062c1f-b0f2-4a29-a413-06691a52758f" />
