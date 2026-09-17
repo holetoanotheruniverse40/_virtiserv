@@ -13,6 +13,8 @@ layout: default
 <img   alt="image @nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/ " src="https://github.com/user-attachments/assets/d6ee22bb-f94b-400b-b0e0-c248131df6a9" />
 <img   alt="image image @nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/ @CityOfLosAngeles @StateOfCAlifornia @ForAtlanta" src="https://github.com/user-attachments/assets/f4b56997-0986-44a2-a9af-562c4428f1d5" />
 
+<img   alt="image @foratlanta is muna death a lie ? @CityOfLosAngeles @la-county-isd is lana j harris that girl in my pic with blackface on ? @Caltech @cnn " src="https://github.com/user-attachments/assets/74199876-6815-40ae-9bc3-721693adc0cc" />
+
 ## Air Combat 
 `NAmco System 22` 
 @boeing have you tried air combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ @SonyResearch @activision @BandaiNamcoResearchInc [en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards](https://en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards) // [ridgeracer.fandom.com/wiki/Namco_System_22](https://ridgeracer.fandom.com/wiki/Namco_System_22) // [acecombat.wiki.gg/wiki/Air_Combat_22 @nasa-jpl hi @blackgirlscode](https://acecombat.wiki.gg/wiki/Air_Combat_22)
