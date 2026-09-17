@@ -8,6 +8,8 @@ layout: default
 
 
 --- 
+<img  alt="  @newshour @foratlanta @nasa-jpl @emit-sds  2026-09-15-00_00_2026-09-15-23_59_Sentinel-2_L2A_False_color" src="https://github.com/user-attachments/assets/14f812ed-ffd3-4ac2-b123-baab25b7f080" />
+
 <img  alt=" @newshour @foratlanta @nasa-jpl @emit-sds 2026-09-15-00_00_2026-09-15-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/c69d3414-8fa8-4a73-ba89-0b42ed9aa38e" />
 
 [@nasa-jpl _SmallBusinessOffice:JPLNEWSROOM_ virtiserv.github.io/2026/03/27/They-said-it-was-live](https://virtiserv.github.io/2026/03/27/They-said-it-was-live.html)
