@@ -14,6 +14,23 @@ layout: default
   
 </picture>
 
+@nasa @nasa-jpl @eodis-nasa gm i was trying to click through to a full story @Deptofwar and it was sketchy and i could not clickthrough @google its the nature of it all _`NAtionalSecurity`_ @whitehouse
+[@nasa-pds click-1389932.icptrack.com/icp/relay.php?r=27768912&msgid=337531&act=N5PQ&c=1389932&pid=957363&destination=https%3A%2F%2Fwww.jpl.nasa.gov%2Fnews%2Fnasa-watches-earths-weight-finds-center-of-mass%3Futm_source%3DiContact%26utm_medium%3Demail%26utm_campaign%3D1-nasajpl%26utm_content%3Dlatest-20260916&cf=11365&v=fa747d108b8ffacb6f1300847e03e115ec607140e296058da9c5df410745d117](https://click-1389932.icptrack.com/icp/relay.php?r=27768912&msgid=337531&act=N5PQ&c=1389932&pid=957363&destination=https%3A%2F%2Fwww.jpl.nasa.gov%2Fnews%2Fnasa-watches-earths-weight-finds-center-of-mass%3Futm_source%3DiContact%26utm_medium%3Demail%26utm_campaign%3D1-nasajpl%26utm_content%3Dlatest-20260916&cf=11365&v=fa747d108b8ffacb6f1300847e03e115ec607140e296058da9c5df410745d117) /// [@google @jaxa @ESA mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#inbox/FMfcgzQhWTpspWKtbCRjbPKWKVHrFmQb](https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#inbox/FMfcgzQhWTpspWKtbCRjbPKWKVHrFmQb)
+<img alt="image" src="https://github.com/user-attachments/assets/e14899bd-2c39-460b-b307-c7944ca0500d" />
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2vmmeHTUtm2seLNMvO7YPs?utm_source=generator&si=191e0d2cef2247bf" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+
 # Atlanta @ForAtlanta
 hi @cnn , its from our ecostress imager on the iss... we installed [Storie @USSF-ORBiT](https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/) recently @bbc @newshour @cityoflosangeles @libraryofcongress 
 <img   alt="ECOv002_L2T_LSTE_46385_004_16SGC_20260910T003231_0713_02" src="https://github.com/user-attachments/assets/0132e298-f6d7-4550-86e3-7e3da9093218" />
