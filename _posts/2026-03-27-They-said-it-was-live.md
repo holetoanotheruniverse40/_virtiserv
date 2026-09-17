@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 mermaid: true
 published: true
 tags:  live news events stories
@@ -8,6 +8,15 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+# HOT 97 News Live! 9/17/26
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eDZWDE7Uf6k?si=tYYW981-fJZIkGxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e85e12b6-7ea7-4907-9571-1a8ed984b054" />
+
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr">https://t.co/a0fQYvZWlo</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://x.com/realDonaldTrump/status/2098610807877595502?ref_src=twsrc%5Etfw">September 12, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 [@la-county-isd https://www.youtube.com/live/Agf8ABK2QpU?si=G1GRQuuIWh5myngo](https://www.youtube.com/live/Agf8ABK2QpU?si=G1GRQuuIWh5myngo) [@nasa-jpl https://www.youtube.com/live/Agf8ABK2QpU?si=WwNC_KwzPy3DtWi-](https://www.youtube.com/live/Agf8ABK2QpU?si=WwNC_KwzPy3DtWi-) [@nasa @cityoflosangeles @foratlanta](https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id)
 
