@@ -9,7 +9,10 @@ layout: default
 
 --- 
 
+early run @nasa-giss @nasa-openscapes
+<img   alt="GIOVANNI-outputupsPthkP" src="https://github.com/user-attachments/assets/07497601-2123-49ac-b9f0-914779dd5048" />
 
+late run @nasa
 <img  alt="GIOVANNI-outputGiNCBoJb @nasa-jpl @doug-newman-nasa @eodis-nasa" src="https://github.com/user-attachments/assets/66899222-417a-42b2-9d94-dbb1e75369ff" />
 
 <img  alt="GIOVANNI-outputRFD2Isz2" src="https://github.com/user-attachments/assets/1a60ab50-851b-455b-ac93-9c38e405d880" />
