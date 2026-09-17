@@ -2,6 +2,11 @@
 layout: default
 ---
 
+## Air Combat 
+`NAmco System 22` 
+@boeing have you tried air combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ @SonyResearch @activision @BandaiNamcoResearchInc [en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards](https://en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards) // [ridgeracer.fandom.com/wiki/Namco_System_22](https://ridgeracer.fandom.com/wiki/Namco_System_22)
+
+<iframe src="https://archive.org/embed/arcade_airco22b" width="560" height="450" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -14,12 +19,12 @@ layout: default
   
 </picture>
 
+
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sys22_point_rom_pcb_01.jpg/1920px-Sys22_point_rom_pcb_01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sys22_point_rom_pcb_01.jpg/1920px-Sys22_point_rom_pcb_01.jpg) 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/d71895ce-d819-4b84-94c2-010096966c41" />
 
 
-@boeing have you tried air combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ @SonyResearch @activision @BandaiNamcoResearchInc
-
-<iframe src="https://archive.org/embed/arcade_airco22b" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <img alt="image" src="https://github.com/user-attachments/assets/80da19b6-9e66-486c-9d16-221b7347a818" />
 
