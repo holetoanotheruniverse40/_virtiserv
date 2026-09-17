@@ -58,7 +58,7 @@
   {% endfor %}
            
  </div> 
-          `jekyll.version`  {{ jekyll.version }}
+          `jekyll.version`  {{ jekyll.version }}   {{ page.date | date: "%m/%d/%Y : %r" }} @howard-university-web-services @deptofwar
           {{ site.title | default: site.github.repository_name }}
           {{ content }}
         </section>
