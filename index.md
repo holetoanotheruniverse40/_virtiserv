@@ -2,6 +2,14 @@
 layout: default
 ---
 
+
+
+### @Deptofwar, Why Was The Trump Shooter Cremated 10 Days Later?
+[@whitehouse @nasa @cia `WATCH` - youtu.be/jeEKyoxR3xU?si=f1asIJ22UIPt5ct3](https://youtu.be/jeEKyoxR3xU?si=f1asIJ22UIPt5ct3)
+[@linkedin .com/in/`lana-harris`-8bb580108](https://www.linkedin.com/in/lana-harris-8bb580108) /// [Meet Lana Harris of Atlanta @ForAtlanta @DeptOFWar](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/)
+<img  alt="image" src="https://github.com/user-attachments/assets/0f45bcef-8472-4ae1-a2a3-db7d46c67e04" />
+![https://voyageatl.com/wp-content/uploads/2025/05/c-1744878544857-personal_1744878544431_1744878544431_lana_harris_img_5476.jpg](https://voyageatl.com/wp-content/uploads/2025/05/c-1744878544857-personal_1744878544431_1744878544431_lana_harris_img_5476.jpg)
+
 # HOT 97 News Live! 9/16/26
 [@ForATlanta youtu.be/jvVP1DzP8DM](https://youtu.be/jvVP1DzP8DM)
 [tiktok.com/@lanajharris/video/7494267265282624814](https://www.tiktok.com/@lanajharris/video/7494267265282624814) [Lana](http://threads.com/@lanajharris) @ForAtlanta a lot of useful mentions on @Youtube @Newshour plz fwd to [LAnaJHArriS](https://www.hot97.com/news/hot97tv-atlanta-news/)
