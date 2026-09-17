@@ -8,6 +8,8 @@ layout: default
 
 
 --- 
+<img  alt="  @NEWSHOUR @NASA-JPL 2026-09-15-00_00_2026-09-15-23_59_Sentinel-2_L2A_False_color  @LACMTA @nasa-jpl @nasa-pds @blackgirlscode @disney @hulu @Sony @sonyResearch @CityOfSantaMonica @la-county-isd " src="https://github.com/user-attachments/assets/e6d36a76-0eee-40d8-b44f-f4e2d8d6aceb" />
+
 <img  alt="  @newshour @foratlanta @nasa-jpl @emit-sds  2026-09-15-00_00_2026-09-15-23_59_Sentinel-2_L2A_False_color" src="https://github.com/user-attachments/assets/14f812ed-ffd3-4ac2-b123-baab25b7f080" />
 
 <img  alt=" @newshour @foratlanta @nasa-jpl @emit-sds 2026-09-15-00_00_2026-09-15-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/c69d3414-8fa8-4a73-ba89-0b42ed9aa38e" />
