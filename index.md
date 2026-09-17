@@ -15,7 +15,7 @@ layout: default
 </picture>
 
 
-@boeing have you tried ace combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ 
+@boeing have you tried air combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ @SonyResearch @activision @BandaiNamcoResearchInc
 
 <iframe src="https://archive.org/embed/arcade_airco22b" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
