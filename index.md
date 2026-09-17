@@ -14,6 +14,8 @@ layout: default
   
 </picture>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/d71895ce-d819-4b84-94c2-010096966c41" />
+
 
 @boeing have you tried air combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ @SonyResearch @activision @BandaiNamcoResearchInc
 
@@ -53,11 +55,11 @@ hi @cnn , its from our ecostress imager on the iss... we installed [Storie @USSF
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1aALf03O95C49gY3eti3Fd?utm_source=generator&si=5ff1ea2221d8494f" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-<img  alt=" @isro @nasa-jpl @foratlanta latrice school good I was angry and made old man baseless insults @howard-university-web-services NISAR_L1_PR_RSLC_030_127_D_072_4005_DHDH_A_20260915T002756_20260915T002831_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/a7d4493f-dd17-4359-af66-8d3336f6c81d" />
+<img  alt=" @isro @nasa-jpl @foratlanta latrice school good I was angry and made old man baseless insults @howard-university-web-services NISAR_L1_PR_RSLC_030_127_D_072_4005_DHDH_A_20260915T002756_20260915T002831_P05023_N_F_J_001_NATIVE  @isro" src="https://github.com/user-attachments/assets/a7d4493f-dd17-4359-af66-8d3336f6c81d" />
 
-<img   alt="ECOv002_L2T_LSTE_46385_004_16SGC_20260910T003231_0713_02_height" src="https://github.com/user-attachments/assets/be94a298-14a6-4820-8d12-6f29932d8c84" />
-<img  alt="ECOv002_L2T_LSTE_46385_004_16SGC_20260910T003231_0713_02_LST" src="https://github.com/user-attachments/assets/ae395bdd-216b-4de2-9ed4-8f91e81d68ea" />
-<img width="1446" height="1422" alt="NISAR_L2_PR_GUNW_029_047_A_019_030_4000_SH_20260828T104652_20260828T104727_20260909T104652_20260909T104727_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/8461957d-0471-48f1-9bd0-1b245e23bc64" />
+<img   alt="  @isro ECOv002_L2T_LSTE_46385_004_16SGC_20260910T003231_0713_02_height" src="https://github.com/user-attachments/assets/be94a298-14a6-4820-8d12-6f29932d8c84" />
+<img  alt="  @isro ECOv002_L2T_LSTE_46385_004_16SGC_20260910T003231_0713_02_LST" src="https://github.com/user-attachments/assets/ae395bdd-216b-4de2-9ed4-8f91e81d68ea" />
+<img alt=" @isro NISAR_L2_PR_GUNW_029_047_A_019_030_4000_SH_20260828T104652_20260828T104727_20260909T104652_20260909T104727_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/8461957d-0471-48f1-9bd0-1b245e23bc64" />
 
 <img width="1024" height="779" alt="S1D_IW_GRDH_1SDV_20260911T233749_20260911T233814_004537_008702_59C9" src="https://github.com/user-attachments/assets/595d2c9c-6de3-4525-ae5c-614886aedfd3" />
 
