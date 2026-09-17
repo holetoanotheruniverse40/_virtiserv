@@ -14,6 +14,15 @@ layout: default
   
 </picture>
 
+
+@boeing have you tried ace combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ 
+
+<iframe src="https://archive.org/embed/arcade_airco22b" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/80da19b6-9e66-486c-9d16-221b7347a818" />
+
+![https://www.retroarch.com/images/bgbuttons.png](https://www.retroarch.com/images/bgbuttons.png) 
+
 [icesat.gsfc.nasa.gov/](https://icesat.gsfc.nasa.gov/)
 <img  alt="image" src="https://github.com/user-attachments/assets/790c3c58-f1d5-47c4-ad20-9c22042a262e" />
 
