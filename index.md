@@ -4,14 +4,19 @@ layout: default
 
 
 [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too 
-`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour
+`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM)
 
 
 --- 
 
 
+## [Diddy](https://youtu.be/Y7rH7C62LXQ)’s Legal Team Tries To Walk Away From Defamation Case
+[📺`WATCH` - @NEWSHOUR @NASA-JPL https://youtu.be/Y7rH7C62LXQ](https://youtu.be/Y7rH7C62LXQ)
+[🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM)
+<img alt="image" src="https://github.com/user-attachments/assets/e2e0545a-8b4c-4e0b-8f90-ec5a5d85b5f5" />
 
-[@LACMTA](https://locator.lacounty.gov/lac/Location/3053102/los-angeles-county-metropolitan-transportation-authority---administration) [@la-county-isd District Attorney Hochman](https://da.lacounty.gov/about/meet-the-da) to provide [`WATCH` - update in deadly Metro bus crash](https://www.youtube.com/live/HWfXeTSt5ms?si=Uwn5KoJod3ELuJWt) afternoon [Supervisor Mitchell ](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) <img  alt="image @LACMTA @nasa-jpl @nasa-pds @blackgirlscode @disney @hulu @Sony @sonyResearch @CityOfSantaMonica @la-county-isd " src="https://github.com/user-attachments/assets/b574dc16-defb-4d84-80a5-4a1ead4c5e63" />
+
+[@LACMTA](https://locator.lacounty.gov/lac/Location/3053102/los-angeles-county-metropolitan-transportation-authority---administration) [@la-county-isd District Attorney Hochman](https://da.lacounty.gov/about/meet-the-da) to provide [📺`WATCH` - update in deadly Metro bus crash](https://www.youtube.com/live/HWfXeTSt5ms?si=Uwn5KoJod3ELuJWt) afternoon [Supervisor Mitchell ](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) <img  alt="image @LACMTA @nasa-jpl @nasa-pds @blackgirlscode @disney @hulu @Sony @sonyResearch @CityOfSantaMonica @la-county-isd " src="https://github.com/user-attachments/assets/b574dc16-defb-4d84-80a5-4a1ead4c5e63" />
 
 
 
