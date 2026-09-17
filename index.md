@@ -2,7 +2,14 @@
 layout: default
 ---
 
+
+[`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9)
+
+
+--- 
+
 [@nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/)
+[@asu youtu.be/7JvwCXVFUto?si=Nh9YzFR5xjEh0Z7X send to dj radar @asulibraries](https://youtu.be/7JvwCXVFUto?si=Nh9YzFR5xjEh0Z7X) // [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [redbullmusicacademy.com/lectures/`dj-radar`-radar-of-the-lost-art](https://www.redbullmusicacademy.com/lectures/dj-radar-radar-of-the-lost-art) // [spinitron.com/KCSB/dj/177239/DJ-Radar](https://spinitron.com/KCSB/dj/177239/DJ-Radar) // [ig](https://www.instagram.com/djradar/) // 
 <img   alt="image @nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/ " src="https://github.com/user-attachments/assets/d6ee22bb-f94b-400b-b0e0-c248131df6a9" />
 <img   alt="image image @nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/ @CityOfLosAngeles @StateOfCAlifornia @ForAtlanta" src="https://github.com/user-attachments/assets/f4b56997-0986-44a2-a9af-562c4428f1d5" />
 
