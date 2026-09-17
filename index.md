@@ -10,6 +10,8 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/0f45bcef-8472-4ae1-a2a3-db7d46c67e04" />
 ![https://voyageatl.com/wp-content/uploads/2025/05/c-1744878544857-personal_1744878544431_1744878544431_lana_harris_img_5476.jpg](https://voyageatl.com/wp-content/uploads/2025/05/c-1744878544857-personal_1744878544431_1744878544431_lana_harris_img_5476.jpg)
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/05k5OoSbbD7gFEqvtVbxNw?utm_source=generator&si=182149882fba43ff" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # HOT 97 News Live! 9/16/26
 [@ForATlanta youtu.be/jvVP1DzP8DM](https://youtu.be/jvVP1DzP8DM)
 [tiktok.com/@lanajharris/video/7494267265282624814](https://www.tiktok.com/@lanajharris/video/7494267265282624814) [Lana](http://threads.com/@lanajharris) @ForAtlanta a lot of useful mentions on @Youtube @Newshour plz fwd to [LAnaJHArriS](https://www.hot97.com/news/hot97tv-atlanta-news/)
