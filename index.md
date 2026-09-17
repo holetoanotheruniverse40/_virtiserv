@@ -6,7 +6,7 @@ layout: default
 
 ### @Deptofwar, Why Was The Trump Shooter Cremated 10 Days Later?
 [@whitehouse @nasa @cia `WATCH` - youtu.be/jeEKyoxR3xU?si=f1asIJ22UIPt5ct3](https://youtu.be/jeEKyoxR3xU?si=f1asIJ22UIPt5ct3)
-[@linkedin .com/in/`lana-harris`-8bb580108](https://www.linkedin.com/in/lana-harris-8bb580108) /// [Meet Lana Harris of Atlanta @ForAtlanta @DeptOFWar](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/)
+[@linkedin .com/in/`lana-harris`-8bb580108](https://www.linkedin.com/in/lana-harris-8bb580108) /// [Meet Lana Harris of Atlanta @ForAtlanta @DeptOFWar](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/) @foxnews @newshour [GOP lawmakers blindsided by new revelations about Trump Butler shooter: 'Awfully strange'](https://www.foxnews.com/politics/gop-lawmakers-blindsided-new-revelations-about-trump-butler-shooter-awfully-strange) // [Attempted Trump assassin ordered packages using Bob Dole's name, new records show @thomsonreuters](https://www.reuters.com/world/us/attorney-general-blanche-says-fbi-has-new-information-man-who-shot-trump-2026-09-15/)
 <img  alt="image" src="https://github.com/user-attachments/assets/0f45bcef-8472-4ae1-a2a3-db7d46c67e04" />
 ![https://voyageatl.com/wp-content/uploads/2025/05/c-1744878544857-personal_1744878544431_1744878544431_lana_harris_img_5476.jpg](https://voyageatl.com/wp-content/uploads/2025/05/c-1744878544857-personal_1744878544431_1744878544431_lana_harris_img_5476.jpg)
 
