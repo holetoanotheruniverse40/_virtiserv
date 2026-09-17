@@ -4,7 +4,7 @@ layout: default
 
 
 [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too 
-`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM)
+`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1)
 
 
 --- 
