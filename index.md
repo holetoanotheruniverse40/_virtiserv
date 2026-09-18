@@ -8,6 +8,43 @@ layout: default
 
 ---
 
+
+## [@DeptOfWar Secretary Hegseth](https://www.dvidshub.net/feature/SECDEFHegseth) Administers the Oath of Enlistment: Austin, Texas
+[`WATCH` - @ForAtlanta youtube.com/live/42hr0nruVIs?si=hDPmL9eYqNB2YVCy](https://www.youtube.com/live/42hr0nruVIs?si=hDPmL9eYqNB2YVCy) [DoD Announces the Launch of “ #Code.mil,” an Experiment in Open Source @github](https://www.war.gov/News/Releases/Release/Article/1092364/dod-announces-the-launch-of-codemil-an-experiment-in-open-source/) <~ @Nasa-jpl hi robin @TheSpaceDevs i have been following this for my @Nasa / @eodis-nasa @doug-newman-nasa world and yours @nasa-pds lemme know if i need to make adjustments [@whitehouse kim bryant](https://www.linkedin.com/in/kimberlybryant) this is what im doing, letting @DeptOfWar know @nasa-jpl / @nasa-giss Helpdesk not dangerous!!! @nbcnews hi @disney the walk of fame life is evolving so the titles are changing, just letting you know im not a danger to children and can be used if needed for local fact checking 
+`​​@nasa-jpl im still activemission ok Name: RAshard Kelly @lanajharris @normani @latto AffiliationU.S. Federal GovernmentIndependent Agencies National Aeronautics and Space Administration(@NASA @usgs)` + [@dhs-gov /github-privacy-policy-and-notice @dhs-gov @nasa-pds @code.mil](https://www.dhs.gov/github-privacy-policy-and-notice)
+
+```
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 09-18-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.25 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/5019f286-5255-4657-9ea0-587b2217b04c" />
+
+ [@blackgirlscode afro.com/business/black-girls-code-technology-education-65882d5e](https://www.afro.com/business/black-girls-code-technology-education-65882d5e) // [news.ycombinator.com/item?id=26797542](https://news.ycombinator.com/item?id=26797542) // [https://dl.acm.org/doi/10.1145/3633464?__cf_chl_f_tk=LGIa.wghcIrjI9w6r46tmhzdVxVN6sZjhBBh.R.ygho-1783105325-1.0.1.1-uvyXY5EdKMlOkEBFxSIQkNeYiGu1KE58WCcvaTF7qXw](https://dl.acm.org/doi/10.1145/3633464?__cf_chl_f_tk=LGIa.wghcIrjI9w6r46tmhzdVxVN6sZjhBBh.R.ygho-1783105325-1.0.1.1-uvyXY5EdKMlOkEBFxSIQkNeYiGu1KE58WCcvaTF7qXw) // 
+ 
+ <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1427503092641579%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+ 
+![@blackgirlscode public-assets-prod.pubgen.ai/brand_c52c4b4d-5b39-4d0a-856b-9c0c02643324/asset_68050442-6dd7-58bf-98c5-00862ab44084.jpg?w=1080](https://public-assets-prod.pubgen.ai/brand_c52c4b4d-5b39-4d0a-856b-9c0c02643324/asset_68050442-6dd7-58bf-98c5-00862ab44084.jpg?w=1080) 
+
 #### EMIT L1B At-Sensor Calibrated Radiance and Geolocation Data 60 m V002 
 
 <img  alt="EMIT_L1B_RAD_002_20260917T211956 @emit-sds i was asked in the street to fwd to @mxabierto " src="https://github.com/user-attachments/assets/502dedc1-0b34-44c7-99bd-42a3928d5cbc" />
