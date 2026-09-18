@@ -6,6 +6,9 @@ layout: default
 
 [_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJkH24ERl64?si=M4KyNZsmtob1Vxsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[@BBC U.S. HOUSE SHOWDOWN LIVE: Johnson Recesses House Early to Avoid Hegseth Impeachment Vote   N18G](https://www.youtube.com/live/MTdDL-bPiro?si=jJMPH2a6TASObBiu)
+
 <img alt="image" src="https://github.com/user-attachments/assets/11b8f050-39f7-4a61-b3d4-add507e37168" />
 
 [`Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463](https://www.war.gov/News/Live-Events/#/?currentVideo=38463)
