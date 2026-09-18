@@ -8,6 +8,9 @@ layout: default
 
 ---
 
+#### EMIT L1B At-Sensor Calibrated Radiance and Geolocation Data 60 m V002 [@emit-sds i was asked in the street to fwd to @mxabierto earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002](https://www.earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002)
+<img alt="@emit-sds i was asked in the street to fwd to @mxabierto @CityOFLoSAngeles @karenbass  @la-county-isd EMIT_L1B_RAD_002_20260917T212044 @UCLA @NASA-JPL " src="https://github.com/user-attachments/assets/822d6931-42e7-4b10-8087-50d77f31a2a2" />
+
 [_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463) //////////// [coldcut.net/solidsteel/](https://coldcut.net/solidsteel/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6428fb89-539f-4763-9c26-b15bf0bf6add" />
