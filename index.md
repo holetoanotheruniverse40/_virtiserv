@@ -9,6 +9,11 @@ layout: default
 ---
 
 
+### HOT 97 News! 9/18/26
+[`WATCH` - youtu.be/YYj_DTTZzJ8?si=odd1Y53IWir6C72h](https://youtu.be/YYj_DTTZzJ8?si=odd1Y53IWir6C72h)
+<img  alt="image" src="https://github.com/user-attachments/assets/c57d7c0a-93e2-45bf-9703-ef367ea1eabd" />
+
+
 ## [@DeptOfWar Secretary Hegseth](https://www.dvidshub.net/feature/SECDEFHegseth) Administers the Oath of Enlistment: Austin, Texas
 [`WATCH` - @ForAtlanta youtube.com/live/42hr0nruVIs?si=hDPmL9eYqNB2YVCy](https://www.youtube.com/live/42hr0nruVIs?si=hDPmL9eYqNB2YVCy) [DoD Announces the Launch of “ #Code.mil,” an Experiment in Open Source @github](https://www.war.gov/News/Releases/Release/Article/1092364/dod-announces-the-launch-of-codemil-an-experiment-in-open-source/) <~ @Nasa-jpl hi robin @TheSpaceDevs i have been following this for my @Nasa / @eodis-nasa @doug-newman-nasa world and yours @nasa-pds lemme know if i need to make adjustments [@whitehouse kim bryant](https://www.linkedin.com/in/kimberlybryant) this is what im doing, letting @DeptOfWar know @nasa-jpl / @nasa-giss Helpdesk not dangerous!!! @nbcnews hi @disney the walk of fame life is evolving so the titles are changing, just letting you know im not a danger to children and can be used if needed for local fact checking 
 `​​@nasa-jpl im still activemission ok Name: RAshard Kelly @lanajharris @normani @latto AffiliationU.S. Federal GovernmentIndependent Agencies National Aeronautics and Space Administration(@NASA @usgs)` + [@dhs-gov /github-privacy-policy-and-notice @dhs-gov @nasa-pds @code.mil](https://www.dhs.gov/github-privacy-policy-and-notice)
