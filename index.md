@@ -7,7 +7,14 @@ layout: default
 `Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1) // [Eightball & MJG - Comin' Out Hard ](https://youtu.be/4szx2f0L2E0) // [🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM) // [Jehovah's witnesses - The Organization Behind the Name ](https://youtu.be/bWoldU88QPs) 
 
 
---- 
+---
+
+@Blackgirlscode @whitehouse @nasa-jpl [Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) is Giving a Speech @CityOfLosangeles something about a golden age in america @disney im making comment based on `EducationForDeath` @howard-university-web-services [House Resolution 935 Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.](https://thanedar.house.gov/resolution)
+
+<img  alt="image @Nasa @eodis-nasa @cityofnewyork @NewYorkCityCouncil @doug-newman-nasa I need you all to know I was in a relationship that got vandalized by porn and need help to get legal relief and boundaries with and from [dance411 @Blackgirlscode @disney ](https://www.dance411.com/) @LA-county-isd @cityoflosangeles @emit-sds @UCLA " src="https://github.com/user-attachments/assets/620b7490-20ab-42f3-afa4-e2a5afa98c0f" />
+
+<img alt="image @Nasa @eodis-nasa @cityofnewyork @NewYorkCityCouncil @doug-newman-nasa I need you all to know I was in a relationship that got vandalized by porn and need help to get legal relief and boundaries with and from [dance411 @Blackgirlscode @disney ](https://www.dance411.com/) @LA-county-isd @cityoflosangeles @emit-sds @UCLA " src="https://github.com/user-attachments/assets/9969f36f-ad26-4bb7-b254-e2b1fff86d67" />
+
 
 
 <img  alt="image @eodis-nasa @doug-newman-nasa I got shut down for looking for the pyramydis @CityOFLosAngeles they don't know our history .... the sex traffick man!!!! @Nasa-jpl our sex life sucks and there's ppl threatening castratin over dogwhislte type radio frequencies... I admit I'm afraid @disney @hulu idk what y'all published Abt me @deptofwar " src="https://github.com/user-attachments/assets/4e7d3434-c08c-421b-9a8b-8e69a4275d27" />
