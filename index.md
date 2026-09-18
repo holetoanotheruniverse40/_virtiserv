@@ -9,6 +9,14 @@ layout: default
 
 --- 
 
+
+<img alt=" @emit-sds @doug-newman-nasa please call my east coast [governor](https://www.keishaforgovernor.com/) [Keisha](https://x.com/KeishaBottoms?lang=en) Lance Bottoms @nasa-jpl @nasa-pds @eodis-nasa  EMIT_L1B_RAD_001_20250624T151627_2517510_021" src="https://github.com/user-attachments/assets/2828960d-3383-48b7-ae86-7eb51d04e6d2" />
+
+<img  alt=" @emit-sds @doug-newman-nasa please call my east coast [governor](https://www.keishaforgovernor.com/) [Keisha](https://x.com/KeishaBottoms?lang=en) Lance Bottoms @nasa-jpl @nasa-pds @eodis-nasa s.t.r.e.a.m. EMIT_L1B_RAD_001_20260415T183129_2610512_044" src="https://github.com/user-attachments/assets/aaaffa1f-920e-4e03-9c6b-e83d9c108f27" />
+
+<img   alt="EMIT_L2A_RFL_001_20231220T174926_2335412_007" src="https://github.com/user-attachments/assets/f337f919-ccb6-4491-aaa4-29e228ceffc5" />
+
+
 @emit-sds @doug-newman-nasa please call my east coast [governor](https://www.keishaforgovernor.com/) [Keisha](https://x.com/KeishaBottoms?lang=en) Lance Bottoms @nasa-jpl @nasa-pds @eodis-nasa s.t.r.e.a.m. `STREAM is undergoing scheduled maintenance and data reprocessing` and I cant deliver my earthdata req [@ForAtlanta https://ladsweb.modaps.eosdis.nasa.gov/stream/maintenance](https://ladsweb.modaps.eosdis.nasa.gov/stream/maintenance) till its  backonline for that data product, I'm cycling through thoughts to get to the point stream is not working @nasa @usgs
 [keishalancebottoms.com/](https://keishalancebottoms.com/)
 <img  alt="image" src="https://github.com/user-attachments/assets/90acccb5-c299-4106-840b-18350c657cfa" />
