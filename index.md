@@ -3,8 +3,12 @@ layout: default
 ---
 
 
+[Coldcut Solid Steel Mix - Politics Concerns Everything You Do (2001) @nasa-pds u know they work @nasa-jpl @asu _`mySus`_](https://youtu.be/WC6y8lf8Lak?list=RDWC6y8lf8Lak)
+![https://coldcut.net/wp-content/uploads/2016/11/solidsteelbanner.jpg](https://coldcut.net/wp-content/uploads/2016/11/solidsteelbanner.jpg) 
 
-[_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463) //////////// 
+---
+
+[_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463) //////////// [coldcut.net/solidsteel/](https://coldcut.net/solidsteel/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6428fb89-539f-4763-9c26-b15bf0bf6add" />
 
