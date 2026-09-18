@@ -4,7 +4,10 @@ layout: default
 
 
 
-[_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463) //////////// [LEMON DROP - Thomas Massie Has Some Words For Pete Hegseth @nasa-jpl i think Dom Lemon meddling in my sex life @ForAtlanta @CityOfLosAngeles _KarenBASS_](https://youtu.be/hTodRUZ8iTw?si=ONwSKxPTRZhHbmee) @CityOFSantaMonica 
+[_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463) //////////// 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6428fb89-539f-4763-9c26-b15bf0bf6add" />
+[LEMON DROP - Thomas Massie Has Some Words For @DeptOfWar Pete Hegseth @nasa-jpl i think Dom Lemon meddling in my sex life @ForAtlanta @CityOfLosAngeles _KarenBASS_](https://youtu.be/hTodRUZ8iTw?si=ONwSKxPTRZhHbmee) @CityOFSantaMonica 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJkH24ERl64?si=M4KyNZsmtob1Vxsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
