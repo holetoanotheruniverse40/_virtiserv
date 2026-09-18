@@ -53,7 +53,7 @@ NASA Official: Doug Newman
 
  [@blackgirlscode afro.com/business/black-girls-code-technology-education-65882d5e](https://www.afro.com/business/black-girls-code-technology-education-65882d5e) // [news.ycombinator.com/item?id=26797542](https://news.ycombinator.com/item?id=26797542) // [https://dl.acm.org/doi/10.1145/3633464?__cf_chl_f_tk=LGIa.wghcIrjI9w6r46tmhzdVxVN6sZjhBBh.R.ygho-1783105325-1.0.1.1-uvyXY5EdKMlOkEBFxSIQkNeYiGu1KE58WCcvaTF7qXw](https://dl.acm.org/doi/10.1145/3633464?__cf_chl_f_tk=LGIa.wghcIrjI9w6r46tmhzdVxVN6sZjhBBh.R.ygho-1783105325-1.0.1.1-uvyXY5EdKMlOkEBFxSIQkNeYiGu1KE58WCcvaTF7qXw) // 
  
- <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1427503092641579%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+ <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1427503092641579%2F&show_text=false&width=267&t=0" width="467" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
  
 ![@blackgirlscode public-assets-prod.pubgen.ai/brand_c52c4b4d-5b39-4d0a-856b-9c0c02643324/asset_68050442-6dd7-58bf-98c5-00862ab44084.jpg?w=1080](https://public-assets-prod.pubgen.ai/brand_c52c4b4d-5b39-4d0a-856b-9c0c02643324/asset_68050442-6dd7-58bf-98c5-00862ab44084.jpg?w=1080) 
 
