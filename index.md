@@ -8,7 +8,8 @@ layout: default
 
 
 ---
-
+[`Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463](https://www.war.gov/News/Live-Events/#/?currentVideo=38463)
+_Secretary of War Pete Hegseth speaks to employees at Saronic Technologies during an Arsenal of Freedom tour stop in Austin, Texas, Sept. 18, 2026._ @nasa-pds @ussf-orbit @dhs-gov @fbicyber
 @Blackgirlscode @whitehouse @nasa-jpl [Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) is Giving a Speech @CityOfLosangeles something about a golden age in america @disney im making comment based on `EducationForDeath` @howard-university-web-services [House Resolution 935 Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.](https://thanedar.house.gov/resolution)
 
 <img  alt="image @Nasa @eodis-nasa @cityofnewyork @NewYorkCityCouncil @doug-newman-nasa I need you all to know I was in a relationship that got vandalized by porn and need help to get legal relief and boundaries with and from [dance411 @Blackgirlscode @disney ](https://www.dance411.com/) @LA-county-isd @cityoflosangeles @emit-sds @UCLA " src="https://github.com/user-attachments/assets/620b7490-20ab-42f3-afa4-e2a5afa98c0f" />
