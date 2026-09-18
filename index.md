@@ -3,11 +3,47 @@ layout: default
 ---
 
 
+[Coldcut Solid Steel Mix - Politics Concerns Everything You Do (2001) @nasa-pds u know they work @nasa-jpl @asu _`mySus`_](https://youtu.be/WC6y8lf8Lak?list=RDWC6y8lf8Lak)
+![https://coldcut.net/wp-content/uploads/2016/11/solidsteelbanner.jpg](https://coldcut.net/wp-content/uploads/2016/11/solidsteelbanner.jpg) 
+
+---
+
+#### EMIT L1B At-Sensor Calibrated Radiance and Geolocation Data 60 m V002 
+
+<img  alt="EMIT_L1B_RAD_002_20260917T211956 @emit-sds i was asked in the street to fwd to @mxabierto " src="https://github.com/user-attachments/assets/502dedc1-0b34-44c7-99bd-42a3928d5cbc" />
+
+[@emit-sds i was asked in the street to fwd to @mxabierto earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002](https://www.earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002) @doug-newman-nasa  [search.earthdata.nasa.gov/search/granules/collection-details](https://search.earthdata.nasa.gov/search/granules/collection-details?p=C4079829720-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4315870910-LPCLOUD&q=C4079829720-LPCLOUD&lat=19.26875208890815&long=-99.90914574855766&zoom=7.553596504786163) 
+
+<img alt="image @emit-sds i was asked in the street to fwd to @mxabierto @CityOFLoSAngeles @karenbass  @la-county-isd EMIT_L1B_RAD_002_20260917T212044 @UCLA @NASA-JPL " src="https://github.com/user-attachments/assets/9e2c74d5-f6fd-45bb-b339-ed1d434be52e" />
+
+<img alt="@emit-sds i was asked in the street to fwd to @mxabierto @CityOFLoSAngeles @karenbass  @la-county-isd EMIT_L1B_RAD_002_20260917T212044 @UCLA @NASA-JPL " src="https://github.com/user-attachments/assets/822d6931-42e7-4b10-8087-50d77f31a2a2" />
+
+[_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463) //////////// [coldcut.net/solidsteel/](https://coldcut.net/solidsteel/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6428fb89-539f-4763-9c26-b15bf0bf6add" />
+
+[LEMON DROP - Thomas Massie Has Some Words For @DeptOfWar Pete Hegseth @nasa-jpl i think Dom Lemon meddling in my sex life @ForAtlanta @CityOfLosAngeles _KarenBASS_](https://youtu.be/hTodRUZ8iTw?si=ONwSKxPTRZhHbmee) @CityOFSantaMonica 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJkH24ERl64?si=M4KyNZsmtob1Vxsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[@BBC U.S. HOUSE SHOWDOWN LIVE: Johnson Recesses House Early to Avoid Hegseth Impeachment Vote   N18G](https://www.youtube.com/live/MTdDL-bPiro?si=jJMPH2a6TASObBiu)
+
+<img alt="image" src="https://github.com/user-attachments/assets/11b8f050-39f7-4a61-b3d4-add507e37168" />
+
+[`Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463](https://www.war.gov/News/Live-Events/#/?currentVideo=38463)
+_Secretary of War Pete Hegseth speaks to employees at Saronic Technologies during an Arsenal of Freedom tour stop in Austin, Texas, Sept. 18, 2026._ @nasa-pds @ussf-orbit @dhs-gov @fbicyber
+@Blackgirlscode @whitehouse @nasa-jpl [Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) is Giving a Speech @CityOfLosangeles something about a golden age in america @disney im making comment based on `EducationForDeath` @howard-university-web-services [House Resolution 935 Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.](https://thanedar.house.gov/resolution)
+
+<img  alt="image @Nasa @eodis-nasa @cityofnewyork @NewYorkCityCouncil @doug-newman-nasa I need you all to know I was in a relationship that got vandalized by porn and need help to get legal relief and boundaries with and from [dance411 @Blackgirlscode @disney ](https://www.dance411.com/) @LA-county-isd @cityoflosangeles @emit-sds @UCLA " src="https://github.com/user-attachments/assets/620b7490-20ab-42f3-afa4-e2a5afa98c0f" />
+
 [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too 
 `Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1) // [Eightball & MJG - Comin' Out Hard ](https://youtu.be/4szx2f0L2E0) // [🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM) // [Jehovah's witnesses - The Organization Behind the Name ](https://youtu.be/bWoldU88QPs) 
 
 
---- 
+---
+
+<img alt="image @Nasa @eodis-nasa @cityofnewyork @NewYorkCityCouncil @doug-newman-nasa I need you all to know I was in a relationship that got vandalized by porn and need help to get legal relief and boundaries with and from [dance411 @Blackgirlscode @disney ](https://www.dance411.com/) @LA-county-isd @cityoflosangeles @emit-sds @UCLA " src="https://github.com/user-attachments/assets/9969f36f-ad26-4bb7-b254-e2b1fff86d67" />
+
 
 
 <img  alt="image @eodis-nasa @doug-newman-nasa I got shut down for looking for the pyramydis @CityOFLosAngeles they don't know our history .... the sex traffick man!!!! @Nasa-jpl our sex life sucks and there's ppl threatening castratin over dogwhislte type radio frequencies... I admit I'm afraid @disney @hulu idk what y'all published Abt me @deptofwar " src="https://github.com/user-attachments/assets/4e7d3434-c08c-421b-9a8b-8e69a4275d27" />
