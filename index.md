@@ -10,6 +10,10 @@ layout: default
 --- 
 
 
+@nasa-jpl OMPS-NPP L2 NM Aerosol Index swath orbital 
+rashard Iman Kelly [ra5hard.github.io](ra5hard.github.io)
+<img   alt="image" src="https://github.com/user-attachments/assets/d808c89f-467c-4f47-b17b-8d5b70b4f453" />
+
 <img alt=" @emit-sds @doug-newman-nasa please call my east coast [governor](https://www.keishaforgovernor.com/) [Keisha](https://x.com/KeishaBottoms?lang=en) Lance Bottoms @nasa-jpl @nasa-pds @eodis-nasa  EMIT_L1B_RAD_001_20250624T151627_2517510_021" src="https://github.com/user-attachments/assets/2828960d-3383-48b7-ae86-7eb51d04e6d2" />
 
 <img  alt=" @emit-sds @doug-newman-nasa please call my east coast [governor](https://www.keishaforgovernor.com/) [Keisha](https://x.com/KeishaBottoms?lang=en) Lance Bottoms @nasa-jpl @nasa-pds @eodis-nasa s.t.r.e.a.m. EMIT_L1B_RAD_001_20260415T183129_2610512_044" src="https://github.com/user-attachments/assets/aaaffa1f-920e-4e03-9c6b-e83d9c108f27" />
