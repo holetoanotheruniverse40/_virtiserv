@@ -8,7 +8,12 @@ layout: default
 
 ---
 
-#### EMIT L1B At-Sensor Calibrated Radiance and Geolocation Data 60 m V002 [@emit-sds i was asked in the street to fwd to @mxabierto earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002](https://www.earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002)
+#### EMIT L1B At-Sensor Calibrated Radiance and Geolocation Data 60 m V002 
+
+[@emit-sds i was asked in the street to fwd to @mxabierto earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002](https://www.earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002) @doug-newman-nasa  [search.earthdata.nasa.gov/search/granules/collection-details](https://search.earthdata.nasa.gov/search/granules/collection-details?p=C4079829720-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4315870910-LPCLOUD&q=C4079829720-LPCLOUD&lat=19.26875208890815&long=-99.90914574855766&zoom=7.553596504786163) 
+
+<img alt="image @emit-sds i was asked in the street to fwd to @mxabierto @CityOFLoSAngeles @karenbass  @la-county-isd EMIT_L1B_RAD_002_20260917T212044 @UCLA @NASA-JPL " src="https://github.com/user-attachments/assets/9e2c74d5-f6fd-45bb-b339-ed1d434be52e" />
+
 <img alt="@emit-sds i was asked in the street to fwd to @mxabierto @CityOFLoSAngeles @karenbass  @la-county-isd EMIT_L1B_RAD_002_20260917T212044 @UCLA @NASA-JPL " src="https://github.com/user-attachments/assets/822d6931-42e7-4b10-8087-50d77f31a2a2" />
 
 [_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463) //////////// [coldcut.net/solidsteel/](https://coldcut.net/solidsteel/)
