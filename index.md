@@ -9,7 +9,10 @@ layout: default
 
 --- 
 
-@emit-sds please call my east coast governor Keisha Lance Bottoms _EMIT_L2A_RFL_001_20260415T183129_2610512_044_ [@deptofwar @dhs-gov](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL2ARFL.001/EMIT_L2A_RFL_001_20260415T183129_2610512_044/EMIT_L2A_RFL_001_20260415T183129_2610512_044.png?A-userid=None&Expires=1789702093&Signature=pUYreQEnws3G5pbnHkfjmPITm9p6El7ZWRxZCQApiDojbuZD92zjGIPI4AqhnWtykNdaFC~OGHdBPmdEs1TZ1UtkUcuJOhn0kkhdb6BwVK9lH1fLY4SgSqsWTdUhthJ8Okp-ido7QuLeGZ~v-PAU3LZe8189FbL5xrIy8-ozhxu~YCkNSimtAHNaKuoNS7tY~KSCHh6HAT4ZUOrWT~BbQBGEXnAKNh90iOl0jUXrBVJMzCAeMguuTWr6n1Kvy9XTyLUuYsM1sKuuVg0o6Mgwq3apQIGiMAqHqc6cxeWNL16Ezy68WTi6eiDHxUBbCIxPzoaHhxbDnFLGsqnnRw1dPg__&Key-Pair-Id=K1JHXLBU4LECA2)
+@emit-sds please call my east coast [governor](https://www.keishaforgovernor.com/) [Keisha](https://x.com/KeishaBottoms?lang=en) Lance Bottoms 
+[keishalancebottoms.com/](https://keishalancebottoms.com/)
+<img alt="image" src="https://github.com/user-attachments/assets/f72be134-a435-4aeb-b472-ef39f54a8d0e" />
+_EMIT_L2A_RFL_001_20260415T183129_2610512_044_ [@deptofwar @dhs-gov](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL2ARFL.001/EMIT_L2A_RFL_001_20260415T183129_2610512_044/EMIT_L2A_RFL_001_20260415T183129_2610512_044.png?A-userid=None&Expires=1789702093&Signature=pUYreQEnws3G5pbnHkfjmPITm9p6El7ZWRxZCQApiDojbuZD92zjGIPI4AqhnWtykNdaFC~OGHdBPmdEs1TZ1UtkUcuJOhn0kkhdb6BwVK9lH1fLY4SgSqsWTdUhthJ8Okp-ido7QuLeGZ~v-PAU3LZe8189FbL5xrIy8-ozhxu~YCkNSimtAHNaKuoNS7tY~KSCHh6HAT4ZUOrWT~BbQBGEXnAKNh90iOl0jUXrBVJMzCAeMguuTWr6n1Kvy9XTyLUuYsM1sKuuVg0o6Mgwq3apQIGiMAqHqc6cxeWNL16Ezy68WTi6eiDHxUBbCIxPzoaHhxbDnFLGsqnnRw1dPg__&Key-Pair-Id=K1JHXLBU4LECA2)
 <img   alt=" @foratlanta . . holly Mitchell @LACMTA @La-county-isd KAren Bass I'm just troubleshooting @SonyResearch EMIT_L2A_RFL_001_20260415T183129_2610512_044" src="https://github.com/user-attachments/assets/c12fd7f9-201f-47c0-9614-1162068e3328" />
 
 <img  alt="648216180-38becbc4-9774-40f7-9f7f-753e732f8cae @newshour did I get in trouble for this one ? @foratlanta . . holly Mitchell @LACMTA @La-county-isd KAren Bass I'm just troubleshooting @SonyResearch " src="https://github.com/user-attachments/assets/b092c101-a80e-4bc9-a019-26deafc14da1" />
