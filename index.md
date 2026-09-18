@@ -3,16 +3,21 @@ layout: default
 ---
 
 
-[`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too 
-`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1) // [Eightball & MJG - Comin' Out Hard ](https://youtu.be/4szx2f0L2E0) // [🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM) // [Jehovah's witnesses - The Organization Behind the Name ](https://youtu.be/bWoldU88QPs) 
 
+[_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJkH24ERl64?si=M4KyNZsmtob1Vxsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img alt="image" src="https://github.com/user-attachments/assets/11b8f050-39f7-4a61-b3d4-add507e37168" />
 
----
 [`Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463](https://www.war.gov/News/Live-Events/#/?currentVideo=38463)
 _Secretary of War Pete Hegseth speaks to employees at Saronic Technologies during an Arsenal of Freedom tour stop in Austin, Texas, Sept. 18, 2026._ @nasa-pds @ussf-orbit @dhs-gov @fbicyber
 @Blackgirlscode @whitehouse @nasa-jpl [Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) is Giving a Speech @CityOfLosangeles something about a golden age in america @disney im making comment based on `EducationForDeath` @howard-university-web-services [House Resolution 935 Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.](https://thanedar.house.gov/resolution)
 
 <img  alt="image @Nasa @eodis-nasa @cityofnewyork @NewYorkCityCouncil @doug-newman-nasa I need you all to know I was in a relationship that got vandalized by porn and need help to get legal relief and boundaries with and from [dance411 @Blackgirlscode @disney ](https://www.dance411.com/) @LA-county-isd @cityoflosangeles @emit-sds @UCLA " src="https://github.com/user-attachments/assets/620b7490-20ab-42f3-afa4-e2a5afa98c0f" />
+[`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too 
+`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1) // [Eightball & MJG - Comin' Out Hard ](https://youtu.be/4szx2f0L2E0) // [🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM) // [Jehovah's witnesses - The Organization Behind the Name ](https://youtu.be/bWoldU88QPs) 
+
+
+---
 
 <img alt="image @Nasa @eodis-nasa @cityofnewyork @NewYorkCityCouncil @doug-newman-nasa I need you all to know I was in a relationship that got vandalized by porn and need help to get legal relief and boundaries with and from [dance411 @Blackgirlscode @disney ](https://www.dance411.com/) @LA-county-isd @cityoflosangeles @emit-sds @UCLA " src="https://github.com/user-attachments/assets/9969f36f-ad26-4bb7-b254-e2b1fff86d67" />
 
