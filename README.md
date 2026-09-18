@@ -1,3 +1,4 @@
+<img width="1242" height="1280" alt="EMIT_L2A_RFL_001_20260426T065701_2611604_004" src="https://github.com/user-attachments/assets/8fcdf3b9-2c1b-459b-9064-9c4f0940d424" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/bbbc8644-a70b-4bc3-bc43-775218813fb1" />
 Name: Rashard I Kelly
