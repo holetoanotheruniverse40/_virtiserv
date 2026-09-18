@@ -9,6 +9,8 @@ layout: default
 
 --- 
 
+@foratlanta @ucla @nasa-jpl
+<img alt="@newshour @nbcnews @cbs-news-data @foratlanta @ucla @nasa-jpl ECOv002_L1CT_RAD_46466_005_16SGC_20260915T062030_0713_01" src="https://github.com/user-attachments/assets/d0341496-790e-4e49-9aa0-61c594fede60" />
 
 @nasa-jpl OMPS-NPP L2 NM Aerosol Index swath orbital 
 rashard Iman Kelly [ra5hard.github.io](ra5hard.github.io)
