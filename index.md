@@ -4,12 +4,34 @@ layout: default
 
 
 [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too 
-`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1) // [Eightball & MJG - Comin' Out Hard ](https://youtu.be/4szx2f0L2E0) // [🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM)
+`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1) // [Eightball & MJG - Comin' Out Hard ](https://youtu.be/4szx2f0L2E0) // [🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM) // [Jehovah's witnesses - The Organization Behind the Name ](https://youtu.be/bWoldU88QPs) 
 
 
 --- 
 
-@foratlanta @ucla @nasa-jpl
+{{ page.date | date: "%m/%d/%Y : %r" }} 
+  @howard-university-web-services @deptofwar
+  
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+@cityofnewyork @NewYorkCityCouncil hi my name is  rashard, I have a history with [Jehovah's witnesses](https://youtu.be/bWoldU88QPs) and [tats cru](https://www.tatscru.biz/lander?oref=https%3A%2F%2Fwww.google.com%2F) . . . I had Graffiti lives under _`TUCK`_ a name I got from [`FA` / Trancend Cru - freeagentscrew.com](https://freeagentscrew.com/) and _LOVER_ which I chose to communicate  with a girl in entertainment which  is resolving now! and after my relationship with  Jehovah's witnesses changed because of their  affiliation with [The  United NAtions](https://www.un.org/en/civil-society/watchtowerletter) . . . my family and all  vanished after I took a job with @nasa-jpl so I really don't know  how  criminal they  are, but I need you to receive my links and alerts to keep America safe, the ones from  @Nasa @eodis-nasa aare concerned! Lets start with this fire incident observation tool [LANCE-FirMS @Nasa-Giss @nasa-jpl - firms.modaps.eosdis.nasa.gov](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-100.0,40.0,4.0z) .... plz fwd the link to [Mayor Adams - nyc.gov/mayors-office/contact-the-mayor](https://www.nyc.gov/mayors-office/contact-the-mayor) , and I will remember to keep you in my nation wide reports whirch are global sometimes, I also have a loose relationship with [HOT97](https://www.instagram.com/p/DSfijC7CTi2/) from a girl I was courting in Atlanta [Lana J HArris](https://www.linkedin.com/in/lana-harris-8bb580108) ,I know she ditches me bc she works a lot of places that  are in conflict  with our mission @Whitehouse @deptofwar @NASA-JPL so its a loose end I need tied up bc I made a baby  with another girl and I have to make sure my child is safe, you know  what kind of dirt pass through HOTNiNESEVEN so I don't feel safe sexually with  her and don't want my quality of life to degrade any further...here are some images @doug-newman-nasa is in DC and is my NASA official for earth operations here are some samples
+
+<img alt="ECOv002_L2T_LSTE_46404_008_18TWL_20260911T061720_0713_01_LST" src="https://github.com/user-attachments/assets/27655e66-8146-4988-b388-37506e8c0b4c" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/aae9897d-68e8-4e42-82a8-9117b689c639" />
+
+
+
+@CityOFLosnageles @La-County-isd @TESLAMOTORS [@ForAtlanta ra5hard.github.io/art/graffiti/coral/2026/02/15/`GraffShit` @UN-ICC @undp](https://ra5hard.github.io/art/graffiti/coral/2026/02/15/GraffShit.html)
+@foratlanta @ucla @nasa-jpl [Jehovah's Witnesses: The Organization Behind the Name imdb.com/title/tt0162414/](https://www.imdb.com/title/tt0162414/) // [Jehovah's witnesses](https://youtu.be/bWoldU88QPs) 
 <img alt="@newshour @nbcnews @cbs-news-data @foratlanta @ucla @nasa-jpl ECOv002_L1CT_RAD_46466_005_16SGC_20260915T062030_0713_01" src="https://github.com/user-attachments/assets/d0341496-790e-4e49-9aa0-61c594fede60" />
 
 @nasa-jpl OMPS-NPP L2 NM Aerosol Index swath orbital 
@@ -103,7 +125,8 @@ late run @nasa
 
 <iframe src="https://archive.org/embed/arcade_airco22b" width="560" height="450" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-  {{ page.date | date: "%m/%d/%Y : %r" }} @howard-university-web-services @deptofwar
+  {{ page.date | date: "%m/%d/%Y : %r" }} 
+  @howard-university-web-services @deptofwar
   
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
