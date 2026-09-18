@@ -9,7 +9,9 @@ layout: default
 
 --- 
 
-@newshour did I get in trouble for this one ? @foratlanta . . holly Mitchell @LACMTA @La-county-isd KAren Bass I'm just troubleshooting @SonyResearch [@nasa-pds](https://github.com/user-attachments/assets/38aa1706-abe0-426d-afa5-be7a35e3fc5b)
+<img  alt="648216180-38becbc4-9774-40f7-9f7f-753e732f8cae @newshour did I get in trouble for this one ? @foratlanta . . holly Mitchell @LACMTA @La-county-isd KAren Bass I'm just troubleshooting @SonyResearch " src="https://github.com/user-attachments/assets/b092c101-a80e-4bc9-a019-26deafc14da1" />
+
+@newshour did I get in trouble for this one ? @foratlanta . . holly Mitchell @LACMTA @La-county-isd KAren Bass I'm just troubleshooting @SonyResearch [@nasa-pds](https://github.com/user-attachments/assets/38aa1706-abe0-426d-afa5-be7a35e3fc5b) . . . @CityOfLosAngeles its the anch IDK if I was discriminated against for learning religion with the girls at dance411 and Erika was a little  preistest as well @blackgirlscode  @usgs hi @howard-university-web-services
 <img   alt="image" src="https://github.com/user-attachments/assets/38aa1706-abe0-426d-afa5-be7a35e3fc5b" />
 
 <img  alt="  @NEWSHOUR @NASA-JPL 2026-09-15-00_00_2026-09-15-23_59_Sentinel-2_L2A_False_color  @LACMTA @nasa-jpl @nasa-pds @blackgirlscode @disney @hulu @Sony @sonyResearch @CityOfSantaMonica @la-county-isd " src="https://github.com/user-attachments/assets/e6d36a76-0eee-40d8-b44f-f4e2d8d6aceb" />
