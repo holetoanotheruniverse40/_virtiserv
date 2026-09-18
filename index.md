@@ -4,7 +4,8 @@ layout: default
 
 
 
-[_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463)
+[_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463) //////////// [LEMON DROP - Thomas Massie Has Some Words For Pete Hegseth @nasa-jpl i think Dom Lemon meddling in my sex life @ForAtlanta @CityOfLosAngeles _KarenBASS_](https://youtu.be/hTodRUZ8iTw?si=ONwSKxPTRZhHbmee) @CityOFSantaMonica 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJkH24ERl64?si=M4KyNZsmtob1Vxsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [@BBC U.S. HOUSE SHOWDOWN LIVE: Johnson Recesses House Early to Avoid Hegseth Impeachment Vote   N18G](https://www.youtube.com/live/MTdDL-bPiro?si=jJMPH2a6TASObBiu)
