@@ -2,6 +2,21 @@
 layout: default
 ---
 
+
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+
+## [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign
+![https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414](https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414) 
+[@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0cb5b9b9-e198-415d-bf36-cc75dfe79c74" />
+
+<img   alt="image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit " src="https://github.com/user-attachments/assets/a446d164-f441-4f7a-99a0-048b1bc89a0e" />
+<img   alt=" image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit @Deptofwar @whitehouse image" src="https://github.com/user-attachments/assets/ded17081-5689-416b-ab0e-b34c4a54a406" />
+
+![@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbi @USNAVY @code.mil cityofinglewood.org/ImageRepository/Document?documentId=20639 @Deptofwar @whitehouse](https://www.cityofinglewood.org/ImageRepository/Document?documentId=20639)
+
 ![https://www.congress.gov/img/svg/congress-gov-logo.svg @doug-newman-nasa @nasa-openscapes @nasa-giss ](https://www.congress.gov/img/svg/congress-gov-logo.svg)
 
 @doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
