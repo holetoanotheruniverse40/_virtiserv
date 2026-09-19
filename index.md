@@ -3,19 +3,20 @@ layout: default
 ---
 
 
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+// [Use Your Heart · SWV](https://youtu.be/bOckbm7TCu4) // [702 - Steelo](https://youtu.be/5ojOERy-mf8?si=hLBG2CCxla6_Jppw) // [Other Side Of The Game performed by Erykah Badu](https://youtu.be/3qpyDUfMq-8) // [Erykah Badu - Next lifetime](https://youtu.be/RxITI3A2KWA) // [Adina Howard - Freak Like Me](https://youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt) // [Soul II Soul - Back To Life `BellyRMX`](https://youtu.be/tlGv94pzRoU) // [Solange - Cranes in the Sky](https://youtu.be/S0qrinhNnOM) // [Nija - Love Like This](https://youtu.be/zekfQq8AI4A) // [H.E.R. - Damage](https://youtu.be/PAFAfhod9TU) // [Alicia Keys - Troubles](https://youtu.be/L8_jt_yQa4Y?si=lLOoU9l-4bfqQHYz) // [Lost Boys - Lifestyles Of The Rich And Shameless](https://youtu.be/USEn5IlZK44?si=I1ehBcwJ8djv_Sg4)
 
-## [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign
-![https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414](https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414) 
-[@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6)
 
-<img  alt="image" src="https://github.com/user-attachments/assets/0cb5b9b9-e198-415d-bf36-cc75dfe79c74" />
 
-<img   alt="image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit " src="https://github.com/user-attachments/assets/a446d164-f441-4f7a-99a0-048b1bc89a0e" />
-<img   alt=" image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit @Deptofwar @whitehouse image" src="https://github.com/user-attachments/assets/ded17081-5689-416b-ab0e-b34c4a54a406" />
+--- 
 
-![@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbi @USNAVY @code.mil cityofinglewood.org/ImageRepository/Document?documentId=20639 @Deptofwar @whitehouse](https://www.cityofinglewood.org/ImageRepository/Document?documentId=20639)
+[Film Noir](https://www.filmnoirfoundation.org/)
+Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, femme fatales, mean city streets and deserted backroads, bags of loot and dirty double-crossers...[WatchMore](https://archive.org/details/Film_Noir)
+* [60 Free Film Noir Movies](https://www.openculture.com/free_film_noir_movies)
+* [What Exactly Is Film Noir?](https://www.nfi.edu/film-noir/)
+* [Roger Ebert A Guide to Film Noir Genre](https://www.rogerebert.com/roger-ebert/a-guide-to-film-noir-genre)
+* [Top 50 Film-Noir Movies and TV Shows##ACCORDiNG_TO_iMDB##METRiCS](https://www.imdb.com/search/title/?&genres=film_noir&explore=title_type,genres)
+* [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck) 
+
 
 ![https://www.congress.gov/img/svg/congress-gov-logo.svg @doug-newman-nasa @nasa-openscapes @nasa-giss ](https://www.congress.gov/img/svg/congress-gov-logo.svg)
 
