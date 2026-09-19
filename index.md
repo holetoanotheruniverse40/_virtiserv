@@ -26,7 +26,7 @@ Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, fe
 
 [@CityofLosAngeles - `WATCH` - youtu.be/ @nasa-jpl ](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6) @datadesk @USATODAY @NEWSHOUR @latimes 
 [Inglewood mayor who allegedly groped teen cheerleader’s history of risqué allegations - @StateOfCAlifornia _POST_ ](https://nypost.com/2026/09/18/us-news/disturbing-history-of-inglewood-mayor-who-allegedly-groped-teen-cheerleader-including-allegations-from-his-own-daughter/) /// [Inglewood Activists Demand Mayor James Butts Resign Over Student Allegation - eurweb.com](https://eurweb.com/james-t-butts-jr-allegation/)
-[@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6)
+[@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6) /// [WATCH Mayor Bass answers questions at homelessness forum hosted by KTLA, 'Hope the Mission'](https://youtu.be/stKF4ha_JlQ?si=lMk8usNiEx_XbH04) // [@nasa-jpl @nasa @Cityoflosangeles KAREN BASS ](https://www.congress.gov/member/karen-bass/B001270) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0cb5b9b9-e198-415d-bf36-cc75dfe79c74" />
 
