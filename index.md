@@ -3,6 +3,24 @@ layout: default
 ---
 
 
+<img src="https://ra5hard.github.io/assets/img/luckyGirl.png" alt="@nasa-jpl GM it's [rashard](https://ra5hard.github.io/), I have to say that because whatever the conglomerate of Latrice is I don't know if its monitord or censored . . .@CityOfLosAngeles I'm listening to @blackgirlscode [SZA](https://www.discogs.com/artist/3272791-SZA-2?superFilter=Releases&subFilter=Albums) bc I just need to know ... I'm scared now I hope no one attacks me @deptofwar porn destroyed @Stateofcalifornia its a shell of a good plan @ESA be patient with us @jaxa Central library got crome on super nice pics, its such a waste .... Lemme see how this sesh goes @la-county-isd ...  @howard-university-web-service GM latrice whatever you are" />
+
+@nasa-jpl GM it's [rashard](https://ra5hard.github.io/), I have to say that because whatever the conglomerate of Latrice is I don't know if its monitord or censored . . .@CityOfLosAngeles I'm listening to @blackgirlscode [SZA](https://www.discogs.com/artist/3272791-SZA-2?superFilter=Releases&subFilter=Albums) bc I just need to know ... I'm scared now I hope no one attacks me @deptofwar porn destroyed @Stateofcalifornia its a shell of a good plan @ESA be patient with us @jaxa Central library got crome on super nice pics, its such a waste .... Lemme see how this sesh goes @la-county-isd ...  [@howard-university-web-service GM latrice](https://eyes.nasa.gov/apps/dsn-now/dsn.html) whatever you are  
+
+@nasa-pds just remember I did it for coral . . . 
+
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A40845890&color=%232572ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/x_steeloo" title="NostalgicRunaway" target="_blank" style="color: #cccccc; text-decoration: none;">NostalgicRunaway</a> · <a href="https://soundcloud.com/x_steeloo/sets/sza-z-full-album" title="SZA - Z (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">SZA - Z (Full Album)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1413792211&color=%232572ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu</a> · <a href="https://soundcloud.com/waystoloveu/sza-sos-full-album" title="SZA - Sos Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">SZA - Sos Full Album</a></div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1390084471&color=%232572ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu</a> · <a href="https://soundcloud.com/waystoloveu/sza-ctrl-full-album" title="Sza - Ctrl Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">Sza - Ctrl Full Album</a></div>
+
+
+
 [Coldcut Solid Steel Mix - Politics Concerns Everything You Do (2001) @nasa-pds u know they work @nasa-jpl @asu _`mySus`_](https://youtu.be/WC6y8lf8Lak?list=RDWC6y8lf8Lak)
 ![https://coldcut.net/wp-content/uploads/2016/11/solidsteelbanner.jpg](https://coldcut.net/wp-content/uploads/2016/11/solidsteelbanner.jpg) 
 
