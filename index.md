@@ -6,6 +6,20 @@ layout: default
 
 ---
 
+
+
+
+
+
+## @google `search_query=lana+j+harris`
+### Iran War Base Damage, Rogue AI Bill & Don Jr Wedding Gift 
+The Lana Rundown [US-Iran war: US CENTCOM provides latest update @ajinteractive @deptofwar](https://www.livenowfox.com/video/fmc-7zaos1ovfqahftwp) // [Iran war updates: US says Saudi pipeline to resume as Yemen fighting rages](https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines)
+[`watch` - https://youtu.be/e3VkKUq7QeI](https://youtu.be/e3VkKUq7QeI)
+<img   alt="image" src="https://github.com/user-attachments/assets/72238a21-5c71-431c-b20d-2e04ce2a5d40" />
+
+[youtube.com/results?search_query=lana+j+harris](https://www.youtube.com/results?search_query=lana+j+harris) // [Lana Harris Entertainment Reel 2024](https://www.youtube.com/watch?v=EtBennWOJn4)
+<img   alt="image" src="https://github.com/user-attachments/assets/8a5c4c96-5507-409e-a722-494864928880" />
+
 [If Your Girl Listens To RUBI ROSE, You're COOKED! Here's Why...](https://youtu.be/3rDWxCy-8co) @naSA-JPL is rubi rose music y harvey cant get me healthily rebadged ? @disney [@codepen .io/virtiserv/pen/myRGwLL](https://codepen.io/virtiserv/pen/myRGwLL)
 <img alt="image" src="https://github.com/user-attachments/assets/fd39848b-db31-4b9b-9a71-3bcfe448af13" />
 <img   alt="image" src="https://github.com/user-attachments/assets/1bdc9dd5-4054-4d05-89d0-60f43df4adcf" />
