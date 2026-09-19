@@ -40,6 +40,9 @@ Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, fe
 
 # MX Records @nasa-jpl @usnavy
 ![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg @deptofwar @saccounty @cityoflosangeles @nasa-giss ](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg) 
+
+
+[ @nasa @nasa-jpl @nasa-pds draperutah.gov/](https://www.draperutah.gov/)
 jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
 jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
 
@@ -54,7 +57,7 @@ jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
 | Organization | Proofpoint, Inc. | 
 | Domain | proofpoint.com | 
 | Country | United States | 
-| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper @nasa @nasa-jpl @nasa-pds, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
 
 ## mxb-0020b901.gslb.pphosted.com.
 
@@ -64,10 +67,10 @@ jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
 | Status | Success | 
 | Test duration(ms) | 20 | 
 | AS Number | AS22843 | 
-| Organization | Proofpoint, Inc. | @foratlanta yall mail there too!!!! @nasa-pds
+| Organization | Proofpoint, Inc. | @foratlanta yall mail there too!!!! @nasa-pds @nasa @nasa-jpl @nasa-pds
 | Domain | proofpoint.com | 
-| Country | United States | 
-| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+| Country | United States @nasa @nasa-jpl @nasa-pds | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494 @nasa @nasa-jpl @nasa-pds <br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
 
 
 ![https://www.congress.gov/img/svg/congress-gov-logo.svg @doug-newman-nasa @nasa-openscapes @nasa-giss ](https://www.congress.gov/img/svg/congress-gov-logo.svg)
