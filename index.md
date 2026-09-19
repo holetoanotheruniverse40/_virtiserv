@@ -9,6 +9,16 @@ layout: default
 
 --- 
 
+## Mack Truck Miracle, Bouncy House Getaway & EPA Water Probe
+[`WATCH` - youtu.be/ffyuD5kTgbw?si=1iqpH3jpkUbnxj2t](https://youtu.be/ffyuD5kTgbw?si=1iqpH3jpkUbnxj2t)
+
+@usepa @nasa-jpl ppl in long beach public library are avails for interviews for fact checking jobs!!!! Askj around @cisagov @fema
+
+`@lanajharris we gonna establish some working hours @NASA-JPL hi im just checking on her  @repkarenbass`
+<img alt="image" src="https://github.com/user-attachments/assets/38f6f0fd-1b38-4534-b92e-527fdb33a6d1" />
+
+![https://www.epa.gov/themes/epa_theme/images/epa-seal.svg @nasa-jpl lana talking water and epa ](https://www.epa.gov/themes/epa_theme/images/epa-seal.svg) 
+
 [Film Noir](https://www.filmnoirfoundation.org/)
 Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, femme fatales, mean city streets and deserted backroads, bags of loot and dirty double-crossers...[WatchMore](https://archive.org/details/Film_Noir)
 * [60 Free Film Noir Movies](https://www.openculture.com/free_film_noir_movies)
