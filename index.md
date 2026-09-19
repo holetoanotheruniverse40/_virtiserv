@@ -11,7 +11,7 @@ layout: default
 
 ## [Mack Truck](https://www.macktrucks.com/) Miracle, [Bouncy House](https://www.google.com/search?sca_esv=22b8af76a99dadc9&rlz=1C1GCEJ_enUS1232US1232&sxsrf=APpeQnvRUcmAIFbj24E07gOaGg-e4u3Lmw:1789850706285&q=bouncy+house&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jnxvATrUU2Yg9dwuUGnsUHcA8ltRxGSueAm4xbJB7-U9Qnts9VCdNAybIXSNmvSxXHPbNp4hDNHX4bPzPx9-VKqWg8rTjIKx1VIlaywgPQILJtcBouUQMirMMtVQR_sVrBV-wJcUmDqzat_uaIbG3rT-yxy0Q&sa=X&sqi=2&ved=2ahUKEwjp87G8wfuWAxVCI0QIHX9DHCkQ0pQJegQIGxAB&biw=1920&bih=945&dpr=1) Getaway & EPA Water Probe
 [`WATCH` - youtu.be/ffyuD5kTgbw?si=1iqpH3jpkUbnxj2t](https://youtu.be/ffyuD5kTgbw?si=1iqpH3jpkUbnxj2t) 
-// [epa.gov/ground-water-and-drinking-water  @usepa @nasa-jpl](https://www.epa.gov/ground-water-and-drinking-water)
+// [`Ground Water and Drinking Water` - epa.gov/ground-water-and-drinking-water  @usepa @nasa-jpl](https://www.epa.gov/ground-water-and-drinking-water)
 <img   alt="image" src="https://github.com/user-attachments/assets/07f267b6-4f63-48e6-b62d-9ebac3c1886c" />
 
 <img  alt="image @usepa @nasa-jpl ppl in long beach public library are avails for interviews for fact checking jobs!!!! Askj around @cisagov @fema" src="https://github.com/user-attachments/assets/94972252-0100-49a1-bb5d-ef9d3f0efd27" />
