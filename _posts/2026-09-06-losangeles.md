@@ -22,11 +22,13 @@ permalink: losangeles
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
-
-
+## [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign
+![https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414](https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414) 
 [@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6)
 
-<img   alt="image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit " src="https://github.com/user-attachments/assets/a446d164-f441-4f7a-99a0-048b1bc89a0e" />
+<img   alt="image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit " src="https://github.com/user-attachments/assets/a446d164-f441-4f7a-99a0-048b1bc89a0e" />
+
+![@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbi @USNAVY @code.mil cityofinglewood.org/ImageRepository/Document?documentId=20639](https://www.cityofinglewood.org/ImageRepository/Document?documentId=20639)
 
 @cityoflosangeles [ @emit-sds AST_09T_00401092026043917_20260224060400](https://search.earthdata.nasa.gov/search/granules?p=C3306887110-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4048568473-LPCLOUD&q=emit&sb[0]=-118.42721%2C33.86334%2C-118.03614%2C34.16553&lat=34.3937882&long=-117.98731134038877&zoom=9.483410024314374) @nasa-jpl i want perms from [@cityofnewyork @NewYorkCityCouncil]( https://avirisng.jpl.nasa.gov/greenhouse_gas_mapping.html) for some [aviris photos of nyc](https://avirisng.jpl.nasa.gov/flight_requests.html) @maxar @emit-sds @boeing /// @la-county-isd make sure [@lacmmta _Holly J Mitchell_ @nymta](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) @Maxar-Corp @Maxar-Public @eodis-nasa @Doug-Newman-nasa i dont see any pics of NYC i think @maxar has some data avails in C
 
