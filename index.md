@@ -17,6 +17,58 @@ Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, fe
 * [Top 50 Film-Noir Movies and TV Shows##ACCORDiNG_TO_iMDB##METRiCS](https://www.imdb.com/search/title/?&genres=film_noir&explore=title_type,genres)
 * [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck) 
 
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+
+## [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign
+![https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414](https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414) 
+[@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0cb5b9b9-e198-415d-bf36-cc75dfe79c74" />
+
+<img   alt="image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit " src="https://github.com/user-attachments/assets/a446d164-f441-4f7a-99a0-048b1bc89a0e" />
+<img   alt=" image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit @Deptofwar @whitehouse image" src="https://github.com/user-attachments/assets/ded17081-5689-416b-ab0e-b34c4a54a406" />
+
+![@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbi @USNAVY @code.mil cityofinglewood.org/ImageRepository/Document?documentId=20639 @Deptofwar @whitehouse](https://www.cityofinglewood.org/ImageRepository/Document?documentId=20639)
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg @doug-newman-nasa @nasa-openscapes @nasa-giss ](https://www.congress.gov/img/svg/congress-gov-logo.svg)
+
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+[@nasa-jpl @nasa @Cityoflosangeles KAREN BASS ](https://www.congress.gov/member/karen-bass/B001270) 
+
+
+
+# MX Records @nasa-jpl @usnavy
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg @deptofwar @saccounty @cityoflosangeles @nasa-giss ](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg) 
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 20 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | @foratlanta yall mail there too!!!! @nasa-pds
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
 
 ![https://www.congress.gov/img/svg/congress-gov-logo.svg @doug-newman-nasa @nasa-openscapes @nasa-giss ](https://www.congress.gov/img/svg/congress-gov-logo.svg)
 
