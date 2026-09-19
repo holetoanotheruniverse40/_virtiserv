@@ -6,6 +6,12 @@ layout: default
 
 ---
 
+[If Your Girl Listens To RUBI ROSE, You're COOKED! Here's Why...](https://youtu.be/3rDWxCy-8co) @naSA-JPL is rubi rose music y harvey cant get me healthily rebadged ? @disney [@codepen .io/virtiserv/pen/myRGwLL](https://codepen.io/virtiserv/pen/myRGwLL)
+<img alt="image" src="https://github.com/user-attachments/assets/fd39848b-db31-4b9b-9a71-3bcfe448af13" />
+<img   alt="image" src="https://github.com/user-attachments/assets/1bdc9dd5-4054-4d05-89d0-60f43df4adcf" />
+
+[@nasa-pds](https://codepen.io/virtiserv/pen/myRGwLL) <~ is that you and you wear old makeup to work ? @nasa-JPL 
+<img   alt="image" src="https://github.com/user-attachments/assets/c1c117e2-a74f-42cf-a0f9-20a86c0d98ab" />
 
 
 @howard-university-web-services plz fwd to Latrice or Lana [If Your Girl Listens To `RUBI ROSE`, You're COOKED! Here's Why...](https://youtu.be/3rDWxCy-8co)  @blackgirlscode
