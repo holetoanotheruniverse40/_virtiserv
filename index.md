@@ -6,6 +6,11 @@ layout: default
 // [Use Your Heart · SWV](https://youtu.be/bOckbm7TCu4) // [702 - Steelo](https://youtu.be/5ojOERy-mf8?si=hLBG2CCxla6_Jppw) // [Other Side Of The Game performed by Erykah Badu](https://youtu.be/3qpyDUfMq-8) // [Erykah Badu - Next lifetime](https://youtu.be/RxITI3A2KWA) // [Adina Howard - Freak Like Me](https://youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt) // [Soul II Soul - Back To Life `BellyRMX`](https://youtu.be/tlGv94pzRoU) // [Solange - Cranes in the Sky](https://youtu.be/S0qrinhNnOM) // [Nija - Love Like This](https://youtu.be/zekfQq8AI4A) // [H.E.R. - Damage](https://youtu.be/PAFAfhod9TU) // [Alicia Keys - Troubles](https://youtu.be/L8_jt_yQa4Y?si=lLOoU9l-4bfqQHYz) // [Lost Boys - Lifestyles Of The Rich And Shameless](https://youtu.be/USEn5IlZK44?si=I1ehBcwJ8djv_Sg4)
 
 
+# movingPics
+[Nia Long Walk of Fame Ceremony](https://www.youtube.com/live/asiCDIIv_9U?si=hCGOD79iMLwOmaKI) // [鉄拳 -TEKKEN Vol. 1 (LD)](https://youtu.be/l5RbBZ04DnM?si=htyu6gx8m_rWn8Ci) // [Tekken The Motion Picture (English Dubbed)](https://youtu.be/AZb6KbZ6VJ4) // [Dominion: Tank Police | ドミニオン | Episodes 1-4 | 1988](https://youtu.be/5jeKkbfvId4) // [New Dominion Tank Police Vol. 1 (English Dubbed)](https://youtu.be/vsdbJ9Sj7Js)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6ada159c-3f6d-45a3-a621-020d67baf474" />
+
 
 --- 
 
