@@ -26,6 +26,8 @@ permalink: losangeles
 ![https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414](https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414) 
 [@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/0cb5b9b9-e198-415d-bf36-cc75dfe79c74" />
+
 <img   alt="image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit " src="https://github.com/user-attachments/assets/a446d164-f441-4f7a-99a0-048b1bc89a0e" />
 <img   alt=" image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit @Deptofwar @whitehouse image" src="https://github.com/user-attachments/assets/ded17081-5689-416b-ab0e-b34c4a54a406" />
 
