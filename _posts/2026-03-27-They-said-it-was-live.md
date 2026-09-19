@@ -9,6 +9,8 @@ author: RashardKelly @nasa-jpl
 ---
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_vREuEPDqkQ?si=uuWcy5Hga8sgZPoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [_WATCH_ - `Hegseth Speaks During Arsenal of Freedom Stop in Texas` war.gov/News/Live-Events/#/?currentVideo=38463 @cityofaustin](https://www.war.gov/News/Live-Events/#/?currentVideo=38463)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJkH24ERl64?si=M4KyNZsmtob1Vxsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img alt="image" src="https://github.com/user-attachments/assets/11b8f050-39f7-4a61-b3d4-add507e37168" />
