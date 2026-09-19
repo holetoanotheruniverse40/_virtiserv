@@ -4,6 +4,12 @@ layout: default
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/741235082?h=2c16b6d0c3" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
+[@blackgirscode @nasa-pds @cityoflosangeles @longbeachinnovationteam @saccounty LanderVisionSystemCamera_PerseveranceLandingMars2020.gif](https://dn721802.ca.archive.org/0/items/lander-vision-system-camera-perseverance-landing-mars-2020/LanderVisionSystemCamera_PerseveranceLandingMars2020.gif) /// [ @nasa-pds lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963a.mp4](https://dn721802.ca.archive.org/0/items/lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963a.mp4)
+
+[<video  preload="auto" width="auto" height="400px" controls src="https://archive.org/download/lander-vision-system-camera-perseverance-landing-mars-2020/LanderVisionSystemCamera_PerseveranceLandingMars2020.mp4" />](https://archive.org/download/lander-vision-system-camera-perseverance-landing-mars-2020/LanderVisionSystemCamera_PerseveranceLandingMars2020.mp4)
+
+[archive.org/download/lander-vision-system-camera-perseverance-landing-mars-2020/Trump%20Arrives%20in%20Dallas%20to%20Lead%20Historic%20Republican%20Midterm%20Convention.mp4](https://archive.org/download/lander-vision-system-camera-perseverance-landing-mars-2020/Trump%20Arrives%20in%20Dallas%20to%20Lead%20Historic%20Republican%20Midterm%20Convention.mp4)
+
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1158008518?h=fd1531a392" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 
