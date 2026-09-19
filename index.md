@@ -22,10 +22,8 @@ Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, fe
 
 ## [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign
 ![https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414](https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414) 
-
-[@CityofLosAngeles - `WATCH` - youtu.be/ @nasa-jpl (https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6)
 ![https://eurweb.com/wp-content/uploads/2024/07/eurwebwhite-1-1-300x106.png](https://eurweb.com/wp-content/uploads/2024/07/eurwebwhite-1-1-300x106.png) 
-
+[@CityofLosAngeles - `WATCH` - youtu.be/ @nasa-jpl (https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6) @datadesk @USATODAY @NEWSHOUR @latimes 
 [Inglewood mayor who allegedly groped teen cheerleader’s history of risqué allegations - @StateOfCAlifornia _POST_ ](https://nypost.com/2026/09/18/us-news/disturbing-history-of-inglewood-mayor-who-allegedly-groped-teen-cheerleader-including-allegations-from-his-own-daughter/) /// [Inglewood Activists Demand Mayor James Butts Resign Over Student Allegation - eurweb.com](https://eurweb.com/james-t-butts-jr-allegation/)
 [@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6)
 
