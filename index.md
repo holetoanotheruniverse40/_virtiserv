@@ -23,6 +23,8 @@ layout: default
 `@lanajharris we gonna establish some working hours @NASA-JPL hi im just checking on her  @repkarenbass`
 <img alt="image" src="https://github.com/user-attachments/assets/38f6f0fd-1b38-4534-b92e-527fdb33a6d1" />
 
+![@cityofnewyork @NewYorkCityCouncil](https://www.epa.gov/sites/default/files/styles/small/public/2020-05/acidrainpathway.png) 
+
 ![https://www.epa.gov/themes/epa_theme/images/epa-seal.svg @nasa-jpl lana talking water and epa ](https://www.epa.gov/themes/epa_theme/images/epa-seal.svg) 
 
 [Film Noir](https://www.filmnoirfoundation.org/)
@@ -219,7 +221,9 @@ The EPA Office of Research and Development has developed a suite of user-friendl
 
 
 [connect.na.panasonic.com/toughbook/rugged-laptops-tablets/toughbook-56? @Panasonic-Advanced-Technology](https://connect.na.panasonic.com/toughbook/rugged-laptops-tablets/toughbook-56?srsltid=AU7gw4V9cV3XByzuR6Y_j82sVerLvojvz-59_uU95fgmMnMPLBIwZbeE) // [github.com/virtiserv/EasyGaussianSplatting](https://github.com/virtiserv/EasyGaussianSplatting) <~ @nasa-jpl have the team that works on eyes take a look [github.com/virtiserv/VideoMultiAgents](https://github.com/virtiserv/VideoMultiAgents) @PanasonicConnect   @Panasonic-Advanced-Technology 
-![@forAtlanta how do I earn a lifestyle to buy this @Sony @nasa-jpl @nasa-pds @deptofwar @CityOflosangeles @STATEOFCALiFORNiA connect.na.panasonic.com/hs-fs/hubfs/PCONA%20-%20United%20States/MOB%20-%20Home/MOB%20-%20Rugged%20Computers%20-%20product/MOB%20-%20Rugged%20Computers%20-%20Product%20-%20TOUGHBOOK%2056/MOB_FZ-56-Flat_1440x1440.webp?width=1440&height=1440&name=MOB_FZ-56-Flat_1440x1440.webp](https://connect.na.panasonic.com/hs-fs/hubfs/PCONA%20-%20United%20States/MOB%20-%20Home/MOB%20-%20Rugged%20Computers%20-%20product/MOB%20-%20Rugged%20Computers%20-%20Product%20-%20TOUGHBOOK%2056/MOB_FZ-56-Flat_1440x1440.webp?width=1440&height=1440&name=MOB_FZ-56-Flat_1440x1440.webp) @jaxa @UKSPACEAGENCY @ESA @WHiTEHOUSE @DHs-GOV @cityofnewyork @NewYorkCityCouncil
+![@forAtlanta how do I earn a lifestyle to buy this @Sony @nasa-jpl @nasa-pds @deptofwar @CityOflosangeles @STATEOFCALiFORNiA connect.na.panasonic.com/hs-fs/hubfs/PCONA%20-%20United%20States/MOB%20-%20Home/MOB%20-%20Rugged%20Computers%20-%20product/MOB%20-%20Rugged%20Computers%20-%20Product%20-%20TOUGHBOOK%2056/MOB_FZ-56-Flat_1440x1440.webp?width=1440&height=1440&name=MOB_FZ-56-Flat_1440x1440.webp](https://connect.na.panasonic.com/hs-fs/hubfs/PCONA%20-%20United%20States/MOB%20-%20Home/MOB%20-%20Rugged%20Computers%20-%20product/MOB%20-%20Rugged%20Computers%20-%20Product%20-%20TOUGHBOOK%2056/MOB_FZ-56-Flat_1440x1440.webp?width=1440&height=1440&name=MOB_FZ-56-Flat_1440x1440.webp) @jaxa @UKSPACEAGENCY @ESA @WHiTEHOUSE @DHs-GOV 
+
+![@cityofnewyork @NewYorkCityCouncil](https://www.epa.gov/sites/default/files/styles/small/public/2020-05/acidrainpathway.png)
 
 [@github.com/panasonic got hijacked be gentle @usnavy @deptofwar @cisagov @fbicyber @PanasonicConnect   @Panasonic-Advanced-Technology  @nasa @nasa-jpl ](https://github.com/panasonic)
 <img  alt=" @nasa-jpl image" src="https://github.com/user-attachments/assets/d00a893c-f5b7-4d7c-80a8-1359f8f46ca9" />
