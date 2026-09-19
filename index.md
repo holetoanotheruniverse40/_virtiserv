@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/741235082?h=2c16b6d0c3" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1158008518?h=fd1531a392" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
@@ -1616,9 +1617,6 @@ catch my full collection on #ThesePieces, presented by @GEICO, on SpringHill's Y
  <img src="https://github.com/user-attachments/assets/2ebcdde8-990d-4206-9be8-5ebbba400d23" alt="image"/>
  
 --- 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nBvFwqZSUck?si=-UldHWqz9xz3Q0R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [@nasa-jpl @cityoflosangeles  @sony @sonyResearch https://ra5hard.github.io/holetoanotheruniverse/](https://ra5hard.github.io/holetoanotheruniverse/) 
 
