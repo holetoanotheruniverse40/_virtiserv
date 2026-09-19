@@ -16,6 +16,9 @@ layout: default
 <iframe src="https://archive.org/embed/dbz-westwood-remaster" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![https://images.genius.com/8843f0625740a876c2c98ea86fac46db.965x965x1.png](https://images.genius.com/8843f0625740a876c2c98ea86fac46db.965x965x1.png) 
+
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05019/opgs/edr/ncam/NLB_843045497EDR_F1250534CCAM03018M_.JPG @nasa-pds ](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05019/opgs/edr/ncam/NLB_843045497EDR_F1250534CCAM03018M_.JPG)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/6ada159c-3f6d-45a3-a621-020d67baf474" />
 
 
