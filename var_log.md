@@ -2,6 +2,298 @@
 layout: default
 ---
 
+[Film Noir](https://www.filmnoirfoundation.org/)
+Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, femme fatales, mean city streets and deserted backroads, bags of loot and dirty double-crossers...[WatchMore](https://archive.org/details/Film_Noir)
+* [60 Free Film Noir Movies](https://www.openculture.com/free_film_noir_movies)
+* [What Exactly Is Film Noir?](https://www.nfi.edu/film-noir/)
+* [Roger Ebert A Guide to Film Noir Genre](https://www.rogerebert.com/roger-ebert/a-guide-to-film-noir-genre)
+* [Top 50 Film-Noir Movies and TV Shows##ACCORDiNG_TO_iMDB##METRiCS](https://www.imdb.com/search/title/?&genres=film_noir&explore=title_type,genres)
+* [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck) 
+
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+
+## [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign
+![https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414](https://www.cityofinglewood.org/ImageRepository/Document?documentID=17414) 
+![https://eurweb.com/wp-content/uploads/2024/07/eurwebwhite-1-1-300x106.png](https://eurweb.com/wp-content/uploads/2024/07/eurwebwhite-1-1-300x106.png) 
+
+[@CityofLosAngeles - `WATCH` - youtu.be/ @nasa-jpl ](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6) @datadesk @USATODAY @NEWSHOUR @latimes 
+[Inglewood mayor who allegedly groped teen cheerleader’s history of risqué allegations - @StateOfCAlifornia _POST_ ](https://nypost.com/2026/09/18/us-news/disturbing-history-of-inglewood-mayor-who-allegedly-groped-teen-cheerleader-including-allegations-from-his-own-daughter/) /// [Inglewood Activists Demand Mayor James Butts Resign Over Student Allegation - eurweb.com](https://eurweb.com/james-t-butts-jr-allegation/)
+[@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit](https://youtu.be/OC3Dqv-QrFE?si=gOtPYYcCOTNahEu6) /// [WATCH Mayor Bass answers questions at homelessness forum hosted by KTLA, 'Hope the Mission'](https://youtu.be/stKF4ha_JlQ?si=lMk8usNiEx_XbH04) // [@nasa-jpl @nasa @Cityoflosangeles KAREN BASS ](https://www.congress.gov/member/karen-bass/B001270) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0cb5b9b9-e198-415d-bf36-cc75dfe79c74" />
+
+<img   alt="image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit " src="https://github.com/user-attachments/assets/a446d164-f441-4f7a-99a0-048b1bc89a0e" />
+<img   alt=" image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit @Deptofwar @whitehouse image" src="https://github.com/user-attachments/assets/ded17081-5689-416b-ab0e-b34c4a54a406" />
+
+![@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbi @USNAVY @code.mil cityofinglewood.org/ImageRepository/Document?documentId=20639 @Deptofwar @whitehouse](https://www.cityofinglewood.org/ImageRepository/Document?documentId=20639)
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg @doug-newman-nasa @nasa-openscapes @nasa-giss ](https://www.congress.gov/img/svg/congress-gov-logo.svg)
+
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+[@nasa-jpl @nasa @Cityoflosangeles KAREN BASS ](https://www.congress.gov/member/karen-bass/B001270) 
+
+
+
+# MX Records @nasa-jpl @usnavy
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg @deptofwar @saccounty @cityoflosangeles @nasa-giss ](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg) 
+
+
+[ @nasa @nasa-jpl @nasa-pds draperutah.gov/](https://www.draperutah.gov/)
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper @nasa @nasa-jpl @nasa-pds, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 20 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | @foratlanta yall mail there too!!!! @nasa-pds @nasa @nasa-jpl @nasa-pds
+| Domain | proofpoint.com | 
+| Country | United States @nasa @nasa-jpl @nasa-pds | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494 @nasa @nasa-jpl @nasa-pds <br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+![https://gamesdb-images.launchbox.gg/r2_bb645497-756f-4e3d-a321-806e5be30ba8.png](https://gamesdb-images.launchbox.gg/r2_bb645497-756f-4e3d-a321-806e5be30ba8.png)
+
+<iframe src="https://archive.org/embed/super-mario-world-2-yoshis-island-usa-rev-a" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://images.launchbox-app.com/r2_0efbf9e8-d096-4b21-bce5-2f2752a383e6.jpg](https://images.launchbox-app.com/r2_0efbf9e8-d096-4b21-bce5-2f2752a383e6.jpg)
+
+
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg @doug-newman-nasa @nasa-openscapes @nasa-giss ](https://www.congress.gov/img/svg/congress-gov-logo.svg)
+
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+[@nasa-jpl @nasa @Cityoflosangeles KAREN BASS ](https://www.congress.gov/member/karen-bass/B001270) 
+
+
+
+# MX Records @nasa-jpl @usnavy
+
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 20 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+
+# MX Records 
+@SpaceExplorationTechnoligies
+spacex.com	mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+## mxa-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxa-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 68 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxb-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 67 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+# MX Records 
+
+## mxb-0038fd02.gslb.gpphosted.com.
+
+| Mx Record | mxb-0038fd02.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.228.37 | 
+| Status | Success | 
+| Test duration(ms) | 28 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxa-0038fd02.gslb.gpphosted.com.
+
+| Mx Record | mxa-0038fd02.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.37 | 
+| Status | Success | 
+| Test duration(ms) | 66 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+ @nbcnews spacex mail served from utah according to this @blackgirlscode @nasa-pds @nasa-jpl @deptofwar
+
+# NS Records 
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+sad @nasa-jpl @nasa 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov | use2.akam.net. | 21600 | 
+| war.gov | ns1-95.akam.net. | 21600 | 
+| war.gov | eur6.akam.net. | 21600 | 
+| war.gov | use9.akam.net. | 21600 | 
+| war.gov | usc5.akam.net. | 21600 | 
+| war.gov | asia3.akam.net. | 21600 | 
+| war.gov | asia2.akam.net. | 21600 | 
+| war.gov | ns1-116.akam.net. | 21600 | 
+
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg @doug-newman-nasa @nasa-openscapes @nasa-giss ](https://www.congress.gov/img/svg/congress-gov-logo.svg)
+
+
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/nasahqphoto/albums/72157676018862708" title="Mars InSight"><img src="https://live.staticflickr.com/4896/31126336767_ea3dea9b53_b.jpg" width="1024" height="768" alt="Mars InSight @nbcnews @nasa-jpl @nasa-pds @blackgirlscode "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+
+[@ForAtlanta @LA-County-isD `WATCH` DEMO https://youtu.be/bxjD7LcPYZ8](https://youtu.be/bxjD7LcPYZ8) // [@fema @CityOFLOSANGELES @Nasa-jpl `TRY` Eco-Health Relationship Browser @usepa - _epa.gov/enviroatlas/enviroatlas-eco-health-relationship-browser_](https://www.epa.gov/enviroatlas/enviroatlas-eco-health-relationship-browser)
+
+The EPA Office of Research and Development has developed a suite of user-friendly tools within its EnviroAtlas. The Eco-Health Relationship Browser illustrates scientific evidence for linkages between human health and ecosystem services (ES). This demo video shows how to use the relational browser, which moves and changes content as the user selects an ecosystem, ecosystem service, or health outcome bubble. Users can view the wealth of scientific evidence for a linkage (ecosystem to ES, or ES to health outcome) by clicking the i icon. This powerful tool contains scientific evidence from over 500 peer-reviewed articles. [@fema @CityOFLOSANGELES @Nasa-jpl `TRY` Eco-Health Relationship Browser @usepa - _epa.gov/enviroatlas/enviroatlas-eco-health-relationship-browser_](https://www.epa.gov/enviroatlas/enviroatlas-eco-health-relationship-browser)  // [`WATCH` DEMO https://youtu.be/bxjD7LcPYZ8](https://youtu.be/bxjD7LcPYZ8)
+
+
+[connect.na.panasonic.com/toughbook/rugged-laptops-tablets/toughbook-56? @Panasonic-Advanced-Technology](https://connect.na.panasonic.com/toughbook/rugged-laptops-tablets/toughbook-56?srsltid=AU7gw4V9cV3XByzuR6Y_j82sVerLvojvz-59_uU95fgmMnMPLBIwZbeE) // [github.com/virtiserv/EasyGaussianSplatting](https://github.com/virtiserv/EasyGaussianSplatting) <~ @nasa-jpl have the team that works on eyes take a look [github.com/virtiserv/VideoMultiAgents](https://github.com/virtiserv/VideoMultiAgents) @PanasonicConnect   @Panasonic-Advanced-Technology 
+![@forAtlanta how do I earn a lifestyle to buy this @Sony @nasa-jpl @nasa-pds @deptofwar @CityOflosangeles @STATEOFCALiFORNiA connect.na.panasonic.com/hs-fs/hubfs/PCONA%20-%20United%20States/MOB%20-%20Home/MOB%20-%20Rugged%20Computers%20-%20product/MOB%20-%20Rugged%20Computers%20-%20Product%20-%20TOUGHBOOK%2056/MOB_FZ-56-Flat_1440x1440.webp?width=1440&height=1440&name=MOB_FZ-56-Flat_1440x1440.webp](https://connect.na.panasonic.com/hs-fs/hubfs/PCONA%20-%20United%20States/MOB%20-%20Home/MOB%20-%20Rugged%20Computers%20-%20product/MOB%20-%20Rugged%20Computers%20-%20Product%20-%20TOUGHBOOK%2056/MOB_FZ-56-Flat_1440x1440.webp?width=1440&height=1440&name=MOB_FZ-56-Flat_1440x1440.webp) @jaxa @UKSPACEAGENCY @ESA @WHiTEHOUSE @DHs-GOV 
+
+![@cityofnewyork @NewYorkCityCouncil](https://www.epa.gov/sites/default/files/styles/small/public/2020-05/acidrainpathway.png)
+
+[@github.com/panasonic got hijacked be gentle @usnavy @deptofwar @cisagov @fbicyber @PanasonicConnect   @Panasonic-Advanced-Technology  @nasa @nasa-jpl ](https://github.com/panasonic)
+<img  alt=" @nasa-jpl image" src="https://github.com/user-attachments/assets/d00a893c-f5b7-4d7c-80a8-1359f8f46ca9" />
+
+<img src="https://ra5hard.github.io/assets/img/luckyGirl.png" alt="@nasa-jpl GM it's [rashard](https://ra5hard.github.io/), I have to say that because whatever the conglomerate of Latrice is I don't know if its monitord or censored . . .@CityOfLosAngeles I'm listening to @blackgirlscode [SZA](https://www.discogs.com/artist/3272791-SZA-2?superFilter=Releases&subFilter=Albums) bc I just need to know ... I'm scared now I hope no one attacks me @deptofwar porn destroyed @Stateofcalifornia its a shell of a good plan @ESA be patient with us @jaxa Central library got crome on super nice pics, its such a waste .... Lemme see how this sesh goes @la-county-isd ...  @howard-university-web-service GM latrice whatever you are" />
+
+![https://images.acer.com/is/image/acer/CB-Spin-511_Magolor_KSP_2-1:Static-KSP-Image-Right-Left-XL @Panasonic-Advanced-Technology ](https://images.acer.com/is/image/acer/CB-Spin-511_Magolor_KSP_2-1:Static-KSP-Image-Right-Left-XL)
+
+@nasa-jpl GM it's [rashard](https://ra5hard.github.io/), I have to say that because whatever the conglomerate of Latrice is I don't know if its monitord or censored . . .@CityOfLosAngeles I'm listening to @blackgirlscode [SZA](https://www.discogs.com/artist/3272791-SZA-2?superFilter=Releases&subFilter=Albums) bc I just need to know ... I'm scared now I hope no one attacks me @deptofwar porn destroyed @Stateofcalifornia its a shell of a good plan @ESA be patient with us @jaxa Central library got crome on [super nice pcs, its such a waste](https://www.lenovo.com/us/en/c/desktops/thinkcentre/m-series/?IPromoID=LEN744359&visibleDatas=992%3ATiny)  .... Lemme see how this sesh goes @la-county-isd ...  [@howard-university-web-service GM latrice](https://eyes.nasa.gov/apps/dsn-now/dsn.html) whatever you are  @google @googleworkspace
+
+@nasa-pds just remember I did it for [coral](https://thakarashard.github.io/coral/) . . . 
+
+![ @google @googleworkspace upload.wikimedia.org/wikipedia/commons/9/91/Google_Chrome_logo_and_wordmark_%282015%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled](https://upload.wikimedia.org/wikipedia/commons/9/91/Google_Chrome_logo_and_wordmark_%282015%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled)
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A40845890&color=%232572ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/x_steeloo" title="NostalgicRunaway" target="_blank" style="color: #cccccc; text-decoration: none;">NostalgicRunaway @google @googleworkspace</a> · <a href="https://soundcloud.com/x_steeloo/sets/sza-z-full-album" title="SZA - Z (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">SZA - Z (Full Album)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1413792211&color=%232572ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu @google @googleworkspace</a> · <a href="https://soundcloud.com/waystoloveu/sza-sos-full-album" title="SZA - Sos Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">SZA - Sos Full Album</a></div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1390084471&color=%232572ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/waystoloveu" title="waystoloveu" target="_blank" style="color: #cccccc; text-decoration: none;">waystoloveu  @google @googleworkspace </a> · <a href="https://soundcloud.com/waystoloveu/sza-ctrl-full-album" title="Sza - Ctrl Full Album" target="_blank" style="color: #cccccc; text-decoration: none;">Sza - Ctrl Full Album</a></div>
+
+
+
+[Coldcut Solid Steel Mix - Politics Concerns Everything You Do (2001) @nasa-pds u know they work @nasa-jpl @asu _`mySus`_](https://youtu.be/WC6y8lf8Lak?list=RDWC6y8lf8Lak)
+![https://coldcut.net/wp-content/uploads/2016/11/solidsteelbanner.jpg](https://coldcut.net/wp-content/uploads/2016/11/solidsteelbanner.jpg) 
+
+---
+
+
+### HOT 97 News! 9/18/26
+[`WATCH` - youtu.be/YYj_DTTZzJ8?si=odd1Y53IWir6C72h](https://youtu.be/YYj_DTTZzJ8?si=odd1Y53IWir6C72h)
+`​​ @NASA-JPL just checking in on #Virtiserv @lanajharris a member of #LAtrice org @HowardUniversity @repkarenbass `
+<img   alt="image" src="https://github.com/user-attachments/assets/02b5f2bf-a45f-4a01-8af1-6fb784d84200" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c57d7c0a-93e2-45bf-9703-ef367ea1eabd" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A love bug, a timeless beauty and an icon — Porsha Williams describes some of her fellow Real Housewives with @gayleking. https://t.co/SnGQ7WyYc8</p>&mdash; CBS Mornings (@CBSMornings) <a href="https://x.com/CBSMornings/status/2101018097578557590?ref_src=twsrc%5Etfw">September 18, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+​​@NASAJPL just checking in on #Virtiserv @lanajharris a member of #LAtrice org @HowardUniversity @repkarenbass
+## [@DeptOfWar Secretary Hegseth](https://www.dvidshub.net/feature/SECDEFHegseth) Administers the Oath of Enlistment: Austin, Texas
+[`WATCH` - @ForAtlanta youtube.com/live/42hr0nruVIs?si=hDPmL9eYqNB2YVCy](https://www.youtube.com/live/42hr0nruVIs?si=hDPmL9eYqNB2YVCy) [DoD Announces the Launch of “ #Code.mil,” an Experiment in Open Source @github](https://www.war.gov/News/Releases/Release/Article/1092364/dod-announces-the-launch-of-codemil-an-experiment-in-open-source/) <~ @Nasa-jpl hi robin @TheSpaceDevs i have been following this for my @Nasa / @eodis-nasa @doug-newman-nasa world and yours @nasa-pds lemme know if i need to make adjustments [@whitehouse kim bryant](https://www.linkedin.com/in/kimberlybryant) this is what im doing, letting @DeptOfWar know @nasa-jpl / @nasa-giss Helpdesk not dangerous!!! @nbcnews hi @disney the walk of fame life is evolving so the titles are changing, just letting you know im not a danger to children and can be used if needed for local fact checking 
+`​​@nasa-jpl im still activemission ok Name: RAshard Kelly @lanajharris @normani @latto AffiliationU.S. Federal GovernmentIndependent Agencies National Aeronautics and Space Administration(@NASA @usgs)` + [@dhs-gov /github-privacy-policy-and-notice @dhs-gov @nasa-pds @code.mil](https://www.dhs.gov/github-privacy-policy-and-notice)
+
+```
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 09-18-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.25 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/5019f286-5255-4657-9ea0-587b2217b04c" />
+
+ [@blackgirlscode afro.com/business/black-girls-code-technology-education-65882d5e](https://www.afro.com/business/black-girls-code-technology-education-65882d5e) // [news.ycombinator.com/item?id=26797542](https://news.ycombinator.com/item?id=26797542) // [https://dl.acm.org/doi/10.1145/3633464?__cf_chl_f_tk=LGIa.wghcIrjI9w6r46tmhzdVxVN6sZjhBBh.R.ygho-1783105325-1.0.1.1-uvyXY5EdKMlOkEBFxSIQkNeYiGu1KE58WCcvaTF7qXw](https://dl.acm.org/doi/10.1145/3633464?__cf_chl_f_tk=LGIa.wghcIrjI9w6r46tmhzdVxVN6sZjhBBh.R.ygho-1783105325-1.0.1.1-uvyXY5EdKMlOkEBFxSIQkNeYiGu1KE58WCcvaTF7qXw) // 
+ 
+ <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1427503092641579%2F&show_text=false&width=267&t=0" width="467" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+ 
+![@blackgirlscode public-assets-prod.pubgen.ai/brand_c52c4b4d-5b39-4d0a-856b-9c0c02643324/asset_68050442-6dd7-58bf-98c5-00862ab44084.jpg?w=1080](https://public-assets-prod.pubgen.ai/brand_c52c4b4d-5b39-4d0a-856b-9c0c02643324/asset_68050442-6dd7-58bf-98c5-00862ab44084.jpg?w=1080) 
+
+#### EMIT L1B At-Sensor Calibrated Radiance and Geolocation Data 60 m V002 
+
+<img  alt="EMIT_L1B_RAD_002_20260917T211956 @emit-sds i was asked in the street to fwd to @mxabierto " src="https://github.com/user-attachments/assets/502dedc1-0b34-44c7-99bd-42a3928d5cbc" />
+
+[@emit-sds i was asked in the street to fwd to @mxabierto earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002](https://www.earthdata.nasa.gov/data/catalog/lpcloud-emitl1brad-002) @doug-newman-nasa  [search.earthdata.nasa.gov/search/granules/collection-details](https://search.earthdata.nasa.gov/search/granules/collection-details?p=C4079829720-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4315870910-LPCLOUD&q=C4079829720-LPCLOUD&lat=19.26875208890815&long=-99.90914574855766&zoom=7.553596504786163) 
+
+<img alt="image @emit-sds i was asked in the street to fwd to @mxabierto @CityOFLoSAngeles @karenbass  @la-county-isd EMIT_L1B_RAD_002_20260917T212044 @UCLA @NASA-JPL " src="https://github.com/user-attachments/assets/9e2c74d5-f6fd-45bb-b339-ed1d434be52e" />
+
+<img alt="@emit-sds i was asked in the street to fwd to @mxabierto @CityOFLoSAngeles @karenbass  @la-county-isd EMIT_L1B_RAD_002_20260917T212044 @UCLA @NASA-JPL " src="https://github.com/user-attachments/assets/822d6931-42e7-4b10-8087-50d77f31a2a2" />
+
 <img alt="tumblr_1b096c693a6e4ab9d54d4f7b329ecfdb_519b4a8d_12802-ezgif com-webp-to-gif-converter" src="https://github.com/user-attachments/assets/4e703873-067b-47d7-a182-a7596b67645f" />
 
 [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
