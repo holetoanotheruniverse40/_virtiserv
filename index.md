@@ -9,6 +9,8 @@ layout: default
 # movingPics
 [Nia Long Walk of Fame Ceremony](https://www.youtube.com/live/asiCDIIv_9U?si=hCGOD79iMLwOmaKI) // [鉄拳 -TEKKEN Vol. 1 (LD)](https://youtu.be/l5RbBZ04DnM?si=htyu6gx8m_rWn8Ci) // [Tekken The Motion Picture (English Dubbed)](https://youtu.be/AZb6KbZ6VJ4) // [Dominion: Tank Police | ドミニオン | Episodes 1-4 | 1988](https://youtu.be/5jeKkbfvId4) // [New Dominion Tank Police Vol. 1 (English Dubbed)](https://youtu.be/vsdbJ9Sj7Js)
 
+<iframe src="https://archive.org/embed/dbz-westwood-remaster" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <img  alt="image" src="https://github.com/user-attachments/assets/6ada159c-3f6d-45a3-a621-020d67baf474" />
 
 
