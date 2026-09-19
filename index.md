@@ -10,11 +10,12 @@ layout: default
 
 
 ## YoungBoy Never Broke Again - We Poppin (feat. Birdman)
-[`WATCH` - YoungBoy Never Broke Again - We Poppin (feat. Birdman) _youtu.be/SKexLz5QRN0?si=eWPRRzwYw9yBgE8u_](https://youtu.be/SKexLz5QRN0?si=eWPRRzwYw9yBgE8u) // [Nia Long Walk of Fame Ceremony](https://www.youtube.com/live/asiCDIIv_9U?si=hCGOD79iMLwOmaKI) // [鉄拳 -TEKKEN Vol. 1 (LD)](https://youtu.be/l5RbBZ04DnM?si=htyu6gx8m_rWn8Ci) // [Tekken The Motion Picture (English Dubbed)](https://youtu.be/AZb6KbZ6VJ4) // [Dominion: Tank Police | ドミニオン | Episodes 1-4 | 1988](https://youtu.be/5jeKkbfvId4) // [New Dominion Tank Police Vol. 1 (English Dubbed)](https://youtu.be/vsdbJ9Sj7Js)
+[`WATCH` - YoungBoy Never Broke Again - We Poppin (feat. Birdman) _youtu.be/SKexLz5QRN0?si=eWPRRzwYw9yBgE8u_](https://youtu.be/SKexLz5QRN0?si=eWPRRzwYw9yBgE8u) +++ [@genius .com/artists/Never-broke-again](https://genius.com/artists/Never-broke-again)  // [Nia Long Walk of Fame Ceremony](https://www.youtube.com/live/asiCDIIv_9U?si=hCGOD79iMLwOmaKI) // [鉄拳 -TEKKEN Vol. 1 (LD)](https://youtu.be/l5RbBZ04DnM?si=htyu6gx8m_rWn8Ci) // [Tekken The Motion Picture (English Dubbed)](https://youtu.be/AZb6KbZ6VJ4) // [Dominion: Tank Police | ドミニオン | Episodes 1-4 | 1988](https://youtu.be/5jeKkbfvId4) // [New Dominion Tank Police Vol. 1 (English Dubbed)](https://youtu.be/vsdbJ9Sj7Js) [@blackgirlscode _plzFwd_ to him](https://www.grammarly.com/blog/emailing/email-etiquette-rules-to-know/) 
 <img  alt="image" src="https://github.com/user-attachments/assets/6d416afc-3c3b-4d37-814d-0dfe8a797bea" />
 
 <iframe src="https://archive.org/embed/dbz-westwood-remaster" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+![https://images.genius.com/8843f0625740a876c2c98ea86fac46db.965x965x1.png](https://images.genius.com/8843f0625740a876c2c98ea86fac46db.965x965x1.png) 
 <img  alt="image" src="https://github.com/user-attachments/assets/6ada159c-3f6d-45a3-a621-020d67baf474" />
 
 
