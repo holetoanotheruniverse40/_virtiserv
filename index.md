@@ -14,6 +14,8 @@ layout: default
 // [`Ground Water and Drinking Water` - epa.gov/ground-water-and-drinking-water  @usepa @nasa-jpl](https://www.epa.gov/ground-water-and-drinking-water)
 <img   alt="image" src="https://github.com/user-attachments/assets/07f267b6-4f63-48e6-b62d-9ebac3c1886c" />
 
+![https://www.epa.gov/sites/default/files/styles/medium/public/2016-03/500x350_phscale_3-2.png](https://www.epa.gov/sites/default/files/styles/medium/public/2016-03/500x350_phscale_3-2.png) 
+
 <img  alt="image @usepa @nasa-jpl ppl in long beach public library are avails for interviews for fact checking jobs!!!! Askj around @cisagov @fema" src="https://github.com/user-attachments/assets/94972252-0100-49a1-bb5d-ef9d3f0efd27" />
 
 @usepa @nasa-jpl ppl in long beach public library are avails for interviews for fact checking jobs!!!! Askj around @cisagov @fema [Research to Protect Our Water Resources](https://www.epa.gov/water-research)
