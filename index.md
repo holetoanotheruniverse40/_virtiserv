@@ -6,6 +6,12 @@ layout: default
 
 ---
 
+
+
+@howard-university-web-services plz fwd to Latrice or Lana [If Your Girl Listens To `RUBI ROSE`, You're COOKED! Here's Why...](https://youtu.be/3rDWxCy-8co)  @blackgirlscode
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3rDWxCy-8co?si=LM74qZcRBpnHqS-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A178346799&color=%233badff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lhmusic" title="LH" target="_blank" style="color: #cccccc; text-decoration: none;">LH</a> · <a href="https://soundcloud.com/lhmusic/j-dilla-pet-sounds-the-key-of-dee-album" title="J Dilla - Pet Sounds in the Key of Dee" target="_blank" style="color: #cccccc; text-decoration: none;">J Dilla - Pet Sounds in the Key of Dee</a></div>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/741235082?h=2c16b6d0c3" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
