@@ -7,6 +7,8 @@ layout: default
 ---
 
 
+<img  alt="EMIT_L2A_RFL_001_20260404T172021_2609411_003 @nasa-jpl @emit-sds
+ @CityOFlosangeles " src="https://github.com/user-attachments/assets/ad9492d2-6450-464a-b299-24ad74479a7f" />
 
 
 ### Lizzo Grills Jason Lee About Beyoncé, Talks Weight Loss, Lawsuits & Love
