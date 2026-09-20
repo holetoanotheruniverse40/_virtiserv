@@ -6,6 +6,9 @@ layout: default
 
 ---
 
+<img  alt="EMIT_L2A_RFL_001_20241127T202619_2433214_001  @nasa-jpl @emit-sds
+ @CityOFlosangeles" src="https://github.com/user-attachments/assets/77f6ab05-0d76-4e04-8326-014d1a7aa8e2" />
+
 
 <img  alt="EMIT_L2A_RFL_001_20260404T172021_2609411_003 @nasa-jpl @emit-sds
  @CityOFlosangeles " src="https://github.com/user-attachments/assets/ad9492d2-6450-464a-b299-24ad74479a7f" />
