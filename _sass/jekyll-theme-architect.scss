@@ -173,34 +173,20 @@ background-color: #4e395d;
 }
 
 
-.box {
-  height: 350px;
-  width: 100%;
-  border-radius:12px;
-  display: block;
-  margin-block: 10px 10px;
-	background: linear-gradient(135deg, #2e7bcf55 25%, transparent 25%) -15px 0/ 30px 30px, linear-gradient(225deg, #2e7bcf 25%, transparent 25%) -15px 0/ 30px 30px, linear-gradient(315deg, #2e7bcf55 25%, transparent 25%) 0px 0/ 30px 30px, linear-gradient(45deg, #2e7bcf 25%, #4e395d 25%) 0px 0/ 30px 30px;
-	background-attachment: fixed;
-background-color: #4e395d;
-  
-border-radius:12px;
-  
-  transition: 1s all  cubic-bezier(.5,.1,.2,3);
-}
 
 .box:hover {
   border-radius:12px;
   display: block;
   margin-block: 10px 10px;
-  background: rgb(217,4,121);
-  background: linear-gradient(45deg,
-        #08a0e9 25%,
-        #e8f5fd 0,
-        #e8f5fd 50%,
-        #08a0e9 0,
-        #08a0e9 75%,
-        #e8f5fd 0);
-background-size: 10px 10px;
+
+inset: -100%;
+transform: rotate(155deg);
+transform-origin: center;
+background-color: #4e395d;
+opacity: 1;
+background-image:  linear-gradient(30deg, #2e7bcf 12%, transparent 12.5%, transparent 87%, #2e7bcf 87.5%, #2e7bcf), linear-gradient(150deg, #2e7bcf 12%, transparent 12.5%, transparent 87%, #2e7bcf 87.5%, #2e7bcf), linear-gradient(30deg, #2e7bcf 12%, transparent 12.5%, transparent 87%, #2e7bcf 87.5%, #2e7bcf), linear-gradient(150deg, #2e7bcf 12%, transparent 12.5%, transparent 87%, #2e7bcf 87.5%, #2e7bcf), linear-gradient(60deg, #2e7bcf77 25%, transparent 25.5%, transparent 75%, #2e7bcf77 75%, #2e7bcf77), linear-gradient(60deg, #2e7bcf77 25%, transparent 25.5%, transparent 75%, #2e7bcf77 75%, #2e7bcf77);
+background-size: 30px 53px;
+background-position: 0 0, 0 0, 15px 26px, 15px 26px, 0 0, 15px 26px;
   background-attachment: fixed;
   transition: 1s all  cubic-bezier(.8,.1,.2,3);
 
