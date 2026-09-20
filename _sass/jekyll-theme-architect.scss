@@ -142,8 +142,14 @@ header h2 {
 	 /* background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01678/ids/edr/browse/ncam/NLF_1678_0815915302_817ECM_N0802956NCAM00501_01_295J01_1200.jpg)
     no-repeat 0 0 fixed; */
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  /* background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x; */ 
+	background: linear-gradient(135deg, #2e7bcf55 25%, transparent 25%) -15px 0/ 30px 30px, linear-gradient(225deg, #2e7bcf 25%, transparent 25%) -15px 0/ 30px 30px, linear-gradient(315deg, #2e7bcf55 25%, transparent 25%) 0px 0/ 30px 30px, linear-gradient(45deg, #2e7bcf 25%, #4e395d 25%) 0px 0/ 30px 30px;
+	background-attachment: fixed;
+background-color: #4e395d;
+
+
 }
+
 
 .box > * {
   display: block;
@@ -164,6 +170,40 @@ header h2 {
 
 .box a:link {
   color: white;
+}
+
+
+.box {
+  height: 350px;
+  width: 100%;
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
+	background: linear-gradient(135deg, #2e7bcf55 25%, transparent 25%) -15px 0/ 30px 30px, linear-gradient(225deg, #2e7bcf 25%, transparent 25%) -15px 0/ 30px 30px, linear-gradient(315deg, #2e7bcf55 25%, transparent 25%) 0px 0/ 30px 30px, linear-gradient(45deg, #2e7bcf 25%, #4e395d 25%) 0px 0/ 30px 30px;
+	background-attachment: fixed;
+background-color: #4e395d;
+  
+border-radius:12px;
+  
+  transition: 1s all  cubic-bezier(.5,.1,.2,3);
+}
+
+.box:hover {
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
+  background: rgb(217,4,121);
+  background: linear-gradient(45deg,
+        #08a0e9 25%,
+        #e8f5fd 0,
+        #e8f5fd 50%,
+        #08a0e9 0,
+        #08a0e9 75%,
+        #e8f5fd 0);
+background-size: 10px 10px;
+  background-attachment: fixed;
+  transition: 1s all  cubic-bezier(.8,.1,.2,3);
+
 }
 
 
