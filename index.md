@@ -2,12 +2,15 @@
 layout: default
 ---
 
+[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)
 
+---
 
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20262581900_GOES18-ABI-FD-DMW-1808x1808.jpg](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20262581900_GOES18-ABI-FD-DMW-1808x1808.jpg) 
 
 ![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DayNightCloudMicroCombo/GOES18-CONUS-DayNightCloudMicroCombo-625x375.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DayNightCloudMicroCombo/GOES18-CONUS-DayNightCloudMicroCombo-625x375.gif)
 
-storms over the fertile valley [@stateofcalifornia](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif) - rashard @nasa-jpl @eodis-nasa
+storms over the fertile valley [@stateofcalifornia](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif) - rashard @nasa-jpl @eodis-nasa @blackgirlscode [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)
 
 ![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif)
 
