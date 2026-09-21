@@ -2,10 +2,14 @@
 layout: default
 ---
 
-[Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)  /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM) // [Eminem - Bad Guy](https://youtu.be/F9bSo8CBD5I?list=PLPS8Md-CVcrERpCtqnLQl0kz5nWtykZ3I) // [Pusha T - Drug Dealers Anonymous Feat. Jay Z ](https://youtu.be/COCpn1W13Kw?list=RDCOCpn1W13Kw) // [Succa Proof - Nipsey Hussle, Victory Lap](https://youtu.be/rQEuF5QI0Q8?list=RDrQEuF5QI0Q8) // [JAŸ-Z, Kanye West - Otis ft. Otis Redding](https://youtu.be/BoEKWtgJQAU?list=RDBoEKWtgJQAU) // [Lil Wayne - 6 Foot 7 Foot ft. Cory Gunz ](https://youtu.be/c7tOAGY59uQ?list=RDc7tOAGY59uQ)
+[Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)  /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM) // [Eminem - Bad Guy](https://youtu.be/F9bSo8CBD5I?list=PLPS8Md-CVcrERpCtqnLQl0kz5nWtykZ3I) // [Pusha T - Drug Dealers Anonymous Feat. Jay Z ](https://youtu.be/COCpn1W13Kw?list=RDCOCpn1W13Kw) // [Succa Proof - Nipsey Hussle, Victory Lap](https://youtu.be/rQEuF5QI0Q8?list=RDrQEuF5QI0Q8) // [JAŸ-Z, Kanye West - Otis ft. Otis Redding](https://youtu.be/BoEKWtgJQAU?list=RDBoEKWtgJQAU) // [Lil Wayne - 6 Foot 7 Foot ft. Cory Gunz ](https://youtu.be/c7tOAGY59uQ?list=RDc7tOAGY59uQ) // [Lil Wayne - A Milli](https://youtu.be/1Vf4mMCpNY0?list=RDc7tOAGY59uQ)
 
 ---
 
+
+S1D_EW_GRDM_1SDH_20260921T074907_20260921T075016_004673_008BAE_DCF5
+Sentinel-1 • C-Band @asfadmin @emit-sds [search.asf.alaska.edu/&dataset=SENTINEL-1](https://search.asf.alaska.edu/#/?zoom=6.489&center=-18.740,63.961&polygon=POLYGON((-23.2914%2063.5508,-13.7819%2063.5508,-13.7819%2066.3698,-23.2914%2066.3698,-23.2914%2063.5508))&resultsLoaded=true&granule=S1D_EW_GRDM_1SDH_20260921T074907_20260921T075016_004673_008BAE_DCF5-GRD_MD&dataset=SENTINEL-1)
+<img   alt="S1D_EW_GRDM_1SDH_20260921T074907_20260921T075016_004673_008BAE_DCF5" src="https://github.com/user-attachments/assets/e00ad7a2-67e1-4b74-a48a-a14a944a6e46" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/24147ccc-bea5-4bfb-a0a7-b6fb857efef8" />
 
