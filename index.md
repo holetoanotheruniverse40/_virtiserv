@@ -6,6 +6,14 @@ layout: default
 
 ---
 
+Gulliver's Travels (1939)
+by [Fleischer Studios](https://fleischerstudios.com/) and [Paramount Pictures](https://www.paramountpictures.com/)
+### [@Paramount-Engineering @StateOfCalifornia Showdown Ends With Deal](https://www.tmz.com/2026/09/21/paramount-california-settlement-warner-bros-merger/)
+@paramount-engineering , @pp-webhosting @cbs-news-data [`WATCH` - archive.org/details/gullivers-travels-1939 @blackgirlscode @usgs @Nasa-JPL](https://archive.org/details/gullivers-travels-1939)
+<iframe src="https://archive.org/embed/gullivers-travels-1939" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/b4bd29f0-49be-48ba-9f6f-3f93a1265da0/2025+banner.jpg](https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/b4bd29f0-49be-48ba-9f6f-3f93a1265da0/2025+banner.jpg)
+
 <img   alt="image @ForAtlanta @NASA-JPL @doug-Newman-nasa" src="https://github.com/user-attachments/assets/58ba5573-d05e-49a0-9358-f3b1e2aa2172" />
 
 
