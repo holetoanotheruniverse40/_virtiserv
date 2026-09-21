@@ -5,33 +5,22 @@ layout: default
 [Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)
 
 ---
-@foratlanta https://youtu.be/DaeB0UVQz3Q 
+
+
+[@foratlanta @nasa-pds youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26) [youtu.be/DaeB0UVQz3Q](https://youtu.be/DaeB0UVQz3Q) @cityoflosangles 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1e40f837-183f-43af-8297-e47356005e55" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/cd41c9c8-42d6-4aa2-905f-591587a9bbac" />
 
 
-@thakasErikaselassie_kelly
-​
-
-#1
-​gm @keishaforga its rashard i want to check if @lanajharris is @RubiRoseVEVO @coileray or @riconasty... im trying to catch up with LatriceFitzpatrick of @HowardUNiVersity she was my last significantO
-
+@thakasErikaselassie_kelly#1​gm @keishaforga its rashard i want to check if @lanajharris is @RubiRoseVEVO @coileray or @riconasty... im trying to catch up with LatriceFitzpatrick of @HowardUNiVersity she was my last significantO
 Welcome to live chat! Remember to guard your privacy and abide by our community guidelines.
-Learn more
-
-@voncherw
-​
-
-#1
-​🤎💐💐
-
-
-@thakasErikaselassie_kelly
-​
-
-#1
-​@chloebaileywashere i saw on @google's business dir that @dance411 was permanantly closed @keishaforga its rashard iWant to check if @lanajharris is @RubiRoseVEVO @coileray or @riconasty @hot97 @v103
+Learn more@voncherw​#1​🤎💐💐
+@thakasErikaselassie_kelly#1​@chloebaileywashere i saw on @google's business dir that @dance411 was permanantly closed @keishaforga its rashard iWant to check if @lanajharris is @RubiRoseVEVO @coileray or @riconasty @hot97 @v103
 
 [https://www.youtube.com/@HOT97ontv/videos](https://www.youtube.com/@HOT97ontv/videos) @nasa 
+
 <img   alt="image" src="https://github.com/user-attachments/assets/41120a2f-30f8-44f2-8e65-482aa73e5a7b" />
 
 
