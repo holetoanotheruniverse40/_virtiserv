@@ -2,10 +2,11 @@
 layout: default
 ---
 
-[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)
+[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [David Banner - Like A Pimp  ft. Lil' Flip](https://youtu.be/MKGQ5cIw_ew?si=eXrM2UkvNJOA7o8F)
 
 ---
 
+![@foratlanta @gatech - @BLACKGiRLSCODE - https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/se/EXTENT3/GOES19-SE-EXTENT3-600x600.gif rashard @nasa-jpl @nasa-pds](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/se/EXTENT3/GOES19-SE-EXTENT3-600x600.gif)
 
 ![@howard-university-web-services https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.gif) 
 
