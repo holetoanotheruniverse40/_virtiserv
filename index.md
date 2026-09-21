@@ -2,6 +2,13 @@
 layout: default
 ---
 
+![https://user-images.githubusercontent.com/717735/205517116-7a5d0f41-7acc-441e-94ba-2e541bfb7fc8.png](https://user-images.githubusercontent.com/717735/205517116-7a5d0f41-7acc-441e-94ba-2e541bfb7fc8.png)
+
+@doug-newman-nasa I'm looking for ice sat visualizers but coming up short. Just letting you know I checked in @eodis-nasa hi @la-county-isd @cityoflosangeles @ForAtlanta ... hi @blackgirlscode I'm n this dept as well now [earthaccess.readthedocs.io/en/latest](https://earthaccess.readthedocs.io/en/latest/)
+
+![https://earthaccess.readthedocs.io/en/latest/images/earthaccess_environmental_horst.jpg](https://earthaccess.readthedocs.io/en/latest/images/earthaccess_environmental_horst.jpg)
+
+
 [Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)  /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM) // [Eminem - Bad Guy](https://youtu.be/F9bSo8CBD5I?list=PLPS8Md-CVcrERpCtqnLQl0kz5nWtykZ3I) // [Pusha T - Drug Dealers Anonymous Feat. Jay Z ](https://youtu.be/COCpn1W13Kw?list=RDCOCpn1W13Kw) // [Succa Proof - Nipsey Hussle, Victory Lap](https://youtu.be/rQEuF5QI0Q8?list=RDrQEuF5QI0Q8) // [JAŸ-Z, Kanye West - Otis ft. Otis Redding](https://youtu.be/BoEKWtgJQAU?list=RDBoEKWtgJQAU) // [Lil Wayne - 6 Foot 7 Foot ft. Cory Gunz ](https://youtu.be/c7tOAGY59uQ?list=RDc7tOAGY59uQ) // [Lil Wayne - A Milli](https://youtu.be/1Vf4mMCpNY0?list=RDc7tOAGY59uQ) // [Young Jeezy - Lose My Mind ft. Plies](https://youtu.be/Tsmqrk7Wgsk?list=RDTsmqrk7Wgsk) // [T.I. - About The Money ft. Young Thug](https://youtu.be/etfIdtm-OC8?list=RDetfIdtm-OC8) // [Young Jeezy - Leave You Alone (Explicit) ft. Ne-Yo](https://youtu.be/3B3EgW5zvKU?list=RD3B3EgW5zvKU) // [Rich Homie Quan - Type of Way @ForAtlanta](https://youtu.be/-KKbdErJkiY?list=RD-KKbdErJkiY)
 
 ---
