@@ -9,7 +9,9 @@ layout: default
 
 
 # Sentinel satellites – an introduction
-[`READ` - space4climate.com/sentinel-satellites-an-introduction/](https://space4climate.com/sentinel-satellites-an-introduction/)
+[`READ` - space4climate.com/sentinel-satellites-an-introduction/](https://space4climate.com/sentinel-satellites-an-introduction/) 
+
+@ESA Sentinel has Iceland data [@NFL `Rams` and a @UCLA hat were with him @nasa-jpl @doug-newman-nasa @asfadmin ]
 ![https://i0.wp.com/space4climate.com/wp-content/uploads/COPERNICUS-INFORGRAPHIC.png](https://i0.wp.com/space4climate.com/wp-content/uploads/COPERNICUS-INFORGRAPHIC.png) 
 
 
@@ -23,9 +25,13 @@ Sentinel-1 • C-Band
 
 S1D_EW_GRDM_1SDH_20260921T074907_20260921T075016_004673_008BAE_DCF5
 Sentinel-1 • C-Band @asfadmin @emit-sds [search.asf.alaska.edu/&dataset=SENTINEL-1](https://search.asf.alaska.edu/#/?zoom=6.489&center=-18.740,63.961&polygon=POLYGON((-23.2914%2063.5508,-13.7819%2063.5508,-13.7819%2066.3698,-23.2914%2066.3698,-23.2914%2063.5508))&resultsLoaded=true&granule=S1D_EW_GRDM_1SDH_20260921T074907_20260921T075016_004673_008BAE_DCF5-GRD_MD&dataset=SENTINEL-1)
+
 <img   alt="S1D_EW_GRDM_1SDH_20260921T074907_20260921T075016_004673_008BAE_DCF5" src="https://github.com/user-attachments/assets/e00ad7a2-67e1-4b74-a48a-a14a944a6e46" />
 
 ![https://sentiwiki.copernicus.eu/__attachments/a_c688717dd0338265fa4eb7e8e5172b460d3eb0f58fed2701c03b1f7b02e61ef3/image-20230522-072230.png?cb=488982159e7e689259d10e0ce47c2145](https://sentiwiki.copernicus.eu/__attachments/a_c688717dd0338265fa4eb7e8e5172b460d3eb0f58fed2701c03b1f7b02e61ef3/image-20230522-072230.png?cb=488982159e7e689259d10e0ce47c2145)
+
+
+![https://www.esa.int/eologos/images/sentinel-1_neg.jpg](https://www.esa.int/eologos/images/sentinel-1_neg.jpg) 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/24147ccc-bea5-4bfb-a0a7-b6fb857efef8" />
 
