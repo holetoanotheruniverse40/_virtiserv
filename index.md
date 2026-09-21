@@ -6,6 +6,8 @@ layout: default
 
 ---
 
+<img   alt="image @ForAtlanta @NASA-JPL @doug-Newman-nasa" src="https://github.com/user-attachments/assets/58ba5573-d05e-49a0-9358-f3b1e2aa2172" />
+
 
 ## SURVIVING MARS: Planet #4
 [WATCH - youtube.com/watch?v=hLqFbCAu6BI](https://www.youtube.com/watch?v=hLqFbCAu6BI)
