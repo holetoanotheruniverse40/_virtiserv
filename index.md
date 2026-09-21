@@ -4,6 +4,9 @@ layout: default
 
 
 
+
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DayNightCloudMicroCombo/GOES18-CONUS-DayNightCloudMicroCombo-625x375.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DayNightCloudMicroCombo/GOES18-CONUS-DayNightCloudMicroCombo-625x375.gif)
+
 storms over the fertile valley [@stateofcalifornia](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif) - rashard @nasa-jpl @eodis-nasa
 
 ![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif)
