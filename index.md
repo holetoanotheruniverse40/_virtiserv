@@ -3,6 +3,18 @@ layout: default
 ---
 
 
+## Mars Perseverance Sol 121: Descent Stage Down-Look Camera
+[@emit-sds @blackgirlscode mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00121/ids/edr/browse/edl/ESF_0121_0677684555_262ECM_N0041250EDLC00120_0010LUJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00121/ids/edr/browse/edl/ESF_0121_0677684555_262ECM_N0041250EDLC00120_0010LUJ01_1200.jpg)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00121/ids/edr/browse/edl/ESF_0121_0677684555_262ECM_N0041250EDLC00120_0010LUJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00121/ids/edr/browse/edl/ESF_0121_0677684555_262ECM_N0041250EDLC00120_0010LUJ01_1200.jpg)
+
+# MArtian Eclipse 
+## Mars Perseverance Sol 1948:
+@nasa-jpl I think its Phobos , it was not clear in the raw images desc . . . @nasa-pds this was this month but there was one in MAy 
+_A Martian Eclipse: Phobos Crosses the Sun_ May 24, 2026 [Link](https://science.nasa.gov/image-article/apod-2026-may-24-a-martian-eclipse-phobos-crosses-the-sun/)
+I don't know the schedule yet @cbs-news-data phobos is lumpy if that helps 
+Left Mastcam-Z Camera [Link](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ)
+
+
 <img   alt="aed37f20-2577-43db-a42f-162434cde02a @libraryofcongress @nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss _" src="https://github.com/user-attachments/assets/12386d61-2bd7-4f3a-ad3e-83d498cab5b1" />
 <img alt="image @libraryofcongress @nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss " src="https://github.com/user-attachments/assets/6f2d5977-bc94-4742-a92f-d874185cea9f" />
 
