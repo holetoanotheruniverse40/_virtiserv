@@ -2,14 +2,31 @@
 layout: default
 ---
 
-[Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)  /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM)
+[Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)  /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM) // [Eminem - Bad Guy](https://youtu.be/F9bSo8CBD5I?list=PLPS8Md-CVcrERpCtqnLQl0kz5nWtykZ3I)
 
 ---
+
+
+
+# Trip to Mars (1924)
+by [Fleischer Studios](https://fleischerstudios.com/) and [Paramount Pictures](https://www.paramountpictures.com/) // [creator:"Fleischer Studios and Paramount Pictures"](https://archive.org/search?query=creator%3A%22Fleischer+Studios+and+Paramount+Pictures%22) @NASA-PDS @
+[imdb.com/title/tt0015431/](https://www.imdb.com/title/tt0015431/) // [director:"Dave Fleischer"](https://archive.org/search?query=director%3A%22Dave+Fleischer%22)
+
+<iframe src="https://archive.org/embed/silent-trip-to-mars" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+A Trip to Mars (1918)
+<iframe src="https://archive.org/embed/silent-a-trip-to-mars" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
 
 # Gulliver's Travels (1939)
 by [Fleischer Studios](https://fleischerstudios.com/) and [Paramount Pictures](https://www.paramountpictures.com/) // [creator:"Fleischer Studios and Paramount Pictures"](https://archive.org/search?query=creator%3A%22Fleischer+Studios+and+Paramount+Pictures%22)
 ### [@Paramount-Engineering @StateOfCalifornia Showdown Ends With Deal](https://www.tmz.com/2026/09/21/paramount-california-settlement-warner-bros-merger/)
-@paramount-engineering , @pp-webhosting @cbs-news-data [`WATCH` - archive.org/details/gullivers-travels-1939 @blackgirlscode @usgs @Nasa-JPL](https://archive.org/details/gullivers-travels-1939)
+@paramount-engineering , @pp-webhosting @cbs-news-data [`WATCH` - archive.org/details/gullivers-travels-1939 @blackgirlscode @usgs @Nasa-JPL](https://archive.org/details/gullivers-travels-1939) // [Max Fleischer's Color Classics - The Complete Collection](https://archive.org/details/max-fleischers-color-classics)
+
 <iframe src="https://archive.org/embed/gullivers-travels-1939" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/b4bd29f0-49be-48ba-9f6f-3f93a1265da0/2025+banner.jpg](https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/b4bd29f0-49be-48ba-9f6f-3f93a1265da0/2025+banner.jpg)
