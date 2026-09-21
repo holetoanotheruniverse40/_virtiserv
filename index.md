@@ -6,7 +6,10 @@ layout: default
 
 ---
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/db960b24-b077-4e24-be04-3f88bdd45e88" />
+![ @GuideToIceland hi we had a guy with an Iceland hat on the commuter light rail this mornign a guy with a @NFL `Rams` and a @UCLA hat were with him @nasa-jpl @doug-newman-nasa do we have political issues collecting data over Iceland ? I tried [Emit-SDS](https://earth.jpl.nasa.gov/emit/) & [EcoStress](https://ecostress.jpl.nasa.gov/)  https://ecostress.jpl.nasa.gov/logo.png](https://ecostress.jpl.nasa.gov/logo.png)
+@GuideToIceland hi we had a guy with an Iceland hat on the commuter light rail this mornign a guy with a @NFL `Rams` and a @UCLA hat were with him @nasa-jpl @doug-newman-nasa do we have political issues collecting data over Iceland ? I tried [Emit-SDS](https://earth.jpl.nasa.gov/emit/) & [EcoStress](https://ecostress.jpl.nasa.gov/) 
+
+<img   alt="image @GuideToIceland hi we had a guy with an Iceland hat on the commuter light rail this mornign a guy with a @NFL `Rams` and a @UCLA hat were with him @nasa-jpl @doug-newman-nasa do we have political issues collecting data over Iceland ? I tried [Emit-SDS](https://earth.jpl.nasa.gov/emit/) & [EcoStress](https://ecostress.jpl.nasa.gov/)  " src="https://github.com/user-attachments/assets/db960b24-b077-4e24-be04-3f88bdd45e88" />
 
 
 # Trip to Mars (1924)
