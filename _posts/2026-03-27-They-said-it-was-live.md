@@ -8,6 +8,31 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+
+
+### Attorney General Bonta gives update on Paramount merger
+[`WATCH` - youtu.be/CtI1mrJ5Ms4](https://youtu.be/CtI1mrJ5Ms4)
+@paramount-engineering , @pp-webhosting has no public repositories , if you guys can pass @cia and @deptofwar backgroundchecks we can host ya over at [@nasa-pds in altadena @podaac](https://www.paramount.com/about/brands/cbs-news)! [@cbsi-cbscom](https://podaac.jpl.nasa.gov/) gm @CityOfLosAngeles @la-county-isd 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CtI1mrJ5Ms4?si=H6D6gjviErCNG4sT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/08341223-461f-44ef-b3ef-7bf935926124" />
+
+
+[@foratlanta @nasa-pds youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26) [youtu.be/DaeB0UVQz3Q](https://youtu.be/DaeB0UVQz3Q) @cityoflosangles 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaeB0UVQz3Q?si=nNMEtASW6RD4WEV6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1e40f837-183f-43af-8297-e47356005e55" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/cd41c9c8-42d6-4aa2-905f-591587a9bbac" />
+
+
+@thakasErikaselassie_kelly#1​gm @keishaforga its rashard i want to check if @lanajharris is @RubiRoseVEVO @coileray or @riconasty... im trying to catch up with LatriceFitzpatrick of @HowardUNiVersity she was my last significantO
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines.
+Learn more@voncherw​#1​🤎💐💐
+@thakasErikaselassie_kelly#1​@chloebaileywashere i saw on @google's business dir that @dance411 was permanantly closed @keishaforga its rashard iWant to check if @lanajharris is @RubiRoseVEVO @coileray or @riconasty @hot97 @v103
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iLzH-KppQCo?si=OwBnGM_xUf5ntToB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_vREuEPDqkQ?si=uuWcy5Hga8sgZPoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -25,6 +50,10 @@ author: RashardKelly @nasa-jpl
 _Secretary of War Pete Hegseth speaks to employees at Saronic Technologies during an Arsenal of Freedom tour stop in Austin, Texas, Sept. 18, 2026._ @nasa-pds @ussf-orbit @dhs-gov @fbicyber
 @Blackgirlscode @whitehouse @nasa-jpl [Pete Hegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) is Giving a Speech @CityOfLosangeles something about a golden age in america @disney im making comment based on `EducationForDeath` @howard-university-web-services [House Resolution 935 Impeaching Peter B. Hegseth, Secretary of Defense of the United States, for high crimes and misdemeanors.](https://thanedar.house.gov/resolution) // [`WATCH` - Speaker Johnson blocked Hegseth impeachment vote: Rep. Massie](https://youtu.be/GncrPf6MjMs?si=q61__BdOvydUsZzu) // [`WATCH` -
 18 dead, dozens of aircraft destroyed in Iran and what is Hegseth focused on? 'Impeccable grooming'](https://youtu.be/r-zOzBvOzVw?si=3MtXR0Q99iisgwVu)
+
+{% include watchlist.md %}
+
+{% include gamelist.md %}
 
 <img  alt="image @Nasa @eodis-nasa @cityofnewyork @NewYorkCityCouncil @doug-newman-nasa I need you all to know I was in a relationship that got vandalized by porn and need help to get legal relief and boundaries with and from [dance411 @Blackgirlscode @disney ](https://www.dance411.com/) @LA-county-isd @cityoflosangeles @emit-sds @UCLA " src="https://github.com/user-attachments/assets/620b7490-20ab-42f3-afa4-e2a5afa98c0f" />
 
