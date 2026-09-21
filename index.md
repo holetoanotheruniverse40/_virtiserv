@@ -6,6 +6,9 @@ layout: default
 
 ---
 
+
+![@howard-university-web-services https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.gif) 
+
 ![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20262581900_GOES18-ABI-FD-DMW-1808x1808.jpg](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20262581900_GOES18-ABI-FD-DMW-1808x1808.jpg) 
 
 ![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DayNightCloudMicroCombo/GOES18-CONUS-DayNightCloudMicroCombo-625x375.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DayNightCloudMicroCombo/GOES18-CONUS-DayNightCloudMicroCombo-625x375.gif)
