@@ -6,8 +6,8 @@ layout: default
 
 ---
 
-Gulliver's Travels (1939)
-by [Fleischer Studios](https://fleischerstudios.com/) and [Paramount Pictures](https://www.paramountpictures.com/)
+# Gulliver's Travels (1939)
+by [Fleischer Studios](https://fleischerstudios.com/) and [Paramount Pictures](https://www.paramountpictures.com/) // [creator:"Fleischer Studios and Paramount Pictures"](https://archive.org/search?query=creator%3A%22Fleischer+Studios+and+Paramount+Pictures%22)
 ### [@Paramount-Engineering @StateOfCalifornia Showdown Ends With Deal](https://www.tmz.com/2026/09/21/paramount-california-settlement-warner-bros-merger/)
 @paramount-engineering , @pp-webhosting @cbs-news-data [`WATCH` - archive.org/details/gullivers-travels-1939 @blackgirlscode @usgs @Nasa-JPL](https://archive.org/details/gullivers-travels-1939)
 <iframe src="https://archive.org/embed/gullivers-travels-1939" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
