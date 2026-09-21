@@ -7,6 +7,12 @@ layout: default
 ---
 
 
+### Attorney General Bonta gives update on Paramount merger
+[`WATCH` - youtu.be/CtI1mrJ5Ms4](https://youtu.be/CtI1mrJ5Ms4)
+@paramount-engineering , @pp-webhosting has no public repositories , if you guys can pass @cia and @deptofwar backgroundchecks we can host ya over at @nasa-pds in altadena @podaac! [@cbsi-cbscom](https://podaac.jpl.nasa.gov/) gm @CityOfLosAngeles @la-county-isd 
+<img  alt="image" src="https://github.com/user-attachments/assets/08341223-461f-44ef-b3ef-7bf935926124" />
+
+
 [@foratlanta @nasa-pds youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26) [youtu.be/DaeB0UVQz3Q](https://youtu.be/DaeB0UVQz3Q) @cityoflosangles 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1e40f837-183f-43af-8297-e47356005e55" />
