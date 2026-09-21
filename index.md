@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)  /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM) // [Eminem - Bad Guy](https://youtu.be/F9bSo8CBD5I?list=PLPS8Md-CVcrERpCtqnLQl0kz5nWtykZ3I) // [Pusha T - Drug Dealers Anonymous Feat. Jay Z ](https://youtu.be/COCpn1W13Kw?list=RDCOCpn1W13Kw) // [Succa Proof - Nipsey Hussle, Victory Lap](https://youtu.be/rQEuF5QI0Q8?list=RDrQEuF5QI0Q8) // [JAŸ-Z, Kanye West - Otis ft. Otis Redding](https://youtu.be/BoEKWtgJQAU?list=RDBoEKWtgJQAU) // [Lil Wayne - 6 Foot 7 Foot ft. Cory Gunz ](https://youtu.be/c7tOAGY59uQ?list=RDc7tOAGY59uQ) // [Lil Wayne - A Milli](https://youtu.be/1Vf4mMCpNY0?list=RDc7tOAGY59uQ) // [Young Jeezy - Lose My Mind ft. Plies](https://youtu.be/Tsmqrk7Wgsk?list=RDTsmqrk7Wgsk)
+[Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)  /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM) // [Eminem - Bad Guy](https://youtu.be/F9bSo8CBD5I?list=PLPS8Md-CVcrERpCtqnLQl0kz5nWtykZ3I) // [Pusha T - Drug Dealers Anonymous Feat. Jay Z ](https://youtu.be/COCpn1W13Kw?list=RDCOCpn1W13Kw) // [Succa Proof - Nipsey Hussle, Victory Lap](https://youtu.be/rQEuF5QI0Q8?list=RDrQEuF5QI0Q8) // [JAŸ-Z, Kanye West - Otis ft. Otis Redding](https://youtu.be/BoEKWtgJQAU?list=RDBoEKWtgJQAU) // [Lil Wayne - 6 Foot 7 Foot ft. Cory Gunz ](https://youtu.be/c7tOAGY59uQ?list=RDc7tOAGY59uQ) // [Lil Wayne - A Milli](https://youtu.be/1Vf4mMCpNY0?list=RDc7tOAGY59uQ) // [Young Jeezy - Lose My Mind ft. Plies](https://youtu.be/Tsmqrk7Wgsk?list=RDTsmqrk7Wgsk) // [T.I. - About The Money ft. Young Thug](https://youtu.be/etfIdtm-OC8?list=RDetfIdtm-OC8) // [Young Jeezy - Leave You Alone (Explicit) ft. Ne-Yo](https://youtu.be/3B3EgW5zvKU?list=RD3B3EgW5zvKU) // [Rich Homie Quan - Type of Way @ForAtlanta](https://youtu.be/-KKbdErJkiY?list=RD-KKbdErJkiY)
 
 ---
 
@@ -11,7 +11,10 @@ layout: default
 # Sentinel satellites – an introduction
 [`READ` - space4climate.com/sentinel-satellites-an-introduction/](https://space4climate.com/sentinel-satellites-an-introduction/) 
 
-@ESA Sentinel has Iceland data [@NFL `Rams` and a @UCLA hat were with him @nasa-jpl @doug-newman-nasa @asfadmin ]
+@ESA Sentinel has Iceland data 
+@isro I don't know why a guy had an Iceland hat was in @CityOfLosAngeles but @nasa is havein some sort of issue collecting data over Iceland at the very least its @nasa-jpl @nasa-giss and I need someone to know there's a data collection anomolie @doug-newman-nasa [search.earthdata.nasa.gov/search/granules?p=C=emit&](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&q=emit&sb[0]=-21.99162%2C63.99879%2C-15.25414%2C66.67391&lat=56.27271921520382&long=-17.166583934118826&zoom=4.606903687991041)
+
+[@NFL `Rams` and a @UCLA  @nasa-jpl @doug-newman-nasa @asfadmin ]
 ![https://i0.wp.com/space4climate.com/wp-content/uploads/COPERNICUS-INFORGRAPHIC.png](https://i0.wp.com/space4climate.com/wp-content/uploads/COPERNICUS-INFORGRAPHIC.png) 
 
 
