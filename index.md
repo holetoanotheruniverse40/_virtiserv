@@ -2,14 +2,30 @@
 layout: default
 ---
 
-[Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)  /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM) // [Eminem - Bad Guy](https://youtu.be/F9bSo8CBD5I?list=PLPS8Md-CVcrERpCtqnLQl0kz5nWtykZ3I) // [Pusha T - Drug Dealers Anonymous Feat. Jay Z ](https://youtu.be/COCpn1W13Kw?list=RDCOCpn1W13Kw) // [Succa Proof - Nipsey Hussle, Victory Lap](https://youtu.be/rQEuF5QI0Q8?list=RDrQEuF5QI0Q8) // [JAŸ-Z, Kanye West - Otis ft. Otis Redding](https://youtu.be/BoEKWtgJQAU?list=RDBoEKWtgJQAU) // [Lil Wayne - 6 Foot 7 Foot ft. Cory Gunz ](https://youtu.be/c7tOAGY59uQ?list=RDc7tOAGY59uQ) // [Lil Wayne - A Milli](https://youtu.be/1Vf4mMCpNY0?list=RDc7tOAGY59uQ)
+[Living Proof · Bad Meets Evil](https://youtu.be/DNCJmLCEL9E) // [Jaylib - The Red (J Dilla Remix)](https://youtu.be/j2N2UiJK3Po) // [Off Air: Beyond The Mic ft. Kash Doll  Relationships, Detroit & Keeping It Real](https://youtu.be/4Rv7BI1xZe0)  /// [I Just Wanna Be Your Girl · Chapter 8](https://youtu.be/B2rKsLgPHfM) // [Eminem - Bad Guy](https://youtu.be/F9bSo8CBD5I?list=PLPS8Md-CVcrERpCtqnLQl0kz5nWtykZ3I) // [Pusha T - Drug Dealers Anonymous Feat. Jay Z ](https://youtu.be/COCpn1W13Kw?list=RDCOCpn1W13Kw) // [Succa Proof - Nipsey Hussle, Victory Lap](https://youtu.be/rQEuF5QI0Q8?list=RDrQEuF5QI0Q8) // [JAŸ-Z, Kanye West - Otis ft. Otis Redding](https://youtu.be/BoEKWtgJQAU?list=RDBoEKWtgJQAU) // [Lil Wayne - 6 Foot 7 Foot ft. Cory Gunz ](https://youtu.be/c7tOAGY59uQ?list=RDc7tOAGY59uQ) // [Lil Wayne - A Milli](https://youtu.be/1Vf4mMCpNY0?list=RDc7tOAGY59uQ) // [Young Jeezy - Lose My Mind ft. Plies](https://youtu.be/Tsmqrk7Wgsk?list=RDTsmqrk7Wgsk)
 
 ---
 
 
+
+# Sentinel satellites – an introduction
+[`READ` - space4climate.com/sentinel-satellites-an-introduction/](https://space4climate.com/sentinel-satellites-an-introduction/)
+![https://i0.wp.com/space4climate.com/wp-content/uploads/COPERNICUS-INFORGRAPHIC.png](https://i0.wp.com/space4climate.com/wp-content/uploads/COPERNICUS-INFORGRAPHIC.png) 
+
+
+S1D_EW_GRDM_1SDH_20260918T184228_20260918T184328_004636_008A66_EE30
+[Sentinel-1 @ESA](https://sentiwiki.copernicus.eu/web/s1-mission) • C-Band
+<img  alt="S1D_EW_GRDM_1SDH_20260918T184228_20260918T184328_004636_008A66_EE30 (1)" src="https://github.com/user-attachments/assets/73754ba8-a5ee-4547-9cda-7d3224f73856" />
+
+S1D_IW_GRDH_1SDV_20260916T185822_20260916T185847_004607_00896C_D4B5
+Sentinel-1 • C-Band
+<img   alt="S1D_IW_GRDH_1SDV_20260916T185822_20260916T185847_004607_00896C_D4B5" src="https://github.com/user-attachments/assets/e451db18-fb40-44ba-a38a-374a96ba1cfe" />
+
 S1D_EW_GRDM_1SDH_20260921T074907_20260921T075016_004673_008BAE_DCF5
 Sentinel-1 • C-Band @asfadmin @emit-sds [search.asf.alaska.edu/&dataset=SENTINEL-1](https://search.asf.alaska.edu/#/?zoom=6.489&center=-18.740,63.961&polygon=POLYGON((-23.2914%2063.5508,-13.7819%2063.5508,-13.7819%2066.3698,-23.2914%2066.3698,-23.2914%2063.5508))&resultsLoaded=true&granule=S1D_EW_GRDM_1SDH_20260921T074907_20260921T075016_004673_008BAE_DCF5-GRD_MD&dataset=SENTINEL-1)
 <img   alt="S1D_EW_GRDM_1SDH_20260921T074907_20260921T075016_004673_008BAE_DCF5" src="https://github.com/user-attachments/assets/e00ad7a2-67e1-4b74-a48a-a14a944a6e46" />
+
+![https://sentiwiki.copernicus.eu/__attachments/a_c688717dd0338265fa4eb7e8e5172b460d3eb0f58fed2701c03b1f7b02e61ef3/image-20230522-072230.png?cb=488982159e7e689259d10e0ce47c2145](https://sentiwiki.copernicus.eu/__attachments/a_c688717dd0338265fa4eb7e8e5172b460d3eb0f58fed2701c03b1f7b02e61ef3/image-20230522-072230.png?cb=488982159e7e689259d10e0ce47c2145)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/24147ccc-bea5-4bfb-a0a7-b6fb857efef8" />
 
