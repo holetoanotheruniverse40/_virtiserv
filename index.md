@@ -5,6 +5,7 @@ layout: default
 
 
 storms over the fertile valley [@stateofcalifornia](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif) - rashard @nasa-jpl @eodis-nasa
+
 ![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif)
 
 [Pubic Enemy · A Tribe Called Quest](https://youtu.be/M2fqWjKlPpo?si=e-_zgldIpi8U0gYy) // [Area - De LA SouL](https://youtu.be/PxiVxvbb3QY?si=_EeB0mvPOBO4eWAJ) // [OJ Da Juiceman - Frank Sinatra](https://youtu.be/XCz2BhlS1YM?si=2qj3gPEDmfGcpNQ2) // [
