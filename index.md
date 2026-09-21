@@ -6,6 +6,13 @@ layout: default
 
 ---
 
+
+## Mars Perseverance Sol 23: Parachute Up-Look Camera B
+[https://mars.nasa.gov/mars2020/multimedia/raw-images/EBE_0023_0668979712_129ECM_N0030770EDLC00023_0020LUJ](https://mars.nasa.gov/mars2020/multimedia/raw-images/EBE_0023_0668979712_129ECM_N0030770EDLC00023_0020LUJ)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00023/ids/edr/browse/edl/EBE_0023_0668979712_129ECM_N0030770EDLC00023_0020LUJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00023/ids/edr/browse/edl/EBE_0023_0668979712_129ECM_N0030770EDLC00023_0020LUJ01_1200.jpg)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00121/ids/edr/browse/edl/ESF_0121_0677684555_262ECM_N0041250EDLC00120_0010LUJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00121/ids/edr/browse/edl/ESF_0121_0677684555_262ECM_N0041250EDLC00120_0010LUJ01_1200.jpg)
+
+
 ![@foratlanta @gatech - @BLACKGiRLSCODE - https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/se/EXTENT3/GOES19-SE-EXTENT3-600x600.gif rashard @nasa-jpl @nasa-pds](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/se/EXTENT3/GOES19-SE-EXTENT3-600x600.gif)
 
 ![@howard-university-web-services https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.gif) 
