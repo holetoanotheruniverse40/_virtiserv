@@ -9,7 +9,8 @@ author: RashardKelly @nasa-jpl
 ---
 
 
-
+# City Council Meeting 9/22/2026 @ForAtlanta [`WATCH` - ](https://youtu.be/tlwaokDTVZU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlwaokDTVZU?si=Ju3f304fZBsKT_uy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 🔴 Madina Live Today  بث مباشر المدينة المنورة
 [`WATCH` Masjid An Nabawi youtu.be/aftJ8mH3Dlc](https://youtu.be/aftJ8mH3Dlc)
