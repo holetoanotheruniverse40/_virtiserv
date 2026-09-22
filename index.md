@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+[Cheryl 'Salt" James on 40 Years in Hip Hop, Fighting for Her Masters & Debut Solo Album](https://youtu.be/3lnwI9Z5ZmE) // 
 
 # Newest Coast Guard Air Station opens in California
 [`WATCH` - youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj](https://youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj)
