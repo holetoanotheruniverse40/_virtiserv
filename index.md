@@ -11,6 +11,7 @@ layout: default
 
 [Southern Vangard Radio Episode 458 `WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY)
 <img alt="image" src="https://github.com/user-attachments/assets/e37b8268-9b25-4f34-91f0-4661ed52c33c" />
+<img   alt="image" src="https://github.com/user-attachments/assets/aedff3fb-24ee-4ab8-8783-d5eac3a24500" />
 
 ## Mars Perseverance Sol 23: Parachute Up-Look Camera B
 [https://mars.nasa.gov/mars2020/multimedia/raw-images/EBE_0023_0668979712_129ECM_N0030770EDLC00023_0020LUJ](https://mars.nasa.gov/mars2020/multimedia/raw-images/EBE_0023_0668979712_129ECM_N0030770EDLC00023_0020LUJ)
