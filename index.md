@@ -12,6 +12,7 @@ layout: default
 
 ![https://www. @whitehouse .gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo-blue.webp](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo-blue.webp) 
 
+![https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260917JB-0285.jpg?resize=1200,800](https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260917JB-0285.jpg?resize=1200,800) 
 
 # Democrats Forum on ICE Shootings
 [WATCH @WHiTEHOUSE @CiTYOFLOSANGELES - youtu.be/2Mjy5g7HGqU](https://youtu.be/2Mjy5g7HGqU)
