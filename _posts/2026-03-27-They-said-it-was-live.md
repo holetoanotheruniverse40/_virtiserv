@@ -8,6 +8,15 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+
+## 🔴 Madina Live Today  بث مباشر المدينة المنورة
+[`WATCH` Masjid An Nabawi youtu.be/aftJ8mH3Dlc](https://youtu.be/aftJ8mH3Dlc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aftJ8mH3Dlc?si=SexqmRi_TiYqgZ4t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bc506325-8512-4aba-b9ef-d4f9497826f3" />
+
+
 ### Southern Vangard Radio Episode 458
 
 [`WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY)
