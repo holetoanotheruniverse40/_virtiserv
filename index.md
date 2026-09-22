@@ -12,7 +12,7 @@ layout: default
 
 @blackgirlscode check on the situation , worst case he's not offended anyone else! @disney 
 [`WATCH` - youtu.be/-9h95lDvTac](https://youtu.be/-9h95lDvTac)
-[LA Graffiti / FX CREW & STP CREW @ 3:55 - 50 YEARS OF HIPHOP MURAL 3/2023 Monstroe @ 13:02](https://youtu.be/jd-5KIRUtAw) // [Atlanta Style Writing - Influential Graffiti Artists Test Their Skills](https://youtu.be/l9GahWY_-wY) // [FX CREW Graffiti Writers Crew New York, 1998 VHS documentary](https://youtu.be/2SojebL03K0)
+[LA Graffiti / FX CREW & STP CREW @ 3:55 - 50 YEARS OF HIPHOP MURAL 3/2023 Monstroe @ 13:02](https://youtu.be/jd-5KIRUtAw) // [Atlanta Style Writing - Influential Graffiti Artists Test Their Skills](https://youtu.be/l9GahWY_-wY) // [FX CREW Graffiti Writers Crew New York, 1998 VHS documentary](https://youtu.be/2SojebL03K0) // [H.E.R. on Being California’s Most Talented Kid, Favorite Filipino Food & New Movie Forgotten Island](https://youtu.be/WmjIOrhBDIs)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/3d8b9792-906e-4be6-94ea-e3b56ca49dbf" />
 <img alt="image" src="https://github.com/user-attachments/assets/ff60a731-ba68-482c-b96b-cc6a17bbb31a" />
