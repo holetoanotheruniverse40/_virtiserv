@@ -4,6 +4,13 @@ layout: default
 
 [Cheryl 'Salt" James on 40 Years in Hip Hop, Fighting for Her Masters & Debut Solo Album](https://youtu.be/3lnwI9Z5ZmE) // 
 
+## White House Gate Crash, McDonald's Kidnapping & Flock Camera Hack
+[`WATCH` - https://youtu.be/Tl2Cdw8iaP0](https://youtu.be/Tl2Cdw8iaP0)
+
+[Crazed woman who tried to kidnap 4-year-old on NYC street arrested - CaliforniaPost](https://nypost.com/2026/09/19/us-news/brooklyn-woman-arrested-after-fleeing-attempt-to-snatch-4-year-old-boy-from-grandma-outside-mcdonalds/)
+Secret Service Investigating After Man Drives Onto Sidewalk Near White House - [people.com/secret-service-investigating-after-man-drives-onto-lawn-near-white-house-12129263](https://people.com/secret-service-investigating-after-man-drives-onto-lawn-near-white-house-12129263)
+![people.com/thmb/f52RbYylwnaLMKXJ7kiH-NVMN2E=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/Man-Drives-Onto-Sidewalk-091925-a64ebff5aa8342179a78e0ccbb647e91.jpg](https://people.com/thmb/f52RbYylwnaLMKXJ7kiH-NVMN2E=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/Man-Drives-Onto-Sidewalk-091925-a64ebff5aa8342179a78e0ccbb647e91.jpg) 
+
 # Newest Coast Guard Air Station opens in California
 [`WATCH` - youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj](https://youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj)
 @Nasa-jpl i see there is an air station close to us @La-County-isd @CityOfLosAngeles make sure you know how to contact them @cbs-nes-data @nbcnews @foxnews @USATODAY [insta - @instagram .com/`uscg_airstation_ventura`/?hl=en](https://www.instagram.com/uscg_airstation_ventura/?hl=en)
