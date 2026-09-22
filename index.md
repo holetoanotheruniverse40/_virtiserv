@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [David Banner - Like A Pimp  ft. Lil' Flip](https://youtu.be/MKGQ5cIw_ew?si=eXrM2UkvNJOA7o8F) // [JAŸ-Z - What More Can I Say](https://youtu.be/ws2lAMea-Is?list=RDSzHCdn7igPk) // [Southern Vangard Radio Episode 458 `WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY)
+[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [David Banner - Like A Pimp  ft. Lil' Flip](https://youtu.be/MKGQ5cIw_ew?si=eXrM2UkvNJOA7o8F) // [JAŸ-Z - What More Can I Say](https://youtu.be/ws2lAMea-Is?list=RDSzHCdn7igPk) // [Southern Vangard Radio Episode 458 `WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY) // [Flip The Script - Book Preview](https://youtu.be/xzssdBMPST0)
 
 ---
 
@@ -12,11 +12,22 @@ layout: default
 
 @blackgirlscode check on the situation , worst case he's not offended anyone else! @disney 
 [`WATCH` - youtu.be/-9h95lDvTac](https://youtu.be/-9h95lDvTac)
-[LA Graffiti / FX CREW & STP CREW @ 3:55 - 50 YEARS OF HIPHOP MURAL 3/2023 Monstroe @ 13:02](https://youtu.be/jd-5KIRUtAw) // [Atlanta Style Writing - Influential Graffiti Artists Test Their Skills](https://youtu.be/l9GahWY_-wY)
+[LA Graffiti / FX CREW & STP CREW @ 3:55 - 50 YEARS OF HIPHOP MURAL 3/2023 Monstroe @ 13:02](https://youtu.be/jd-5KIRUtAw) // [Atlanta Style Writing - Influential Graffiti Artists Test Their Skills](https://youtu.be/l9GahWY_-wY) // [FX CREW Graffiti Writers Crew New York, 1998 VHS documentary](https://youtu.be/2SojebL03K0)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/3d8b9792-906e-4be6-94ea-e3b56ca49dbf" />
 <img alt="image" src="https://github.com/user-attachments/assets/ff60a731-ba68-482c-b96b-cc6a17bbb31a" />
 
+## Documental / TATS CRU The Mural Kings
+[`WATCH` - https://youtu.be/pmgDIGtamFA](https://youtu.be/pmgDIGtamFA) f a in the url ! [@Blackgirlscode - freeagentscrew.com](https://freeagentscrew.com/)
+<img  alt="image" src="https://github.com/user-attachments/assets/b58ad7e7-eff1-4f32-b4a5-527b4533313c" />
+![https://freeagentscrew.com/wp-content/uploads/2024/08/2024-FA-Site-header.jpg](https://freeagentscrew.com/wp-content/uploads/2024/08/2024-FA-Site-header.jpg) 
+
+# [Dekae](https://freeagentscrew.com/tag/dekae/) FA, Inkheads - Miami, March 2023
+[`WATCH` - youtu.be/Zg9H7urB3kk](https://youtu.be/Zg9H7urB3kk)
+DEKAE was one of February 2023's guest jurists for the hand style battles we host on the Handselecta Instagram. 
+
+He started writing in Miami, 1983. We chat about his personal history, his traveling and photo trading in the days before the internet and his mixed feelings and responsibility around being part of the early wave of graffiti on the internet as part of the crew that borough us 12ozProphet.com
+<img alt="image" src="https://github.com/user-attachments/assets/8e9504e4-4945-4ce2-a41f-ee432599cebc" />
 
 ## 🔴 Madina Live Today  بث مباشر المدينة المنورة
 [`WATCH` Masjid An Nabawi youtu.be/aftJ8mH3Dlc](https://youtu.be/aftJ8mH3Dlc)
