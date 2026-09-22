@@ -2,8 +2,15 @@
 layout: default
 ---
 
-[Cheryl 'Salt" James on 40 Years in Hip Hop, Fighting for Her Masters & Debut Solo Album](https://youtu.be/3lnwI9Z5ZmE) // 
+[Cheryl 'Salt" James on 40 Years in Hip Hop, Fighting for Her Masters & Debut Solo Album](https://youtu.be/3lnwI9Z5ZmE) // [Royal Absurdities Episode 2: Tiny's Defiance & Tip's Vendetta](https://youtu.be/qy40h9FFBL4) 
 
+
+
+
+
+@la-coiunty-isd 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/93df47b7-1a9e-4f94-8c52-a2abf0ffceb8" />
 
 ## Atlanta Mud Fest, Minnesota Town Flooded & Colorado Giant Hail
 [`WATCH` - youtu.be/7QCyFzHzQA8 @ForAtlanta](https://youtu.be/7QCyFzHzQA8)
