@@ -9,6 +9,8 @@ author: RashardKelly @nasa-jpl
 ---
 
 
+
+
 ## 🔴 Madina Live Today  بث مباشر المدينة المنورة
 [`WATCH` Masjid An Nabawi youtu.be/aftJ8mH3Dlc](https://youtu.be/aftJ8mH3Dlc)
 
@@ -16,6 +18,11 @@ author: RashardKelly @nasa-jpl
 
 <img  alt="image" src="https://github.com/user-attachments/assets/bc506325-8512-4aba-b9ef-d4f9497826f3" />
 
+
+
+## HOT 97 News Live! 9/21/26
+[`WATCH` - youtu.be/lN5XgjkRxxE](https://youtu.be/lN5XgjkRxxE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lN5XgjkRxxE?si=FNaSejgWVfvhsERF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Southern Vangard Radio Episode 458
 
