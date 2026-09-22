@@ -2,10 +2,15 @@
 layout: default
 ---
 
-[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [David Banner - Like A Pimp  ft. Lil' Flip](https://youtu.be/MKGQ5cIw_ew?si=eXrM2UkvNJOA7o8F) // [JAŸ-Z - What More Can I Say](https://youtu.be/ws2lAMea-Is?list=RDSzHCdn7igPk)
+[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [David Banner - Like A Pimp  ft. Lil' Flip](https://youtu.be/MKGQ5cIw_ew?si=eXrM2UkvNJOA7o8F) // [JAŸ-Z - What More Can I Say](https://youtu.be/ws2lAMea-Is?list=RDSzHCdn7igPk) // [Southern Vangard Radio Episode 458 `WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY)
 
 ---
 
+
+### Southern Vangard Radio Episode 458
+
+[Southern Vangard Radio Episode 458 `WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY)
+<img alt="image" src="https://github.com/user-attachments/assets/e37b8268-9b25-4f34-91f0-4661ed52c33c" />
 
 ## Mars Perseverance Sol 23: Parachute Up-Look Camera B
 [https://mars.nasa.gov/mars2020/multimedia/raw-images/EBE_0023_0668979712_129ECM_N0030770EDLC00023_0020LUJ](https://mars.nasa.gov/mars2020/multimedia/raw-images/EBE_0023_0668979712_129ECM_N0030770EDLC00023_0020LUJ)
