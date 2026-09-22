@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Lapalux - Closure ](https://youtu.be/RhDmY8JT6wA) // [DJ Babu - Mixtape (Vol.2) (feat. Sean Price, Billy Danze, Swollen Members, Blackalicious...)](https://youtu.be/6jkxQ2SA9rs)
+[Lapalux - Closure ](https://youtu.be/RhDmY8JT6wA) // [DJ Babu - Mixtape (Vol.2) (feat. Sean Price, Billy Danze, Swollen Members, Blackalicious...)](https://youtu.be/6jkxQ2SA9rs) // [Tokyo Jetz "The One"](https://youtu.be/dMONFTXuMhA) // [Queens Cast, Eve, Brandy - Rap Battle ](https://youtu.be/-WcQZJJCYT8) // [Queens 4 (2023 Hottest Female Rappers - Cypher Like Mix)](https://youtu.be/PQuaztBuTuw) // [DJ Muggs - The Assassins Mixtape (feat. Mobb Deep, KRS-One, Kurupt, Funkdoobiest, Dr. Dre, B-Real)](https://youtu.be/TPtff-cqpfQ)
 
 ---
 
