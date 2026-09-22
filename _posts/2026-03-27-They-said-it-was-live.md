@@ -8,7 +8,38 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+### Southern Vangard Radio Episode 458
 
+[`WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY)
+<img alt="image" src="https://github.com/user-attachments/assets/e37b8268-9b25-4f34-91f0-4661ed52c33c" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LVTa9L241DY?si=Ib8Ou1D5G-bl5Cpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Burningman !!!!
+<img  alt="image @deptofwar @nasa-jpl its not fair!!!!! they alreaDY MADE ME MISS @BURNINGMANTECH ITS OUTRIGHT MURDEROUS @SOUNDCLOUD ARE YOU INVOLVED IN MY DEFAMATION AND MOLESTATION @DANCE411 @BLACKGIRLSCODE ? ? ? @CITYOFLOSANGELES @WHITEHOUSE @fORaTLANTA " src="https://github.com/user-attachments/assets/dea473c0-23a0-4d74-a802-b79895c76d78" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@howard-university-web-services @whitehouse @caltech @BLACKGiRLSCODE @CityOFLOSANGELES @FORATLANTA @EMORY @GATECH @CALTECH
+
+[@nasa-pds @nasa-jpl brcdashboard.burningman.org/](https://brcdashboard.burningman.org/)
+<img  alt="image" src="https://github.com/user-attachments/assets/485f3cd3-e674-43a7-af4b-8efdf9000893" />
+
+@nasa-jpl @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [burningman.org/](https://burningman.org/) // [ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
+[youtube.com/@burningman](https://www.youtube.com/@burningman) 
+
+# NS Records 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| burningman.org | matt.ns.cloudflare.com. | 21600 | 
+| burningman.org | michelle.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | danica.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | alec.ns.cloudflare.com. | 21600 | 
+
+
+
+[blackrockcity.online/map/](https://blackrockcity.online/map/)
+<img  alt="image" src="https://github.com/user-attachments/assets/bda2595c-1b4f-496e-895d-a7d0a464d458" />
 
 ### Attorney General Bonta gives update on Paramount merger
 [`WATCH` - youtu.be/CtI1mrJ5Ms4](https://youtu.be/CtI1mrJ5Ms4)
