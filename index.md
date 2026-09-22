@@ -7,6 +7,14 @@ layout: default
 ---
 
 
+# north america heat anomolies
+@cityofsantamonica @nasa-jpl 
+[Link - https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,terra_crc,earth;@-118.8,38.8,7.3z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,terra_crc,earth;@-118.8,38.8,7.3z)
+<img   alt="image" src="https://github.com/user-attachments/assets/b250a306-97a0-4420-9092-4b9eedb4cd33" />
+<img  alt="image" src="https://github.com/user-attachments/assets/da85770f-b95c-419e-8b18-b6084c87d852" />
+
+
+
 # Democrats Forum on ICE Shootings
 [WATCH @WHiTEHOUSE @CiTYOFLOSANGELES - youtu.be/2Mjy5g7HGqU](https://youtu.be/2Mjy5g7HGqU)
 /// [Why ICE Is Secretly Firing Thousands Of New Officers - `WATCH`](https://youtu.be/tcSpIvIk7pg?t=1003)
