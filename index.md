@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [David Banner - Like A Pimp  ft. Lil' Flip](https://youtu.be/MKGQ5cIw_ew?si=eXrM2UkvNJOA7o8F) // [JAŸ-Z - What More Can I Say](https://youtu.be/ws2lAMea-Is?list=RDSzHCdn7igPk) // [Southern Vangard Radio Episode 458 `WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY) // [Flip The Script - Book Preview](https://youtu.be/xzssdBMPST0)
+[Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [David Banner - Like A Pimp  ft. Lil' Flip](https://youtu.be/MKGQ5cIw_ew?si=eXrM2UkvNJOA7o8F) // [JAŸ-Z - What More Can I Say](https://youtu.be/ws2lAMea-Is?list=RDSzHCdn7igPk) // [Southern Vangard Radio Episode 458 `WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY) // [Flip The Script - Book Preview](https://youtu.be/xzssdBMPST0) // [J Dilla - The Shining (Promo)](https://youtu.be/2ujXj-uCeiE?list=RD2ujXj-uCeiE)
 
 ![https://mars.nasa.gov/layout/smd/assets/nasa-logo.svg](https://mars.nasa.gov/layout/smd/assets/nasa-logo.svg)
 
@@ -13,7 +13,7 @@ layout: default
 ### Why [Chris](https://chrisbrown.fandom.com/wiki/Chris_Brown) [Brown](https://en.wikipedia.org/wiki/Talk:Chris_Brown) Just Rejected His Own State Honor [`Query` = `Chris Brown`](https://www.google.com/search?sca_esv=f0da1ac9b7a45388&rlz=1CASLJZ_enUS1233&sxsrf=APpeQnu9nRE2O20khoaeQJSH2qhjzaHh5A:1790042249228&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpBml1fU3A7DJSeYYIw7Ru-0IfSG8OiAq-y2FJ_WzTNunw47yLgZqTMacgtkngEuvZt6THVvVL15Y6Mi8kRs3iJMBja9_6nNbrabDz_RexNX1OLmQo24M8fadNk2TzYydDEloelw&q=chris+brown&sa=X&ved=2ahUKEwicpJeDi4GXAxUnOUQIHUdeGpgQtKgLegQIIxAB&cshid=1790042421542805&biw=1414&bih=945&dpr=1#ip=1)
 
 @blackgirlscode check on the situation , worst case he's not offended anyone else! @disney 
-[`WATCH` - youtu.be/-9h95lDvTac](https://youtu.be/-9h95lDvTac)
+[`WATCH` - youtu.be/-9h95lDvTac](https://youtu.be/-9h95lDvTac) /////////// [J Dilla - The Shining (Promo)](https://youtu.be/2ujXj-uCeiE?list=RD2ujXj-uCeiE) ////
 [LA Graffiti / FX CREW & STP CREW @ 3:55 - 50 YEARS OF HIPHOP MURAL 3/2023 Monstroe @ 13:02](https://youtu.be/jd-5KIRUtAw) // [Atlanta Style Writing - Influential Graffiti Artists Test Their Skills](https://youtu.be/l9GahWY_-wY) // [FX CREW Graffiti Writers Crew New York, 1998 VHS documentary](https://youtu.be/2SojebL03K0) // [H.E.R. on Being California’s Most Talented Kid, Favorite Filipino Food & New Movie Forgotten Island](https://youtu.be/WmjIOrhBDIs)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/3d8b9792-906e-4be6-94ea-e3b56ca49dbf" />
