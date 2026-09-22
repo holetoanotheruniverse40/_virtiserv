@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Lapalux - Closure ](https://youtu.be/RhDmY8JT6wA)
+[Lapalux - Closure ](https://youtu.be/RhDmY8JT6wA) // [DJ Babu - Mixtape (Vol.2) (feat. Sean Price, Billy Danze, Swollen Members, Blackalicious...)](https://youtu.be/6jkxQ2SA9rs)
 
 ---
 
