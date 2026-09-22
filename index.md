@@ -9,6 +9,10 @@ layout: default
 [`WATCH` - youtu.be/7QCyFzHzQA8 @ForAtlanta](https://youtu.be/7QCyFzHzQA8)
 <img alt="image" src="https://github.com/user-attachments/assets/bb850a43-39d2-41b8-978a-81e32d7df6cc" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most incredible First Lady. 🇺🇸</p>&mdash; The White House (@WhiteHouse) <a href="https://x.com/WhiteHouse/status/2102455394392015102?ref_src=twsrc%5Etfw">September 22, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 ## White House Gate Crash, McDonald's Kidnapping & Flock Camera Hack
 [`WATCH` - https://youtu.be/Tl2Cdw8iaP0](https://youtu.be/Tl2Cdw8iaP0)
 
