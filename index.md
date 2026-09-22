@@ -10,6 +10,8 @@ layout: default
 [2021 @NASA-PDS](https://www.jpl.nasa.gov/news/press_kits/mars_2020/download/mars_2020_landing_press_kit.pdf) // [2020 @nASA-JPL](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_2020_launch_press_kit.pdf)  Im going to catch up on this doc at some point, and make addition submissions as nesessary still catching up with instructions [Professor Bolden @usc `429 Too Many Requests` @nasa @deptofwar ](https://www.nasa.gov/people/the-honorable-charles-f-bolden-jr/) // [@whitehouse .gov/ostp/information-resources/](https://www.whitehouse.gov/ostp/information-resources/) // [ @LONGBEACHINNOVATIONTEAm nasaimages.org IS BLOCKED FROM THE LIBRARY @esa CHECK IT OUT ](http://www.nasaimages.org/) ////
 <img  alt="image" src="https://github.com/user-attachments/assets/5f0eb909-0d89-4012-b3fe-262a388eba1e" />
 
+![https://www. @whitehouse .gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo-blue.webp](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo-blue.webp) 
+
 
 # Democrats Forum on ICE Shootings
 [WATCH @WHiTEHOUSE @CiTYOFLOSANGELES - youtu.be/2Mjy5g7HGqU](https://youtu.be/2Mjy5g7HGqU)
