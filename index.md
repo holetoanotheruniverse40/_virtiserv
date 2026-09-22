@@ -2,17 +2,10 @@
 layout: default
 ---
 
-[Lapalux - Closure ](https://youtu.be/RhDmY8JT6wA) // [DJ Babu - Mixtape (Vol.2) (feat. Sean Price, Billy Danze, Swollen Members, Blackalicious...)](https://youtu.be/6jkxQ2SA9rs) // [Tokyo Jetz "The One"](https://youtu.be/dMONFTXuMhA) // [Queens Cast, Eve, Brandy - Rap Battle ](https://youtu.be/-WcQZJJCYT8) // [Queens 4 (2023 Hottest Female Rappers - Cypher Like Mix)](https://youtu.be/PQuaztBuTuw) // [DJ Muggs - The Assassins Mixtape (feat. Mobb Deep, KRS-One, Kurupt, Funkdoobiest, Dr. Dre, B-Real) @NASA-jpl im in the orig customer group and being harrassed by newer english speakers @CiTYOFLOSANGELES @LA-COUNTY-Isd ](https://youtu.be/TPtff-cqpfQ)
+[Lapalux - Closure ](https://youtu.be/RhDmY8JT6wA) // [DJ Babu - Mixtape (Vol.2) (feat. Sean Price, Billy Danze, Swollen Members, Blackalicious...)](https://youtu.be/6jkxQ2SA9rs) // [Tokyo Jetz "The One"](https://youtu.be/dMONFTXuMhA) // [Queens Cast, Eve, Brandy - Rap Battle ](https://youtu.be/-WcQZJJCYT8) // [Queens 4 (2023 Hottest Female Rappers - Cypher Like Mix)](https://youtu.be/PQuaztBuTuw) 
 
 ---
 
-
-[2021 @NASA-PDS](https://www.jpl.nasa.gov/news/press_kits/mars_2020/download/mars_2020_landing_press_kit.pdf) // [2020 @nASA-JPL](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_2020_launch_press_kit.pdf)  Im going to catch up on this doc at some point, and make addition submissions as nesessary still catching up with instructions [Professor Bolden @usc `429 Too Many Requests` @nasa @deptofwar ](https://www.nasa.gov/people/the-honorable-charles-f-bolden-jr/) // [@whitehouse .gov/ostp/information-resources/](https://www.whitehouse.gov/ostp/information-resources/) // [ @LONGBEACHINNOVATIONTEAm nasaimages.org IS BLOCKED FROM THE LIBRARY @esa CHECK IT OUT ](http://www.nasaimages.org/) ////
-<img  alt="image" src="https://github.com/user-attachments/assets/5f0eb909-0d89-4012-b3fe-262a388eba1e" />
-
-![https://www. @whitehouse .gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo-blue.webp](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo-blue.webp) 
-
-![https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260917JB-0285.jpg?resize=1200,800](https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260917JB-0285.jpg?resize=1200,800) 
 
 # Democrats Forum on ICE Shootings
 [WATCH @WHiTEHOUSE @CiTYOFLOSANGELES - youtu.be/2Mjy5g7HGqU](https://youtu.be/2Mjy5g7HGqU)
@@ -38,12 +31,25 @@ University of Washington Center for Human Rights @UWCHR @howard-university-web-s
 
 ![ @dhs-gov /sites/default/files/styles/webp_original_size/public/images/ochco/20_0925_seal-ice-500.jpg.webp?itok=iv8FEOPU](https://www.dhs.gov/sites/default/files/styles/webp_original_size/public/images/ochco/20_0925_seal-ice-500.jpg.webp?itok=iv8FEOPU)
 
-## Tokyo Jetz Talks New Album 'Bonafide', Early Freestyles, What Kind Of Man She Wants + More
-[`WATCH` - youtu.be/IVUQt8wD-lY](https://youtu.be/IVUQt8wD-lY)
-<img   alt="image" src="https://github.com/user-attachments/assets/72668e99-7493-48ce-b774-2bdd9a32bc17" />
+
 
 [youtube.com/channel/UC5RwNJQSINkzIazWaM-lM3Q](https://www.youtube.com/channel/UC5RwNJQSINkzIazWaM-lM3Q)
+## Tokyo Jetz Talks New Album 'Bonafide', Early Freestyles, What Kind Of Man She Wants + More
+[`WATCH` - youtu.be/IVUQt8wD-lY](https://youtu.be/IVUQt8wD-lY)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/72668e99-7493-48ce-b774-2bdd9a32bc17" />
+
 ![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1acc51b6-4270-4c4f-889c-b14f02ac632a" />
+
+[2021 @NASA-PDS](https://www.jpl.nasa.gov/news/press_kits/mars_2020/download/mars_2020_landing_press_kit.pdf) // [2020 @nASA-JPL](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_2020_launch_press_kit.pdf)  Im going to catch up on this doc at some point, and make addition submissions as nesessary still catching up with instructions [Professor Bolden @usc `429 Too Many Requests` @nasa @deptofwar ](https://www.nasa.gov/people/the-honorable-charles-f-bolden-jr/) // [@whitehouse .gov/ostp/information-resources/](https://www.whitehouse.gov/ostp/information-resources/) // [ @LONGBEACHINNOVATIONTEAm nasaimages.org IS BLOCKED FROM THE LIBRARY @esa CHECK IT OUT ](http://www.nasaimages.org/) ////
+<img  alt="image" src="https://github.com/user-attachments/assets/5f0eb909-0d89-4012-b3fe-262a388eba1e" />
+
+![https://www. @whitehouse .gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo-blue.webp](https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo-blue.webp) 
+
+![https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260917JB-0285.jpg?resize=1200,800](https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260917JB-0285.jpg?resize=1200,800) 
 
 
 
