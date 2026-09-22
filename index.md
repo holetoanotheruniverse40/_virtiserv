@@ -4,6 +4,11 @@ layout: default
 
 [Cheryl 'Salt" James on 40 Years in Hip Hop, Fighting for Her Masters & Debut Solo Album](https://youtu.be/3lnwI9Z5ZmE) // 
 
+
+## Atlanta Mud Fest, Minnesota Town Flooded & Colorado Giant Hail
+[`WATCH` - youtu.be/7QCyFzHzQA8 @ForAtlanta](https://youtu.be/7QCyFzHzQA8)
+<img alt="image" src="https://github.com/user-attachments/assets/bb850a43-39d2-41b8-978a-81e32d7df6cc" />
+
 ## White House Gate Crash, McDonald's Kidnapping & Flock Camera Hack
 [`WATCH` - https://youtu.be/Tl2Cdw8iaP0](https://youtu.be/Tl2Cdw8iaP0)
 
