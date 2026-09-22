@@ -2,13 +2,27 @@
 layout: default
 ---
 
+[Lapalux - Closure ](https://youtu.be/RhDmY8JT6wA)
+
+---
+
+
+@usgs @la-coiunty-isd  there were rapids in the river this morning as i crossed The River riding [@LACMTA](https://www.linkedin.com/in/holly-j-mitchell-5720361b7) 
+[Los Angeles R a Sepulveda Dam CA - USGS-11092450](https://waterdata.usgs.gov/monitoring-location/USGS-11092450/statistical-graphs)
+<img   alt="image" src="https://github.com/user-attachments/assets/20bf5231-012b-4d56-ae32-21f3a7355814" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/49f06567-97d9-4840-bb2d-6951ae3475d9" />
+
+[Royal Absurdities Episode 2: Tiny's Defiance & Tip's Vendetta](https://youtu.be/qy40h9FFBL4) 
+<img   alt="image" src="https://github.com/user-attachments/assets/4faa41e9-1d65-44d1-882f-97df77a23dbc" />
+
 [Cheryl 'Salt" James on 40 Years in Hip Hop, Fighting for Her Masters & Debut Solo Album](https://youtu.be/3lnwI9Z5ZmE) // [Royal Absurdities Episode 2: Tiny's Defiance & Tip's Vendetta](https://youtu.be/qy40h9FFBL4) 
 
 
 
 
 
-@la-coiunty-isd 
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/93df47b7-1a9e-4f94-8c52-a2abf0ffceb8" />
 
