@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-## 🔴 Madina Live Today | بث مباشر المدينة المنورة
+## 🔴 Madina Live Today  بث مباشر المدينة المنورة
 [`WATCH` Masjid An Nabawi youtu.be/aftJ8mH3Dlc](https://youtu.be/aftJ8mH3Dlc)
 <img  alt="image" src="https://github.com/user-attachments/assets/bc506325-8512-4aba-b9ef-d4f9497826f3" />
 
