@@ -19,6 +19,8 @@ layout: default
 /// [Why ICE Is Secretly Firing Thousands Of New Officers - `WATCH`](https://youtu.be/tcSpIvIk7pg?t=1003)
 University of Washington Center for Human Rights @UWCHR @howard-university-web-services hitrice [github.com/virtiserv/ice-detain](https://github.com/virtiserv/ice-detain) <~ forked for the show @cbs-news-data @paramount-engineering , @pp-webhosting [`Colin Kaepernick` on Jay-Z's @NFL Deal: "You're Selling the Culture Out to a Bunch of Racists"](https://youtu.be/2dEdIh3Et08) // [deportationdata.org @NASAJPL @NASA-PDS](deportationdata.org) @USGS @REPKARENBASS @LANAJHARRiS @funkflex @YungMiami305 @ThisisGavinNewsom @GavinNewsom @ICEgov @v103 [github.com/deportationdata/eoir](github.com/deportationdata/eoir) @SteveHarvey
 
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgn4EGmkmw9wScI0W08X-MRa-jmK199RUyiah93hCo&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgn4EGmkmw9wScI0W08X-MRa-jmK199RUyiah93hCo&s) 
+
 [`HOT 97 TV` youtube.com/channel/ @cbs-news-data ](https://www.youtube.com/channel/UCWp9GH2iha2JZOnu4YZXbNQ)
 ![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
