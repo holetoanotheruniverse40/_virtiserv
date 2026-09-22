@@ -8,7 +8,9 @@ layout: default
 
 ---
 
-
+#  Front Left Hazard Avoidance Camera (Hazcam)
+@nasa-pds arm pics 
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01981/ids/edr/browse/fcam/FLF_1981_0842807549_727ECM_N0910970FHAZ00215_01_275J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01981/ids/edr/browse/fcam/FLF_1981_0842807549_727ECM_N0910970FHAZ00215_01_275J01_1200.jpg)
 
 ### Why [Chris](https://chrisbrown.fandom.com/wiki/Chris_Brown) [Brown](https://en.wikipedia.org/wiki/Talk:Chris_Brown) Just Rejected His Own State Honor [`Query` = `Chris Brown`](https://www.google.com/search?sca_esv=f0da1ac9b7a45388&rlz=1CASLJZ_enUS1233&sxsrf=APpeQnu9nRE2O20khoaeQJSH2qhjzaHh5A:1790042249228&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpBml1fU3A7DJSeYYIw7Ru-0IfSG8OiAq-y2FJ_WzTNunw47yLgZqTMacgtkngEuvZt6THVvVL15Y6Mi8kRs3iJMBja9_6nNbrabDz_RexNX1OLmQo24M8fadNk2TzYydDEloelw&q=chris+brown&sa=X&ved=2ahUKEwicpJeDi4GXAxUnOUQIHUdeGpgQtKgLegQIIxAB&cshid=1790042421542805&biw=1414&bih=945&dpr=1#ip=1)
 
