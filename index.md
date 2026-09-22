@@ -6,6 +6,27 @@ layout: default
 
 ---
 
+# Democrats Forum on ICE Shootings
+[WATCH @WHiTEHOUSE @CiTYOFLOSANGELES - youtu.be/2Mjy5g7HGqU](https://youtu.be/2Mjy5g7HGqU)
+/// [Why ICE Is Secretly Firing Thousands Of New Officers - `WATCH`](https://youtu.be/tcSpIvIk7pg?t=1003)
+University of Washington Center for Human Rights @UWCHR @howard-university-web-services hitrice [github.com/virtiserv/ice-detain](https://github.com/virtiserv/ice-detain) <~ forked for the show @cbs-news-data @paramount-engineering , @pp-webhosting [`Colin Kaepernick` on Jay-Z's @NFL Deal: "You're Selling the Culture Out to a Bunch of Racists"](https://youtu.be/2dEdIh3Et08)
+
+[`HOT 97 TV` youtube.com/channel/ @cbs-news-data ](https://www.youtube.com/channel/UCWp9GH2iha2JZOnu4YZXbNQ)
+![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+<div class="tupperware">
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/9fecc5a2-002b-4cab-a8dc-c89a6a2b314a" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ec272478-bc41-4999-85ea-48192aff02db" />
+
+
+</div> 
+
+[youtube.com/channel/UC5RwNJQSINkzIazWaM-lM3Q](https://www.youtube.com/channel/UC5RwNJQSINkzIazWaM-lM3Q)
+![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+
 @natgeosociety i think you can make this more readable, there is an awful web design trend i think is coming from TheDisTrictOfColumbia . . . Content Management Systems were invented in @StateOfCalifornia, i have been working with them since 2002 in Berkeley and i see all the post being too top fold image heavy and i am in a rut and not reading a lot of sites i used to love 
 
 [science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/](https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/) vs [web.archive.org/web/*/photojournal.nasa.gov*](https://web.archive.org/web/*/photojournal.nasa.gov*) @nasa-pds the @internetarchive has been purged, hopefully `photojournal.nasa.gov` will recover during replication i wanted to illustrate whats making the .gov web boring in sciences we are presenting to the public @deptofwar @whitehouse @nasa-giss @nasa-jpl 
@@ -41,7 +62,7 @@ layout: default
 <img alt="image" src="https://github.com/user-attachments/assets/bb850a43-39d2-41b8-978a-81e32d7df6cc" />
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m SO happy I can finally announce what we’re up to at CBS46/Peachtree TV. Starting Monday, I will be co-anchoring a new newscast on Peachtree TV from 7-9am! It’s a DREAM to anchor in the city I’m from 😊. If you’re in the area (or an online TV watcher) I hope you’ll tune in! 😄 https://t.co/ITcsSX4qXt</p>&mdash; Lana Harris (@LanaJHarris) <a href="https://x.com/LanaJHarris/status/1522559561458143232?ref_src=twsrc%5Etfw">May 6, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m SO happy I can finally announce what we’re up to at 46/Peachtree TV. Starting Monday, I will be co-anchoring a new newscast on Peachtree TV from 7-9am! It’s a DREAM to anchor in the city I’m from 😊. If you’re in the area (or an online TV watcher) I hope you’ll tune in! 😄 https://t.co/ITcsSX4qXt</p>&mdash; Lana Harris (@LanaJHarris) <a href="https://x.com/LanaJHarris/status/1522559561458143232?ref_src=twsrc%5Etfw">May 6, 2022</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
@@ -62,7 +83,7 @@ Secret Service Investigating After Man Drives Onto Sidewalk Near White House - [
 
 # Newest Coast Guard Air Station opens in California
 [`WATCH` - youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj](https://youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj)
-@Nasa-jpl i see there is an air station close to us @La-County-isd @CityOfLosAngeles make sure you know how to contact them @cbs-nes-data @nbcnews @foxnews @USATODAY [insta - @instagram .com/`uscg_airstation_ventura`/?hl=en](https://www.instagram.com/uscg_airstation_ventura/?hl=en)
+@Nasa-jpl i see there is an air station close to us @La-County-isd @CityOfLosAngeles make sure you know how to contact them @cbs-news-data @nbcnews @foxnews @USATODAY [insta - @instagram .com/`uscg_airstation_ventura`/?hl=en](https://www.instagram.com/uscg_airstation_ventura/?hl=en)
 
 [youtube.com/@U.S.CoastGuard](https://www.youtube.com/@U.S.CoastGuard) // [dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/`Base-Los-Angeles-Long-Beach`/](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/)
 [Air Station Ventura](https://cnrsw.cnic.navy.mil/installations/navbase-ventura-county/) features a $70 million state-of-the-art, 48,000 square-foot hangar, and a 12,000 square-foot administration facility, ensuring that Coast Guard personnel have the resources needed to carry out their vital missions. This new facility is expected to house three MH-60 Jayhawk helicopters and approximately 100 personnel, significantly enhancing the Coast Guard's capabilities in the region.  
