@@ -8,11 +8,13 @@ layout: default
 
 
 
-### Why [Chris](https://chrisbrown.fandom.com/wiki/Chris_Brown) [Brown](https://en.wikipedia.org/wiki/Talk:Chris_Brown) Just Rejected His Own State Honor 
+### Why [Chris](https://chrisbrown.fandom.com/wiki/Chris_Brown) [Brown](https://en.wikipedia.org/wiki/Talk:Chris_Brown) Just Rejected His Own State Honor [`Query` = `Chris Brown`](https://www.google.com/search?sca_esv=f0da1ac9b7a45388&rlz=1CASLJZ_enUS1233&sxsrf=APpeQnu9nRE2O20khoaeQJSH2qhjzaHh5A:1790042249228&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpBml1fU3A7DJSeYYIw7Ru-0IfSG8OiAq-y2FJ_WzTNunw47yLgZqTMacgtkngEuvZt6THVvVL15Y6Mi8kRs3iJMBja9_6nNbrabDz_RexNX1OLmQo24M8fadNk2TzYydDEloelw&q=chris+brown&sa=X&ved=2ahUKEwicpJeDi4GXAxUnOUQIHUdeGpgQtKgLegQIIxAB&cshid=1790042421542805&biw=1414&bih=945&dpr=1#ip=1)
+
 @blackgirlscode check on the situation , worst case he's not offended anyone else! @disney 
 [`WATCH` - youtu.be/-9h95lDvTac](https://youtu.be/-9h95lDvTac)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/3d8b9792-906e-4be6-94ea-e3b56ca49dbf" />
+<img alt="image" src="https://github.com/user-attachments/assets/ff60a731-ba68-482c-b96b-cc6a17bbb31a" />
 
 
 ## 🔴 Madina Live Today  بث مباشر المدينة المنورة
