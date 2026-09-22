@@ -6,6 +6,13 @@ layout: default
 
 ---
 
+@natgeosociety i think you can make this more readable, there is an awful web design trend i think is coming from TheDisTrictOfColumbia . . . Content Management Systems were invented in @StateOfCalifornia, i have been working with them since 2002 in Berkeley and i see all the post being too top fold image heavy and i am in a rut and not reading a lot of sites i used to love 
+
+[science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/](https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/) vs [web.archive.org/web/*/photojournal.nasa.gov*](https://web.archive.org/web/*/photojournal.nasa.gov*) @nasa-pds the @internetarchive has been purged, hopefully `photojournal.nasa.gov` will recover during replication i wanted to illustrate whats making the .gov web boring in sciences we are presenting to the public @deptofwar @whitehouse @nasa-giss @nasa-jpl 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a0b5b6c2-afdd-4fa3-9aa0-97f5282bb2ba" />
+
+
 ### Rapids are areas of shallow, fast-flowing water in a stream.
 
 [@CiTYOFLOSANGELES @disney @hulu @nbcnews @LATiMES @usgs @la-coiunty-isd @nasa-jpl](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/0d2e14de-4f72-4ab8-9a48-0eb6ba75488f/Agenda%20092226_links.pdf)  there were [rapids](https://education.nationalgeographic.org/resource/rapids/) in the river this morning as i crossed The River riding [@LACMTA](https://www.linkedin.com/in/holly-j-mitchell-5720361b7) 
