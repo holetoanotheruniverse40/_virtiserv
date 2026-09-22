@@ -9,6 +9,11 @@ layout: default
 [`WATCH` - youtu.be/7QCyFzHzQA8 @ForAtlanta](https://youtu.be/7QCyFzHzQA8)
 <img alt="image" src="https://github.com/user-attachments/assets/bb850a43-39d2-41b8-978a-81e32d7df6cc" />
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m SO happy I can finally announce what we’re up to at CBS46/Peachtree TV. Starting Monday, I will be co-anchoring a new newscast on Peachtree TV from 7-9am! It’s a DREAM to anchor in the city I’m from 😊. If you’re in the area (or an online TV watcher) I hope you’ll tune in! 😄 https://t.co/ITcsSX4qXt</p>&mdash; Lana Harris (@LanaJHarris) <a href="https://x.com/LanaJHarris/status/1522559561458143232?ref_src=twsrc%5Etfw">May 6, 2022</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most incredible First Lady. 🇺🇸</p>&mdash; The White House (@WhiteHouse) <a href="https://x.com/WhiteHouse/status/2102455394392015102?ref_src=twsrc%5Etfw">September 22, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
