@@ -20,10 +20,40 @@ The air station serves a crucial role in protecting the maritime region from Ora
 
 ![https://yt3.googleusercontent.com/lJyO2SF2AOi5I9kz8VqtLd92jfPugh_ArfkvLVAQ8yL8ulofvLdJgQ5b5crF1Dkfb65lRgL16g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/lJyO2SF2AOi5I9kz8VqtLd92jfPugh_ArfkvLVAQ8yL8ulofvLdJgQ5b5crF1Dkfb65lRgL16g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
+![https://www.navy.mil/portals/1/nhome/live/banner-priorities-bg2.jpg](https://www.navy.mil/portals/1/nhome/live/banner-priorities-bg2.jpg) 
+
 ![https://cnrsw.cnic.navy.mil/Portals/84/NAVBASE_Ventura_County/Images/220426-N-AS200-0101.png](https://cnrsw.cnic.navy.mil/Portals/84/NAVBASE_Ventura_County/Images/220426-N-AS200-0101.png)
+
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/417ed31e-466e-4b5f-b01f-01a1afa3f934" />
 
+@doiug-newman-nasa @eodis-nasa 
+
+```
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 09-21-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.25 Home NASA Accessibility
+NASA Official: Doug Newman
+```
 
 [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [David Banner - Like A Pimp  ft. Lil' Flip](https://youtu.be/MKGQ5cIw_ew?si=eXrM2UkvNJOA7o8F) // [JAŸ-Z - What More Can I Say](https://youtu.be/ws2lAMea-Is?list=RDSzHCdn7igPk) // [Southern Vangard Radio Episode 458 `WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY) // [Flip The Script - Book Preview](https://youtu.be/xzssdBMPST0) // [J Dilla - The Shining (Promo)](https://youtu.be/2ujXj-uCeiE?list=RD2ujXj-uCeiE)
 
