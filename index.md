@@ -6,6 +6,15 @@ layout: default
 
 ---
 
+
+
+### Why [Chris](https://chrisbrown.fandom.com/wiki/Chris_Brown) [Brown](https://en.wikipedia.org/wiki/Talk:Chris_Brown) Just Rejected His Own State Honor 
+@blackgirlscode check on the situation , worst case he's not offended anyone else! @disney 
+[`WATCH` - youtu.be/-9h95lDvTac](https://youtu.be/-9h95lDvTac)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3d8b9792-906e-4be6-94ea-e3b56ca49dbf" />
+
+
 ## 🔴 Madina Live Today  بث مباشر المدينة المنورة
 [`WATCH` Masjid An Nabawi youtu.be/aftJ8mH3Dlc](https://youtu.be/aftJ8mH3Dlc)
 <img  alt="image" src="https://github.com/user-attachments/assets/bc506325-8512-4aba-b9ef-d4f9497826f3" />
