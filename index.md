@@ -23,7 +23,6 @@ University of Washington Center for Human Rights @UWCHR @howard-university-web-s
 
 </div> 
 
-<img   alt="image" src="https://github.com/user-attachments/assets/72668e99-7493-48ce-b774-2bdd9a32bc17" />
 
 <img   alt="image @whitehouse @" src="https://github.com/user-attachments/assets/df4c03cc-1d2a-4fcc-89a7-cb68075ae545" />
 
