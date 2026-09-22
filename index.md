@@ -2,6 +2,29 @@
 layout: default
 ---
 
+
+
+# Newest Coast Guard Air Station opens in California
+[`WATCH` - youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj](https://youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj)
+@Nasa-jpl i see there is an air station close to us @La-County-isd @CityOfLosAngeles make sure you know how to contact them @cbs-nes-data @nbcnews @foxnews @USATODAY [insta - @instagram .com/`uscg_airstation_ventura`/?hl=en](https://www.instagram.com/uscg_airstation_ventura/?hl=en)
+
+[youtube.com/@U.S.CoastGuard](https://www.youtube.com/@U.S.CoastGuard) // [dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/`Base-Los-Angeles-Long-Beach`/](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/)
+[Air Station Ventura](https://cnrsw.cnic.navy.mil/installations/navbase-ventura-county/) features a $70 million state-of-the-art, 48,000 square-foot hangar, and a 12,000 square-foot administration facility, ensuring that Coast Guard personnel have the resources needed to carry out their vital missions. This new facility is expected to house three MH-60 Jayhawk helicopters and approximately 100 personnel, significantly enhancing the Coast Guard's capabilities in the region.  
+
+The air station serves a crucial role in protecting the maritime region from Orange County to San Luis Obispo County, including the vital ports of Los Angeles and Long Beach, encompassing an area of responsibility of more than 350 nautical miles [cnrsw.cnic.navy.mil/installations/`navbase-ventura-county`/ @USNAVY](https://cnrsw.cnic.navy.mil/installations/navbase-ventura-county/)
+![https://www.dcms.uscg.mil/portals/10/DOL/Base%20Logos/BaseLALBLogo.jpg](https://www.dcms.uscg.mil/portals/10/DOL/Base%20Logos/BaseLALBLogo.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/93555f6f-1c24-473a-b4d3-50bb76e5277f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b3d01793-6bbb-4de6-b13e-c238455f0c7e" />
+
+![https://yt3.googleusercontent.com/lJyO2SF2AOi5I9kz8VqtLd92jfPugh_ArfkvLVAQ8yL8ulofvLdJgQ5b5crF1Dkfb65lRgL16g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/lJyO2SF2AOi5I9kz8VqtLd92jfPugh_ArfkvLVAQ8yL8ulofvLdJgQ5b5crF1Dkfb65lRgL16g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+![https://cnrsw.cnic.navy.mil/Portals/84/NAVBASE_Ventura_County/Images/220426-N-AS200-0101.png](https://cnrsw.cnic.navy.mil/Portals/84/NAVBASE_Ventura_County/Images/220426-N-AS200-0101.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/417ed31e-466e-4b5f-b01f-01a1afa3f934" />
+
+
 [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk) // [David Banner - Like A Pimp  ft. Lil' Flip](https://youtu.be/MKGQ5cIw_ew?si=eXrM2UkvNJOA7o8F) // [JAŸ-Z - What More Can I Say](https://youtu.be/ws2lAMea-Is?list=RDSzHCdn7igPk) // [Southern Vangard Radio Episode 458 `WATCH` - https://youtu.be/LVTa9L241DY](https://youtu.be/LVTa9L241DY) // [Flip The Script - Book Preview](https://youtu.be/xzssdBMPST0) // [J Dilla - The Shining (Promo)](https://youtu.be/2ujXj-uCeiE?list=RD2ujXj-uCeiE)
 
 ![https://mars.nasa.gov/layout/smd/assets/nasa-logo.svg](https://mars.nasa.gov/layout/smd/assets/nasa-logo.svg)
@@ -322,7 +345,7 @@ The Lana Rundown [US-Iran war: US CENTCOM provides latest update @ajinteractive 
 
 
 ## YoungBoy Never Broke Again - We Poppin (feat. Birdman)
-[`WATCH` - YoungBoy Never Broke Again - We Poppin (feat. Birdman) _youtu.be/SKexLz5QRN0?si=eWPRRzwYw9yBgE8u_](https://youtu.be/SKexLz5QRN0?si=eWPRRzwYw9yBgE8u) +++ [@genius .com/artists/Never-broke-again](https://genius.com/artists/Never-broke-again)  // [Nia Long Walk of Fame Ceremony](https://www.youtube.com/live/asiCDIIv_9U?si=hCGOD79iMLwOmaKI) // [鉄拳 -TEKKEN Vol. 1 (LD)](https://youtu.be/l5RbBZ04DnM?si=htyu6gx8m_rWn8Ci) // [Tekken The Motion Picture (English Dubbed)](https://youtu.be/AZb6KbZ6VJ4) // [Dominion: Tank Police | ドミニオン | Episodes 1-4 | 1988](https://youtu.be/5jeKkbfvId4) // [New Dominion Tank Police Vol. 1 (English Dubbed)](https://youtu.be/vsdbJ9Sj7Js) [@blackgirlscode _plzFwd_ to him](https://www.grammarly.com/blog/emailing/email-etiquette-rules-to-know/) 
+[`WATCH` - YoungBoy Never Broke Again - We Poppin (feat. Birdman) _youtu.be/SKexLz5QRN0?si=eWPRRzwYw9yBgE8u_](https://youtu.be/SKexLz5QRN0?si=eWPRRzwYw9yBgE8u) +++ [@genius .com/artists/Never-broke-again](https://genius.com/artists/Never-broke-again)  // [Nia Long Walk of Fame Ceremony](https://www.youtube.com/live/asiCDIIv_9U?si=hCGOD79iMLwOmaKI) // [鉄拳 -TEKKEN Vol. 1 (LD)](https://youtu.be/l5RbBZ04DnM?si=htyu6gx8m_rWn8Ci) // [Tekken The Motion Picture (English Dubbed)](https://youtu.be/AZb6KbZ6VJ4) // [Dominion: Tank Police  ドミニオン  Episodes 1-4 | 1988](https://youtu.be/5jeKkbfvId4) // [New Dominion Tank Police Vol. 1 (English Dubbed)](https://youtu.be/vsdbJ9Sj7Js) [@blackgirlscode _plzFwd_ to him](https://www.grammarly.com/blog/emailing/email-etiquette-rules-to-know/) 
 <img  alt="image" src="https://github.com/user-attachments/assets/6d416afc-3c3b-4d37-814d-0dfe8a797bea" />
 
 <iframe src="https://archive.org/embed/dbz-westwood-remaster" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
