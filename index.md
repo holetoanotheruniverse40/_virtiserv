@@ -16,6 +16,10 @@ layout: default
 Secret Service Investigating After Man Drives Onto Sidewalk Near White House - [people.com/secret-service-investigating-after-man-drives-onto-lawn-near-white-house-12129263](https://people.com/secret-service-investigating-after-man-drives-onto-lawn-near-white-house-12129263)
 ![people.com/thmb/f52RbYylwnaLMKXJ7kiH-NVMN2E=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/Man-Drives-Onto-Sidewalk-091925-a64ebff5aa8342179a78e0ccbb647e91.jpg](https://people.com/thmb/f52RbYylwnaLMKXJ7kiH-NVMN2E=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/Man-Drives-Onto-Sidewalk-091925-a64ebff5aa8342179a78e0ccbb647e91.jpg) 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most incredible First Lady. 🇺🇸</p>&mdash; The White House (@WhiteHouse) <a href="https://x.com/WhiteHouse/status/2102455394392015102?ref_src=twsrc%5Etfw">September 22, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 # Newest Coast Guard Air Station opens in California
 [`WATCH` - youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj](https://youtu.be/eR5-eLKEsT8?si=APmnFjwgH_TnRhVj)
 @Nasa-jpl i see there is an air station close to us @La-County-isd @CityOfLosAngeles make sure you know how to contact them @cbs-nes-data @nbcnews @foxnews @USATODAY [insta - @instagram .com/`uscg_airstation_ventura`/?hl=en](https://www.instagram.com/uscg_airstation_ventura/?hl=en)
