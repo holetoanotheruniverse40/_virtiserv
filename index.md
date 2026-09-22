@@ -23,6 +23,9 @@ University of Washington Center for Human Rights @UWCHR @howard-university-web-s
 
 </div> 
 
+
+<img   alt="image @whitehouse @" src="https://github.com/user-attachments/assets/df4c03cc-1d2a-4fcc-89a7-cb68075ae545" />
+
 [youtube.com/channel/UC5RwNJQSINkzIazWaM-lM3Q](https://www.youtube.com/channel/UC5RwNJQSINkzIazWaM-lM3Q)
 ![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
