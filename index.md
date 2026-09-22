@@ -35,7 +35,13 @@ University of Washington Center for Human Rights @UWCHR @howard-university-web-s
 ![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
 
-@natgeosociety i think you can make this more readable, there is an awful web design trend i think is coming from TheDisTrictOfColumbia . . . Content Management Systems were invented in @StateOfCalifornia, i have been working with them since 2002 in Berkeley and i see all the post being too top fold image heavy and i am in a rut and not reading a lot of sites i used to love 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e20c03b8-1552-44a9-9599-67e77839d977" />
+
+ENCYCLOPEDIC ENTRY
+Rapids [https://education.nationalgeographic.org/resource/rapids/](https://education.nationalgeographic.org/resource/rapids/)
+@natgeosociety i think you can make this more readable, there is an awful web design trend i think is coming from TheDisTrictOfColumbia . . . Content Management Systems were invented in @StateOfCalifornia, i have been working with them since 2002 in Berkeley and i see all the post being too top fold image heavy and i am in a rut and not reading a lot of sites i used to love ... plz fwd and share [Alist Apart -  Topic: Information Architecture @nasa-pds @cityoflosangeles](https://alistapart.com/blog/topic/information-architecture/)
 
 [science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/](https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/) vs [web.archive.org/web/*/photojournal.nasa.gov*](https://web.archive.org/web/*/photojournal.nasa.gov*) @nasa-pds the @internetarchive has been purged, hopefully `photojournal.nasa.gov` will recover during replication i wanted to illustrate whats making the .gov web boring in sciences we are presenting to the public @deptofwar @whitehouse @nasa-giss @nasa-jpl 
 
