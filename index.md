@@ -23,8 +23,14 @@ University of Washington Center for Human Rights @UWCHR @howard-university-web-s
 
 </div> 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/72668e99-7493-48ce-b774-2bdd9a32bc17" />
 
 <img   alt="image @whitehouse @" src="https://github.com/user-attachments/assets/df4c03cc-1d2a-4fcc-89a7-cb68075ae545" />
+
+
+## Tokyo Jetz Talks New Album 'Bonafide', Early Freestyles, What Kind Of Man She Wants + More
+[`WATCH` - youtu.be/IVUQt8wD-lY](https://youtu.be/IVUQt8wD-lY)
+<img   alt="image" src="https://github.com/user-attachments/assets/72668e99-7493-48ce-b774-2bdd9a32bc17" />
 
 [youtube.com/channel/UC5RwNJQSINkzIazWaM-lM3Q](https://www.youtube.com/channel/UC5RwNJQSINkzIazWaM-lM3Q)
 ![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
