@@ -41,6 +41,9 @@ University of Washington Center for Human Rights @UWCHR @howard-university-web-s
 
 ![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
+[@NFL  youtube.com/c/ @ColinKaepernick
+](https://www.youtube.com/c/ColinKaepernick)
+![https://yt3.googleusercontent.com/LR7Hsn2thJr7Cg6yPmpC8Z5aeARC4PPa5EtJKjjaOhzwLYCzAyXkN9fF3Krl_BzxI9sEezr_dg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/LR7Hsn2thJr7Cg6yPmpC8Z5aeARC4PPa5EtJKjjaOhzwLYCzAyXkN9fF3Krl_BzxI9sEezr_dg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1acc51b6-4270-4c4f-889c-b14f02ac632a" />
 
