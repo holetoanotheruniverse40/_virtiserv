@@ -3,12 +3,20 @@ layout: default
 mathjax: true
 ---
 
+## The Real Reason The White House Just Created [Trump TV](https://www.whitehouse.gov/videos/trump-tv-the-essentials-station/)
+[whitehouse.gov/videos/trump-tv-the-essentials-station](whitehouse.gov/videos/trump-tv-the-essentials-station)
+[`WATCH` - The Real Reason The White House Just Created `Trump TV`](https://youtu.be/fiGWBCvoev8)
+
+[@nasa .tv/](https://nasa.tv/) // [NASA Public-Education](https://video.ibm.com/nasahdtv) // [twitch.tv/nasa](https://www.twitch.tv/nasa) // [@nasa-giss NASA TV: Live Webcast Streams](https://science.gsfc.nasa.gov/attic/sunearthday.nasa.gov/webcasts/nasatv/) <~ is this just off air and [Nasa+](https://plus.nasa.gov/) the new standard ? [@LACMTA](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) ,  [this is the channel](https://plus.nasa.gov/) i was broadcasting to some passengers during some initiative @nasa-pds / @nasa-jpl @CityOFLOSANGELES [plus.nasa.gov/](https://plus.nasa.gov/) ... @nasa-jpl [https://www.nasa.gov/live/](https://www.nasa.gov/live/) is broken 429 Too Many Requests
+[nginx](https://nginx.org/)
+<img alt="image" src="https://github.com/user-attachments/assets/420d26ee-f901-4574-aaf8-b0e1b3ba8461" />
+
 ## Dominican Culture, Latin Music Draft & Food Debates Get WILD 
 ### [Hispanic Heritage Month @libraryofcongress _guides.loc.gov_](https://guides.loc.gov/latinx-studies/nhhm)
 [`WATCH` - youtu.be/WWTTJN25it4](https://youtu.be/WWTTJN25it4)
 <img   alt="image" src="https://github.com/user-attachments/assets/b7ad80b2-486f-4eed-b13b-ce960086f30b" />
 @cbs-news-data hi @howard-university-web-services Lana J Harris , hi its rashard mission control @nasa-jpl helpdesk unix level 5 here is your query results from long beach [youtube.com/results?search_query=hot+97+tv](https://www.youtube.com/results?search_query=hot+97+tv)
-<img width="1079" height="1919" alt="image" src="https://github.com/user-attachments/assets/ac60e618-f5ea-4306-be6d-1f161f0e735d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/ac60e618-f5ea-4306-be6d-1f161f0e735d" />
 
 9-23-26 Board Of Redevelopment
 City of Gary @cityofgary [`WATCH` - youtube.com/watch?v=VLfkUx3Bmw8](https://www.youtube.com/watch?v=VLfkUx3Bmw8) @lanajharris - i wonder what they thing abt micheal jackson fandom ? Rashard @nasajpl @HOWARDUNiVERSiTY hi @repkarenbass @nasa-pds @USGS @DeptOfWar [war.gov/spotlights/combating-trafficking-in-persons]( war.gov/spotlights/combating-trafficking-in-persons) / @thakasErikaselassie_kelly#1 ​@LACityClerk @normani @blackgirlscode @whitehouse
