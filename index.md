@@ -17,6 +17,12 @@ mathjax: true
 
 [Chris Brown Demands Receipts After Journalist Claims He's 'Still Actively Abusing Women’ @BreakfastClubPower1051FM](https://youtu.be/MsGdK13CgT4?si=b-4gZeSGkhEbEc6E) //// [@youtube .com/@BreakfastClubPower1051FM](https://www.youtube.com/@BreakfastClubPower1051FM)
 
+
+## [Hasan Piker](https://www.instagram.com/hasandpiker/?hl=en) On [Technofeudalism](https://youtu.be/DPpsr7ZJbWc?si=JwDnyJb9Y-4tLufo) [Replacing Capitalism](https://youtu.be/8p_ZxtdgOY4?si=WuFU26MGS5-XSpod), [AntiZionism](https://youtu.be/H0YC0TcrUt4?si=RyeNbfIeY9i5Ks0i) + More
+<img   alt="image" src="https://github.com/user-attachments/assets/b98d0a12-7284-4ab8-ba07-7347b50e9072" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/15105b29-47ec-4a00-821a-e53abeec6e67" />
+
 ![https://yt3.googleusercontent.com/u4YTGe9QMUnXLED7h3JKLipH4OXnV18gMDvT3_UsT4CzJe7B7NlidVc19TqBJOdV9xwbSKftvA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/u4YTGe9QMUnXLED7h3JKLipH4OXnV18gMDvT3_UsT4CzJe7B7NlidVc19TqBJOdV9xwbSKftvA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
 <img alt="image" src="https://github.com/user-attachments/assets/420d26ee-f901-4574-aaf8-b0e1b3ba8461" />
