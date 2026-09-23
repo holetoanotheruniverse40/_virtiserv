@@ -15,6 +15,12 @@ mathjax: true
 Photo: Prime Minister’s Media Adviser https://t.co/sp1RPkZKCG</p>&mdash; Prime Minister of Israel (@IsraeliPM) <a href="https://x.com/IsraeliPM/status/2102748322335257035?ref_src=twsrc%5Etfw">September 23, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Live from inside the UN: This year’s parrots… 🦜
+
+Find out more about the lies &amp;gt;&amp;gt;
+https://t.co/YKYqColDZT https://t.co/c2G2qZBvTg</p>&mdash; Prime Minister of Israel (@IsraeliPM) <a href="https://x.com/IsraeliPM/status/2102451686484873659?ref_src=twsrc%5Etfw">September 22, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 
 ## The Real Reason The White House Just Created [Trump TV](https://www.whitehouse.gov/videos/trump-tv-the-essentials-station/)
 
