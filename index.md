@@ -7,6 +7,15 @@ layout: default
 ---
 
 
+## PACE Yourself for Faster Science:
+Accessing PACE Land Products with NASA Earthdata’s [AppEEARS](https://appeears.earthdatacloud.nasa.gov/)
+Presenter(s) [Morgaine McKibben](https://science.gsfc.nasa.gov/sci/bio/morgaine.mckibben) ([NASA GSFC @nasa-giss](https://science.gsfc.nasa.gov/earth/)/[SSAI](https://www.linkedin.com/company/ssai)) and [Nathan Roberts](https://www.linkedin.com/in/nathan-roberts-ba2589109) (KBR, contractor to USGS EROS) [ssaihq.com ? ](https://www.ssaihq.com/)
+Hosted By NASA Earthdata @eodis-nasa @nasa  @doug-newman-nasa @nasa-jpl @la-county-isd @nasa-openscapes  
+Sept. 23, 2026,1:00-2:00 p.m. EDT(1700-1800 UTC)
+![ @cityoflosangeles  KArenbass @LACMTA HOLLY MiTCHELL I have a class in land products tomorrow](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2026-09/webinar-PACE-AppEEARS-tn2.jpg?VersionId=YTE9waJAfIqOqg9ZqeX3yJkCJm2PJT2o&itok=OdSQQUG6)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A178346799&color=%232195e8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lhmusic" title="LH" target="_blank" style="color: #cccccc; text-decoration: none;">LH</a> · <a href="https://soundcloud.com/lhmusic/j-dilla-pet-sounds-the-key-of-dee-album" title="J Dilla - Pet Sounds in the Key of Dee" target="_blank" style="color: #cccccc; text-decoration: none;">J Dilla - Pet Sounds in the Key of Dee</a></div>
+
 # north america heat anomolies
 @cityofsantamonica @nasa-jpl 
 [Link - https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,terra_crc,earth;@-118.8,38.8,7.3z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,terra_crc,earth;@-118.8,38.8,7.3z)
@@ -62,7 +71,8 @@ University of Washington Center for Human Rights @UWCHR @howard-university-web-s
 
 ![https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260917JB-0285.jpg?resize=1200,800](https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260917JB-0285.jpg?resize=1200,800) 
 
-
+[tiktok.com/@asktherev](https://www.tiktok.com/@asktherev)
+<img alt="image @cityofsantamonica @tiktok Something went wrong Sorry about that! Please try again later." src="https://github.com/user-attachments/assets/f11fd27d-c995-4cea-ba81-97edca5607f3" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e20c03b8-1552-44a9-9599-67e77839d977" />
