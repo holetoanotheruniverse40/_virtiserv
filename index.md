@@ -10,7 +10,7 @@ layout: default
 ## PACE Yourself for Faster Science:
 Accessing PACE Land Products with NASA Earthdata’s [AppEEARS](https://appeears.earthdatacloud.nasa.gov/)
 Presenter(s) [Morgaine McKibben](https://science.gsfc.nasa.gov/sci/bio/morgaine.mckibben) ([NASA GSFC @nasa-giss](https://science.gsfc.nasa.gov/earth/)/[SSAI](https://www.linkedin.com/company/ssai)) and [Nathan Roberts](https://www.linkedin.com/in/nathan-roberts-ba2589109) (KBR, contractor to USGS EROS) [ssaihq.com ? ](https://www.ssaihq.com/)
-Hosted By NASA Earthdata @eodis-nasa @nasa  @doug-newman-nasa @nasa-jpl @la-county-isd @nasa-openscapes  
+Hosted By NASA Earthdata @eodis-nasa @nasa  @doug-newman-nasa @nasa-jpl @la-county-isd @nasa-openscapes @longBeachInnovationTeam @la-county-isd @lacountydph @CiTYOFLOSANGELES 
 Sept. 23, 2026,1:00-2:00 p.m. EDT(1700-1800 UTC) [earthdata.nasa.gov/events/pace-yourself-faster-science-accessing-pace-land-products-nasa-earthdatas-appeears](https://www.earthdata.nasa.gov/events/pace-yourself-faster-science-accessing-pace-land-products-nasa-earthdatas-appeears)
 ![ @cityoflosangeles  KArenbass @LACMTA HOLLY MiTCHELL I have a class in land products tomorrow](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2026-09/webinar-PACE-AppEEARS-tn2.jpg?VersionId=YTE9waJAfIqOqg9ZqeX3yJkCJm2PJT2o&itok=OdSQQUG6)
 
