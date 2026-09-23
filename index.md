@@ -12,6 +12,8 @@ mathjax: true
 [whitehouse.gov/videos/trump-tv-the-essentials-station](whitehouse.gov/videos/trump-tv-the-essentials-station)
 [`WATCH` - The Real Reason The White House Just Created `Trump TV`](https://youtu.be/fiGWBCvoev8)
 
+
+[youtu.be/U6sbm1OaJb8 Street Fighter 2026](https://youtu.be/U6sbm1OaJb8) // [Street Fighter 2026 youtube.com/watch?v=Xt4X4FvXk2A](https://www.youtube.com/watch?v=Xt4X4FvXk2A)
 [@nasa .tv/](https://nasa.tv/) // [NASA Public-Education](https://video.ibm.com/nasahdtv) // [twitch.tv/nasa](https://www.twitch.tv/nasa) // [@nasa-giss NASA TV: Live Webcast Streams](https://science.gsfc.nasa.gov/attic/sunearthday.nasa.gov/webcasts/nasatv/) <~ is this just off air and [Nasa+](https://plus.nasa.gov/) the new standard ? [@LACMTA](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) ,  [this is the channel](https://plus.nasa.gov/) i was broadcasting to some passengers during some initiative @nasa-pds / @nasa-jpl @CityOFLOSANGELES [plus.nasa.gov/](https://plus.nasa.gov/) ... @nasa-jpl [https://www.nasa.gov/live/](https://www.nasa.gov/live/) is broken 429 Too Many Requests
 [nginx](https://nginx.org/) /////// [@deptofwar ritchietorres.house.gov/congressman-ritchie-torres-writes-to-executives-at-twitch-and-amazon-hasan-piker-is-dangerous](https://ritchietorres.house.gov/congressman-ritchie-torres-writes-to-executives-at-twitch-and-amazon-hasan-piker-is-dangerous) // [war.gov/Multimedia/Videos/videoid/973661/](https://www.war.gov/Multimedia/Videos/videoid/973661/)
 
