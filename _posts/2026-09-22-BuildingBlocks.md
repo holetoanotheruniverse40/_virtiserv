@@ -21,6 +21,16 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   
 </picture>
 
+
+## The Real Reason The White House Just Created [Trump TV](https://www.whitehouse.gov/videos/trump-tv-the-essentials-station/)
+[whitehouse.gov/videos/trump-tv-the-essentials-station](whitehouse.gov/videos/trump-tv-the-essentials-station)
+[`WATCH` - The Real Reason The White House Just Created `Trump TV`](https://youtu.be/fiGWBCvoev8)
+
+[@nasa .tv/](https://nasa.tv/) // [NASA Public-Education](https://video.ibm.com/nasahdtv) // [twitch.tv/nasa](https://www.twitch.tv/nasa) // [@nasa-giss NASA TV: Live Webcast Streams](https://science.gsfc.nasa.gov/attic/sunearthday.nasa.gov/webcasts/nasatv/) <~ is this just off air and [Nasa+](https://plus.nasa.gov/) the new standard ? [@LACMTA](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) ,  [this is the channel](https://plus.nasa.gov/) i was broadcasting to some passengers during some initiative @nasa-pds / @nasa-jpl @CityOFLOSANGELES [plus.nasa.gov/](https://plus.nasa.gov/) ... @nasa-jpl [https://www.nasa.gov/live/](https://www.nasa.gov/live/) is broken 429 Too Many Requests
+[nginx](https://nginx.org/)
+<img alt="image" src="https://github.com/user-attachments/assets/420d26ee-f901-4574-aaf8-b0e1b3ba8461" />
+
+
 # NOAA-21 OMPS NRT Aerosol Index Product Released
 [_OMPS_N21_NMUVAI_L2_NRT__ earthdata.nasa.gov/data/alerts-outages/noaa-21-omps-nrt-aerosol-index-product-released](https://www.earthdata.nasa.gov/data/alerts-outages/noaa-21-omps-nrt-aerosol-index-product-released)
 
