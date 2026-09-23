@@ -3,6 +3,11 @@ layout: default
 mathjax: true
 ---
 
+9-23-26 Board Of Redevelopment
+City of Gary @cityofgary [`WATCH` - youtube.com/watch?v=VLfkUx3Bmw8](https://www.youtube.com/watch?v=VLfkUx3Bmw8)
+<img width="692" height="345" alt="image" src="https://github.com/user-attachments/assets/9193e318-4e43-491f-9395-3184931402ae" />
+
+
 @la-county-isd hollyjmitchell
 
 # Writing mathematical expressions
