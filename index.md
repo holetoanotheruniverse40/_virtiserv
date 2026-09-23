@@ -9,8 +9,11 @@ mathjax: true
 --- 
 
 ## The Real Reason The White House Just Created [Trump TV](https://www.whitehouse.gov/videos/trump-tv-the-essentials-station/)
-[whitehouse.gov/videos/trump-tv-the-essentials-station](whitehouse.gov/videos/trump-tv-the-essentials-station)
+
 [`WATCH` - The Real Reason The White House Just Created `Trump TV`](https://youtu.be/fiGWBCvoev8)
+
+[whitehouse.gov/videos/trump-tv-the-essentials-station](whitehouse.gov/videos/trump-tv-the-essentials-station)
+
 
 
 
