@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 ## Dominican Culture, Latin Music Draft & Food Debates Get WILD 
-[Hispanic Heritage Month @libraryofcongress _guides.loc.gov_](https://guides.loc.gov/latinx-studies/nhhm)
+### [Hispanic Heritage Month @libraryofcongress _guides.loc.gov_](https://guides.loc.gov/latinx-studies/nhhm)
 [`WATCH` - youtu.be/WWTTJN25it4](https://youtu.be/WWTTJN25it4)
 <img   alt="image" src="https://github.com/user-attachments/assets/b7ad80b2-486f-4eed-b13b-ce960086f30b" />
 
