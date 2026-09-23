@@ -2,6 +2,12 @@
 layout: default
 ---
 
+
+
+[@nasa @usnavy some boys / young men from the Atlanta art community want me moved from central line actually @CityOfLosAngeles](https://teams.microsoft.com/v2/?meetingjoin=true#/meet/224806458097838?p=o9lt7Hw83LmSzadwjp&anon=true&lightExperience=true&correlationId=42e1687a-5f3e-4379-970d-76c2e95539af&anon=true&deeplinkId=bfccda1c-59d6-4586-9e1d-b9c2f5759756&launchAgent=join_launcher_web) @raytheonbbn like lrads that might be homemade are whata they are communicating on so its quiet slander as well @la-county-isd @FORATLANTA
+
+<img alt="image" src="https://github.com/user-attachments/assets/94dd41ac-edb5-4053-a72f-aa68f4f3a93a" />
+
 <img width="366" height="347" alt="277782120-9f61f185-50ba-43c0-b992-aa21d35e2b91" src="https://github.com/user-attachments/assets/4e2df93c-2283-4d49-994b-331e00fefbb9" />
 
 i was  late doug neman @doug-newman-nasa @nasa @la-county-isd ! and i was there! and missed everything! MayorKaren Bass / Rex Richardson MAyor of long beach,i at least leared about shape files [@CityOfLosAngles Holly Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/), [my reports](https://virtiserv.github.io/wildfire) should improve 
