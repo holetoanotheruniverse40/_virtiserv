@@ -17,6 +17,30 @@ If you have questions, please contact us.
 
 ![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt_small.png](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt_small.png) 
 
+
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 09-23-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.25 Home NASA Accessibility
+NASA Official: Doug Newman
+
 ## PACE Yourself for Faster Science:
 Accessing PACE Land Products with NASA Earthdata’s [AppEEARS](https://appeears.earthdatacloud.nasa.gov/)
 Presenter(s) [Morgaine McKibben](https://science.gsfc.nasa.gov/sci/bio/morgaine.mckibben) ([NASA GSFC @nasa-giss](https://science.gsfc.nasa.gov/earth/)/[SSAI](https://www.linkedin.com/company/ssai)) and [Nathan Roberts](https://www.linkedin.com/in/nathan-roberts-ba2589109) (KBR, contractor to USGS EROS) [ssaihq.com ? ](https://www.ssaihq.com/)
