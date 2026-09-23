@@ -9,9 +9,13 @@ mathjax: true
 
 [@nasa .tv/](https://nasa.tv/) // [NASA Public-Education](https://video.ibm.com/nasahdtv) // [twitch.tv/nasa](https://www.twitch.tv/nasa) // [@nasa-giss NASA TV: Live Webcast Streams](https://science.gsfc.nasa.gov/attic/sunearthday.nasa.gov/webcasts/nasatv/) <~ is this just off air and [Nasa+](https://plus.nasa.gov/) the new standard ? [@LACMTA](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) ,  [this is the channel](https://plus.nasa.gov/) i was broadcasting to some passengers during some initiative @nasa-pds / @nasa-jpl @CityOFLOSANGELES [plus.nasa.gov/](https://plus.nasa.gov/) ... @nasa-jpl [https://www.nasa.gov/live/](https://www.nasa.gov/live/) is broken 429 Too Many Requests
 [nginx](https://nginx.org/)
+
 <img alt="image" src="https://github.com/user-attachments/assets/420d26ee-f901-4574-aaf8-b0e1b3ba8461" />
 <img   alt="image" src="https://github.com/user-attachments/assets/55550216-ee38-4eb4-9b0b-c2b0fbdf4c75" />
 
+@nasa-jpl I'm hurting bad, someone hurt my back  with a DEW @USNAY <~ that was when i was at central @cityoflosangeles 
+
+<img width="490" height="554" alt="image" src="https://github.com/user-attachments/assets/b34ef433-f46f-4df5-8847-87b5b73ea64a" />
 ## Dominican Culture, Latin Music Draft & Food Debates Get WILD 
 ### [Hispanic Heritage Month @libraryofcongress _guides.loc.gov_](https://guides.loc.gov/latinx-studies/nhhm)
 [`WATCH` - youtu.be/WWTTJN25it4](https://youtu.be/WWTTJN25it4)
