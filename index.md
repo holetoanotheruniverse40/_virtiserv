@@ -13,7 +13,7 @@ mathjax: true
 <img alt="image" src="https://github.com/user-attachments/assets/420d26ee-f901-4574-aaf8-b0e1b3ba8461" />
 <img   alt="image" src="https://github.com/user-attachments/assets/55550216-ee38-4eb4-9b0b-c2b0fbdf4c75" />
 
-@nasa-jpl I'm hurting bad, someone hurt my back  with a DEW @USNAY <~ that was when i was at central @cityoflosangeles 
+@nasa-jpl I'm hurting bad, someone hurt my back  with a DEW @USNAvy <~ that was when i was at central @cityoflosangeles 
 
 <img width="490" height="554" alt="image" src="https://github.com/user-attachments/assets/b34ef433-f46f-4df5-8847-87b5b73ea64a" />
 
