@@ -10,6 +10,11 @@ mathjax: true
 [`WATCH`  - https://youtu.be/YpqFKKwydT4](https://youtu.be/YpqFKKwydT4)
 <img  alt="image" src="https://github.com/user-attachments/assets/8559f033-b970-4fc8-bf5e-b8b69c2bc0b2" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prime Minister Benjamin Netanyahu Preparing for his Speech to the UN General Assembly Tomorrow.
+
+Photo: Prime Minister’s Media Adviser https://t.co/sp1RPkZKCG</p>&mdash; Prime Minister of Israel (@IsraeliPM) <a href="https://x.com/IsraeliPM/status/2102748322335257035?ref_src=twsrc%5Etfw">September 23, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 
 ## The Real Reason The White House Just Created [Trump TV](https://www.whitehouse.gov/videos/trump-tv-the-essentials-station/)
 
