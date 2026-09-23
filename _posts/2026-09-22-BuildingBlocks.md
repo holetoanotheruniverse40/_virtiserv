@@ -3228,7 +3228,7 @@ The TIROS Program (Television Infrared Observation Satellite) was NASA's first e
 
 
 
-<img width="1808" height="874" alt="image" src="https://github.com/user-attachments/assets/1a101cdd-28e4-41e9-8bac-386ab2cb7c5b" />
+<img alt="image" src="https://github.com/user-attachments/assets/1a101cdd-28e4-41e9-8bac-386ab2cb7c5b" />
 
 ![poes @noaagov](https://upload.wikimedia.org/wikipedia/commons/2/25/Operational_polar_satellites.jpg) 
 
@@ -4156,3 +4156,38 @@ Quincy Jones
 ![html5SimpleScanStation20250625112805-02](https://github.com/user-attachments/assets/9dc7fdab-892f-4fff-8010-37c5a24a6b06)
 
 ![notesNriverrustSimpleScanStation20250625114336-09](https://github.com/user-attachments/assets/5636104c-15cd-4867-ab68-bdedd2ace43c)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/09d55b1e-5c7a-47ea-963e-c506fcb6eb36" />
+
+<img    alt="image" src="https://github.com/user-attachments/assets/54ba4768-1c60-4eda-94d3-3bb796dcd795" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5424fbf-b981-4a78-9819-8c5d78402dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/40320ffc-521f-427c-ae06-fc5fab7ab4d3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/73252199-ff61-4c3e-9a4e-efc21f4bad1b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a9325e1f-b298-4688-8227-69d6eff075d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6eb1ab4d-b469-435e-8f9e-ed17ac2c44a3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff607eb4-2f94-46a6-98cc-68166fa0c453" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea91e936-9b21-4e92-84f2-a825dccf9ff0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6efe872c-d8d4-451c-9051-7666fc087b9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/22f9bef7-677a-4ce1-b440-a07feb042187" />
+
+
+@blackgirlscode @nasa-jpl 
+
+
