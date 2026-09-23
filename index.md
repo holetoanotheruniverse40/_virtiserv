@@ -8,7 +8,10 @@ layout: default
 
 
 
-@usgs @doug-newman-nasa I'm trying to login to my class @CityOfLosAngeles  there was an eye gouging victim on sith and Broadway I saw after eating at la mission after leaving @dhs-gov @la-county-isd @eodis-nasa @nasa-jpl @nasa-pds I have a @podacc [ish] class RN and I will be back online after I hope! @blackgirlscode if any of the schools have downtime please have them check on incoming signals and call the facilities if there's an anomolie in data collection [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) // [scan-now.gsfc.nasa.gov/](https://scan-now.gsfc.nasa.gov/) <~ @howard-university-web-services tell trice I think she has a suitor , I'm being  followed  a lot!!! 
+@usgs @doug-newman-nasa I'm trying to login to my class @CityOfLosAngeles  there was an eye gouging victim on sith and Broadway I saw after eating at la mission after leaving @dhs-gov @la-county-isd @eodis-nasa @nasa-jpl @nasa-pds I have a @podacc [ish] class RN and I will be back online after I hope! @blackgirlscode if any of the schools have downtime please have them check on incoming signals and call the facilities if there's an anomolie in data collection [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) // [scan-now.gsfc.nasa.gov/](https://scan-now.gsfc.nasa.gov/) <~ @howard-university-web-services tell trice I think she has a suitor , I'm being  followed  a lot!!! @usgs `https://ers.cr.usgs.gov/password/appgenerate`  Application Offline
+The application you are attempting to access is currently under scheduled maintenance. We expect to be back online by 2:00 PM CT. Please try again later.
+
+If you have questions, please contact us.
 <img  alt="image" src="https://github.com/user-attachments/assets/7405c933-e759-4dcc-b514-591b4a3a60ba" />
 
 
