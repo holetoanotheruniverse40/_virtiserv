@@ -6,6 +6,8 @@ layout: default
 
 ---
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A178346799&color=%232195e8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lhmusic" title="LH" target="_blank" style="color: #cccccc; text-decoration: none;">LH</a> · <a href="https://soundcloud.com/lhmusic/j-dilla-pet-sounds-the-key-of-dee-album" title="J Dilla - Pet Sounds in the Key of Dee" target="_blank" style="color: #cccccc; text-decoration: none;">J Dilla - Pet Sounds in the Key of Dee</a></div>
+
 ![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt_small.png](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt_small.png) 
 
 ## PACE Yourself for Faster Science:
@@ -17,6 +19,12 @@ Our ocean teems with life and many of its most vital species are invisible to us
 ![ @cityoflosangeles  KArenbass @LACMTA HOLLY MiTCHELL I have a class in land products tomorrow](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2026-09/webinar-PACE-AppEEARS-tn2.jpg?VersionId=YTE9waJAfIqOqg9ZqeX3yJkCJm2PJT2o&itok=OdSQQUG6)
 `Dusty Gulf of Oman` [read](https://pace.oceansciences.org/gallery_more.htm?id=2315)
 ![https://pace.oceansciences.org/images/ArabianSea_PACE_OCI_20251104.png](https://pace.oceansciences.org/images/ArabianSea_PACE_OCI_20251104.png)
+
+@esri Explore NASA PACE Data with ArcGIS
+[webapp - pace.oceansciences.org/storymaps.htm?id=2328](https://pace.oceansciences.org/storymaps.htm?id=2328)
+🔎 Learn how to access and analyze PACE data in ArcGIS to uncover insights about Earth's land, ocean, and atmosphere. ⛰️🌊☁️ [DiRECTLiNK2STORYMAP](https://storymaps.arcgis.com/stories/452e0ca62ef043fa9168dd45d4d70f28)
+<img  alt="image" src="https://github.com/user-attachments/assets/926a94cd-cd4a-4b6a-be5b-22fc16c72f76" />
+
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A178346799&color=%232195e8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lhmusic" title="LH" target="_blank" style="color: #cccccc; text-decoration: none;">LH</a> · <a href="https://soundcloud.com/lhmusic/j-dilla-pet-sounds-the-key-of-dee-album" title="J Dilla - Pet Sounds in the Key of Dee" target="_blank" style="color: #cccccc; text-decoration: none;">J Dilla - Pet Sounds in the Key of Dee</a></div>
 
