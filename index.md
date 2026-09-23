@@ -13,7 +13,26 @@ mathjax: true
 [`WATCH` - The Real Reason The White House Just Created `Trump TV`](https://youtu.be/fiGWBCvoev8)
 
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/420d26ee-f901-4574-aaf8-b0e1b3ba8461" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/55550216-ee38-4eb4-9b0b-c2b0fbdf4c75" />
+<img  alt="image" src="https://github.com/user-attachments/assets/961cccf0-7bcf-46ea-ab74-a62d6b6d2d8d" />
+
 [youtu.be/U6sbm1OaJb8 Street Fighter 2026](https://youtu.be/U6sbm1OaJb8) // [Street Fighter 2026 youtube.com/watch?v=Xt4X4FvXk2A](https://www.youtube.com/watch?v=Xt4X4FvXk2A)
+
+## Why Everyone Is Furious Over The New Converse Ad [1](https://github.com/conversejs)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ad54ad9f-b1d4-43ec-b9d8-fdde32b543c8" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SHAI 001 PREMIUM: Slither is out now. @shaiglalex 
+
+Available on https://t.co/faUtwV58JK, Nike SNKRS, and at select Converse stores and retailers. https://t.co/P8N0WGUfRl</p>&mdash; Converse (@Converse) <a href="https://x.com/Converse/status/2077032510320775570?ref_src=twsrc%5Etfw">July 14, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+
 [@nasa .tv/](https://nasa.tv/) // [NASA Public-Education](https://video.ibm.com/nasahdtv) // [twitch.tv/nasa](https://www.twitch.tv/nasa) // [@nasa-giss NASA TV: Live Webcast Streams](https://science.gsfc.nasa.gov/attic/sunearthday.nasa.gov/webcasts/nasatv/) <~ is this just off air and [Nasa+](https://plus.nasa.gov/) the new standard ? [@LACMTA](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) ,  [this is the channel](https://plus.nasa.gov/) i was broadcasting to some passengers during some initiative @nasa-pds / @nasa-jpl @CityOFLOSANGELES [plus.nasa.gov/](https://plus.nasa.gov/) ... @nasa-jpl [https://www.nasa.gov/live/](https://www.nasa.gov/live/) is broken 429 Too Many Requests
 [nginx](https://nginx.org/) /////// [@deptofwar ritchietorres.house.gov/congressman-ritchie-torres-writes-to-executives-at-twitch-and-amazon-hasan-piker-is-dangerous](https://ritchietorres.house.gov/congressman-ritchie-torres-writes-to-executives-at-twitch-and-amazon-hasan-piker-is-dangerous) // [war.gov/Multimedia/Videos/videoid/973661/](https://www.war.gov/Multimedia/Videos/videoid/973661/)
 
@@ -27,8 +46,6 @@ mathjax: true
 
 ![https://yt3.googleusercontent.com/u4YTGe9QMUnXLED7h3JKLipH4OXnV18gMDvT3_UsT4CzJe7B7NlidVc19TqBJOdV9xwbSKftvA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/u4YTGe9QMUnXLED7h3JKLipH4OXnV18gMDvT3_UsT4CzJe7B7NlidVc19TqBJOdV9xwbSKftvA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
-<img alt="image" src="https://github.com/user-attachments/assets/420d26ee-f901-4574-aaf8-b0e1b3ba8461" />
-<img   alt="image" src="https://github.com/user-attachments/assets/55550216-ee38-4eb4-9b0b-c2b0fbdf4c75" />
 
 @nasa-jpl I'm hurting bad, someone hurt my back  with a DEW @USNAvy <~ that was when i was at central @cityoflosangeles 
 
