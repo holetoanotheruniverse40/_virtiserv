@@ -4,7 +4,9 @@ mathjax: true
 ---
 
 9-23-26 Board Of Redevelopment
-City of Gary @cityofgary [`WATCH` - youtube.com/watch?v=VLfkUx3Bmw8](https://www.youtube.com/watch?v=VLfkUx3Bmw8)
+City of Gary @cityofgary [`WATCH` - youtube.com/watch?v=VLfkUx3Bmw8](https://www.youtube.com/watch?v=VLfkUx3Bmw8) @lanajharris - i wonder what they thing abt micheal jackson fandom ? Rashard @nasajpl @HOWARDUNiVERSiTY hi @repkarenbass @nasa-pds @USGS @DeptOfWar war.gov/spotlights/combating-trafficking-in-persons/ @thakasErikaselassie_kelly#1 ​@LACityClerk @normani @blackgirlscode @whitehouse
+@thakasErikaselassie_kelly#1​@chloebaileywashere war.gov/Multimedia/Videos/videoid/973661/ @deptofwar ... @timbaland since you were last seen publically with her you have to protect her from pimpin now @howarduniversity @KTLA
+
 <img width="692" height="345" alt="image" src="https://github.com/user-attachments/assets/9193e318-4e43-491f-9395-3184931402ae" />
 
 
