@@ -8,6 +8,7 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+<iframe width='500' height='300' scrolling='no' frameborder='0' style='border: none; overflow: hidden; width: 500px; height: 300px;' allowtransparency='true' src='https://www.dvidshub.net/video/embed/1022630'></iframe>
 
 @WHITEHOUSE
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h6_Kl2oVOTs?si=3XcEnGX7dCN2tWoO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
