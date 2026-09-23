@@ -6,6 +6,7 @@ layout: default
 
 ---
 
+![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt_small.png](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt_small.png) 
 
 ## PACE Yourself for Faster Science:
 Accessing PACE Land Products with NASA Earthdata’s [AppEEARS](https://appeears.earthdatacloud.nasa.gov/)
@@ -14,8 +15,13 @@ Hosted By NASA Earthdata @eodis-nasa @nasa  @doug-newman-nasa @nasa-jpl @la-coun
 Sept. 23, 2026,1:00-2:00 p.m. EDT(1700-1800 UTC) [earthdata.nasa.gov/events/pace-yourself-faster-science-accessing-pace-land-products-nasa-earthdatas-appeears](https://www.earthdata.nasa.gov/events/pace-yourself-faster-science-accessing-pace-land-products-nasa-earthdatas-appeears) _Why Do We Need PACE?_: Ocean Ecology
 Our ocean teems with life and many of its most vital species are invisible to us. Like on land, the ocean has deserts, forests, meadows, and jungles, providing habitats for many forms of life. The types of life in these habitats is determined by microscopic algae that float in our ocean. Known as "phytoplankton," these tiny organisms come in many different shapes, sizes, and colors. The diversity of phytoplankton types determines the roles they play in ocean habitats. It also determines how well they capture energy from the sun and carbon from the atmosphere. [pace.gsfc.nasa.gov/](https://pace.gsfc.nasa.gov/)
 ![ @cityoflosangeles  KArenbass @LACMTA HOLLY MiTCHELL I have a class in land products tomorrow](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2026-09/webinar-PACE-AppEEARS-tn2.jpg?VersionId=YTE9waJAfIqOqg9ZqeX3yJkCJm2PJT2o&itok=OdSQQUG6)
+`Dusty Gulf of Oman` [read](https://pace.oceansciences.org/gallery_more.htm?id=2315)
+![https://pace.oceansciences.org/images/ArabianSea_PACE_OCI_20251104.png](https://pace.oceansciences.org/images/ArabianSea_PACE_OCI_20251104.png)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A178346799&color=%232195e8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lhmusic" title="LH" target="_blank" style="color: #cccccc; text-decoration: none;">LH</a> · <a href="https://soundcloud.com/lhmusic/j-dilla-pet-sounds-the-key-of-dee-album" title="J Dilla - Pet Sounds in the Key of Dee" target="_blank" style="color: #cccccc; text-decoration: none;">J Dilla - Pet Sounds in the Key of Dee</a></div>
+
+
+![https://pace.oceansciences.org/images/PACE_decal_partners.png](https://pace.oceansciences.org/images/PACE_decal_partners.png) 
 
 # north america heat anomolies
 @cityofsantamonica @nasa-jpl 
