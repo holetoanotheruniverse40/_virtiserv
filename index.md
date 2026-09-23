@@ -6,7 +6,11 @@ layout: default
 
 ---
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A178346799&color=%232195e8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lhmusic" title="LH" target="_blank" style="color: #cccccc; text-decoration: none;">LH</a> · <a href="https://soundcloud.com/lhmusic/j-dilla-pet-sounds-the-key-of-dee-album" title="J Dilla - Pet Sounds in the Key of Dee" target="_blank" style="color: #cccccc; text-decoration: none;">J Dilla - Pet Sounds in the Key of Dee</a></div>
+
+
+@usgs @doug-newman-nasa I'm trying to login to my class @CityOfLosAngeles  there was an eye gouging victim on sith and Broadway I saw after eating at la mission after leaving @dhs-gov @la-county-isd @eodis-nasa @nasa-jpl @nasa-pds I have a @podacc [ish] class RN and I will be back online after I hope! @blackgirlscode if any of the schools have downtime please have them check on incoming signals and call the facilities if there's an anomolie in data collection [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) // [scan-now.gsfc.nasa.gov/](https://scan-now.gsfc.nasa.gov/) <~ @howard-university-web-services tell trice I think she has a suitor , I'm being  followed  a lot!!! 
+<img  alt="image" src="https://github.com/user-attachments/assets/7405c933-e759-4dcc-b514-591b4a3a60ba" />
+
 
 ![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt_small.png](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt_small.png) 
 
