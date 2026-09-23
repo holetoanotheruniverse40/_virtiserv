@@ -1,9 +1,9 @@
 ---
-layout: class
+layout: default
 mermaid: true
 published: true
 permalink: /changelog
-title: "@nasa-jpl TroubleTicketsNiSSUes"
+title: "changelog"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
