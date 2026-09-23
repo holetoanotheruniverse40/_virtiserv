@@ -2,8 +2,11 @@
 layout: default
 ---
 
+<img width="366" height="347" alt="277782120-9f61f185-50ba-43c0-b992-aa21d35e2b91" src="https://github.com/user-attachments/assets/4e2df93c-2283-4d49-994b-331e00fefbb9" />
 
+i was  late doug neman @doug-newman-nasa @nasa @la-county-isd ! and i was there! and missed everything! MayorKaren Bass / Rex Richardson MAyor of long beach,i at least leared about shape files [@CityOfLosAngles Holly Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/), [my reports](https://virtiserv.github.io/wildfire) should improve 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/40c048e0-c17a-4710-812f-cf4ef65b4171" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/28829a6d-3910-4e34-8bcf-ab8ee8ae39d6" />
 <img   alt="image" src="https://github.com/user-attachments/assets/f6e3d421-76a5-4552-a35f-97e0e34c3ef2" />
