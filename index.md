@@ -11,7 +11,7 @@ mathjax: true
 @NASAJPL #HiSTORY @FatBEATS btw @NithyafortheCity @CityOfLosAngeles talk to @lanajharris 
 [`WATCH` - @Google Book Laptop, Humanoid AI Robots & Meta Muse Security Flaw](https://youtu.be/Xlk7T1skgWw)
   games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? 
-I Went To Magic City Str*p Club To Review Food . . . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+I Went To Magic City Str*p Club To Review Food . . . not the woman https:// [youtu.be/5vnGp_XbIMM @nasa @deptofwar they made me late!!!](https://youtu.be/5vnGp_XbIMM) <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
 @repkarenbass @SupervisorHollyJMitchell @fox5atlanta
 <img   alt="image" src="https://github.com/user-attachments/assets/34a36f71-3c37-47ef-b86d-2a75d2359f7e" />
 
