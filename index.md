@@ -5,7 +5,7 @@ mathjax: true
 
 # @CityOfLosANgeles [Mayor Karen Bass](https://youtu.be/6EDyhe383_s?si=-zB8Rj4PcZJxfQCx) Cloudflare not reaching EC2 with https, can access through IPv4 just fine
 [stackoverflow.com/questions/79098525/cloudflare-not-reaching-ec2-with-https-can-access-through-ipv4-just-fine](https://stackoverflow.com/questions/79098525/cloudflare-not-reaching-ec2-with-https-can-access-through-ipv4-just-fine)
-@nasa-jpl [Jared Isaccman]() hi @cloudflare im innocenting you because alot of cloud companies got hijacked @fbicyber please be reasonable because there was a lot of consensual activity on onlyfans with people truly escaping a violent intimate partner and we dont know why things are this corrupt @whitehouse but i think the user base is younger than anyone expects @deptofwar and we have a lot of talent that simply needs redirection 
+@nasa-jpl [Jared Isaccman](https://polarisprogram.com/team/jared-isaacman/) hi @cloudflare im innocenting you because alot of cloud companies got hijacked @fbicyber please be reasonable because there was a lot of consensual activity on onlyfans with people truly escaping a violent intimate partner and we dont know why things are this corrupt @whitehouse but i think the user base is younger than anyone expects @deptofwar and we have a lot of talent that simply needs redirection 
 
 --- [stackoverflow.design/brand/color - `design curicculum examples @howard-university-web-services @caltech stackoverflow.design/brand/color](https://stackoverflow.design/brand/color) /// [create-react-app.dev/](https://create-react-app.dev/)
 
