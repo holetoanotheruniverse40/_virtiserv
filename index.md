@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 [virtiserv.github.io/linux](https://virtiserv.github.io/linux/)
- // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=439) // @nasa-jpl hi its about draper and my benefits hi @blackgirlscode how is [kim](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) ? 
+ // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=439) // @nasa-jpl hi its about draper and my benefits hi @blackgirlscode how is [kim](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) ? ![https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg](https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg) 
 <img  alt="image" src="https://github.com/user-attachments/assets/0f733448-723d-42af-a499-dd0068eec194" />
 
  // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=206) //
