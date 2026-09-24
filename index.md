@@ -6,6 +6,17 @@ mathjax: true
 
 [Queens 6 @ForAtlanta `womenOnly`](https://youtu.be/4Ngc2DAdIN4) // [DJ Eclipse – Coffee Syrup](https://youtu.be/MCsN8IoRkj0) // [D-Styles - Inspiration Information](https://youtu.be/Sa1KIhAx8_k?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3) // [DJ Premier - Bootleg Volume C Mixtape](https://youtu.be/HPx6MRbF2Dc) // [Dj Total Eclipse Juggle Fest ](https://youtu.be/QpHtjIc83Ng) // [youtu.be/U6sbm1OaJb8 Street Fighter 2026](https://youtu.be/U6sbm1OaJb8) // [Street Fighter 2026 youtube.com/watch?v=Xt4X4FvXk2A](https://www.youtube.com/watch?v=Xt4X4FvXk2A) // [Q-Bert & D-Styles - Underarms "R" Fun](https://youtu.be/ZDGQAdWhM78?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3)
 
+
+## EarthDataRashard
+@vsco @parkr hi I had an account [`earthdataRashard` - vsco.co/earthdatarashard/gallery @howard-university-web-services](https://vsco.co/earthdatarashard/gallery)for my @Nasa earthdata @eodis-nasa findings here in and around  @cityoflosangeles @nasa-jpl @la-county-isd [vsco.co/search/images/%23virtiserv](https://vsco.co/search/images/%23virtiserv) . . . I don't know what happened, however that girl from Ponce that put me on to @blackgirlscode idk she went  through something and left direction to just ping the group and make meaningful science updates and I really don't know what me are attached to the group, I can tell they work at @disney and @hulu but their personal lives are just that personal!!! So with the pattern of the account removal i think its a male attached to a female I held some sort of special place for and  don't know how to start resolving the missing profile because I have no idea how deep all this is @meta!!! 
+<img alt="image" src="https://github.com/user-attachments/assets/31a7de7d-753f-4d71-b13e-9d55efa928bf" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/89f235e6-4968-458f-8158-34c49f46e37e" />
+
+// [DJ Eclipse – Coffee Syrup](https://youtu.be/MCsN8IoRkj0) //
+
+<img   alt="image" src="https://github.com/user-attachments/assets/711f55fa-9c90-454f-8cb0-91ab146e0ea8" />
+
 ### HOT 97 News Live! 9/23/26
 [`WATCH`  - https://youtu.be/YpqFKKwydT4](https://youtu.be/YpqFKKwydT4)
 <img  alt="image" src="https://github.com/user-attachments/assets/8559f033-b970-4fc8-bf5e-b8b69c2bc0b2" />
