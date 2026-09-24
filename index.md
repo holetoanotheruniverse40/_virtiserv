@@ -5,6 +5,29 @@ mathjax: true
 
 ## HOT 97 News Live! 9/24/26
 [`WATCH` - https://youtu.be/MeL1vBhjY7c](https://youtu.be/MeL1vBhjY7c)
+<img  alt="image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta " src="https://github.com/user-attachments/assets/ee73a2fa-4a06-4f2e-9080-166d1fe85a99" />
+
+@TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) 
+```
+Artemis Campaign.—The agreement rejects
+the proposed termination of the Space
+Launch System (SLS) and Orion programs
+following Artemis III. In any future competition for Artemis launch services, the agreement directs NASA to include an SLS-based
+option, unless otherwise directed by Congress. The agreement further prohibits the
+reallocation of funds from the Artemis Moon
+to Mars Transportation account, unless and
+until a commercial alternative is demonstrated to meet or exceed the capabilities
+of the SLS and Orion systems. Not later than
+30 days of the enactment of this act, and
+quarterly thereafter, NASA shall provide the
+Committees a briefing detailing any updates
+on the Human Landing System (HLS) program, the progress made in the HLS program, any anticipated changes to program
+cost or schedule, and any other relevant
+issues related to the HLS program
+```
 
 [@nasa-jpl is lunar ops DSN ? @nasa-pds - `Artemis3 Docs` @USNAVY @cal-poly-dxhub plz fwd to victor @nasa-openscapes ](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11)
 @doug-newman-nasa @eodis-nasa See Congressional Record, vol. 172, no. 5, Book II (January 8, 2026), pp. H263-H265, [https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf) <~ is it legit @whitehouse @deptofwar @commercegov @la-county-isd @CityOfSantaMonica @longbeachinnovationteam .
