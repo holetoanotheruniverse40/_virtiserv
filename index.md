@@ -3,6 +3,10 @@ layout: default
 mathjax: true
 ---
 
+
+ // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) //
+<img   alt="image" src="https://github.com/user-attachments/assets/d870cdc9-b2e3-42f1-8803-1bb945b0b642" />
+
 hi @blackgirlscode one of your superiors communicated a need for an api key from @usgs `jsUdb6xB08EiGz37GjBlICPNU83AFx7Jg!fKFIY8Lm8VMvjvSI4fBjEjampDOpfB` @eodis-nasa @doug-newman-nasa idk if thats secure @cisagov please monitor @Blackgirlscode and @Howard-university-web-services for api connections - rashard @nasa-pds @eodis-nasa @CityOfLosAngeles 
 <img  alt="image hi @blackgirlscode one of your superiors communicated a need for an api key from @usgs  - @rashardikelly @nasa-jpl " src="https://github.com/user-attachments/assets/5989064b-5972-4b1e-b89b-5d21c3cd6c7e" />
 
