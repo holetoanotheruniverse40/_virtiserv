@@ -5,9 +5,25 @@ mathjax: true
 
 ## HOT 97 News Live! 9/24/26
 [`WATCH` - https://youtu.be/MeL1vBhjY7c](https://youtu.be/MeL1vBhjY7c)
-<img   alt="image" src="https://github.com/user-attachments/assets/1c674838-f811-489b-85f4-556c2153ca37" />
 
-<img alt="image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse " src="https://github.com/user-attachments/assets/8696df26-4e52-40c8-9326-53941fa09319" />
+
+@doug-newman-nasa @eodis-nasa See Congressional Record, vol. 172, no. 5, Book II (January 8, 2026), pp. H263-H265, [https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf) <~ is it legit @whitehouse @deptofwar @commercegov @la-county-isd @CityOfSantaMonica @longbeachinnovationteam .
+<img  alt="image" src="https://github.com/user-attachments/assets/1c37a142-9260-49f0-8274-956c878becd0" />
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
+
+<img   alt="image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/1c674838-f811-489b-85f4-556c2153ca37" />
+
+<img alt="image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/8696df26-4e52-40c8-9326-53941fa09319" />
+
+<img  alt="image image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse " src="https://github.com/user-attachments/assets/23760782-e0c4-4323-841c-4962a23dfcb4" />
+
 
 ## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
 
