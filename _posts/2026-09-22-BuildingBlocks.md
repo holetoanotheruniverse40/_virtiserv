@@ -22,6 +22,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 </picture>
 
 
+
+![https://appeears.earthdatacloud.nasa.gov/assets/images/lpdaac/ESDS-LPDAAC-blue-logo.png](https://appeears.earthdatacloud.nasa.gov/assets/images/lpdaac/ESDS-LPDAAC-blue-logo.png)
+
 # 403 ERROR @doug-newman-nasa @eodis-nasa
 The request could not be satisfied.
 Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
@@ -33,7 +36,7 @@ Request ID: sMfGa-qfzBCJwVi-aWJwUbEcXyhyP9KvB_0I9w5OJmSvT5M_ea3ZMw==
 
 <img  alt="image @doug-newman-nasa @eodis-nasa" src="https://github.com/user-attachments/assets/f1f0943f-677b-4e13-9876-41b6714d4c44" />
 
-![https://appeears.earthdatacloud.nasa.gov/assets/images/lpdaac/ESDS-LPDAAC-blue-logo.png](https://appeears.earthdatacloud.nasa.gov/assets/images/lpdaac/ESDS-LPDAAC-blue-logo.png)
+
 
 [Dj Evil Dee – Summer School Volume 1 @blackgirlscode  ](https://youtu.be/j1VNzAe5JNg)
 
