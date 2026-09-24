@@ -7,6 +7,14 @@ mathjax: true
 
 
 
+#### Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA ?
+@NASAJPL #HiSTORY @FatBEATS btw @NithyafortheCity @CityOfLosAngeles talk to @lanajharris 
+[`WATCH` - @Google Book Laptop, Humanoid AI Robots & Meta Muse Security Flaw](https://youtu.be/Xlk7T1skgWw)
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? 
+I Went To Magic City Str*p Club To Review Food . . . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta
+<img   alt="image" src="https://github.com/user-attachments/assets/34a36f71-3c37-47ef-b86d-2a75d2359f7e" />
+
 [ @cityofnewyork @NewYorkCityCouncil Tour Fat Beats NY with DJ Eclipse](https://youtu.be/-4OxhRVuZFo?si=dWIAVy5_m3KK20O4)  Take a tour through the iconic New York City record store Fat Beats with DJ Eclipse. - 
 Shot and edited by  [Abraham Heisler - myspace.com/irtryddimzdvd](http://www.myspace.com/irtryddimzdvd)
 <img  alt="image" src="https://github.com/user-attachments/assets/20a44531-dc8b-4c92-bdd7-a17eb34274b4" />
