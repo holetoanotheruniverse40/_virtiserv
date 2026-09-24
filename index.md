@@ -6,7 +6,18 @@ mathjax: true
 
 [Queens 6 @ForAtlanta `womenOnly`](https://youtu.be/4Ngc2DAdIN4) // [DJ Eclipse – Coffee Syrup](https://youtu.be/MCsN8IoRkj0) // [D-Styles - Inspiration Information](https://youtu.be/Sa1KIhAx8_k?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3) // [DJ Premier - Bootleg Volume C Mixtape](https://youtu.be/HPx6MRbF2Dc) // [Dj Total Eclipse Juggle Fest ](https://youtu.be/QpHtjIc83Ng) // [youtu.be/U6sbm1OaJb8 Street Fighter 2026](https://youtu.be/U6sbm1OaJb8) // [Street Fighter 2026 youtube.com/watch?v=Xt4X4FvXk2A](https://www.youtube.com/watch?v=Xt4X4FvXk2A) // [Q-Bert & D-Styles - Underarms "R" Fun](https://youtu.be/ZDGQAdWhM78?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3) // [Dj Evil Dee – Summer School Volume 1](https://youtu.be/j1VNzAe5JNg)
 
-@nasa-jpl I have been working on earthdata things, and its so much work to regain my access to s3 I'm going to have my bookkeeper prioritize it and I will send @CityOfLosAngeles and @Stateofcalifornia etc [github.com/CityOfLosAngeles/planning-entitlements](https://github.com/CityOfLosAngeles/planning-entitlements) 
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pilot_ER-2_Cockpit.width-1024.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pilot_ER-2_Cockpit.width-1024.jpg)
+
+@nasa-jpl [MASTER: Geological Earth Mapping Experiment (GEMx), Summer 2025](https://search.earthdata.nasa.gov/search/granules?p=C3896679508-ORNL_CLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4194528952-ORNL_CLOUD&q=gemx&lat=38.585472100000004&long=-112.03721434789271&zoom=9.889122510491427) .hdf files have really small browse images @usgs @ornldaac 
+
+
+<img width="200" height="200" alt=" @nasa-jpl [MASTER: Geological Earth Mapping Experiment (GEMx), Summer 2025](https://search.earthdata.nasa.gov/search/granules?p=C3896679508-ORNL_CLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4194528952-ORNL_CLOUD&q=gemx&lat=38.585472100000004&long=-112.03721434789271&zoom=9.889122510491427) .hdf files have really small browse images @usgs  MASTERL1B_2598200_08_20250923_2042_2046_V01_BROWSE" src="https://github.com/user-attachments/assets/c54fad0e-506e-4528-8d82-48754b8ed8c7" />
+
+@nasa-jpl I have been working on earthdata things, and its so much work to regain my access to s3 I'm going to have my bookkeeper prioritize it and I will send @CityOfLosAngeles and @Stateofcalifornia via [EarthDataSearch](https://search.earthdata.nasa.gov/search/granules?p=C3896679508-ORNL_CLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4194528952-ORNL_CLOUD&q=gemx&lat=38.585472100000004&long=-112.03721434789271&zoom=9.889122510491427) and [@asfadmin `VerteX`](https://search.asf.alaska.edu/) [github.com/CityOfLosAngeles/planning-entitlements](https://github.com/CityOfLosAngeles/planning-entitlements)  // [Meet the Mineral Mappers Flying NASA Tech Out West - @nasa-jpl ](https://www.jpl.nasa.gov/news/meet-the-mineral-mappers-flying-nasa-tech-out-west/)
+
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/E1-Cuprite-spectroscopy-diptych-web.width-1320.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/E1-Cuprite-spectroscopy-diptych-web.width-1320.jpg) 
 
 [@isro nisar-docs.asf.alaska.edu/aws-s3-access/#aws-s3-access-overview](https://nisar-docs.asf.alaska.edu/aws-s3-access/#aws-s3-access-overview)
 <img alt="image" src="https://github.com/user-attachments/assets/3f429fc9-7489-4593-8322-766bc37e9f27" />
