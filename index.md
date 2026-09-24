@@ -3,6 +3,7 @@ layout: default
 mathjax: true
 ---
 
+<img alt="image" src="https://github.com/user-attachments/assets/8696df26-4e52-40c8-9326-53941fa09319" />
 
 ## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
 
