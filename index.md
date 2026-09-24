@@ -5,7 +5,14 @@ mathjax: true
 
 [ @cityofnewyork @NewYorkCityCouncil Tour Fat Beats NY with DJ Eclipse](https://youtu.be/-4OxhRVuZFo?si=dWIAVy5_m3KK20O4) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [FUNK FLEXPLAYING CLASSIC HIP HOP 3 ENERGYTAPE](https://youtu.be/tFZSmis5eno)
 
+[ @cityoflosangeles github.com/rashardikelly](https://github.com/rashardikelly)
 
+<img  alt="image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta" src="https://github.com/user-attachments/assets/7c04db7a-1dfc-4f90-a4d3-1c198cddb85c" />
+
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
 
 #### Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA ?
 @NASAJPL #HiSTORY @FatBEATS btw @NithyafortheCity @CityOfLosAngeles talk to @lanajharris 
