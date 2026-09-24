@@ -6,6 +6,10 @@ mathjax: true
 
 [Queens 6 @ForAtlanta `womenOnly`](https://youtu.be/4Ngc2DAdIN4) // [DJ Eclipse – Coffee Syrup](https://youtu.be/MCsN8IoRkj0) // [D-Styles - Inspiration Information](https://youtu.be/Sa1KIhAx8_k?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3) // [DJ Premier - Bootleg Volume C Mixtape](https://youtu.be/HPx6MRbF2Dc) // [Dj Total Eclipse Juggle Fest ](https://youtu.be/QpHtjIc83Ng) // [youtu.be/U6sbm1OaJb8 Street Fighter 2026](https://youtu.be/U6sbm1OaJb8) // [Street Fighter 2026 youtube.com/watch?v=Xt4X4FvXk2A](https://www.youtube.com/watch?v=Xt4X4FvXk2A) // [Q-Bert & D-Styles - Underarms "R" Fun](https://youtu.be/ZDGQAdWhM78?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3)
 
+
+[Dj Evil Dee – Summer School Volume 1](https://youtu.be/j1VNzAe5JNg)
+<img  alt="image" src="https://github.com/user-attachments/assets/a002b8bf-878e-4147-881a-eae46dec66f2" />
+
 [D-Styles - Inspiration Information](https://youtu.be/Sa1KIhAx8_k?t=1407) // [discogs.com/release/1356162-D-Styles-Inspiration-Information?srsltid=AU7gw4VA6uLze3EVM49ulNQ7XlfLAg4d9boQV6i1uC3LmDCzwktkv1OY](https://www.discogs.com/release/1356162-D-Styles-Inspiration-Information?srsltid=AU7gw4VA6uLze3EVM49ulNQ7XlfLAg4d9boQV6i1uC3LmDCzwktkv1OY)
 
 <iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?feed=%2Fonneb_89%2Fd-styles-inspiration-information-2005%2F&utm_medium=share&utm_source=embed&utm_content=show&utm_term=Nzg4MWIyZThfZGNhM180NDY2X2JhMzdfNjViNDFjMjgxMDEz" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;" ></iframe>
