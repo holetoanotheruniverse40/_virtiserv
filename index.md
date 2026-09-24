@@ -6,7 +6,7 @@ mathjax: true
 ## HOT 97 News Live! 9/24/26
 [`WATCH` - https://youtu.be/MeL1vBhjY7c](https://youtu.be/MeL1vBhjY7c)
 
-
+[@nasa-jpl is lunar ops DSN ? @nasa-pds - `Artemis3 Docs` @USNAVY @cal-poly-dxhub plz fwd to victor @nasa-openscapes ](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11)
 @doug-newman-nasa @eodis-nasa See Congressional Record, vol. 172, no. 5, Book II (January 8, 2026), pp. H263-H265, [https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf) <~ is it legit @whitehouse @deptofwar @commercegov @la-county-isd @CityOfSantaMonica @longbeachinnovationteam .
 <img  alt="image" src="https://github.com/user-attachments/assets/1c37a142-9260-49f0-8274-956c878becd0" />
 
