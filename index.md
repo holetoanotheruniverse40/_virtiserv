@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+hi @blackgirlscode one of your superiors communicated a need for an api key from @usgs `jsUdb6xB08EiGz37GjBlICPNU83AFx7Jg!fKFIY8Lm8VMvjvSI4fBjEjampDOpfB` @eodis-nasa @doug-newman-nasa idk if thats secure @cisagov please monitor @Blackgirlscode and @Howard-university-web-services for api connections - rashard @nasa-pds @eodis-nasa @CityOfLosAngeles 
+<img  alt="image hi @blackgirlscode one of your superiors communicated a need for an api key from @usgs  - @rashardikelly @nasa-jpl " src="https://github.com/user-attachments/assets/5989064b-5972-4b1e-b89b-5d21c3cd6c7e" />
+
 [ @cityofnewyork @NewYorkCityCouncil Tour Fat Beats NY with DJ Eclipse](https://youtu.be/-4OxhRVuZFo?si=dWIAVy5_m3KK20O4) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [FUNK FLEXPLAYING CLASSIC HIP HOP 3 ENERGYTAPE](https://youtu.be/tFZSmis5eno)
 
 [ @cityoflosangeles github.com/rashardikelly](https://github.com/rashardikelly)
