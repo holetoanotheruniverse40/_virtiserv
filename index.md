@@ -3,6 +3,37 @@ layout: default
 mathjax: true
 ---
 
+
+# @CityOfLosANgeles [Mayor Karen Bass](https://www.congress.gov/member/karen-bass/B001270) 
+thanks for supporting our [earth sciences division @eodis-nasa](https://www.earthdata.nasa.gov/about/esdis)
+### [`Watch` - youtu.be/6EDyhe383_s?si=7Wsd-GUNLL4yglJi](https://youtu.be/6EDyhe383_s?si=7Wsd-GUNLL4yglJi) 
+@doug-newman-nasa can you reach out to [Nythia Ramen](https://www.nithyaforthecity.com/) so I dont get displaced @nasa-pds @nasa-jpl  . . . @SonyResearch , i may have too much work to be involved with you and have to wait for @Cloudflare to reslove the dns issues @whitehouse to get paid .. . @blackgirlscode tell Chloe erika coral and Trice im not waiting on lawsuits, im just getting ... spied on - l8tR 
+
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 09-24-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.25 Home NASA Accessibility
+NASA Official: Doug Newman
+<img   alt="image" src="https://github.com/user-attachments/assets/f8542165-007e-4c39-ab9c-8accd471308f" />
+
+
 # @CityOfLosANgeles [Mayor Karen Bass](https://youtu.be/6EDyhe383_s?si=-zB8Rj4PcZJxfQCx) Cloudflare not reaching EC2 with https, can access through IPv4 just fine
 [stackoverflow.com/questions/79098525/cloudflare-not-reaching-ec2-with-https-can-access-through-ipv4-just-fine](https://stackoverflow.com/questions/79098525/cloudflare-not-reaching-ec2-with-https-can-access-through-ipv4-just-fine)
 @nasa-jpl [Jared Isaccman](https://polarisprogram.com/team/jared-isaacman/) hi @cloudflare im innocenting you because alot of cloud companies got hijacked @fbicyber please be reasonable because there was a lot of consensual activity on onlyfans with people truly escaping a violent intimate partner and we dont know why things are this corrupt @whitehouse but i think the user base is younger than anyone expects @deptofwar and we have a lot of talent that simply needs redirection 
