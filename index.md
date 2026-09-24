@@ -7,6 +7,13 @@ mathjax: true
 [Queens 6 @ForAtlanta `womenOnly`](https://youtu.be/4Ngc2DAdIN4) // [DJ Eclipse – Coffee Syrup](https://youtu.be/MCsN8IoRkj0) // [D-Styles - Inspiration Information](https://youtu.be/Sa1KIhAx8_k?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3) // [DJ Premier - Bootleg Volume C Mixtape](https://youtu.be/HPx6MRbF2Dc) // [Dj Total Eclipse Juggle Fest ](https://youtu.be/QpHtjIc83Ng) // [youtu.be/U6sbm1OaJb8 Street Fighter 2026](https://youtu.be/U6sbm1OaJb8) // [Street Fighter 2026 youtube.com/watch?v=Xt4X4FvXk2A](https://www.youtube.com/watch?v=Xt4X4FvXk2A) // [Q-Bert & D-Styles - Underarms "R" Fun](https://youtu.be/ZDGQAdWhM78?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3) // [Dj Evil Dee – Summer School Volume 1](https://youtu.be/j1VNzAe5JNg)
 
 
+# Hot 97 Evil Dee Monday NightFlavas
+[#oldschoolhiphop](https://www.youtube.com/hashtag/oldschoolhiphop)
+[`LiSTEN` - youtu.be/-Ybeplvej_k](https://youtu.be/-Ybeplvej_k)
+<img   alt="image" src="https://github.com/user-attachments/assets/d3c1f7e7-f86e-4cd4-b55b-3b3a93e4837c" />
+
+![https://www.hot97.com/wp-content/uploads/sites/2/2024/03/hot97-logo.png](https://www.hot97.com/wp-content/uploads/sites/2/2024/03/hot97-logo.png) 
+
 ![https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pilot_ER-2_Cockpit.width-1024.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/1-Pilot_ER-2_Cockpit.width-1024.jpg)
 
 @nasa-jpl [MASTER: Geological Earth Mapping Experiment (GEMx), Summer 2025](https://search.earthdata.nasa.gov/search/granules?p=C3896679508-ORNL_CLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4194528952-ORNL_CLOUD&q=gemx&lat=38.585472100000004&long=-112.03721434789271&zoom=9.889122510491427) .hdf files have really small browse images @usgs @ornldaac 
