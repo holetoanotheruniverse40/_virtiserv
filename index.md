@@ -3,6 +3,13 @@ layout: default
 mathjax: true
 ---
 
+[ @cityofnewyork @NewYorkCityCouncil Tour Fat Beats NY with DJ Eclipse](https://youtu.be/-4OxhRVuZFo?si=dWIAVy5_m3KK20O4) // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) // [FUNK FLEXPLAYING CLASSIC HIP HOP 3 ENERGYTAPE](https://youtu.be/tFZSmis5eno)
+
+
+
+[ @cityofnewyork @NewYorkCityCouncil Tour Fat Beats NY with DJ Eclipse](https://youtu.be/-4OxhRVuZFo?si=dWIAVy5_m3KK20O4)  Take a tour through the iconic New York City record store Fat Beats with DJ Eclipse. - 
+Shot and edited by  [Abraham Heisler - myspace.com/irtryddimzdvd](http://www.myspace.com/irtryddimzdvd)
+<img  alt="image" src="https://github.com/user-attachments/assets/20a44531-dc8b-4c92-bdd7-a17eb34274b4" />
 
 # @CityOfLosANgeles [Mayor Karen Bass](https://www.congress.gov/member/karen-bass/B001270) 
 thanks for supporting our [earth sciences division @eodis-nasa](https://www.earthdata.nasa.gov/about/esdis)
