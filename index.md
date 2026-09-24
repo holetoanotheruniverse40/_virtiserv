@@ -4,12 +4,8 @@ mathjax: true
 ---
 
 
-[Queens 6 @ForAtlanta `womenOnly`](https://youtu.be/4Ngc2DAdIN4) // [DJ Eclipse – Coffee Syrup](https://youtu.be/MCsN8IoRkj0) // [D-Styles - Inspiration Information](https://youtu.be/Sa1KIhAx8_k?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3) // [DJ Premier - Bootleg Volume C Mixtape](https://youtu.be/HPx6MRbF2Dc) // [Dj Total Eclipse Juggle Fest ](https://youtu.be/QpHtjIc83Ng) // [youtu.be/U6sbm1OaJb8 Street Fighter 2026](https://youtu.be/U6sbm1OaJb8) // [Street Fighter 2026 youtube.com/watch?v=Xt4X4FvXk2A](https://www.youtube.com/watch?v=Xt4X4FvXk2A) // [Q-Bert & D-Styles - Underarms "R" Fun](https://youtu.be/ZDGQAdWhM78?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3)
+[Queens 6 @ForAtlanta `womenOnly`](https://youtu.be/4Ngc2DAdIN4) // [DJ Eclipse – Coffee Syrup](https://youtu.be/MCsN8IoRkj0) // [D-Styles - Inspiration Information](https://youtu.be/Sa1KIhAx8_k?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3) // [DJ Premier - Bootleg Volume C Mixtape](https://youtu.be/HPx6MRbF2Dc) // [Dj Total Eclipse Juggle Fest ](https://youtu.be/QpHtjIc83Ng) // [youtu.be/U6sbm1OaJb8 Street Fighter 2026](https://youtu.be/U6sbm1OaJb8) // [Street Fighter 2026 youtube.com/watch?v=Xt4X4FvXk2A](https://www.youtube.com/watch?v=Xt4X4FvXk2A) // [Q-Bert & D-Styles - Underarms "R" Fun](https://youtu.be/ZDGQAdWhM78?list=PLX5w2PkKzwHENEWAW2l2p5Y8hTHCCKRq3) // [Dj Evil Dee – Summer School Volume 1](https://youtu.be/j1VNzAe5JNg)
 
-
-[Dj Evil Dee – Summer School Volume 1](https://youtu.be/j1VNzAe5JNg)
-
-<img  alt="image @doug-newman-nasa @eodis-nasa" src="https://github.com/user-attachments/assets/a002b8bf-878e-4147-881a-eae46dec66f2" />
 
 
 
@@ -25,6 +21,12 @@ Request ID: sMfGa-qfzBCJwVi-aWJwUbEcXyhyP9KvB_0I9w5OJmSvT5M_ea3ZMw==
 <img  alt="image @doug-newman-nasa @eodis-nasa" src="https://github.com/user-attachments/assets/f1f0943f-677b-4e13-9876-41b6714d4c44" />
 
 ![https://appeears.earthdatacloud.nasa.gov/assets/images/lpdaac/ESDS-LPDAAC-blue-logo.png](https://appeears.earthdatacloud.nasa.gov/assets/images/lpdaac/ESDS-LPDAAC-blue-logo.png)
+
+[Dj Evil Dee – Summer School Volume 1](https://youtu.be/j1VNzAe5JNg)
+
+<img  alt="image @doug-newman-nasa @eodis-nasa" src="https://github.com/user-attachments/assets/a002b8bf-878e-4147-881a-eae46dec66f2" />
+
+
 
 [D-Styles - Inspiration Information](https://youtu.be/Sa1KIhAx8_k?t=1407) // [discogs.com/release/1356162-D-Styles-Inspiration-Information?srsltid=AU7gw4VA6uLze3EVM49ulNQ7XlfLAg4d9boQV6i1uC3LmDCzwktkv1OY](https://www.discogs.com/release/1356162-D-Styles-Inspiration-Information?srsltid=AU7gw4VA6uLze3EVM49ulNQ7XlfLAg4d9boQV6i1uC3LmDCzwktkv1OY)
 
