@@ -7,7 +7,7 @@ mathjax: true
 # @CityOfLosANgeles [Mayor Karen Bass](https://www.congress.gov/member/karen-bass/B001270) 
 thanks for supporting our [earth sciences division @eodis-nasa](https://www.earthdata.nasa.gov/about/esdis)
 ### [`Watch` - youtu.be/6EDyhe383_s?si=7Wsd-GUNLL4yglJi](https://youtu.be/6EDyhe383_s?si=7Wsd-GUNLL4yglJi) 
-@doug-newman-nasa can you reach out to [Nythia Ramen](https://www.nithyaforthecity.com/) so I dont get displaced @nasa-pds @nasa-jpl  . . . @SonyResearch , i may have too much work to be involved with you and have to wait for @Cloudflare to reslove the dns issues @whitehouse to get paid .. . @blackgirlscode tell Chloe erika coral and Trice im not waiting on lawsuits, im just getting ... spied on - l8tR 
+@doug-newman-nasa can you reach out to [Nythia Ramen](https://www.nithyaforthecity.com/) so I dont get displaced @nasa-pds @nasa-jpl  . . . @SonyResearch , i may have too much work to be involved with you and have to wait for @Cloudflare to reslove the dns issues @whitehouse to get paid .. . @blackgirlscode tell Chloe erika coral and Trice im not waiting on lawsuits, im just getting ... spied on - l8tR [Why Nithya Raman is surging against Karen Bass in new LA mayor poll - CaliforniaPosT](https://youtube.com/shorts/9h2Bhtq69pY?si=N53yXZaRd8adiSZ-) // [‘I do not view her as frontrunner': Bass brushes off Raman's poll lead](https://youtu.be/sjg5GBqxNyI) // [`WATCH` - _Jason Oppenheim and Nithya Raman_ Talk Fixing LA @deptofwar @nasa-jpl cafetirea @nbcnews](https://youtu.be/IJpjmXWRk_4?si=9mdDU4tCjf64A5oR)
 
 Name: Rashard I Kelly
 Username: rashardkelly
