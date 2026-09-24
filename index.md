@@ -3,6 +3,10 @@ layout: default
 mathjax: true
 ---
 
+## HOT 97 News Live! 9/24/26
+[`WATCH` - https://youtu.be/MeL1vBhjY7c](https://youtu.be/MeL1vBhjY7c)
+<img   alt="image" src="https://github.com/user-attachments/assets/1c674838-f811-489b-85f4-556c2153ca37" />
+
 <img alt="image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse " src="https://github.com/user-attachments/assets/8696df26-4e52-40c8-9326-53941fa09319" />
 
 ## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
