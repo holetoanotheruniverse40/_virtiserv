@@ -7,6 +7,10 @@ mathjax: true
 [94 minutes Of MTV Raps MTV 1996](https://youtu.be/1MhpreQtLRg?t=18) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs)
 
 
+
+<p>JAY-Z - The Story of O.J. <a href="https://www.billboard.com/music/rb-hip-hop/jay-z-goes-thanks-influences-songwriters-hall-twitter-7833773/">Jay Z Goes on Twitter Spree Thanking Influences After Songwriters Hall of Fame Induction</a> 
+<a href="https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk">Sevyn Streeter On 76ers Stopping Her From Wearing “We Matter” Shirt</a> <a href="https://www.youtube.com/watch?v=Y2TbLohPKI0">The Breakfast Club Classic - Jay Z Interview 2013</a> <a href="https://www.youtube.com/watch?v=SM9oFokxCKw">Sevyn Streeter Perfoms in We Matter Jersey</a>  <a href="https://x.com/thakasartu/media">Media Upload ThakaSartu</a> <a href="https://thakasartu.github.io/">Thakasartu bulliten board of sorts on github [css archive]</a> <a href="https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ">Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)</a> <a href="https://www.youtube.com/watch?v=XRxItoK6wKc">Jay-Z - Things That U Do (Feat. Mariah Carey)</a> <a href="https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy">Tru Playaz</a> 
+	
 --- 
 
 ## HOT 97 News Live! 9/24/26
