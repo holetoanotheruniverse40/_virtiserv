@@ -32,7 +32,7 @@ The Fight Over Conservative Media EVERYONE Should Pay Attention To With Newsmax'
 --- 
 
 
-<p>JAY-Z - The Story of O.J. <a href="https://www.billboard.com/music/rb-hip-hop/jay-z-goes-thanks-influences-songwriters-hall-twitter-7833773/">Jay Z Goes on Twitter Spree Thanking Influences After Songwriters Hall of Fame Induction</a> 
+<p>JAY-Z - The Story of O.J. <a href="https://www.billboard.com/music/rb-hip-hop/jay-z-goes-thanks-influences-songwriters-hall-twitter-7833773/">Jay Z Goes on Twitter Spree Thanking Influences After Songwriters Hall of Fame Induction</a> </p>
 	
 ## HOT 97 News Live! 9/24/26
 
