@@ -3,7 +3,16 @@ layout: default
 mathjax: true
 ---
 
-// [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) //
+[github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf](https://github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf)
+
+ @nasa-pds I had to fix my LLC virtiserv @howard-university-web-services markdown, if you don't close a tag it breaks the markdown @jekyll @salesforce @blackgirlscode @nasa @nasa-jpl @cityoflosangeles 
+ 
+<img alt=" @nasa-pds I had to fix my LLC virtiserv @howard-university-web-services markdown, if you don't close a tag it breaks the markdown @jekyll @salesforce @blackgirlscode @nasa @nasa-jpl @cityoflosangeles image" src="https://github.com/user-attachments/assets/9a1f62b0-38fc-4fb7-85ec-30a4041bf1cd" />
+
+<img alt="image @nasa-pds I had to fix my LLC virtiserv @howard-university-web-services markdown, if you don't close a tag it breaks the markdown @jekyll @salesforce @blackgirlscode @nasa @nasa-jpl @cityoflosangeles " src="https://github.com/user-attachments/assets/c8abcfde-2ac1-4957-b258-53cb76b1c08e" />
+
+
+[94 minutes Of MTV Raps MTV 1996](https://youtu.be/1MhpreQtLRg?t=18) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) //
 
 <a href="https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk">Sevyn Streeter On 76ers Stopping Her From Wearing “We Matter” Shirt</a> <a href="https://www.youtube.com/watch?v=Y2TbLohPKI0">The Breakfast Club Classic - Jay Z Interview 2013</a> <a href="https://www.youtube.com/watch?v=SM9oFokxCKw">Sevyn Streeter Perfoms in We Matter Jersey</a>  <a href="https://x.com/thakasartu/media">Media Upload ThakaSartu</a> <a href="https://thakasartu.github.io/">Thakasartu bulliten board of sorts on github [css archive]</a> <a href="https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ">Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)</a> <a href="https://www.youtube.com/watch?v=XRxItoK6wKc">Jay-Z - Things That U Do (Feat. Mariah Carey)</a> <a href="https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy">Tru Playaz</a> 
 
@@ -24,8 +33,6 @@ The Fight Over Conservative Media EVERYONE Should Pay Attention To With Newsmax'
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think Maria Salazar is right. Trump/GOP won in ‘24 with record Hispanic vote. Now GOP is set to be crushed in November as Latino voters flee! https://t.co/qNEeMMgryE</p>&mdash; Christopher Ruddy (@ChrisRuddyNMX) <a href="https://x.com/ChrisRuddyNMX/status/2101857700703264792?ref_src=twsrc%5Etfw">September 21, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
-
-[94 minutes Of MTV Raps MTV 1996](https://youtu.be/1MhpreQtLRg?t=18) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs)
 
 
 	
