@@ -4,6 +4,19 @@ mathjax: true
 ---
 
 
+## Samurai Shodown II 
+/ Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)
+[snk.fandom.com/wiki/Samurai_Shodown_II](https://snk.fandom.com/wiki/Samurai_Shodown_II)
+[reddit.com/r/gaming/comments/1d7g1p/i_have_a_huge_collection_of_fighting_game/?rdt=42248](https://www.reddit.com/r/gaming/comments/1d7g1p/i_have_a_huge_collection_of_fighting_game/?rdt=42248)
+[[@deptofwar makesure @blackgirlscode gets this @nasa-pds](https://imgur.com/a/s8YP3)
+
+[`PLAY` - @nasa-jpl retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html)
+
+<img width="624" height="396" alt="9SA7eYu" src="https://github.com/user-attachments/assets/75e13478-978d-4778-ba9f-8191941dfd93" />
+
+<img width="640" height="368" alt="WaazYXa" src="https://github.com/user-attachments/assets/f438baca-23c7-4d19-a3ab-0215b92d137d" />
+
+
 @howard-university-web-services I just slow online today I did a lot of scanning @cityoflosangeles . . . @nasa-pds I will check the rovers and dsn, I'd like to play one more game [@la-county-isd ](https://locator.lacounty.gov/lac/Location/3176696/los-angeles-public-library---little-tokyo-branch)
 
 
