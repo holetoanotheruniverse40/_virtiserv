@@ -3,6 +3,22 @@ layout: default
 mathjax: true
 ---
 
+
+@howard-university-web-services I just slow online today I did a lot of scanning @cityoflosangeles . . . @nasa-pds I will check the rovers and dsn, I'd like to play one more game [@la-county-isd ](https://locator.lacounty.gov/lac/Location/3176696/los-angeles-public-library---little-tokyo-branch)
+
+
+# SNK vs. Capcom - [_SVC Chaos_](https://snk.fandom.com/wiki/SNK_vs._Capcom_(series))
+[retrogames.cc/arcade-games/snk-vs-capcom-svc-chaos-jamma-pcb-set-2.html](https://www.retrogames.cc/arcade-games/snk-vs-capcom-svc-chaos-jamma-pcb-set-2.html)
+[(JAMMA PCB, set 2)](https://knockoutarcades.com/jamma-game-board-the-ultimate-guide-for-arcade-gaming-enthusiasts) : [wikitalk](https://en.wikipedia.org/wiki/Talk:SNK_vs._Capcom)
+
+<img  alt=" @cia I was playing street fighter and snk dtla, I do not feel violent in anyway and I am not gambling to get weed on the street @nasa-jpl @doug-newman-nasa  Screenshot 2026-09-25 3 24 30 PM" src="https://github.com/user-attachments/assets/3a1e3fff-832e-46f4-9fa8-aedfae12dda8" />
+
+<img alt=" @cia I was playing street fighter and snk dtla, I do not feel violent in anyway and I am not gambling to get weed on the street @nasa-jpl @doug-newman-nasa  Screenshot 2026-09-25 3 22 34 PM" src="https://github.com/user-attachments/assets/b45c2a01-5d05-4a60-b007-4f42ae709e21" />
+
+<img   alt=" @cia I was playing street fighter and snk dtla, I do not feel violent in anyway and I am not gambling to get weed on the street @nasa-jpl @doug-newman-nasa Screenshot 2026-09-25 3 19 49 PM" src="https://github.com/user-attachments/assets/83adf84b-116e-48c2-8456-6c2ee797b754" />
+
+@cia I was playing street fighter and snk dtla, I do not feel violent in anyway and I am not gambling to get weed on the street @nasa-jpl @doug-newman-nasa 
+[retrogames.cc/arcade-games/snk-vs-capcom-svc-chaos-jamma-pcb-set-2.html](https://www.retrogames.cc/arcade-games/snk-vs-capcom-svc-chaos-jamma-pcb-set-2.html)
 <img alt="image" src="https://github.com/user-attachments/assets/a144d069-2151-444f-a9d9-424b5bc50ba4" />
 
 [github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf](https://github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf)
