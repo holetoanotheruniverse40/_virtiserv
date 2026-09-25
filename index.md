@@ -4,7 +4,19 @@ mathjax: true
 ---
 
 ## HOT 97 News Live! 9/24/26
+
 [`WATCH` - https://youtu.be/MeL1vBhjY7c](https://youtu.be/MeL1vBhjY7c)
+<img  alt=" image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta  620293628-4f229e30-7a27-40ce-9e95-f473e264da3c" src="https://github.com/user-attachments/assets/8878bd71-8750-4759-851e-37c63662c6a0" />
+<img width="335" height="597" alt=" image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
+  games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
+I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
+@repkarenbass @SupervisorHollyJMitchell @fox5atlanta  620293649-f8fcff6c-dafd-4e16-9438-a95d7f405ec4" src="https://github.com/user-attachments/assets/0e9c66cf-3800-4680-b371-4f1db9e22b02" />
+
+<img width="192" height="240" alt="620293628-4f229e30-7a27-40ce-9e95-f473e264da3c" src="https://github.com/user-attachments/assets/47c7c88c-f99c-4f03-94c2-40877a2f26e7" />
+
 <img  alt="image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
   games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
 I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
