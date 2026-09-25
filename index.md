@@ -3,6 +3,25 @@ layout: default
 mathjax: true
 ---
 
+# HOT 97 News Live! 9/25/26
+[`WATCH` @ForAtlanta youtube.com/watch?v=hOLdKX_xUF8 @Doug-newman-nasa @nasa-jpl](https://www.youtube.com/watch?v=hOLdKX_xUF8)
+
+@thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and did it under several skin tones!!!! @Blackgirlscode github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHOuse that's the girl that said she was muna Ahmed, but there was another one at pricilla house that did the same thing but she looked different and I don't know where my child is @doug-newmna-nasa @cia I swear I have been working in due diligence for my own healing and that of my family @StateOfCAlifornia 
+
+<img   alt="image @thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and did it under several skin tones!!!! @Blackgirlscode github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHOuse that's the girl that said she was muna Ahmed, but there was another one at pricilla house that did the same thing but she looked different and I don't know where my child is @doug-newmna-nasa @cia I swear I have been working in due diligence for my own healing and that of my family @StateOfCAlifornia " src="https://github.com/user-attachments/assets/31c0b9f7-6227-4065-a065-296fca8d311a" />
+
+[github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288](github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288) 
+<img  alt="image @thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and did it under several skin tones!!!! @Blackgirlscode github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHO" src="https://github.com/user-attachments/assets/64145702-d046-47f2-99f7-06dfbb449fa2" />
+
+
+@thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and did it under several skin tones!!!! @Blackgirlscode github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHOUSE
+
+
+@Louis-c4g6b​​This is all about oil too.
+
+
+@thakasErikaselassie_kelly ​​@deptofwar @lanajharris abandoned me after a blackface screw ,, this is the girl [github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288](github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288) @HOWARDUNiVERSiTY @WHiTEHOUSE
+```
 
 [github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf](https://github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf)
 
