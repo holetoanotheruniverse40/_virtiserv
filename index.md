@@ -18,6 +18,7 @@ I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the 
 
 The Fight Over Conservative Media EVERYONE Should Pay Attention To With Newsmax's Chris Ruddy
 [`WATCH`📺 @StateOfCAlifornia @SaccounTY](https://www.youtube.com/watch?v=t7AGihEBB5o)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/1c98f111-79cc-4f29-80b8-4f3f081ec4af" />
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think Maria Salazar is right. Trump/GOP won in ‘24 with record Hispanic vote. Now GOP is set to be crushed in November as Latino voters flee! https://t.co/qNEeMMgryE</p>&mdash; Christopher Ruddy (@ChrisRuddyNMX) <a href="https://x.com/ChrisRuddyNMX/status/2101857700703264792?ref_src=twsrc%5Etfw">September 21, 2026</a></blockquote>
@@ -37,6 +38,7 @@ The Fight Over Conservative Media EVERYONE Should Pay Attention To With Newsmax'
 
 [`WATCH` - https://youtu.be/MeL1vBhjY7c](https://youtu.be/MeL1vBhjY7c)
 :: [@whitehouse @stateofcalifornia @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) @howard-university-web-services 
+
 <img  alt=" image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
   games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
 I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
@@ -44,6 +46,7 @@ I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the 
 
 
  [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @stateofcalifornia @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) ![https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg](https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg) 
+ 
 <img  alt="image" src="https://github.com/user-attachments/assets/0f733448-723d-42af-a499-dd0068eec194" />
 
 
