@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 
-[94 minutes Of MTV Raps MTV 1996](https://youtu.be/1MhpreQtLRg?t=18)
+[94 minutes Of MTV Raps MTV 1996](https://youtu.be/1MhpreQtLRg?t=18) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs)
 
 
 --- 
