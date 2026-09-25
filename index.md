@@ -3,22 +3,30 @@ layout: default
 mathjax: true
 ---
 
+// [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) //
 
+<a href="https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk">Sevyn Streeter On 76ers Stopping Her From Wearing “We Matter” Shirt</a> <a href="https://www.youtube.com/watch?v=Y2TbLohPKI0">The Breakfast Club Classic - Jay Z Interview 2013</a> <a href="https://www.youtube.com/watch?v=SM9oFokxCKw">Sevyn Streeter Perfoms in We Matter Jersey</a>  <a href="https://x.com/thakasartu/media">Media Upload ThakaSartu</a> <a href="https://thakasartu.github.io/">Thakasartu bulliten board of sorts on github [css archive]</a> <a href="https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ">Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)</a> <a href="https://www.youtube.com/watch?v=XRxItoK6wKc">Jay-Z - Things That U Do (Feat. Mariah Carey)</a> <a href="https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy">Tru Playaz</a> 
 
 ## Netanyahu UN Speech Walkout [📺](https://www.youtube.com/watch?v=t7AGihEBB5o) , US-Iran Deal & McConnell Drama
 | [`WATCH` - The Lana Rundown `aprox` 22m - youtu.be/bk2N_9XSwNU](https://youtu.be/bk2N_9XSwNU)
-@howard-university-web-services [Netanyahu defends Israeli military action as delegates walk out before UN speech @BBC](https://www.bbc.com/news/articles/c3y0z7kxlegdo) @nbcnews @nasa-jpl hi im about to switch gears idk if a hurricane is brewing but I did see one mentioned in the [California post  ](https://github.com/virtiserv/virtiserv.github.io/commit/d9a5e91f28735038c366d01507a41f129bed4464) [@cityOfLosAngeles](https://lamag.com/news-and-politics/writers-guild-of-america-west-endorses-nithya-raman-in-mayoral-race/) [@longbeachinnovationteam ](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/)
+@howard-university-web-services [Netanyahu defends Israeli military action as delegates walk out before UN speech @BBC](https://www.bbc.com/news/articles/c3y0z7kxlegdo) @nbcnews @nasa-jpl hi im about to switch gears idk if a hurricane is brewing but I did see one mentioned in the [California post  ](https://github.com/virtiserv/virtiserv.github.io/commit/d9a5e91f28735038c366d01507a41f129bed4464) [@cityOfLosAngeles](https://lamag.com/news-and-politics/writers-guild-of-america-west-endorses-nithya-raman-in-mayoral-race/) [@longbeachinnovationteam ](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/) [@YOUTUBE `QUERY`= youtube.com/results?search_query=septa @LACMTA](https://www.youtube.com/results?search_query=septa) [youtube.com/`@septaInMotion`](https://www.youtube.com/@septaInMotion) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) // @BLACKGiRLSCODE is t.i. talking about me in [All About The Money](https://youtu.be/etfIdtm-OC8?si=9tNGSpM15CW02lTH) I like old songs @Nasa-pds - [rashard @nasa-openscapes hi ](https://ra5hard.github.io/linux/)
+
 <img  alt="image  image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
   games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
 I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
 @repkarenbass @SupervisorHollyJMitchell @fox5atlanta  620293628-4f229e30-7a27-40ce-9e95-f473e264da3c @deptofwar @whitehouse @fbi @fbiCyber @ForAtlanta " src="https://github.com/user-attachments/assets/fee152cf-2237-44cb-8c66-412754c83abe" />
 
+The Fight Over Conservative Media EVERYONE Should Pay Attention To With Newsmax's Chris Ruddy
+[`WATCH`📺 @StateOfCAlifornia @SaccounTY](https://www.youtube.com/watch?v=t7AGihEBB5o)
+<img  alt="image" src="https://github.com/user-attachments/assets/1c98f111-79cc-4f29-80b8-4f3f081ec4af" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think Maria Salazar is right. Trump/GOP won in ‘24 with record Hispanic vote. Now GOP is set to be crushed in November as Latino voters flee! https://t.co/qNEeMMgryE</p>&mdash; Christopher Ruddy (@ChrisRuddyNMX) <a href="https://x.com/ChrisRuddyNMX/status/2101857700703264792?ref_src=twsrc%5Etfw">September 21, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 [94 minutes Of MTV Raps MTV 1996](https://youtu.be/1MhpreQtLRg?t=18) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs)
 
 
-<a href="https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk">Sevyn Streeter On 76ers Stopping Her From Wearing “We Matter” Shirt</a> <a href="https://www.youtube.com/watch?v=Y2TbLohPKI0">The Breakfast Club Classic - Jay Z Interview 2013</a> <a href="https://www.youtube.com/watch?v=SM9oFokxCKw">Sevyn Streeter Perfoms in We Matter Jersey</a>  <a href="https://x.com/thakasartu/media">Media Upload ThakaSartu</a> <a href="https://thakasartu.github.io/">Thakasartu bulliten board of sorts on github [css archive]</a> <a href="https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ">Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)</a> <a href="https://www.youtube.com/watch?v=XRxItoK6wKc">Jay-Z - Things That U Do (Feat. Mariah Carey)</a> <a href="https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy">Tru Playaz</a> 
 	
 --- 
 
