@@ -3,6 +3,7 @@ layout: default
 mathjax: true
 ---
 
+
 # HOT 97 News Live! 9/25/26
 [`WATCH` @ForAtlanta youtube.com/watch?v=hOLdKX_xUF8 @Doug-newman-nasa @nasa-jpl](https://www.youtube.com/watch?v=hOLdKX_xUF8)
 ///// [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @nasa-pds Roman is transmitting 
@@ -10,6 +11,33 @@ mathjax: true
 
 ![https://d1q40j6jx1d8h6.cloudfront.net/SiteBuilder/419a6f59-6e5c-4b13-a988-d086f2898f78/ffab0d8b-3013-4d6f-839f-31308ad54ea2_thumbnail.webp](https://d1q40j6jx1d8h6.cloudfront.net/SiteBuilder/419a6f59-6e5c-4b13-a988-d086f2898f78/ffab0d8b-3013-4d6f-839f-31308ad54ea2_thumbnail.webp) 
 
+
+
+![ @nasa-pds @nasa-jpl https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01989/ids/edr/browse/fcam/FLF_1989_0843523344_255ECM_N0910970FHAZ00206_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01989/ids/edr/browse/fcam/FLF_1989_0843523344_255ECM_N0910970FHAZ00206_01_295J01_1200.jpg) 
+
+![ @nasa-pds https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/fcam/FRB_843403975EDR_F1250558FHAZ00337M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/fcam/FRB_843403975EDR_F1250558FHAZ00337M_.JPG) 
+
+
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+`![%](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)`
+![% @nasa-jpl @nasa-giss @eodis-nasa @doug-newman-nasa @CityOfLosangeles ](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA13236.jpg)
+[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+# Viking Project
+![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
+### OCCURRED 47 YEARS AGO
+NASA's Viking Project found a place in history when it became the first U.S. mission to land a spacecraft safely on the surface of Mars and return images of the surface. [ReadMore](https://science.nasa.gov/mission/viking/) + [Viking Lander High Resolution Mosaics](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/hires.html)
+
+[virtiserv.github.io/linux](https://virtiserv.github.io/linux/)
+ // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=439) // @nasa-jpl hi its about draper and my benefits hi @blackgirlscode how is [kim](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) ? # 
+ // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=206) //
+ 
 <img   alt="image  @thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and she did it and returned again under several skin tones!!!! @Blackgirlscode @bbc @nasa-giss @eodis-nasa github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHOuse that's the girl that said she was muna Ahmed, but there was another one at pricilla house that did the same thing but she looked different and I don't know where my child is @doug-newmna-nasa @cia I swear I have been working in due diligence for my own healing and that of my family @StateOfCAlifornia @CityOfLosAngeles  @ra5hard " src="https://github.com/user-attachments/assets/f23a94a4-63ce-4ab3-b259-30288678a3c3" />
 
 <img   alt="image @thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and she did it and returned again under several skin tones!!!! @Blackgirlscode @bbc @nasa-giss @eodis-nasa github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHOuse that's the girl that said she was muna Ahmed, but there was another one at pricilla house that did the same thing but she looked different and I don't know where my child is @doug-newmna-nasa @cia I swear I have been working in due diligence for my own healing and that of my family @StateOfCAlifornia @CityOfLosAngeles  " src="https://github.com/user-attachments/assets/fe9109e8-c5b6-4af8-af55-2f13c53e8dc0" />
@@ -168,25 +196,6 @@ I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the 
 
 <img  alt="image image send to ms bass i made a congress account on my @eodis-nasa @google address holetoanotheruniverse@gmail.com  @libraryofcongress  @blackgirlscode @la-county-isd @whitehouse " src="https://github.com/user-attachments/assets/23760782-e0c4-4323-841c-4962a23dfcb4" />
 
-
-## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
-
-<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
-
-`![%](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)`
-![% @nasa-jpl @nasa-giss @eodis-nasa @doug-newman-nasa @CityOfLosangeles ](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA13236.jpg)
-[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
-[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
-### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
-
-# Viking Project
-![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
-### OCCURRED 47 YEARS AGO
-NASA's Viking Project found a place in history when it became the first U.S. mission to land a spacecraft safely on the surface of Mars and return images of the surface. [ReadMore](https://science.nasa.gov/mission/viking/) + [Viking Lander High Resolution Mosaics](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/hires.html)
-
-[virtiserv.github.io/linux](https://virtiserv.github.io/linux/)
- // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=439) // @nasa-jpl hi its about draper and my benefits hi @blackgirlscode how is [kim](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) ? # 
- // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=206) //
 <img  alt="image @cityoflosangeles https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp @eodis-nasa @nasa-jpl @STATEOFCALiFORNiA @BOeing @salesforce READ https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire @blackgirlscode" src="https://github.com/user-attachments/assets/637cd345-7602-46bb-8068-a888bb33755b" />
 
  // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU) //
