@@ -3,13 +3,26 @@ layout: default
 mathjax: true
 ---
 
+
+[94 minutes Of MTV Raps MTV 1996](https://youtu.be/1MhpreQtLRg?t=18)
+
+
+--- 
+
 ## HOT 97 News Live! 9/24/26
 
 [`WATCH` - https://youtu.be/MeL1vBhjY7c](https://youtu.be/MeL1vBhjY7c)
+:: [@whitehouse @stateofcalifornia @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) @howard-university-web-services 
 <img  alt=" image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
   games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
 I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
 @repkarenbass @SupervisorHollyJMitchell @fox5atlanta  620293628-4f229e30-7a27-40ce-9e95-f473e264da3c" src="https://github.com/user-attachments/assets/8878bd71-8750-4759-851e-37c63662c6a0" />
+
+
+ [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @stateofcalifornia @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) ![https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg](https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg) 
+<img  alt="image" src="https://github.com/user-attachments/assets/0f733448-723d-42af-a499-dd0068eec194" />
+
+
 <img width="335" height="597" alt=" image image image #Mero hi @hot97 i hope you got my email with hispanic @capcom @CapcomUSA
   games @LanaJHarris is there issues between us resuming contact because of my past as a underground show attending @FatBeats customer ? @NASA-JPL #HiSTORY @FatBEATS btw @NithyafortheCity talk to @lanajharris 
 I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the woman https://youtu.be/5vnGp_XbIMM <~ @keishaforga its my situation you guys caused @deptofwar they made me late on my maps @nasa-pds its thier fault we were late im sorry @normani @blackgirlscode im not pressing charges @latto @essencemag 
@@ -23,6 +36,7 @@ I Went To Magic City Str*p Club To Review Food . . @cityoflosangeles  . not the 
 @repkarenbass @SupervisorHollyJMitchell @fox5atlanta " src="https://github.com/user-attachments/assets/ee73a2fa-4a06-4f2e-9080-166d1fe85a99" />
 
 @TheSpaceDevs it looks like we are funded for artemis3 pass to burbank quick!!!! @nbcnews @disney @hulu just be cool about the shit man, like im not your enemy 20th century fox sabotagged @nasa-jpl helpdesk!! the news would have never made ppl do stupid shit!!! i promise you!!! @foxnews @washingtonpost @Newshour [www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11](https://www.govinfo.gov/content/pkg/CREC-2026-01-08/pdf/CREC-2026-01-08-house-bk3.pdf#page=11) 
+
 ```
 Artemis Campaign.—The agreement rejects
 the proposed termination of the Space
@@ -77,12 +91,6 @@ NASA's Viking Project found a place in history when it became the first U.S. mis
 
 [virtiserv.github.io/linux](https://virtiserv.github.io/linux/)
  // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=439) // @nasa-jpl hi its about draper and my benefits hi @blackgirlscode how is [kim](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) ? # 
- 
- Currently Compiling 
-`jekyll.version`  {{ jekyll.version }}
- [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @stateofcalifornia @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) ![https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg](https://obamawhitehouse.archives.gov/sites/default/files/imagecache/champ_thumb/cropped_kimberly_bryant__q_itok=-r0cSqu9.jpg) 
-<img  alt="image" src="https://github.com/user-attachments/assets/0f733448-723d-42af-a499-dd0068eec194" />
-
  // [DJ Stretch & Bobbito December 15.1994 Pt.1 Side A HipHop History WKCR Radio](https://youtu.be/9y6TUAngjUU?t=206) //
 <img  alt="image @cityoflosangeles https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp @eodis-nasa @nasa-jpl @STATEOFCALiFORNiA @BOeing @salesforce READ https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire @blackgirlscode" src="https://github.com/user-attachments/assets/637cd345-7602-46bb-8068-a888bb33755b" />
 
