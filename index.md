@@ -4,6 +4,15 @@ mathjax: true
 ---
 
 
+[github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf](https://github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf)
+
+ @nasa-pds I had to fix my LLC virtiserv [@howard-university-web-services markdown](https://www.markdownguide.org/) , if you don't close a tag it breaks the [markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) @jekyll @salesforce [@blackgirlscode @nasa](https://skillhub.cn/skills/clawhub_520xiaomumu/html-markdown-hybrid) @nasa-jpl @cityoflosangeles 
+ 
+<img alt=" @nasa-pds I had to fix my LLC virtiserv @howard-university-web-services markdown, if you don't close a tag it breaks the markdown @jekyll @salesforce @blackgirlscode @nasa @nasa-jpl @cityoflosangeles image" src="https://github.com/user-attachments/assets/9a1f62b0-38fc-4fb7-85ec-30a4041bf1cd" />
+
+<img alt="image @nasa-pds I had to fix my LLC virtiserv @howard-university-web-services markdown, if you don't close a tag it breaks the markdown @jekyll @salesforce @blackgirlscode @nasa @nasa-jpl @cityoflosangeles " src="https://github.com/user-attachments/assets/c8abcfde-2ac1-4957-b258-53cb76b1c08e" />
+
+
 ## Samurai Shodown II 
 / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)
 [snk.fandom.com/wiki/Samurai_Shodown_II](https://snk.fandom.com/wiki/Samurai_Shodown_II)
@@ -35,14 +44,6 @@ mathjax: true
 @cia I was playing street fighter and snk dtla, I do not feel violent in anyway and I am not gambling to get weed on the street @nasa-jpl @doug-newman-nasa 
 [retrogames.cc/arcade-games/snk-vs-capcom-svc-chaos-jamma-pcb-set-2.html](https://www.retrogames.cc/arcade-games/snk-vs-capcom-svc-chaos-jamma-pcb-set-2.html)
 <img alt="image" src="https://github.com/user-attachments/assets/a144d069-2151-444f-a9d9-424b5bc50ba4" />
-
-[github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf](https://github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf)
-
- @nasa-pds I had to fix my LLC virtiserv [@howard-university-web-services markdown](https://www.markdownguide.org/) , if you don't close a tag it breaks the [markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) @jekyll @salesforce [@blackgirlscode @nasa](https://skillhub.cn/skills/clawhub_520xiaomumu/html-markdown-hybrid) @nasa-jpl @cityoflosangeles 
- 
-<img alt=" @nasa-pds I had to fix my LLC virtiserv @howard-university-web-services markdown, if you don't close a tag it breaks the markdown @jekyll @salesforce @blackgirlscode @nasa @nasa-jpl @cityoflosangeles image" src="https://github.com/user-attachments/assets/9a1f62b0-38fc-4fb7-85ec-30a4041bf1cd" />
-
-<img alt="image @nasa-pds I had to fix my LLC virtiserv @howard-university-web-services markdown, if you don't close a tag it breaks the markdown @jekyll @salesforce @blackgirlscode @nasa @nasa-jpl @cityoflosangeles " src="https://github.com/user-attachments/assets/c8abcfde-2ac1-4957-b258-53cb76b1c08e" />
 
 
 [94 minutes Of MTV Raps MTV 1996](https://youtu.be/1MhpreQtLRg?t=18) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) // [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) //
