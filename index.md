@@ -12,6 +12,8 @@ mathjax: true
 
 [`PLAY` - @nasa-jpl retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/b452ac72-5d00-4b34-867d-d54b09f54f89" />
+
 <img width="624" height="396" alt="9SA7eYu" src="https://github.com/user-attachments/assets/75e13478-978d-4778-ba9f-8191941dfd93" />
 
 <img width="640" height="368" alt="WaazYXa" src="https://github.com/user-attachments/assets/f438baca-23c7-4d19-a3ab-0215b92d137d" />
