@@ -3,6 +3,11 @@ layout: default
 mathjax: true
 ---
 
+##  HOT 97 News Live! 10/20/26
+[`WATCH` - https://www.youtube.com/watch?v=Ar5X_yp2tv4](https://www.youtube.com/watch?v=Ar5X_yp2tv4) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/bd3c2088-7eb6-47c1-a97d-7bc6bafa050a" />
+
 @nasa-jpl i took that picture after erika abandoned us... @nasa-pds 
 <img  alt="image" src="https://github.com/user-attachments/assets/bcf3246b-c676-4acb-9170-54b4d99faa31" />
 
