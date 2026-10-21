@@ -8,6 +8,12 @@ mathjax: true
 
 <img   alt="image" src="https://github.com/user-attachments/assets/bd3c2088-7eb6-47c1-a97d-7bc6bafa050a" />
 
+<img   alt=" image image  @nasa-jpl @nasa-pds i can stop smoking cold turkey if i need to @blackgirlscode @la-county-isd @deptofwar image @nasa-jpl im going to figure out a more confirmable way to let the facilities and educators, researchers, etc @teslamotors so forth so and so and so on.. But we have 3 unitws talking from [Mars](https://www.nhm.ac.uk/discover/planet-mars.html) in [canberrra](https://www.cdscc.nasa.gov/), 2 Space Telescopes in [Mardid](https://www.mdscc.nasa.gov/index.php/en/start/) and two units in [Goldstone @StateOfCalifornia @CityOfLosAngeles](https://www.gdscc.nasa.gov/) transmitting data from the [sun](https://science.nasa.gov/heliophysics/)" src="https://github.com/user-attachments/assets/b05c006e-eb0c-42c9-8479-d16e68baccd4" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A693520531&color=%230075ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joshua-calhoun-780374481" title="joshua calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">joshua calhoun</a> · <a href="https://soundcloud.com/joshua-calhoun-780374481/goodie-mob-soul-food-full-album" title="Goodie Mob - Soul Food (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Goodie Mob - Soul Food (Full Album)</a></div>
+
+
+
 @nasa-jpl i took that picture after erika abandoned us... @nasa-pds 
 <img  alt="image" src="https://github.com/user-attachments/assets/bcf3246b-c676-4acb-9170-54b4d99faa31" />
 
