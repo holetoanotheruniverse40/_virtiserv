@@ -81,7 +81,83 @@ Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, fe
 <img  alt="image" src="https://github.com/user-attachments/assets/0cb5b9b9-e198-415d-bf36-cc75dfe79c74" />
 
 <img   alt="image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit " src="https://github.com/user-attachments/assets/a446d164-f441-4f7a-99a0-048b1bc89a0e" />
-<img   alt=" image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit @Deptofwar @whitehouse image" src="https://github.com/user-attachments/assets/ded17081-5689-416b-ab0e-b34c4a54a406" />
+<img   alt=" image @StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles [Inglewood](https://www.cityofinglewood.org/) community leaders call on [Mayor Butts](https://www.cityofinglewood.org/820/Mayor-James-T-Butts--Bio) to resign  - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbit @Deptofwar @whitehouse image" src="https://github.com/user-attachments/assets/ded17081-5689-416b-ab0e-b34c4a54a406" />I. Mission Statement for Internet Use
+
+
+
+Internet access at Long Beach Public Library is an extension of the library's commitment to meeting the community's information needs. In addition to using the Internet as an information resource the library also seeks to provide the opportunity for Internet use, with limitations, to members of the public.
+
+
+
+II. Acceptable Use
+
+
+
+The Long Beach Public Library has installed a technology protection measure (filtering device) pursuant to Federal law (U.S.C. Sec. 254) to protect minors from websites deemed to be harmful.The Library however cannot be held responsible for the content of the information accessed through the Internet. The Internet is a worldwide community with a highly diverse user population and it is your responsibility to use this resource wisely.
+
+
+
+Parents or guardians, not the Library or its staff, are still considered to be responsible for the Internet information selected and/or accessed by their children even though Internet filters are installed.
+
+
+
+The Internet workstation must be used in a responsible manner, respecting the rights of others, and taking care with use of the equipment. Computer and Internet settings may not be changed.
+
+
+
+The workstations cannot be used for any fraudulent or unlawful purpose, including any activities prohibited under any applicable federal, California, or local laws. The Library does not allow unauthorized access, including so-called "hacking" by any unscrupulous individuals, nor does it allow the disclosure, use, and dissemination of personal information regarding minors.
+
+
+
+All computers are located in public areas where minors are present. The law prohibits "every person, who, with knowledge that a person is a minor, knowingly...exhibits, or offers to distribute or exhibit by any means, matter which is deemed "harmful to minors." (Penal Code 313 et seq.) The law also prohibits the exhibition of obscene matter to any person. (Penal Code 311 et seq.) It is unacceptable to use the Library’s computer system and Internet resources for sending, receiving, or displaying text or graphics, which may reasonably be construed as either obscene or child pornography by community standards.
+
+
+
+Please be aware that material on the Internet and the World Wide Web is copyrighted. It is your responsibility to be aware of the display of any notices concerning the copyright of information on the Web and to respect the copyright laws of the United States.
+
+
+
+The City of Long Beach is committed to providing an environment free from sexual harassment. Do not display on screens and/or printers materials which could subject the City to liability under applicable State or Federal laws.
+
+
+
+III. Guidelines for Public Internet Use
+
+
+
+1. Computer use by a patron may be limited to 60 minutes at a time.
+
+
+
+2. Extension of the time limit may be granted at the librarian's discretion and only if the computer does not need to be accessed by other patrons or library staff for the Internet or other resources.
+
+
+
+3. Internet use by the public at Long Beach Public Library does not include access to all types of listservs, newsgroups, or File Transfer Protocol.
+
+
+
+4. Printing may be done. There is a fee of fifteen cents ($0.15) per page for printing black and white copies, and fifty cents ($0.50) per page for printing color copies.
+
+
+
+5. Internet access may not be available due to technical problems.
+
+
+
+6. The Library attempts to maintain the most current versions of Internet browsing and security software, however the Library is not required to upgrade as new versions are made available. This may mean certain websites and resources that utilize the latest technologies are inaccessible.
+
+
+
+7. Long Beach Public Library cannot be responsible for the quality or accuracy of any information found on the Internet.
+
+
+
+8. Internet access will be denied to anyone breaching this use policy.
+
+
+
+This policy was developed in consultation with the City of Long Beach Attorney's office. @longbeachinnovationteam @cityoflosangeles @nasa-jpl hi i got an election worker procedure book out of the garbage in central @doug-newman-nasa so i wanna let you know like i know theres no ... i dont know actually hi [@foratlanta @blackgirlscode ... @newshour plz tell lana hi](https://www.tiktok.com/discover/i-quit-being-a-news-anchor-atlanta)
 
 ![@StateOfCalifornia @SacCounty @La-county-isd @CityofLosAngeles - `WATCH` - https://youtu.be/ @nasa-jpl @ussf-orbi @USNAVY @code.mil cityofinglewood.org/ImageRepository/Document?documentId=20639 @Deptofwar @whitehouse](https://www.cityofinglewood.org/ImageRepository/Document?documentId=20639)
 
